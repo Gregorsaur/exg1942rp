@@ -1,5 +1,0 @@
-{['metal;['outro;'Thank you, here is your reward.;'uid;(3)'name;'Scrap Metal;'reminder;'Five scrap metal for twenty coins, don't try to haggle.;'required;['j_scrap_metals;X5;}'intro;'If you find me some scrap metal, I'll reward you with coin.
-Five scrap metal for twenty coins.;'reward;['coin_10;X2;}}'plastic;[(5)(6)(7)(14)(8)'Scrap Plastic;(a)'Four scrap plastic for ten coins, don't try to haggle.;(c)['j_scrap_plastics;X4;}(f)'If you find me some scrap plastic, I'll reward you with coin.
-Four scrap plastic for ten coins.;(11)[(13)X1;}}'drill;[(5)(6)(7)(1c)(8)'Power Drill;(a)(b)(c)['j_drill;X1;}(f)'I lost my tools on an expedition, if you find a power drill, I'll pay you for it.
-If you give me the drill I'll give you ten coins.;(11)[(13)X1;}}'wood;[(5)(6)(7)(23)(8)'Scrap Wood;(a)'Eight scrap wood for twenty coins, don't try to haggle.;(c)['j_scrap_wood;X8;}(f)'If you find me some scrap wood, I'll reward you with coin.
-Eight scrap wood for twenty coins.;(11)[(13)X2;}}}~}
