@@ -1,0 +1,9 @@
+ITEM.name = "Poppy Brick"
+ITEM.model = "models/props_lab/jar01b.mdl"
+ITEM.category = "Heroin"
+ITEM.desc = "A Brick Of Poppy."
+ITEM.noBusiness = true
+ITEM.uniqueID = "poppybrick"
+ITEM.price = 4
+ITEM.width = 2
+ITEM.height = 2

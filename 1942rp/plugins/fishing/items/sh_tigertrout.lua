@@ -1,0 +1,11 @@
+ITEM.name = "Tiger Trout"
+ITEM.uniqueID = "Tiger Trout"
+ITEM.desc = "Something that resembles a Tiger Trout.\nIt weighs 3 pounds."
+ITEM.model = "models/props/cs_militia/fishriver01.mdl"
+ITEM.hungerAmount = 15
+ITEM.foodDesc = "A Tiger Trout"
+ITEM.quantity = 2
+ITEM.price = 0
+ITEM.width = 3
+ITEM.height = 1
+ITEM.noBusiness = true

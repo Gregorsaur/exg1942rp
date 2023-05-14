@@ -1,0 +1,12 @@
+22:35:27 - 05/11/2022:
+ REFUNDED for vehicle 703268 = $250
+
+22:35:27 - 05/11/2022:
+ REFUNDED for vehicle 986517 = $775
+
+20:52:55 - 29/10/2022:
+BOUGHT vehicle '703268' for $250.
+
+14:13:55 - 29/10/2022:
+BOUGHT vehicle '986517' for $775.
+

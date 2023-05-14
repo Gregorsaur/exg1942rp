@@ -1,0 +1,1309 @@
+[00:03:39]	Elliot's money has changed by 5.
+[00:04:03]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[00:08:28]	Elliot's money has changed by 5.
+[00:08:52]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[00:13:17]	Elliot's money has changed by 5.
+[00:13:41]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[00:18:06]	Elliot's money has changed by 5.
+[00:18:30]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[00:22:55]	Elliot's money has changed by 5.
+[00:23:19]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[00:27:44]	Elliot's money has changed by 5.
+[00:28:08]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[00:32:33]	Elliot's money has changed by 5.
+[00:32:57]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[00:37:22]	Elliot's money has changed by 5.
+[00:37:46]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[00:42:11]	Elliot's money has changed by 5.
+[00:42:35]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[00:47:00]	Elliot's money has changed by 5.
+[00:47:24]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[00:51:49]	Elliot's money has changed by 5.
+[00:52:13]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[00:56:38]	Elliot's money has changed by 5.
+[00:57:02]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[01:01:27]	Elliot's money has changed by 5.
+[01:01:51]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[01:06:16]	Elliot's money has changed by 5.
+[01:06:40]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[01:11:05]	Elliot's money has changed by 5.
+[01:11:29]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[01:15:54]	Elliot's money has changed by 5.
+[01:16:18]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[01:20:43]	Elliot's money has changed by 5.
+[01:21:07]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[01:25:32]	Elliot's money has changed by 5.
+[01:25:56]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[01:30:21]	Elliot's money has changed by 5.
+[01:30:45]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[01:32:14]	Führer und Reichskanzler Adolf Hitler used '/medalgive elliot exg_staff'
+[01:32:37]	Elliot used '/medals'
+[01:35:10]	Elliot's money has changed by 5.
+[01:35:34]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[01:39:59]	Elliot's money has changed by 5.
+[01:40:23]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[01:44:48]	Elliot's money has changed by 5.
+[01:45:12]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[01:49:37]	Elliot's money has changed by 5.
+[01:50:01]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[01:52:04]	Elliot Goldbergstein created the character #13(Leiter der Parteikanzlei Eckhardt Köstner)
+[01:52:18]	Elliot Goldbergstein loaded the character #13(Leiter der Parteikanzlei Eckhardt Köstner)
+[01:52:22]	[ME] Leiter der Parteikanzlei Eckhardt Köstner: discreetly flashes Geheime Staatspolizei warrant disk, displaying the numbers 1438
+[01:52:25]	Leiter der Parteikanzlei Eckhardt Köstner used '/plytransfer'
+[01:52:39]	[OOC] Leiter der Parteikanzlei Eckhardt Köstner: Bruh I dont have perms to set myself up smh
+[01:54:43]	[OOC] Führer und Reichskanzler Adolf Hitler: I got you one sec, we have staff blocker so you can't admin aboose while off duty
+[01:54:48]	Lanius loaded the character #1(Lanius)
+[01:55:26]	Lanius used '/plytransfer eckhardt nat'
+[01:56:01]	Lanius used '/charsetmodel eck models/not_brot/pm0v3/nsdap/reichsleitung/reichs_command_06/reichsleitung_command_06.mdl'
+[01:56:28]	[IC] Leiter der Parteikanzlei Eckhardt Köstner: o shi
+[01:56:59]	[IC] Leiter der Parteikanzlei Eckhardt Köstner: is this the right uniform
+[01:57:07]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[01:58:11]	[OOC] Leiter der Parteikanzlei Eckhardt Köstner: can I get flags?
+[01:58:59]	Leiter der Parteikanzlei Eckhardt Köstner used '/medals'
+[01:59:37]	Lanius's money has changed by 0.
+[02:01:56]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[02:04:26]	Lanius's money has changed by 0.
+[02:06:45]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[02:09:15]	Lanius's money has changed by 0.
+[02:11:34]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[02:14:04]	Lanius's money has changed by 0.
+[02:14:28]	Lanius used '/flaggive ech petP'
+[02:14:32]	Lanius used '/flaggive eck petP'
+[02:16:23]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[02:18:53]	Lanius's money has changed by 0.
+[02:21:12]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[02:22:32]	Adrian Reinhardt[STEAM_0:0:68866879] has connected to the server.
+[02:23:01]	The_Boss_Eggy[STEAM_0:0:103712993] has connected to the server.
+[02:23:42]	Lanius's money has changed by 0.
+[02:24:08]	The_Boss_Eggy loaded the character #7(Edmund von Trapp)
+[02:24:33]	Edmund von Trapp used '/medalcanmanage @'
+[02:25:07]	Adrian Reinhardt created the character #14(Adrian Reinhardt)
+[02:25:09]	Adrian Reinhardt loaded the character #14(Adrian Reinhardt)
+[02:25:22]	tgs903[STEAM_0:1:83881965] has connected to the server.
+[02:25:31]	Lanius used '/charsetmodel adrian models/not_brot/prometheus/ss/baseline/rf6.mdl'
+[02:25:39]	Lanius used '/plytransfer adrian allg'
+[02:26:01]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[02:26:04]	Lanius used '/charsetname adrian Reichsführer-ϟϟ Adrian Reinhardt'
+[02:26:52]	Lanius used '/flaggive adrian pet'
+[02:27:06]	Edmund von Trapp used '/flaggive @ Odem'
+[02:27:46]	Edmund von Trapp used '/charsetname @ Reichsführer-SS Adrian Reinhardt'
+[02:28:31]	Lanius's money has changed by 0.
+[02:28:57]	Edmund von Trapp's money has changed by 5.
+[02:29:23]	tgs903 created the character #15(Rudolf Schmidt)
+[02:29:25]	tgs903 loaded the character #15(Rudolf Schmidt)
+[02:29:50]	Edmund von Trapp used '/charsetmodel @ models/hts/comradebear/pm0v3/player/stab/okw/gen/stab_general.mdl'
+[02:29:58]	Reichsführer-SS Adrian Reinhardt's money has changed by 5.
+[02:30:06]	Edmund von Trapp used '/charsetmodel @ models/hts/comradebear/pm0v3/player/heer/infantry/gen/m38coat_s1_06.mdl'
+[02:30:08]	Spoopii[STEAM_0:0:543213893] has connected to the server.
+[02:30:48]	Lanius loaded the character #9(Führer und Reichskanzler Adolf Hitler)
+[02:30:50]	Edmund von Trapp used '/charsetname @ Generalfeldmarschall Rudolf Schmidt'
+[02:30:50]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[02:31:57]	Spoopii created the character #16(Josef Von Leitgeb)
+[02:31:59]	Spoopii loaded the character #16(Josef Von Leitgeb)
+[02:32:38]	Edmund von Trapp used '/charsetmodel @ models/matti/pm0v3/nsdap/reichsleitung/reichs_command_06/reichsleitung_command_06.mdl'
+[02:32:39]	Generalfeldmarschall Rudolf Schmidt used 'table: 0xf137a1e8'
+[02:33:19]	Edmund von Trapp used '/charsetmodel @ models/matti/pm0v3/nsdap/reichsleitung/reichs_command_summer_06/reichsleitung_command_summer_06.mdl'
+[02:33:46]	Edmund von Trapp's money has changed by 5.
+[02:33:50]	Führer und Reichskanzler Adolf Hitler used '/plytransfer leit allg'
+[02:33:54]	Edmund von Trapp used '/charsetmodel @ models/not_brot/pm0v3/nsdap/reichsleitung/reichs_command_06/reichsleitung_command_06.mdl'
+[02:34:14]	Generalfeldmarschall Rudolf Schmidt's money has changed by 5.
+[02:34:24]	Führer und Reichskanzler Adolf Hitler used '/charsetmodel leit models/not_brot/prometheus/ss/sd/co5.mdl'
+[02:34:30]	Edmund von Trapp used '/charsetmodel Edmund models/not_brot/pm0v3/nsdap/gauleitung/gau_command_05/gauleitung_command_05.mdl'
+[02:34:37]	Edmund von Trapp used '/charsetmodel @ models/not_brot/pm0v3/nsdap/reichsleitung/reichs_command_06/reichsleitung_command_06.mdl'
+[02:34:47]	Reichsführer-SS Adrian Reinhardt's money has changed by 5.
+[02:34:59]	Führer und Reichskanzler Adolf Hitler used '/charsetmodel @ models/not_brot/prometheus/ss/feld/co5.mdl'
+[02:35:17]	Führer und Reichskanzler Adolf Hitler used '/plytransfer liet nat'
+[02:35:18]	Edmund von Trapp used '/charsetname @'
+[02:35:23]	Führer und Reichskanzler Adolf Hitler used '/plytransfer @ nat'
+[02:35:34]	Josef Von Leitgeb used '/charsetname'
+[02:35:34]	Führer und Reichskanzler Adolf Hitler used '/plytransfer @ allg'
+[02:35:37]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[02:35:39]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[02:36:14]	Führer und Reichskanzler Adolf Hitler used '/charsetname @ ϟϟ-Obersturmbannführer Josef Von Leitgeb'
+[02:36:32]	ϟϟ-Obersturmbannführer Josef Von Leitgeb used '/charsetname'
+[02:36:48]	ϟϟ-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[02:38:35]	Edmund von Trapp's money has changed by 5.
+[02:39:03]	Generalfeldmarschall Rudolf Schmidt's money has changed by 5.
+[02:39:20]	Führer und Reichskanzler Adolf Hitler used '/medalgive adolf wound_black'
+[02:39:26]	Führer und Reichskanzler Adolf Hitler used '/medalgive adolf black_wound'
+[02:39:32]	Führer und Reichskanzler Adolf Hitler used '/medalcanmanage adolf'
+[02:39:36]	Reichsführer-SS Adrian Reinhardt's money has changed by 5.
+[02:39:54]	Führer und Reichskanzler Adolf Hitler used '/medalgive adolf wound'
+[02:39:56]	Führer und Reichskanzler Adolf Hitler used '/medals'
+[02:40:01]	Führer und Reichskanzler Adolf Hitler used '/medals'
+[02:40:11]	Führer und Reichskanzler Adolf Hitler used '/medalgive adolf wound_silver'
+[02:40:14]	Führer und Reichskanzler Adolf Hitler used '/medals'
+[02:40:26]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[02:40:28]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[02:40:35]	Edmund von Trapp used 'table: 0xe8e93ef8'
+[02:40:35]	Edmund von Trapp used '/medalgive wound_black'
+[02:40:42]	Edmund von Trapp used '/medalgive @ wound_black'
+[02:41:37]	ϟϟ-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[02:41:41]	[IC] Reichsführer-SS Adrian Reinhardt: 1help
+[02:41:43]	[IC] ϟϟ-Obersturmbannführer Josef Von Leitgeb: !help flags
+[02:41:53]	[IC] Reichsführer-SS Adrian Reinhardt: !help flags
+[02:42:01]	[IC] Reichsführer-SS Adrian Reinhardt: !help
+[02:42:03]	Edmund von Trapp used '/flaggive @ C'
+[02:42:46]	Edmund von Trapp used '/flagtake @ C'
+[02:43:19]	Lanius (STEAM_0:0:211494314) has spawned 'Ideal too Idiosyncrasy: A National Socialist struggle'
+[02:43:24]	Edmund von Trapp's money has changed by 5.
+[02:43:30]	Lanius (STEAM_0:0:211494314) has spawned 'Ideal too Idiosyncrasy: A National Socialist struggle'
+[02:43:34]	Generalfeldmarschall Rudolf Schmidt tried 'Read' on item 'Ideal too Idiosyncrasy: A National Socialist struggle'(#118)
+[02:43:38]	Lanius (STEAM_0:0:211494314) has spawned 'Ideal too Idiosyncrasy: A National Socialist struggle'
+[02:43:39]	Edmund von Trapp used '/flaggive @ Odempt'
+[02:43:42]	Edmund von Trapp used '/flaggive @ Odempt'
+[02:43:42]	Lanius (STEAM_0:0:211494314) has spawned 'Ideal too Idiosyncrasy: A National Socialist struggle'
+[02:43:43]	Generalfeldmarschall Rudolf Schmidt tried 'take' on item 'Ideal too Idiosyncrasy: A National Socialist struggle'(#119)
+[02:43:43]	Generalfeldmarschall Rudolf Schmidt has picked up 1xIdeal too Idiosyncrasy: A National Socialist struggle.
+[02:43:46]	Edmund von Trapp tried 'take' on item 'Ideal too Idiosyncrasy: A National Socialist struggle'(#118)
+[02:43:46]	Edmund von Trapp has picked up 1xIdeal too Idiosyncrasy: A National Socialist struggle.
+[02:43:51]	ϟϟ-Obersturmbannführer Josef Von Leitgeb tried 'Read' on item 'Ideal too Idiosyncrasy: A National Socialist struggle'(#121)
+[02:43:52]	Generalfeldmarschall Rudolf Schmidt's money has changed by 5.
+[02:43:54]	ϟϟ-Obersturmbannführer Josef Von Leitgeb tried 'take' on item 'Ideal too Idiosyncrasy: A National Socialist struggle'(#121)
+[02:43:54]	ϟϟ-Obersturmbannführer Josef Von Leitgeb has picked up 1xIdeal too Idiosyncrasy: A National Socialist struggle.
+[02:43:56]	Edmund von Trapp used '/flaggive @ Odempt'
+[02:43:57]	ϟϟ-Obersturmbannführer Josef Von Leitgeb tried 'Read' on item 'Ideal too Idiosyncrasy: A National Socialist struggle'(#121)
+[02:44:25]	Reichsführer-SS Adrian Reinhardt's money has changed by 5.
+[02:44:27]	Edmund von Trapp used '/flaggive @ Odempt'
+[02:44:30]	Generalfeldmarschall Rudolf Schmidt used '/medals'
+[02:44:34]	Generalfeldmarschall Rudolf Schmidt used '/medals '
+[02:44:46]	Führer und Reichskanzler Adolf Hitler used '/plytransfer edmund nat'
+[02:44:55]	Generalfeldmarschall Rudolf Schmidt used '/medals'
+[02:44:56]	Reichsführer-SS Adrian Reinhardt tried 'Read' on item 'Ideal too Idiosyncrasy: A National Socialist struggle'(#120)
+[02:45:08]	Reichsführer-SS Adrian Reinhardt tried 'take' on item 'Ideal too Idiosyncrasy: A National Socialist struggle'(#120)
+[02:45:08]	Reichsführer-SS Adrian Reinhardt has picked up 1xIdeal too Idiosyncrasy: A National Socialist struggle.
+[02:45:15]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[02:45:17]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[02:45:51]	Führer und Reichskanzler Adolf Hitler used '/flaggive @ pet'
+[02:46:12]	Reichsführer-SS Adrian Reinhardt has taken 5 damage from Generalfeldmarschall Rudolf Schmidt, leaving them at 95 health.
+[02:46:12]	Reichsführer-SS Adrian Reinhardt has taken 5 damage from Generalfeldmarschall Rudolf Schmidt, leaving them at 90 health.
+[02:46:26]	ϟϟ-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[02:46:33]	ϟϟ-Obersturmbannführer Josef Von Leitgeb used 'table: 0xf137a1e8'
+[02:48:13]	Edmund von Trapp's money has changed by 5.
+[02:48:16]	Edmund von Trapp used '/medalgive @ ss_sabre'
+[02:48:25]	Edmund von Trapp used '/medalgive @ ss_dagger'
+[02:48:39]	Edmund von Trapp used '/medalgive @ ss_honor_ring'
+[02:48:41]	Generalfeldmarschall Rudolf Schmidt's money has changed by 5.
+[02:48:49]	Edmund von Trapp used '/medalgive @ blood_order'
+[02:49:14]	Reichsführer-SS Adrian Reinhardt's money has changed by 5.
+[02:49:32]	Edmund von Trapp used '/medalgive @ blood_order'
+[02:49:44]	Edmund von Trapp used '/medalgive @ goldenparty'
+[02:49:57]	Führer und Reichskanzler Adolf Hitler has taken 221 damage from worldspawn, leaving them at -122 health.
+[02:50:04]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[02:50:06]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[02:50:16]	Leiter der Parteikanzlei Eckhardt Köstner used '/medals'
+[02:50:17]	Reichsführer-SS Adrian Reinhardt used '/medals'
+[02:50:20]	ϟϟ-Obersturmbannführer Josef Von Leitgeb used '/heil'
+[02:50:21]	[IC] ϟϟ-Obersturmbannführer Josef Von Leitgeb: Heil Hitler!
+[02:50:22]	[ME] ϟϟ-Obersturmbannführer Josef Von Leitgeb: salutes
+[02:50:23]	Führer und Reichskanzler Adolf Hitler used '/heil'
+[02:50:24]	[IC] Führer und Reichskanzler Adolf Hitler: Heil Hitler!
+[02:50:26]	[ME] ϟϟ-Obersturmbannführer Josef Von Leitgeb: would flash a shiny gold coin with an engraved B on it.
+[02:50:28]	[ME] ϟϟ-Obersturmbannführer Josef Von Leitgeb: strips contraband, communication devices, suicide devices, and tools
+[02:50:29]	Edmund von Trapp used '/medalgive @ /give medal @ generalfeldmarshcalls_baton'
+[02:50:33]	Führer und Reichskanzler Adolf Hitler used '/hitlerheil'
+[02:50:33]	[IC] Führer und Reichskanzler Adolf Hitler: Heil.
+[02:50:39]	Edmund von Trapp used '/medalgive @ generalfeldmarshcalls_baton'
+[02:50:43]	Generalfeldmarschall Rudolf Schmidt used '/medals'
+[02:50:46]	Führer und Reichskanzler Adolf Hitler used '/heil'
+[02:50:47]	[IC] Führer und Reichskanzler Adolf Hitler: Heil Hitler!
+[02:50:59]	Generalfeldmarschall Rudolf Schmidt used '/medals'
+[02:51:04]	Edmund von Trapp used '/medalgive @ wehrmachtlongservice'
+[02:51:07]	Generalfeldmarschall Rudolf Schmidt used '/medals'
+[02:51:15]	ϟϟ-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[02:51:46]	Leiter der Parteikanzlei Eckhardt Köstner used '/medals'
+[02:52:06]	Leiter der Parteikanzlei Eckhardt Köstner used '/medals'
+[02:53:02]	Edmund von Trapp's money has changed by 5.
+[02:53:30]	Generalfeldmarschall Rudolf Schmidt's money has changed by 5.
+[02:54:03]	Reichsführer-SS Adrian Reinhardt's money has changed by 5.
+[02:54:53]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[02:54:55]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[02:55:07]	Edmund von Trapp used '/medals'
+[02:55:18]	Edmund von Trapp used '/medalgive edmund berlingau'
+[02:55:22]	Edmund von Trapp used '/medals'
+[02:56:04]	ϟϟ-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[02:57:51]	Edmund von Trapp's money has changed by 5.
+[02:58:19]	Generalfeldmarschall Rudolf Schmidt's money has changed by 5.
+[02:58:26]	ϟϟ-Obersturmbannführer Josef Von Leitgeb used '/heil'
+[02:58:27]	[IC] ϟϟ-Obersturmbannführer Josef Von Leitgeb: Heil Hitler!
+[02:58:52]	Reichsführer-SS Adrian Reinhardt's money has changed by 5.
+[02:59:42]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[02:59:44]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[03:00:53]	ϟϟ-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[03:01:07]	Führer und Reichskanzler Adolf Hitler used '/heil'
+[03:01:07]	[IC] Führer und Reichskanzler Adolf Hitler: Heil Hitler!
+[03:01:10]	Reichsführer-SS Adrian Reinhardt used '/heil'
+[03:01:11]	[IC] Reichsführer-SS Adrian Reinhardt: Heil Hitler!
+[03:01:25]	Reichsführer-SS Adrian Reinhardt has accessed vendor Allgemeine-SS Locker.
+[03:02:40]	Edmund von Trapp's money has changed by 5.
+[03:02:42]	Führer und Reichskanzler Adolf Hitler used '/heiltoggle'
+[03:02:59]	ϟϟ-Obersturmbannführer Josef Von Leitgeb used '/heiltoggle'
+[03:03:08]	Generalfeldmarschall Rudolf Schmidt's money has changed by 5.
+[03:03:15]	ϟϟ-Obersturmbannführer Josef Von Leitgeb used '/heiltoggle'
+[03:03:16]	Führer und Reichskanzler Adolf Hitler used '/heiltoggle'
+[03:03:41]	Reichsführer-SS Adrian Reinhardt's money has changed by 5.
+[03:04:31]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[03:04:33]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[03:05:42]	ϟϟ-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[03:07:29]	Edmund von Trapp's money has changed by 5.
+[03:07:57]	Generalfeldmarschall Rudolf Schmidt's money has changed by 5.
+[03:08:30]	Reichsführer-SS Adrian Reinhardt's money has changed by 5.
+[03:09:20]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[03:09:22]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[03:10:31]	ϟϟ-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[03:11:56]	[ME] Leiter der Parteikanzlei Eckhardt Köstner: flashes a golden card that has a black sun like symbol etched into it neatly.
+[03:12:18]	Edmund von Trapp's money has changed by 5.
+[03:12:46]	Generalfeldmarschall Rudolf Schmidt's money has changed by 5.
+[03:13:19]	Reichsführer-SS Adrian Reinhardt's money has changed by 5.
+[03:13:49]	[ME] Leiter der Parteikanzlei Eckhardt Köstner: discreetly flashes Geheime Staatspolizei warrant disk, displaying the numbers 1438
+[03:13:49]	Führer und Reichskanzler Adolf Hitler has taken 100 damage from Generalfeldmarschall Rudolf Schmidt, leaving them at 0 health.
+[03:13:49]	Leiter der Parteikanzlei Eckhardt Köstner has taken 20 damage from Generalfeldmarschall Rudolf Schmidt, leaving them at 80 health.
+[03:14:09]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[03:14:11]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[03:14:20]	Lanius loaded the character #4(Dr. Werner Altenberg)
+[03:14:35]	Dr. Werner Altenberg used '/plytransfer alten allg'
+[03:14:38]	Reichsführer-SS Adrian Reinhardt has taken 88 damage from worldspawn, leaving them at 12 health.
+[03:14:52]	Dr. Werner Altenberg used '/medalcanmanage alten'
+[03:15:20]	ϟϟ-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[03:17:07]	Edmund von Trapp's money has changed by 5.
+[03:17:35]	Generalfeldmarschall Rudolf Schmidt's money has changed by 5.
+[03:18:08]	Reichsführer-SS Adrian Reinhardt's money has changed by 5.
+[03:19:00]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[03:19:09]	Dr. Werner Altenberg's money has changed by 75.
+[03:20:05]	Generalfeldmarschall Rudolf Schmidt[STEAM_0:1:83881965] has disconnected from the server.
+[03:20:09]	ϟϟ-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[03:21:56]	Edmund von Trapp's money has changed by 5.
+[03:22:46]	tgs903[STEAM_0:1:83881965] has connected to the server.
+[03:22:57]	Reichsführer-SS Adrian Reinhardt's money has changed by 5.
+[03:23:08]	tgs903 loaded the character #15(Generalfeldmarschall Rudolf Schmidt)
+[03:23:49]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[03:23:58]	Dr. Werner Altenberg's money has changed by 75.
+[03:24:31]	Generalfeldmarschall Rudolf Schmidt has taken 5 damage from prop_physics, leaving them at 95 health.
+[03:24:36]	Generalfeldmarschall Rudolf Schmidt has taken 50 damage from Generalfeldmarschall Rudolf Schmidt, leaving them at 45 health.
+[03:24:43]	Gauleiter Edmund von Trapp used '/charsetname Edmund Gauleiter Edmund von Trapp'
+[03:24:58]	ϟϟ-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[03:26:45]	Gauleiter Edmund von Trapp's money has changed by 5.
+[03:26:57]	[IC] Gauleiter Edmund von Trapp: balls
+[03:27:46]	Reichsführer-SS Adrian Reinhardt's money has changed by 5.
+[03:27:57]	Generalfeldmarschall Rudolf Schmidt's money has changed by 5.
+[03:28:38]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[03:28:47]	Dr. Werner Altenberg's money has changed by 75.
+[03:29:47]	ϟϟ-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[03:31:34]	Gauleiter Edmund von Trapp's money has changed by 5.
+[03:32:35]	Reichsführer-SS Adrian Reinhardt's money has changed by 5.
+[03:32:46]	Generalfeldmarschall Rudolf Schmidt's money has changed by 5.
+[03:33:27]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[03:33:36]	Dr. Werner Altenberg's money has changed by 75.
+[03:34:36]	ϟϟ-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[03:36:23]	Gauleiter Edmund von Trapp's money has changed by 5.
+[03:36:24]	[IC] Gauleiter Edmund von Trapp: !unnoclip all
+[03:36:56]	Gauleiter Edmund von Trapp used '/dooraddfaction wehrmacht '
+[03:36:58]	Gauleiter Edmund von Trapp used '/dooraddfaction wehrmacht '
+[03:37:16]	Gauleiter Edmund von Trapp used '/plytransfer all wehrmacht '
+[03:37:24]	Reichsführer-SS Adrian Reinhardt's money has changed by 5.
+[03:37:35]	Generalfeldmarschall Rudolf Schmidt's money has changed by 5.
+[03:38:16]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[03:38:25]	Dr. Werner Altenberg's money has changed by 75.
+[03:39:25]	ϟϟ-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[03:41:12]	Gauleiter Edmund von Trapp's money has changed by 5.
+[03:42:13]	Reichsführer-SS Adrian Reinhardt's money has changed by 5.
+[03:42:24]	Generalfeldmarschall Rudolf Schmidt's money has changed by 5.
+[03:43:05]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[03:43:14]	Dr. Werner Altenberg's money has changed by 75.
+[03:44:14]	ϟϟ-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[03:46:01]	Gauleiter Edmund von Trapp's money has changed by 5.
+[03:47:02]	Reichsführer-SS Adrian Reinhardt's money has changed by 5.
+[03:47:13]	Generalfeldmarschall Rudolf Schmidt's money has changed by 5.
+[03:47:31]	Tank[STEAM_0:0:37730288] has connected to the server.
+[03:47:54]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[03:48:03]	Dr. Werner Altenberg's money has changed by 75.
+[03:49:02]	Generalfeldmarschall Rudolf Schmidt[STEAM_0:1:83881965] has disconnected from the server.
+[03:49:03]	ϟϟ-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[03:50:50]	Gauleiter Edmund von Trapp's money has changed by 5.
+[03:51:51]	Reichsführer-SS Adrian Reinhardt's money has changed by 5.
+[03:52:43]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[03:52:52]	Dr. Werner Altenberg's money has changed by 75.
+[03:53:52]	ϟϟ-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[03:54:14]	Tank created the character #17(Karl Krainer)
+[03:54:16]	Tank loaded the character #17(Karl Krainer)
+[03:54:39]	tgs903[STEAM_0:1:83881965] has connected to the server.
+[03:55:03]	tgs903 loaded the character #15(Generalfeldmarschall Rudolf Schmidt)
+[03:55:39]	Gauleiter Edmund von Trapp's money has changed by 5.
+[03:55:46]	Lanius loaded the character #1(Lanius)
+[03:55:52]	[IC] Lanius: f3
+[03:55:58]	[IC] Lanius: what are you
+[03:56:13]	[IC] Karl Krainer: Deputy RF 
+[03:56:16]	[IC] Karl Krainer: Trial GM 
+[03:56:20]	[IC] Lanius: Stabsleiter?
+[03:56:24]	[IC] Karl Krainer: and VIP bronze
+[03:56:25]	[IC] Karl Krainer: yes
+[03:56:28]	[IC] Lanius: kk
+[03:56:40]	Reichsführer-SS Adrian Reinhardt's money has changed by 5.
+[03:56:51]	[IC] Lanius: I am 
+[03:57:14]	Lanius used '/charsetmodel karl models/not_brot/prometheus/ss/1stssvt/go6.mdl'
+[03:57:21]	Lanius used '/plytransfer karl allg'
+[03:57:32]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[03:57:47]	Lanius used '/charsetname karl Stabsleiter-ϟϟ Karl Krainer'
+[03:57:58]	Lanius used '/flaggive karl pet'
+[03:58:41]	ϟϟ-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[03:58:41]	[IC] Lanius: ill set up GM roles later, I forgor
+[03:58:47]	[IC] Stabsleiter-ϟϟ Karl Krainer: KK 
+[03:58:54]	[IC] Stabsleiter-ϟϟ Karl Krainer: give me admin for now so I can fly 
+[03:58:56]	[IC] Lanius: I didnt even know that cap was on the models
+[03:59:04]	Stabsleiter-ϟϟ Karl Krainer's money has changed by 5.
+[03:59:26]	[IC] Lanius: when the server launches noclip will only be enabled on your GM char
+[03:59:33]	[OOC] Lanius: when the server launches noclip will only be enabled on your GM char
+[03:59:41]	[OOC] Lanius: among other physical restrictions to that char
+[03:59:52]	Generalfeldmarschall Rudolf Schmidt's money has changed by 75.
+[03:59:53]	Lanius loaded the character #4(Dr. Werner Altenberg)
+[03:59:55]	[OOC] Leiter der Parteikanzlei Eckhardt Köstner: bruh what ab me
+[03:59:59]	[OOC] Dr. Werner Altenberg: wdym
+[04:00:16]	[OOC] Leiter der Parteikanzlei Eckhardt Köstner: i *junior* admin not mod
+[04:00:23]	[OOC] Dr. Werner Altenberg: Oh shoot I forgor
+[04:00:28]	[OOC] Dr. Werner Altenberg: you are a Junior Admin
+[04:00:28]	Gauleiter Edmund von Trapp's money has changed by 5.
+[04:00:47]	[IC] Dr. Werner Altenberg: !samsetrank eck junioradmin
+[04:01:05]	[OOC] Leiter der Parteikanzlei Eckhardt Köstner: ohh im tired I read it wrong i thought u gave jun mod noclip
+[04:01:13]	[OOC] Dr. Werner Altenberg: lol
+[04:01:14]	[LOOC] Leiter der Parteikanzlei Eckhardt Köstner: and not admin
+[04:01:29]	Reichsführer-SS Adrian Reinhardt's money has changed by 5.
+[04:01:30]	[IC] Dr. Werner Altenberg: oh lol
+[04:01:37]	[OOC] Leiter der Parteikanzlei Eckhardt Köstner: three ours of sleep
+[04:01:41]	[OOC] Leiter der Parteikanzlei Eckhardt Köstner: HOURS
+[04:01:46]	[OOC] Leiter der Parteikanzlei Eckhardt Köstner: HOURS 
+[04:01:49]	[OOC] Leiter der Parteikanzlei Eckhardt Köstner: HOURS 
+[04:01:49]	[IC] Dr. Werner Altenberg: Ahnerbe Moment
+[04:02:09]	[IC] Dr. Werner Altenberg: everyone F3 me
+[04:02:14]	Generalfeldmarschall Rudolf Schmidt used '/medals'
+[04:02:21]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[04:02:30]	[IC] Dr. Werner Altenberg: or not
+[04:02:45]	[IC] Gauleiter Edmund von Trapp: th fuck
+[04:02:51]	[IC] Gauleiter Edmund von Trapp: the*
+[04:02:54]	[IC] Dr. Werner Altenberg: what
+[04:02:55]	[IC] Generalfeldmarschall Rudolf Schmidt: ay no swearing >:(
+[04:03:00]	[IC] Gauleiter Edmund von Trapp: sorry
+[04:03:07]	[IC] Generalfeldmarschall Rudolf Schmidt: PG-13 germany
+[04:03:17]	[IC] Dr. Werner Altenberg: I added some more medals, still have alot to go
+[04:03:30]	ϟϟ-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[04:03:37]	[IC] Dr. Werner Altenberg: I added the Wewelsburg castle badge and the Ahnerbe Ring
+[04:03:44]	[IC] Gauleiter Edmund von Trapp: nice tell me when you are done and then give me the ids
+[04:03:47]	[IC] Dr. Werner Altenberg: kk
+[04:03:53]	Stabsleiter-ϟϟ Karl Krainer's money has changed by 5.
+[04:04:41]	Generalfeldmarschall Rudolf Schmidt's money has changed by 75.
+[04:04:42]	Dr. Werner Altenberg's money has changed by 75.
+[04:04:43]	Gauleiter Edmund von Trapp used '/charsetname @ Stabsleiter-SS Karl Krainer'
+[04:04:49]	[IC] Dr. Werner Altenberg: oh
+[04:04:51]	[IC] Dr. Werner Altenberg: ok
+[04:04:58]	[IC] Dr. Werner Altenberg: da fuq was the point in that
+[04:05:17]	Gauleiter Edmund von Trapp's money has changed by 5.
+[04:05:23]	[IC] Gauleiter Edmund von Trapp: to change the ϟ to a S
+[04:05:29]	[IC] Dr. Werner Altenberg: change his too then
+[04:05:31]	[IC] Dr. Werner Altenberg: monk
+[04:05:53]	Gauleiter Edmund von Trapp used '/charsetname @ SS-Obersturmbannführer Josef Von Leitgeb'
+[04:06:09]	Dr. Werner Altenberg used '/heil'
+[04:06:10]	[IC] Dr. Werner Altenberg: Heil Hitler!
+[04:06:18]	Reichsführer-SS Adrian Reinhardt's money has changed by 5.
+[04:06:36]	Reichsführer-SS Adrian Reinhardt has taken 125727 damage from Generalfeldmarschall Rudolf Schmidt, leaving them at -125627 health.
+[04:06:36]	Leiter der Parteikanzlei Eckhardt Köstner has taken 87654 damage from Generalfeldmarschall Rudolf Schmidt, leaving them at -87554 health.
+[04:06:40]	Generalfeldmarschall Rudolf Schmidt has taken 134363 damage from Dr. Werner Altenberg, leaving them at -134262 health.
+[04:06:40]	Stabsleiter-SS Karl Krainer has taken 133955 damage from Dr. Werner Altenberg, leaving them at -133855 health.
+[04:06:40]	Dr. Werner Altenberg has taken 138195 damage from Dr. Werner Altenberg, leaving them at -138095 health.
+[04:06:46]	[OOC] Dr. Werner Altenberg: Missclick
+[04:06:56]	[OOC] Gauleiter Edmund von Trapp: josef is fine
+[04:07:10]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[04:07:16]	[IC] Gauleiter Edmund von Trapp: type
+[04:07:20]	[IC] Generalfeldmarschall Rudolf Schmidt: hi
+[04:07:23]	[IC] Gauleiter Edmund von Trapp: balls
+[04:07:33]	[IC] Generalfeldmarschall Rudolf Schmidt: cope
+[04:07:46]	[IC] Generalfeldmarschall Rudolf Schmidt: I cant move props with E wtf
+[04:08:04]	Dr. Werner Altenberg used 'table: 0xf137a1e8'
+[04:08:15]	Stabsleiter-SS Karl Krainer used '/medalgive ^ Dagger'
+[04:08:16]	Dirty ❤[STEAM_0:0:37114416] has connected to the server.
+[04:08:17]	[IC] Stabsleiter-SS Karl Krainer: \
+[04:08:19]	SS-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[04:08:32]	[IC] Dr. Werner Altenberg: \
+[04:08:34]	[ME] Dr. Werner Altenberg: Flashes NKGB ID: NKGB-36157
+[04:08:34]	[OOC] Stabsleiter-SS Karl Krainer: can someone give me medal flags or the medals I need nerd 
+[04:08:36]	[IC] Dr. Werner Altenberg: oop
+[04:08:40]	[OOC] Dr. Werner Altenberg: no
+[04:08:42]	[OOC] Gauleiter Edmund von Trapp: not yet
+[04:08:42]	Stabsleiter-SS Karl Krainer's money has changed by 5.
+[04:08:42]	[OOC] Stabsleiter-SS Karl Krainer: Lanius
+[04:08:44]	[OOC] Generalfeldmarschall Rudolf Schmidt: not special enough >:)
+[04:08:47]	[OOC] Stabsleiter-SS Karl Krainer: Cringe
+[04:09:07]	Gauleiter Edmund von Trapp used '/medalgive edmund bb_drl'
+[04:09:16]	Leiter der Parteikanzlei Eckhardt Köstner used '/medals'
+[04:09:21]	Dr. Werner Altenberg has accessed vendor Allgemeine-SS Locker.
+[04:09:27]	Gauleiter Edmund von Trapp used '/medalgive edmund bb_white'
+[04:09:30]	Generalfeldmarschall Rudolf Schmidt's money has changed by 75.
+[04:09:31]	Dr. Werner Altenberg's money has changed by 75.
+[04:09:45]	Leiter der Parteikanzlei Eckhardt Köstner used '/toggleraise'
+[04:10:04]	Dirty ❤ created the character #18(Dr. Leon Strauss)
+[04:10:06]	Dirty ❤ loaded the character #18(Dr. Leon Strauss)
+[04:10:06]	Gauleiter Edmund von Trapp's money has changed by 5.
+[04:11:04]	[IC] Gauleiter Edmund von Trapp: are you the Reichsorganisationsleiter
+[04:11:07]	Reichsführer-SS Adrian Reinhardt's money has changed by 5.
+[04:11:07]	[IC] Dr. Leon Strauss: Yes.
+[04:11:20]	[IC] Gauleiter Edmund von Trapp: ok il set you up then
+[04:11:25]	[IC] Dr. Leon Strauss: Thanks!
+[04:11:55]	Gauleiter Edmund von Trapp used '/charsetmodel @ models/not_brot/pm0v3/nsdap/reichsleitung/reichs_command_06/reichsleitung_command_06.mdl'
+[04:11:59]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[04:11:59]	[IC] Gauleiter Edmund von Trapp: f3 me
+[04:12:06]	Gauleiter Edmund von Trapp used '/plytransfer @ nat'
+[04:12:43]	[IC] Gauleiter Edmund von Trapp: do you want Reichsorganisationsleiter or Reichsleiter in your name
+[04:12:56]	[IC] Dr. Leon Strauss: Reichsleiter for now, I'll put the title in my desc.
+[04:13:00]	[IC] Gauleiter Edmund von Trapp: ok
+[04:13:08]	SS-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[04:13:22]	Gauleiter Edmund von Trapp used '/charsetname @ Reichsleiter Dr. Leon Strauss'
+[04:13:31]	Stabsleiter-SS Karl Krainer's money has changed by 5.
+[04:14:19]	Generalfeldmarschall Rudolf Schmidt's money has changed by 75.
+[04:14:20]	Dr. Werner Altenberg's money has changed by 75.
+[04:14:54]	Reichsleiter Dr. Leon Strauss's money has changed by 5.
+[04:14:55]	Gauleiter Edmund von Trapp's money has changed by 5.
+[04:15:22]	Gauleiter Edmund von Trapp used '/medals'
+[04:15:56]	Reichsführer-SS Adrian Reinhardt's money has changed by 5.
+[04:16:48]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[04:17:49]	Stabsleiter-SS Karl Krainer used 'table: 0xf137a1e8'
+[04:17:57]	SS-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[04:18:20]	Stabsleiter-SS Karl Krainer's money has changed by 5.
+[04:19:08]	Generalfeldmarschall Rudolf Schmidt's money has changed by 75.
+[04:19:09]	Dr. Werner Altenberg's money has changed by 75.
+[04:19:34]	Reichsleiter Dr. Leon Strauss used 'table: 0xf137a1e8'
+[04:19:43]	Reichsleiter Dr. Leon Strauss's money has changed by 5.
+[04:19:44]	Gauleiter Edmund von Trapp's money has changed by 5.
+[04:20:45]	Reichsführer-SS Adrian Reinhardt's money has changed by 5.
+[04:21:37]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[04:22:46]	SS-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[04:23:09]	Stabsleiter-SS Karl Krainer's money has changed by 5.
+[04:23:30]	[IC] Dr. Werner Altenberg: elloooo
+[04:23:32]	[IC] Dr. Werner Altenberg: you Dirk?
+[04:23:44]	[IC] Reichsleiter Dr. Leon Strauss: Dirty yeh
+[04:23:47]	[IC] Dr. Werner Altenberg: Dirty*
+[04:23:48]	[IC] Dr. Werner Altenberg: yeah
+[04:23:50]	[IC] Dr. Werner Altenberg: misread lol
+[04:23:51]	[IC] Dr. Werner Altenberg: sry
+[04:23:54]	[IC] Dr. Werner Altenberg: Ill set you up
+[04:23:56]	[IC] Reichsleiter Dr. Leon Strauss: Thanks
+[04:23:57]	Lanius loaded the character #1(Lanius)
+[04:23:57]	Generalfeldmarschall Rudolf Schmidt's money has changed by 75.
+[04:24:06]	[IC] Lanius: have you made a staff character yet?
+[04:24:10]	[IC] Reichsleiter Dr. Leon Strauss: Not yet no.
+[04:24:16]	[IC] Lanius: go ahead and do that please
+[04:24:33]	Reichsleiter Dr. Leon Strauss's money has changed by 5.
+[04:24:33]	Gauleiter Edmund von Trapp's money has changed by 5.
+[04:24:43]	Lanius loaded the character #4(Dr. Werner Altenberg)
+[04:24:51]	Dirty ❤ created the character #19(Dirty)
+[04:24:52]	Dirty ❤ loaded the character #19(Dirty)
+[04:25:10]	Dirty used '/pm lanius Made it'
+[04:25:23]	Dirty used 'table: 0xf137a1e8'
+[04:25:34]	Reichsführer-SS Adrian Reinhardt's money has changed by 5.
+[04:25:34]	Dirty used 'table: 0xf137a1e8'
+[04:25:51]	Dr. Werner Altenberg used '/charsetmodel dirty models/humans/Suits_07_EXG.mdl'
+[04:25:54]	Dr. Werner Altenberg used '/flaggive dirty pet'
+[04:25:59]	Dr. Werner Altenberg used '/medalgive dirty exg_staff'
+[04:26:04]	Dirty used '/medals'
+[04:26:09]	Dr. Werner Altenberg used '/plytransfer dirty staff'
+[04:26:11]	[IC] Dr. Werner Altenberg: there we go
+[04:26:14]	[IC] Dr. Werner Altenberg: all set up
+[04:26:16]	[IC] Dirty: Sweet, thanks.
+[04:26:18]	[IC] Dr. Werner Altenberg: yessir
+[04:26:23]	Dirty ❤ loaded the character #18(Reichsleiter Dr. Leon Strauss)
+[04:26:26]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[04:27:27]	Beach[STEAM_0:1:60562422] has connected to the server.
+[04:27:35]	SS-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[04:27:58]	Stabsleiter-SS Karl Krainer's money has changed by 5.
+[04:28:46]	Generalfeldmarschall Rudolf Schmidt's money has changed by 75.
+[04:29:22]	Gauleiter Edmund von Trapp's money has changed by 5.
+[04:29:32]	Dr. Werner Altenberg's money has changed by 75.
+[04:30:23]	Reichsführer-SS Adrian Reinhardt's money has changed by 5.
+[04:30:33]	Beach created the character #20(Guther Albrech Manheinz)
+[04:30:35]	Beach loaded the character #20(Guther Albrech Manheinz)
+[04:30:50]	Gauleiter Edmund von Trapp used '/charsetname @ SA-Obergruppenführer Guther Albrech Manheinz'
+[04:30:54]	[IC] Gauleiter Edmund von Trapp: sorry
+[04:30:56]	[IC] Gauleiter Edmund von Trapp: what
+[04:30:59]	[IC] Gauleiter Edmund von Trapp: cope
+[04:31:05]	[IC] Dr. Werner Altenberg: based SA
+[04:31:09]	Reichsführer-SS Adrian Reinhardt[STEAM_0:0:68866879] has disconnected from the server.
+[04:31:12]	Reichsleiter Dr. Leon Strauss's money has changed by 75.
+[04:31:15]	Lanius loaded the character #9(Führer und Reichskanzler Adolf Hitler)
+[04:31:15]	Gauleiter Edmund von Trapp used '/charsetmodel @ /chasretmodel @ models/genwolf/obn/sa/grau3.mdl'
+[04:31:15]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[04:31:25]	Reichsleiter Dr. Leon Strauss used 'table: 0xf0ea0210'
+[04:31:25]	Reichsleiter Dr. Leon Strauss used '/acthere'
+[04:31:29]	Reichsleiter Dr. Leon Strauss used 'table: 0xf0ea0210'
+[04:31:29]	Reichsleiter Dr. Leon Strauss used '/acthere 1'
+[04:31:38]	Gauleiter Edmund von Trapp used '/charsetmodel @ models/genwolf/obn/sa/grau3.mdl'
+[04:31:51]	Gauleiter Edmund von Trapp used '/charsetmodel @ models/genwolf/obn/sa/grau6.mdl'
+[04:32:04]	Gauleiter Edmund von Trapp used '/charsetmodel @ models/genwolf/obn/sa/hell-rot6.mdl'
+[04:32:07]	[IC] SA-Obergruppenführer Guther Albrech Manheinz: models/genwolf/obn/sa/karmesin-rot5.mdl
+[04:32:13]	Gauleiter Edmund von Trapp used '/charsetmodel @ models/genwolf/obn/sa/hell-rot5.mdl'
+[04:32:18]	[IC] SA-Obergruppenführer Guther Albrech Manheinz: models/genwolf/obn/sa/hell-rot5.mdl
+[04:32:24]	SS-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[04:32:29]	Gauleiter Edmund von Trapp used '/charsetmodel @ models/genwolf/obn/sa/hell-rot5.mdl'
+[04:32:48]	Stabsleiter-SS Karl Krainer's money has changed by 5.
+[04:32:52]	[IC] Gauleiter Edmund von Trapp: let me see if we have sa yet
+[04:32:54]	Gauleiter Edmund von Trapp has accessed vendor John Doe.
+[04:33:04]	[IC] Gauleiter Edmund von Trapp: we do not
+[04:33:10]	Gauleiter Edmund von Trapp used '/plytransfer @ nat'
+[04:33:16]	[OOC] Führer und Reichskanzler Adolf Hitler: WE GOT THE EVENT SERVER BOYS
+[04:33:17]	[IC] Gauleiter Edmund von Trapp: also have you see your new base
+[04:33:22]	[OOC] Gauleiter Edmund von Trapp: epic
+[04:33:34]	[IC] Gauleiter Edmund von Trapp: add safaction
+[04:33:35]	Generalfeldmarschall Rudolf Schmidt's money has changed by 75.
+[04:33:40]	[IC] Gauleiter Edmund von Trapp: add sa faction
+[04:34:00]	[IC] Gauleiter Edmund von Trapp: cute
+[04:34:00]	[IC] Führer und Reichskanzler Adolf Hitler: I will
+[04:34:11]	Gauleiter Edmund von Trapp's money has changed by 5.
+[04:34:13]	[IC] Führer und Reichskanzler Adolf Hitler: lol
+[04:34:46]	[OOC] SA-Obergruppenführer Guther Albrech Manheinz: This isnt the updated map
+[04:34:51]	[OOC] SA-Obergruppenführer Guther Albrech Manheinz: Fuck you niggers
+[04:34:59]	[OOC] SA-Obergruppenführer Guther Albrech Manheinz: Fuck you niggers
+[04:35:00]	[OOC] Gauleiter Edmund von Trapp: vw is coming soon
+[04:35:06]	[OOC] Gauleiter Edmund von Trapp: v2 is coming soon
+[04:35:14]	[OOC] SA-Obergruppenführer Guther Albrech Manheinz: Good its got the good SA building
+[04:35:24]	SA-Obergruppenführer Guther Albrech Manheinz's money has changed by 5.
+[04:35:34]	[OOC] SA-Obergruppenführer Guther Albrech Manheinz: Why do I earn 5 your gay
+[04:35:56]	[OOC] Führer und Reichskanzler Adolf Hitler: you shouldn't?
+[04:36:01]	Reichsleiter Dr. Leon Strauss's money has changed by 75.
+[04:36:02]	[OOC] SA-Obergruppenführer Guther Albrech Manheinz: I earn 5
+[04:36:04]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[04:36:04]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[04:36:04]	[OOC] Gauleiter Edmund von Trapp: we all do check logs
+[04:36:13]	[OOC] Gauleiter Edmund von Trapp: [SERVER] Gauleiter Edmund von Trapp's money has changed by 5.
+[04:36:22]	[OOC] Gauleiter Edmund von Trapp: [SERVER] Stabsleiter-SS Karl Krainer's money has changed by 5.
+[04:36:24]	[OOC] Führer und Reichskanzler Adolf Hitler: I get 75
+[04:36:43]	[OOC] Führer und Reichskanzler Adolf Hitler: ill take a gander
+[04:36:44]	[OOC] Gauleiter Edmund von Trapp: [SERVER] Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[04:36:51]	SA-Obergruppenführer Guther Albrech Manheinz has taken 2 damage from worldspawn, leaving them at 98 health.
+[04:37:13]	SS-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[04:37:29]	[OOC] Führer und Reichskanzler Adolf Hitler: gonna go set up the event server
+[04:37:36]	[OOC] Führer und Reichskanzler Adolf Hitler: you ladies smell, take a shower yeah?
+[04:37:37]	Stabsleiter-SS Karl Krainer's money has changed by 5.
+[04:37:46]	[OOC] SA-Obergruppenführer Guther Albrech Manheinz: Hilarious
+[04:38:03]	Gauleiter Edmund von Trapp used 'table: 0xf137a1e8'
+[04:38:09]	The_Boss_Eggy loaded the character #8(Edmund)
+[04:38:12]	The_Boss_Eggy loaded the character #7(Gauleiter Edmund von Trapp)
+[04:38:24]	Generalfeldmarschall Rudolf Schmidt's money has changed by 75.
+[04:38:30]	SA-Obergruppenführer Guther Albrech Manheinz has taken 2 damage from worldspawn, leaving them at 98 health.
+[04:40:13]	SA-Obergruppenführer Guther Albrech Manheinz's money has changed by 5.
+[04:40:50]	Reichsleiter Dr. Leon Strauss's money has changed by 75.
+[04:40:53]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[04:40:53]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[04:42:02]	SS-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[04:42:26]	Stabsleiter-SS Karl Krainer's money has changed by 5.
+[04:43:01]	Gauleiter Edmund von Trapp's money has changed by 75.
+[04:43:13]	Generalfeldmarschall Rudolf Schmidt's money has changed by 75.
+[04:44:34]	[OOC] Stabsleiter-SS Karl Krainer: What is beaches name in game 
+[04:44:50]	Reichsleiter Dr. Leon Strauss used 'table: 0xf13789a0'
+[04:44:50]	Reichsleiter Dr. Leon Strauss used '/flaggive Strauss pet'
+[04:45:02]	SA-Obergruppenführer Guther Albrech Manheinz's money has changed by 5.
+[04:45:23]	SA-Obergruppenführer Guther Albrech Manheinz used '/medals'
+[04:45:32]	[IC] Generalfeldmarschall Rudolf Schmidt: y
+[04:45:37]	[IC] Generalfeldmarschall Rudolf Schmidt: rudolf schmidt
+[04:45:39]	Reichsleiter Dr. Leon Strauss's money has changed by 75.
+[04:45:42]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[04:45:42]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[04:46:51]	SS-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[04:47:15]	Stabsleiter-SS Karl Krainer's money has changed by 5.
+[04:47:50]	Gauleiter Edmund von Trapp's money has changed by 75.
+[04:48:02]	Generalfeldmarschall Rudolf Schmidt's money has changed by 75.
+[04:49:51]	SA-Obergruppenführer Guther Albrech Manheinz's money has changed by 5.
+[04:50:28]	Reichsleiter Dr. Leon Strauss's money has changed by 75.
+[04:50:31]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[04:50:31]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[04:51:40]	SS-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[04:52:04]	Stabsleiter-SS Karl Krainer's money has changed by 5.
+[04:52:39]	Gauleiter Edmund von Trapp's money has changed by 75.
+[04:52:51]	Generalfeldmarschall Rudolf Schmidt's money has changed by 75.
+[04:53:05]	Reichsleiter Dr. Leon Strauss has taken 2 damage from worldspawn, leaving them at 98 health.
+[04:54:33]	Reichsleiter Dr. Leon Strauss[STEAM_0:0:37114416] has disconnected from the server.
+[04:54:40]	SA-Obergruppenführer Guther Albrech Manheinz's money has changed by 5.
+[04:55:20]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[04:55:20]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[04:56:29]	SS-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[04:56:53]	Stabsleiter-SS Karl Krainer's money has changed by 5.
+[04:57:28]	Gauleiter Edmund von Trapp's money has changed by 75.
+[04:57:40]	Generalfeldmarschall Rudolf Schmidt's money has changed by 75.
+[04:58:52]	SA-Obergruppenführer Guther Albrech Manheinz[STEAM_0:1:60562422] has disconnected from the server.
+[05:00:09]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[05:00:09]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[05:01:18]	SS-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[05:01:42]	Stabsleiter-SS Karl Krainer's money has changed by 5.
+[05:02:17]	Gauleiter Edmund von Trapp's money has changed by 75.
+[05:02:20]	Leiter der Parteikanzlei Eckhardt Köstner has taken 200 damage from worldspawn, leaving them at -100 health.
+[05:02:29]	Generalfeldmarschall Rudolf Schmidt's money has changed by 75.
+[05:03:07]	Gauleiter Edmund von Trapp has taken 100 damage from worldspawn, leaving them at 0 health.
+[05:03:40]	Generalfeldmarschall Rudolf Schmidt has taken 50 damage from worldspawn, leaving them at 50 health.
+[05:03:43]	Generalfeldmarschall Rudolf Schmidt has taken 50 damage from worldspawn, leaving them at 0 health.
+[05:04:58]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[05:04:58]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[05:06:07]	SS-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[05:06:31]	Stabsleiter-SS Karl Krainer's money has changed by 5.
+[05:07:06]	Gauleiter Edmund von Trapp's money has changed by 75.
+[05:07:18]	Generalfeldmarschall Rudolf Schmidt's money has changed by 75.
+[05:09:47]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[05:09:47]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[05:10:56]	SS-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[05:11:20]	Stabsleiter-SS Karl Krainer's money has changed by 5.
+[05:11:55]	Gauleiter Edmund von Trapp's money has changed by 75.
+[05:12:07]	Generalfeldmarschall Rudolf Schmidt's money has changed by 75.
+[05:14:36]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[05:14:36]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[05:15:45]	SS-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[05:16:09]	Stabsleiter-SS Karl Krainer's money has changed by 5.
+[05:16:44]	Gauleiter Edmund von Trapp's money has changed by 75.
+[05:16:56]	Generalfeldmarschall Rudolf Schmidt's money has changed by 75.
+[05:19:25]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[05:19:25]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[05:20:34]	SS-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[05:20:58]	Stabsleiter-SS Karl Krainer's money has changed by 5.
+[05:21:33]	Gauleiter Edmund von Trapp's money has changed by 75.
+[05:21:45]	Generalfeldmarschall Rudolf Schmidt's money has changed by 75.
+[05:24:14]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[05:24:14]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[05:25:23]	SS-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[05:25:47]	Stabsleiter-SS Karl Krainer's money has changed by 5.
+[05:26:22]	Gauleiter Edmund von Trapp's money has changed by 75.
+[05:26:34]	Generalfeldmarschall Rudolf Schmidt's money has changed by 75.
+[05:29:03]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[05:29:03]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[05:30:12]	SS-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[05:30:36]	Stabsleiter-SS Karl Krainer's money has changed by 5.
+[05:30:57]	Stabsleiter-SS Karl Krainer has accessed vendor Mining Union Boss.
+[05:31:11]	Gauleiter Edmund von Trapp's money has changed by 75.
+[05:31:23]	Generalfeldmarschall Rudolf Schmidt's money has changed by 75.
+[05:33:52]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[05:33:52]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[05:35:01]	SS-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[05:35:25]	Stabsleiter-SS Karl Krainer's money has changed by 5.
+[05:36:00]	Gauleiter Edmund von Trapp's money has changed by 75.
+[05:36:12]	Generalfeldmarschall Rudolf Schmidt's money has changed by 75.
+[05:38:41]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[05:38:41]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[05:39:21]	Stabsleiter-SS Karl Krainer tried 'take' on item 'Stationary Radio'(#36)
+[05:39:21]	Stabsleiter-SS Karl Krainer has picked up 1xStationary Radio.
+[05:39:50]	SS-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[05:40:14]	Stabsleiter-SS Karl Krainer's money has changed by 5.
+[05:40:49]	Gauleiter Edmund von Trapp's money has changed by 75.
+[05:41:01]	Generalfeldmarschall Rudolf Schmidt's money has changed by 75.
+[05:43:30]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[05:43:30]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[05:44:39]	SS-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[05:45:03]	Stabsleiter-SS Karl Krainer's money has changed by 5.
+[05:45:38]	Gauleiter Edmund von Trapp's money has changed by 75.
+[05:45:50]	Generalfeldmarschall Rudolf Schmidt's money has changed by 75.
+[05:48:19]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[05:48:19]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[05:49:28]	SS-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[05:49:52]	Stabsleiter-SS Karl Krainer's money has changed by 5.
+[05:50:27]	Gauleiter Edmund von Trapp's money has changed by 75.
+[05:50:39]	Generalfeldmarschall Rudolf Schmidt's money has changed by 75.
+[05:53:08]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[05:53:08]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[05:54:17]	SS-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[05:54:41]	Stabsleiter-SS Karl Krainer's money has changed by 5.
+[05:55:16]	Gauleiter Edmund von Trapp's money has changed by 75.
+[05:55:28]	Generalfeldmarschall Rudolf Schmidt's money has changed by 75.
+[05:57:57]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[05:57:57]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 5.
+[05:59:06]	SS-Obersturmbannführer Josef Von Leitgeb's money has changed by 5.
+[05:59:06]	Stabsleiter-SS Karl Krainer used '/charsetmodel ^ models/not_brot/comradebear/pm0v3/ordnungspolizei/schutzpolizei/en/schutzpolizei_enlisted.mdl'
+[05:59:13]	Stabsleiter-SS Karl Krainer has accessed vendor Allgemeine-SS Locker.
+[05:59:30]	Stabsleiter-SS Karl Krainer's money has changed by 5.
+[06:00:05]	Gauleiter Edmund von Trapp's money has changed by 75.
+[06:00:17]	Generalfeldmarschall Rudolf Schmidt's money has changed by 75.
+[06:00:48]	Stabsleiter-SS Karl Krainer used '/charsetmodel ^ models/not_brot/comradebear/pm0v3/ordnungspolizei/schutzpolizei/co/schutzpolizei_officer.mdl'
+[06:01:25]	Führer und Reichskanzler Adolf Hitler[STEAM_0:0:211494314] has disconnected from the server.
+[06:01:27]	Stabsleiter-SS Karl Krainer used '/charsetmodel ^ models/not_brot/prometheus/ss/1stssvt/go6.mdl'
+[06:01:39]	Leiter der Parteikanzlei Eckhardt Köstner[STEAM_0:1:59675686] has disconnected from the server.
+[06:01:39]	Gauleiter Edmund von Trapp[STEAM_0:0:103712993] has disconnected from the server.
+[06:01:39]	SS-Obersturmbannführer Josef Von Leitgeb[STEAM_0:0:543213893] has disconnected from the server.
+[06:01:39]	Stabsleiter-SS Karl Krainer[STEAM_0:0:37730288] has disconnected from the server.
+[06:01:39]	Generalfeldmarschall Rudolf Schmidt[STEAM_0:1:83881965] has disconnected from the server.
+[06:02:39]	tgs903[STEAM_0:1:83881965] has connected to the server.
+[06:02:41]	Tank[STEAM_0:0:37730288] has connected to the server.
+[06:03:00]	Tank loaded the character #17(Stabsleiter-SS Karl Krainer)
+[06:03:33]	tgs903 loaded the character #15(Generalfeldmarschall Rudolf Schmidt)
+[06:03:54]	Generalfeldmarschall Rudolf Schmidt[STEAM_0:1:83881965] has disconnected from the server.
+[06:07:41]	Stabsleiter-SS Karl Krainer has taken 21 damage from worldspawn, leaving them at 80 health.
+[06:07:49]	Stabsleiter-SS Karl Krainer's money has changed by 75.
+[06:12:38]	Stabsleiter-SS Karl Krainer's money has changed by 75.
+[06:12:47]	The_Boss_Eggy[STEAM_0:0:103712993] has connected to the server.
+[06:13:23]	The_Boss_Eggy loaded the character #7(Gauleiter Edmund von Trapp)
+[06:14:31]	[IC] Gauleiter Edmund von Trapp: what
+[06:14:38]	[IC] Gauleiter Edmund von Trapp: hi
+[06:14:55]	[IC] Gauleiter Edmund von Trapp: look in the main discord faction leadershi[
+[06:15:00]	[IC] Gauleiter Edmund von Trapp: look in the main discord faction leadership
+[06:15:06]	[IC] Gauleiter Edmund von Trapp: good
+[06:15:33]	[IC] Gauleiter Edmund von Trapp: im setting your perms whore
+[06:15:47]	Gauleiter Edmund von Trapp used '/medalcanmanage @'
+[06:16:58]	Stabsleiter-SS Karl Krainer used '/medalgive ^ knife'
+[06:17:07]	Gauleiter Edmund von Trapp used '/medalcanmanage @'
+[06:17:13]	[IC] Gauleiter Edmund von Trapp: ok now type
+[06:17:16]	Stabsleiter-SS Karl Krainer used '/medalgive ^ knife'
+[06:17:16]	Elliot Goldbergstein[STEAM_0:1:59675686] has connected to the server.
+[06:17:18]	[IC] Stabsleiter-SS Karl Krainer: y
+[06:17:27]	Stabsleiter-SS Karl Krainer's money has changed by 75.
+[06:17:32]	Gauleiter Edmund von Trapp used '/medalgive @ ss_dagger'
+[06:17:35]	[LOOC] Stabsleiter-SS Karl Krainer: type
+[06:17:39]	Stabsleiter-SS Karl Krainer used '/medalgive ^ knife'
+[06:17:40]	Gauleiter Edmund von Trapp used '/medaltake @ ss_dagger'
+[06:17:46]	[IC] Gauleiter Edmund von Trapp: ./medalgive @ ss_dagger
+[06:17:50]	[IC] Gauleiter Edmund von Trapp: make sure it works
+[06:17:54]	Stabsleiter-SS Karl Krainer used '/medalgive ^ dagger'
+[06:18:05]	Gauleiter Edmund von Trapp used '/flaggive @ m'
+[06:18:08]	Gauleiter Edmund von Trapp used '/flaggive @ M'
+[06:18:08]	Stabsleiter-SS Karl Krainer used 'table: 0xf13789a0'
+[06:18:08]	Stabsleiter-SS Karl Krainer used '/flaggive ^ flag'
+[06:18:10]	[IC] Gauleiter Edmund von Trapp: try
+[06:18:12]	Gauleiter Edmund von Trapp's money has changed by 75.
+[06:18:16]	Stabsleiter-SS Karl Krainer used '/medalgive ^ dagger'
+[06:18:21]	[IC] Gauleiter Edmund von Trapp: epic now 
+[06:18:31]	Elliot Goldbergstein loaded the character #13(Leiter der Parteikanzlei Eckhardt Köstner)
+[06:18:35]	Beach[STEAM_0:1:60562422] has connected to the server.
+[06:18:37]	[OOC] Leiter der Parteikanzlei Eckhardt Köstner: i am here
+[06:18:37]	Stabsleiter-SS Karl Krainer used '/medals'
+[06:18:42]	[IC] Gauleiter Edmund von Trapp: ./medalgive @ siron_cross_knights_regular
+[06:18:47]	[IC] Gauleiter Edmund von Trapp: ./medalgive @ iron_cross_knights_regular
+[06:18:54]	Stabsleiter-SS Karl Krainer used '/medalgive @ siron_cross_knights_regular'
+[06:19:01]	[IC] Gauleiter Edmund von Trapp: to see if you can still work that medal 
+[06:19:12]	Stabsleiter-SS Karl Krainer used '/medalgive ^ siron'
+[06:19:20]	Stabsleiter-SS Karl Krainer used '/medals'
+[06:19:37]	[IC] Gauleiter Edmund von Trapp: can you do it?
+[06:19:56]	Stabsleiter-SS Karl Krainer used '/medalgive ^ "siron_cross_knights_regular"'
+[06:20:02]	[IC] Gauleiter Edmund von Trapp: good
+[06:20:22]	[IC] Gauleiter Edmund von Trapp: also DONT give yourself shit we have to get shit made so guys cant
+[06:20:37]	[IC] Gauleiter Edmund von Trapp: BUT for now if you do you just dont get medal perms
+[06:20:46]	[LOOC] Leiter der Parteikanzlei Eckhardt Köstner: i give myself party membership yes
+[06:20:52]	Stabsleiter-SS Karl Krainer used '/medalgive @ honour ring'
+[06:20:57]	Stabsleiter-SS Karl Krainer used '/medalgive @ "honour ring"'
+[06:20:58]	[IC] Gauleiter Edmund von Trapp: keep in mind there is discord logsfor the server I CAN SEE EVERYTHING
+[06:21:00]	Beach loaded the character #20(SA-Obergruppenführer Guther Albrech Manheinz)
+[06:21:01]	[IC] Gauleiter Edmund von Trapp: ok love you
+[06:21:01]	SA-Obergruppenführer Guther Albrech Manheinz has taken 25 damage from worldspawn, leaving them at 76 health.
+[06:21:12]	[IC] Gauleiter Edmund von Trapp: wait
+[06:21:31]	Gauleiter Edmund von Trapp used '/flaggive @ m'
+[06:21:38]	Gauleiter Edmund von Trapp used '/flaggive @ M'
+[06:21:50]	Gauleiter Edmund von Trapp used '/medalcanmanage @'
+[06:22:03]	Stabsleiter-SS Karl Krainer used '/medalgive ^ "Ahnererbe"'
+[06:22:07]	Stabsleiter-SS Karl Krainer used '/medalgive ^ "Ahnererbe"'
+[06:22:14]	[IC] Gauleiter Edmund von Trapp: huh
+[06:22:16]	Stabsleiter-SS Karl Krainer's money has changed by 75.
+[06:22:21]	[IC] Gauleiter Edmund von Trapp: you cut out
+[06:22:32]	[IC] Stabsleiter-SS Karl Krainer: All 3 of us need the Ahnererbe ring for a meem
+[06:22:40]	[LOOC] Leiter der Parteikanzlei Eckhardt Köstner: do i have perms
+[06:22:42]	[IC] Stabsleiter-SS Karl Krainer: + some other apart of the cult 
+[06:22:42]	[IC] Gauleiter Edmund von Trapp: its not in the server yet will be soon
+[06:22:46]	[IC] Gauleiter Edmund von Trapp: no
+[06:22:48]	[IC] Stabsleiter-SS Karl Krainer: KK 
+[06:22:51]	Gauleiter Edmund von Trapp used '/medalcanmanage @'
+[06:22:54]	[IC] Stabsleiter-SS Karl Krainer: Gay but okay 
+[06:23:01]	Gauleiter Edmund von Trapp's money has changed by 75.
+[06:23:17]	Stabsleiter-SS Karl Krainer used '/medalgive ^ "Honor Ring"'
+[06:23:20]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[06:23:21]	Stabsleiter-SS Karl Krainer used '/medals'
+[06:23:43]	Stabsleiter-SS Karl Krainer used '/medalgive ^ "12 year"'
+[06:23:48]	Stabsleiter-SS Karl Krainer used '/medals'
+[06:23:52]	[IC] Gauleiter Edmund von Trapp: shut up 
+[06:23:53]	Gauleiter Edmund von Trapp has taken 21 damage from SA-Obergruppenführer Guther Albrech Manheinz, leaving them at 79 health.
+[06:23:54]	Gauleiter Edmund von Trapp has taken 21 damage from SA-Obergruppenführer Guther Albrech Manheinz, leaving them at 58 health.
+[06:23:59]	[IC] Leiter der Parteikanzlei Eckhardt Köstner: im me and im epic
+[06:24:03]	Gauleiter Edmund von Trapp used '/medalcanmanage @'
+[06:24:04]	Stabsleiter-SS Karl Krainer used '/medalgive ^ "8 year Police"'
+[06:24:32]	Stabsleiter-SS Karl Krainer used '/medalgive ^ "Hounerchevron"'
+[06:24:36]	Stabsleiter-SS Karl Krainer used '/medalgive ^ "Houner chevron"'
+[06:24:44]	Stabsleiter-SS Karl Krainer used '/medals'
+[06:24:45]	[IC] Gauleiter Edmund von Trapp: ok now
+[06:25:02]	Leiter der Parteikanzlei Eckhardt Köstner used 'table: 0xe8e93ef8'
+[06:25:02]	Leiter der Parteikanzlei Eckhardt Köstner used '/medalgive Kanzlei '
+[06:25:06]	[IC] Gauleiter Edmund von Trapp: do /medalgive @ mothers_cross
+[06:25:12]	[IC] Gauleiter Edmund von Trapp: then 
+[06:25:23]	[IC] Gauleiter Edmund von Trapp: do /medalgive @ iron_cross_oak_diamond_swords_gold
+[06:25:27]	Stabsleiter-SS Karl Krainer used '/medalgive @ "war merit"'
+[06:25:33]	[IC] Stabsleiter-SS Karl Krainer: LMAO 
+[06:25:36]	[IC] Gauleiter Edmund von Trapp: no
+[06:25:39]	SA-Obergruppenführer Guther Albrech Manheinz[STEAM_0:1:60562422] has disconnected from the server.
+[06:25:53]	[IC] Gauleiter Edmund von Trapp: [SERVER] SA-Obergruppenführer Guther Albrech Manheinz[STEAM_0:1:60562422] has disconnected from the server.
+[06:25:54]	Leiter der Parteikanzlei Eckhardt Köstner used '/medalgive Trapp mothers_cross'
+[06:25:59]	[IC] Leiter der Parteikanzlei Eckhardt Köstner: told u
+[06:26:02]	[IC] Leiter der Parteikanzlei Eckhardt Köstner: all urs
+[06:26:04]	Gauleiter Edmund von Trapp used '/medals'
+[06:26:09]	Gauleiter Edmund von Trapp used '/medals'
+[06:26:19]	[IC] Gauleiter Edmund von Trapp: tyr the other one now
+[06:26:28]	Beach[STEAM_0:1:60562422] has connected to the server.
+[06:26:31]	[IC] Gauleiter Edmund von Trapp: it should say you cant
+[06:26:42]	Stabsleiter-SS Karl Krainer used '/medalgive @ "Sword"'
+[06:26:47]	Beach loaded the character #20(SA-Obergruppenführer Guther Albrech Manheinz)
+[06:26:52]	SA-Obergruppenführer Guther Albrech Manheinz used '/medals'
+[06:26:52]	[IC] Gauleiter Edmund von Trapp: the fuck
+[06:26:56]	Leiter der Parteikanzlei Eckhardt Köstner used '/medalgive kanzlei iron_cross_oak_diamond_swords_gold'
+[06:27:00]	[IC] Leiter der Parteikanzlei Eckhardt Köstner: ahh yes
+[06:27:02]	Gauleiter Edmund von Trapp used '/medals'
+[06:27:04]	Stabsleiter-SS Karl Krainer used '/medaltake @ "Sword"'
+[06:27:05]	Stabsleiter-SS Karl Krainer's money has changed by 75.
+[06:27:08]	Stabsleiter-SS Karl Krainer used '/medaltake @ "Sword"'
+[06:27:13]	[IC] Leiter der Parteikanzlei Eckhardt Köstner: rip
+[06:27:20]	Stabsleiter-SS Karl Krainer used '/medaltake @ "War Merit"'
+[06:27:27]	[IC] Gauleiter Edmund von Trapp: i know
+[06:27:38]	[IC] Gauleiter Edmund von Trapp: welp
+[06:27:41]	[IC] Gauleiter Edmund von Trapp: hm
+[06:27:50]	Gauleiter Edmund von Trapp's money has changed by 75.
+[06:27:55]	Gauleiter Edmund von Trapp has taken 21 damage from SA-Obergruppenführer Guther Albrech Manheinz, leaving them at 79 health.
+[06:27:55]	Gauleiter Edmund von Trapp used '/medalcanmanage @'
+[06:27:56]	Gauleiter Edmund von Trapp has taken 21 damage from SA-Obergruppenführer Guther Albrech Manheinz, leaving them at 58 health.
+[06:28:07]	SA-Obergruppenführer Guther Albrech Manheinz used '/medals'
+[06:28:07]	[IC] Gauleiter Edmund von Trapp: no
+[06:28:09]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[06:28:12]	Gauleiter Edmund von Trapp used '/medalcanmanage @'
+[06:28:21]	[IC] Gauleiter Edmund von Trapp: odd
+[06:28:25]	Gauleiter Edmund von Trapp used '/medalcanmanage @'
+[06:28:37]	Stabsleiter-SS Karl Krainer used '/medalgive @ "25 Year party service award"'
+[06:28:43]	[IC] Gauleiter Edmund von Trapp: so you can give the medal you dont have perms for
+[06:28:46]	Stabsleiter-SS Karl Krainer used '/medalgive @ "15 Year party service award"'
+[06:28:47]	[IC] Gauleiter Edmund von Trapp: yyes
+[06:28:48]	[IC] Gauleiter Edmund von Trapp: ?
+[06:28:58]	Stabsleiter-SS Karl Krainer used '/medalgive @ "Hitler youth"'
+[06:29:05]	[IC] Gauleiter Edmund von Trapp: fuck
+[06:29:07]	Leiter der Parteikanzlei Eckhardt Köstner used '/medals'
+[06:29:21]	[IC] Gauleiter Edmund von Trapp: wait
+[06:29:22]	[IC] Gauleiter Edmund von Trapp: wait
+[06:29:29]	Stabsleiter-SS Karl Krainer used '/medalgive ^ "Hitler youth"'
+[06:29:31]	Gauleiter Edmund von Trapp used '/medaltake @ mM'
+[06:29:35]	Stabsleiter-SS Karl Krainer used '/medals'
+[06:29:40]	Gauleiter Edmund von Trapp used '/flagtake @ Mm'
+[06:29:51]	[IC] Gauleiter Edmund von Trapp: ok now try and give the the mothers cross
+[06:29:51]	[IC] Leiter der Parteikanzlei Eckhardt Köstner: bruh
+[06:29:57]	Leiter der Parteikanzlei Eckhardt Köstner used '/medalgive Trapp mothers_cross'
+[06:30:00]	SA-Obergruppenführer Guther Albrech Manheinz used '/medals'
+[06:30:06]	[IC] Leiter der Parteikanzlei Eckhardt Köstner: flag required
+[06:30:08]	Stabsleiter-SS Karl Krainer used '/medalgive @ "german_order"'
+[06:30:09]	SA-Obergruppenführer Guther Albrech Manheinz used '/medals'
+[06:30:11]	[IC] Gauleiter Edmund von Trapp: gay
+[06:30:16]	SA-Obergruppenführer Guther Albrech Manheinz has taken 48 damage from worldspawn, leaving them at 53 health.
+[06:30:16]	SA-Obergruppenführer Guther Albrech Manheinz[STEAM_0:1:60562422] has disconnected from the server.
+[06:30:28]	[OOC] Stabsleiter-SS Karl Krainer: LMAO 
+[06:30:35]	[OOC] Stabsleiter-SS Karl Krainer: it was for the meme
+[06:30:37]	Gauleiter Edmund von Trapp used 'table: 0xe8e93f58'
+[06:30:37]	Gauleiter Edmund von Trapp used '/medaltake ss_dagger'
+[06:30:41]	Stabsleiter-SS Karl Krainer[STEAM_0:0:37730288] has disconnected from the server.
+[06:31:02]	[IC] Gauleiter Edmund von Trapp: thank you for not being dumb anywho il have to see to it being fixed
+[06:31:04]	[IC] Gauleiter Edmund von Trapp: sorry
+[06:31:07]	[ME] Gauleiter Edmund von Trapp: grüßt mit großer Ehre und Respekt.
+[06:31:08]	[IC] Leiter der Parteikanzlei Eckhardt Köstner: i am epic
+[06:31:18]	[IC] Leiter der Parteikanzlei Eckhardt Köstner: i dont give myself german crosses and leave
+[06:31:48]	Leiter der Parteikanzlei Eckhardt Köstner used '/medals'
+[06:31:49]	Gauleiter Edmund von Trapp used '/medaltake Karl ss_dagger'
+[06:32:13]	Kaos[STEAM_0:0:524507651] has connected to the server.
+[06:32:33]	[IC] Gauleiter Edmund von Trapp: do you know a Kaos?
+[06:32:39]	Gauleiter Edmund von Trapp's money has changed by 75.
+[06:32:50]	[IC] Leiter der Parteikanzlei Eckhardt Köstner: No? does he go by anything else?
+[06:32:58]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[06:32:58]	[IC] Gauleiter Edmund von Trapp: idk he is joining
+[06:33:39]	[OOC] Leiter der Parteikanzlei Eckhardt Köstner: is it the CDRK?
+[06:35:36]	Kaos created the character #22(Chef der Waffenbrigade Hans Gruber)
+[06:35:37]	Kaos loaded the character #22(Chef der Waffenbrigade Hans Gruber)
+[06:36:27]	[IC] Gauleiter Edmund von Trapp: il set u up
+[06:36:31]	[IC] Gauleiter Edmund von Trapp: f3 me
+[06:37:28]	Gauleiter Edmund von Trapp's money has changed by 75.
+[06:37:39]	[IC] Gauleiter Edmund von Trapp: do you need the black or the waffen uniform
+[06:37:47]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[06:37:51]	[IC] Chef der Waffenbrigade Hans Gruber: uh not sure lol. One sec
+[06:38:01]	[IC] Gauleiter Edmund von Trapp: ok
+[06:38:12]	Gauleiter Edmund von Trapp used '/charsetname @ SS-Obersturmführer Hans Gruber'
+[06:38:18]	Gauleiter Edmund von Trapp used '/plytransfer 1st'
+[06:38:24]	Gauleiter Edmund von Trapp used '/plytransfer adolf'
+[06:38:29]	Gauleiter Edmund von Trapp used '/plytransfer @ adolf'
+[06:38:29]	[IC] SS-Obersturmführer Hans Gruber: waffen
+[06:38:34]	[IC] Gauleiter Edmund von Trapp: k
+[06:39:02]	Gauleiter Edmund von Trapp used '/charsetmodel @ models/hts/comradebear/pm0v3/player/wssein/infantry/co/m38_s1_06.mdl'
+[06:39:07]	[IC] Gauleiter Edmund von Trapp: done
+[06:39:08]	[IC] SS-Obersturmführer Hans Gruber: Obersturmfuhrer
+[06:39:10]	Leiter der Parteikanzlei Eckhardt Köstner[STEAM_0:1:59675686] has disconnected from the server.
+[06:39:14]	[IC] Gauleiter Edmund von Trapp: yes
+[06:39:19]	[IC] Gauleiter Edmund von Trapp: that is your rank
+[06:39:49]	Beach[STEAM_0:1:60562422] has connected to the server.
+[06:40:26]	SS-Obersturmführer Hans Gruber's money has changed by 5.
+[06:40:29]	Beach loaded the character #20(SA-Obergruppenführer Guther Albrech Manheinz)
+[06:40:33]	SA-Obergruppenführer Guther Albrech Manheinz used '/medals'
+[06:40:58]	Gauleiter Edmund von Trapp used '/medaltake @ german_order'
+[06:41:05]	Gauleiter Edmund von Trapp used '/medalgive @ "german_order'
+[06:41:13]	[IC] Gauleiter Edmund von Trapp: yes
+[06:41:14]	[IC] Gauleiter Edmund von Trapp: what
+[06:41:17]	Gauleiter Edmund von Trapp used '/medalgive @ german_order'
+[06:41:19]	SS-Obersturmführer Hans Gruber has accessed vendor LSS Locker.
+[06:41:20]	[IC] Gauleiter Edmund von Trapp: no
+[06:41:23]	SS-Obersturmführer Hans Gruber's money has changed by -100.
+[06:41:23]	SS-Obersturmführer Hans Gruber has bought a LSS Locker from luger.
+[06:41:25]	SS-Obersturmführer Hans Gruber's money has changed by -15.
+[06:41:25]	SS-Obersturmführer Hans Gruber has bought a LSS Locker from ammo_generic.
+[06:41:25]	SS-Obersturmführer Hans Gruber's money has changed by -15.
+[06:41:25]	SS-Obersturmführer Hans Gruber has bought a LSS Locker from ammo_generic.
+[06:41:29]	[IC] Gauleiter Edmund von Trapp: they are broke and bepis is fixing them
+[06:41:33]	[IC] Gauleiter Edmund von Trapp: yes they do 
+[06:41:35]	[IC] Gauleiter Edmund von Trapp: wait one sec
+[06:41:40]	[IC] Gauleiter Edmund von Trapp: ping me mian disocrd
+[06:41:43]	[IC] Gauleiter Edmund von Trapp: no
+[06:42:01]	Gauleiter Edmund von Trapp used 'table: 0xe8e94018'
+[06:42:01]	Gauleiter Edmund von Trapp used '/playermedals'
+[06:42:17]	Gauleiter Edmund von Trapp's money has changed by 75.
+[06:42:34]	[IC] Gauleiter Edmund von Trapp: We are getting script made so guys cant give themselfs shit
+[06:42:44]	[IC] Gauleiter Edmund von Trapp: so no
+[06:42:45]	[IC] Gauleiter Edmund von Trapp: cry
+[06:43:41]	[IC] Gauleiter Edmund von Trapp: look at that
+[06:44:24]	[IC] Gauleiter Edmund von Trapp: we will
+[06:44:34]	SS-Obersturmführer Hans Gruber has accessed vendor LSS Locker.
+[06:44:36]	SS-Obersturmführer Hans Gruber's money has changed by -25.
+[06:44:36]	SS-Obersturmführer Hans Gruber has bought a LSS Locker from radio.
+[06:44:36]	SS-Obersturmführer Hans Gruber's money has changed by -15.
+[06:44:36]	SS-Obersturmführer Hans Gruber has bought a LSS Locker from tie.
+[06:44:37]	SS-Obersturmführer Hans Gruber's money has changed by -15.
+[06:44:37]	SS-Obersturmführer Hans Gruber has bought a LSS Locker from tie.
+[06:44:45]	[IC] Gauleiter Edmund von Trapp: no it was for orpo to
+[06:44:46]	SS-Obersturmführer Hans Gruber tried 'Equip' on item 'Luger P08'(#125)
+[06:44:51]	SS-Obersturmführer Hans Gruber tried 'use' on item 'Generic Ammo'(#126)
+[06:44:52]	SS-Obersturmführer Hans Gruber tried 'use' on item 'Generic Ammo'(#127)
+[06:44:58]	SS-Obersturmführer Hans Gruber tried 'Toggle' on item 'Radio'(#128)
+[06:45:01]	SS-Obersturmführer Hans Gruber tried 'Freq' on item 'Radio'(#128)
+[06:45:02]	[IC] Gauleiter Edmund von Trapp: not for SA in real life but i dont see why not
+[06:45:05]	[IC] Gauleiter Edmund von Trapp: erm
+[06:45:11]	SS-Obersturmführer Hans Gruber tried 'EquipUn' on item 'Luger P08'(#125)
+[06:45:13]	SS-Obersturmführer Hans Gruber tried 'Toggle' on item 'Radio'(#128)
+[06:45:15]	[IC] Gauleiter Edmund von Trapp: thats the medal
+[06:45:15]	SS-Obersturmführer Hans Gruber's money has changed by 5.
+[06:45:18]	SA-Obergruppenführer Guther Albrech Manheinz's money has changed by 75.
+[06:45:23]	[IC] Gauleiter Edmund von Trapp: its a new medal
+[06:45:27]	[IC] Gauleiter Edmund von Trapp: its the lowest grade
+[06:45:45]	[IC] Gauleiter Edmund von Trapp: https://en.wikipedia.org/wiki/War_Merit_Medal
+[06:46:11]	[IC] Gauleiter Edmund von Trapp: yup
+[06:46:36]	[IC] Gauleiter Edmund von Trapp: https://www.emedals.com/europe/germany/third-reich-army-badges/drivers-proficiency-badge
+[06:46:38]	[IC] Gauleiter Edmund von Trapp: yeah
+[06:46:45]	[IC] Gauleiter Edmund von Trapp: sorry
+[06:46:47]	[IC] Gauleiter Edmund von Trapp: what
+[06:46:55]	[IC] Gauleiter Edmund von Trapp: yes they can
+[06:47:02]	[IC] Gauleiter Edmund von Trapp: and ss
+[06:47:06]	Gauleiter Edmund von Trapp's money has changed by 75.
+[06:47:09]	[IC] Gauleiter Edmund von Trapp: its driving
+[06:47:15]	[IC] Gauleiter Edmund von Trapp: https://docs.google.com/document/d/1bVx5SGB80Z88S7GwshjfwEWxeQDJErcsgwNlF5m8Uhg/edit#
+[06:47:17]	[IC] Gauleiter Edmund von Trapp: fuck
+[06:47:47]	[IC] Gauleiter Edmund von Trapp: im the only guy that can give Civil Defence Decoration 1st Civil Defence Decoration 2nd
+[06:48:11]	[IC] Gauleiter Edmund von Trapp: look https://www.relicmilitaria.com/product/german-1st-class-civil-defence-decoration-circa-1938luftschutz-ehrenzeichen/
+[06:48:15]	[IC] Gauleiter Edmund von Trapp: how can you not
+[06:48:17]	[IC] Gauleiter Edmund von Trapp: no
+[06:48:18]	Lanius[STEAM_0:0:211494314] has connected to the server.
+[06:48:20]	SA-Obergruppenführer Guther Albrech Manheinz used '/medals'
+[06:48:40]	[IC] Gauleiter Edmund von Trapp: yeah
+[06:48:48]	Lanius loaded the character #21(Unteroffizer Joseph Altenberg)
+[06:48:54]	[IC] Gauleiter Edmund von Trapp: not sure but before we shit the server out
+[06:48:56]	[OOC] Unteroffizer Joseph Altenberg: sup guys, just got back from the front
+[06:49:10]	[IC] Gauleiter Edmund von Trapp: ok
+[06:49:13]	[OOC] SS-Obersturmführer Hans Gruber: sup
+[06:49:26]	[OOC] Unteroffizer Joseph Altenberg: database fully syncs, I made this character on the Event server, and it is now here, with the same bodygroups, inventory, and all
+[06:49:27]	[IC] Gauleiter Edmund von Trapp: is i cuz i have a nice medal i have give or well 2
+[06:49:50]	[IC] Gauleiter Edmund von Trapp: only to foreign diplomats
+[06:50:02]	[OOC] Unteroffizer Joseph Altenberg: there is gonna be a server teleporter somewhere that will send you to the front 
+[06:50:04]	SS-Obersturmführer Hans Gruber's money has changed by 5.
+[06:50:05]	[IC] Gauleiter Edmund von Trapp: as its not a medal that can be given to foreigners
+[06:50:07]	SA-Obergruppenführer Guther Albrech Manheinz's money has changed by 75.
+[06:50:11]	[IC] Gauleiter Edmund von Trapp: then no
+[06:50:20]	[IC] Gauleiter Edmund von Trapp: Austria is a part of germany
+[06:50:28]	[IC] Gauleiter Edmund von Trapp: yes
+[06:50:31]	[OOC] SS-Obersturmführer Hans Gruber: uh can you tp to me lol
+[06:50:34]	[IC] Gauleiter Edmund von Trapp: no
+[06:50:39]	[IC] Unteroffizer Joseph Altenberg: .ooc ya
+[06:50:39]	[IC] Gauleiter Edmund von Trapp: on
+[06:50:40]	[OOC] Unteroffizer Joseph Altenberg: ya
+[06:50:41]	[IC] Gauleiter Edmund von Trapp: no
+[06:50:47]	[LOOC] SS-Obersturmführer Hans Gruber: look
+[06:50:48]	[IC] Unteroffizer Joseph Altenberg: wats up
+[06:50:51]	[IC] Unteroffizer Joseph Altenberg: lol
+[06:50:55]	[LOOC] SS-Obersturmführer Hans Gruber: in the sky lol
+[06:50:55]	[IC] Unteroffizer Joseph Altenberg: fixed
+[06:50:56]	[IC] Gauleiter Edmund von Trapp: I have made sure we have like 20 new medals but ok
+[06:51:05]	[IC] SS-Obersturmführer Hans Gruber: ty lol
+[06:51:09]	[IC] Gauleiter Edmund von Trapp: mhm
+[06:51:09]	[IC] Unteroffizer Joseph Altenberg: the front do be a snazzy place
+[06:51:17]	[IC] Gauleiter Edmund von Trapp: no
+[06:51:25]	[IC] Gauleiter Edmund von Trapp: ok i am
+[06:51:36]	[ME] Unteroffizer Joseph Altenberg: performs a Militärischergruß
+[06:51:39]	[IC] SS-Obersturmführer Hans Gruber: Yes, that mustache is fine for the front but must be shaved when in garrison
+[06:51:48]	[IC] Unteroffizer Joseph Altenberg: your not my commanding officer!
+[06:51:55]	Gauleiter Edmund von Trapp's money has changed by 75.
+[06:52:02]	[LOOC] Unteroffizer Joseph Altenberg: L bozo
+[06:52:02]	[IC] Gauleiter Edmund von Trapp: then they will get there perms taken if they give to meany out of if they give something out without reason
+[06:52:14]	[LOOC] Unteroffizer Joseph Altenberg: lol
+[06:52:14]	[IC] SS-Obersturmführer Hans Gruber: do you want me to talk to your commanding officer? we have coffee every morning
+[06:52:23]	[IC] Unteroffizer Joseph Altenberg: I SHAVE IT RIGHT AWAY SIR!!!
+[06:52:25]	[ME] Unteroffizer Joseph Altenberg: performs a Militärischergruß
+[06:52:30]	[IC] Gauleiter Edmund von Trapp: look at the ladder half of the shit i sent
+[06:52:46]	[IC] Gauleiter Edmund von Trapp: no
+[06:52:52]	[LOOC] SS-Obersturmführer Hans Gruber: i dont have my bind anymore lol
+[06:52:56]	[LOOC] Unteroffizer Joseph Altenberg: tragic
+[06:52:56]	Unteroffizer Joseph Altenberg used '/heil'
+[06:52:57]	[IC] Unteroffizer Joseph Altenberg: Heil Hitler!
+[06:52:58]	[IC] SS-Obersturmführer Hans Gruber: L
+[06:53:04]	Unteroffizer Joseph Altenberg used '/heil'
+[06:53:05]	[IC] Unteroffizer Joseph Altenberg: Heil Hitler!
+[06:53:07]	[ME] Unteroffizer Joseph Altenberg: Shows NKGB ID Papers: NKGB-36157
+[06:53:08]	[IC] Unteroffizer Joseph Altenberg: oops
+[06:53:10]	[IC] Gauleiter Edmund von Trapp: you know what fair maybe
+[06:53:13]	[IC] Unteroffizer Joseph Altenberg: uh
+[06:53:16]	[IC] Unteroffizer Joseph Altenberg: awkward
+[06:53:22]	SS-Obersturmführer Hans Gruber tried 'Equip' on item 'Luger P08'(#125)
+[06:53:30]	[IC] Unteroffizer Joseph Altenberg: I uh, found it at the front!
+[06:53:35]	[IC] Unteroffizer Joseph Altenberg: took it off of a commie!
+[06:53:37]	Unteroffizer Joseph Altenberg's money has changed by 75.
+[06:53:37]	[IC] Gauleiter Edmund von Trapp: mhm
+[06:53:40]	[IC] Unteroffizer Joseph Altenberg: was handing it to you!
+[06:53:45]	[IC] Gauleiter Edmund von Trapp: no
+[06:54:00]	[IC] Gauleiter Edmund von Trapp: how
+[06:54:02]	[IC] Gauleiter Edmund von Trapp: oh
+[06:54:22]	[LOOC] SS-Obersturmführer Hans Gruber: idc lol
+[06:54:25]	[IC] Gauleiter Edmund von Trapp: he can give everymedal
+[06:54:32]	[IC] Gauleiter Edmund von Trapp: the chief of the okw
+[06:54:47]	[IC] Gauleiter Edmund von Trapp: or well close to it
+[06:54:50]	[IC] Gauleiter Edmund von Trapp: Knights Cross of the Iron Cross with Oak Leaves, Swords and Diamonds Knights Cross of the Iron Cross with Oak Leaves and Swords Knights Cross of the Iron Cross with Oak Leaves Knights Cross of the Iron Cross Iron Cross Honour Roll Clasp1st Class Iron Cross
+[06:54:52]	[IC] Gauleiter Edmund von Trapp: ok
+[06:54:53]	SS-Obersturmführer Hans Gruber's money has changed by 5.
+[06:54:56]	SA-Obergruppenführer Guther Albrech Manheinz's money has changed by 75.
+[06:55:40]	[ME] Unteroffizer Joseph Altenberg: performs a Militärischergruß
+[06:55:51]	[IC] Unteroffizer Joseph Altenberg: I just came back from the front!
+[06:56:03]	[IC] Unteroffizer Joseph Altenberg: Indeed
+[06:56:07]	[IC] Unteroffizer Joseph Altenberg: I will :(
+[06:56:30]	[IC] Gauleiter Edmund von Trapp: cope
+[06:56:38]	Unteroffizer Joseph Altenberg has taken 21 damage from SA-Obergruppenführer Guther Albrech Manheinz, leaving them at 79 health.
+[06:56:38]	Unteroffizer Joseph Altenberg has taken 21 damage from SA-Obergruppenführer Guther Albrech Manheinz, leaving them at 58 health.
+[06:56:39]	[IC] Unteroffizer Joseph Altenberg: serious cope
+[06:56:39]	Unteroffizer Joseph Altenberg has taken 21 damage from SA-Obergruppenführer Guther Albrech Manheinz, leaving them at 37 health.
+[06:56:40]	Unteroffizer Joseph Altenberg has taken 21 damage from SA-Obergruppenführer Guther Albrech Manheinz, leaving them at 16 health.
+[06:56:41]	Unteroffizer Joseph Altenberg has taken 21 damage from SA-Obergruppenführer Guther Albrech Manheinz, leaving them at -5 health.
+[06:56:44]	Gauleiter Edmund von Trapp's money has changed by 75.
+[06:56:44]	[OOC] Unteroffizer Joseph Altenberg: LOL
+[06:56:47]	[OOC] Unteroffizer Joseph Altenberg: how tf
+[06:57:13]	SA-Obergruppenführer Guther Albrech Manheinz has taken 14 damage from Gauleiter Edmund von Trapp, leaving them at 86 health.
+[06:57:17]	SA-Obergruppenführer Guther Albrech Manheinz has taken 112 damage from Gauleiter Edmund von Trapp, leaving them at -12 health.
+[06:57:25]	[IC] Gauleiter Edmund von Trapp: missclick
+[06:57:33]	[OOC] Gauleiter Edmund von Trapp: missclick
+[06:57:57]	[OOC] Unteroffizer Joseph Altenberg: understandable
+[06:58:05]	[IC] Gauleiter Edmund von Trapp: go for it
+[06:58:09]	[IC] Gauleiter Edmund von Trapp: yeha
+[06:58:11]	[IC] Gauleiter Edmund von Trapp: yeah
+[06:58:23]	[IC] Gauleiter Edmund von Trapp: huh
+[06:58:26]	Unteroffizer Joseph Altenberg's money has changed by 75.
+[06:59:09]	[OOC] Unteroffizer Joseph Altenberg: wtf is that sound
+[06:59:26]	[IC] Gauleiter Edmund von Trapp: send it to me
+[06:59:31]	SS-Obersturmführer Hans Gruber used 'table: 0xf137a1e8'
+[06:59:34]	[IC] Unteroffizer Joseph Altenberg: oh that lmao
+[06:59:42]	SS-Obersturmführer Hans Gruber's money has changed by 5.
+[06:59:45]	SA-Obergruppenführer Guther Albrech Manheinz's money has changed by 75.
+[06:59:46]	[IC] Gauleiter Edmund von Trapp: why do we have it
+[06:59:50]	[IC] Gauleiter Edmund von Trapp: epic
+[06:59:57]	[IC] Unteroffizer Joseph Altenberg: yes
+[07:00:01]	[IC] SA-Obergruppenführer Guther Albrech Manheinz: https://docs.google.com/document/d/1YSE-9lVlwCh3zg8v43qPrhnC-c9gE-9OvFDhZe-rEz4/edit?usp=sharing
+[07:00:02]	[IC] Gauleiter Edmund von Trapp: why do we hav ethat
+[07:00:13]	[OOC] SS-Obersturmführer Hans Gruber: yes
+[07:00:28]	[IC] Unteroffizer Joseph Altenberg: what
+[07:00:33]	[IC] Gauleiter Edmund von Trapp: yeah
+[07:00:35]	[IC] Unteroffizer Joseph Altenberg: I am looking at the doc
+[07:00:50]	[IC] Unteroffizer Joseph Altenberg: looks good
+[07:01:14]	[IC] Unteroffizer Joseph Altenberg: PAC3 is a seperate dono item
+[07:01:14]	SS-Obersturmführer Hans Gruber used 'table: 0xf137a1e8'
+[07:01:19]	[IC] Unteroffizer Joseph Altenberg: but its only like $10
+[07:01:33]	Gauleiter Edmund von Trapp's money has changed by 75.
+[07:01:33]	SS-Obersturmführer Hans Gruber used 'table: 0xf137a1e8'
+[07:01:35]	[IC] Unteroffizer Joseph Altenberg: Snoopi wanted to jew some money
+[07:01:35]	[IC] Gauleiter Edmund von Trapp: did you post this
+[07:01:48]	SS-Obersturmführer Hans Gruber used 'table: 0xf137a1e8'
+[07:01:52]	[IC] Gauleiter Edmund von Trapp: who the hell did you give it to then?
+[07:02:14]	[IC] Gauleiter Edmund von Trapp: 11 guys are looking at it
+[07:02:19]	[IC] Unteroffizer Joseph Altenberg: LOL
+[07:02:24]	[IC] Unteroffizer Joseph Altenberg: nah I didnt
+[07:02:26]	[IC] Unteroffizer Joseph Altenberg: only once
+[07:02:46]	[IC] Unteroffizer Joseph Altenberg: there is 10 people looking at it rn lmao
+[07:03:03]	[IC] Unteroffizer Joseph Altenberg: maybe people are seeing ingame logs
+[07:03:07]	[IC] Unteroffizer Joseph Altenberg: lol
+[07:03:09]	[IC] Unteroffizer Joseph Altenberg: brb
+[07:03:15]	Unteroffizer Joseph Altenberg's money has changed by 75.
+[07:03:32]	[IC] Gauleiter Edmund von Trapp: huh
+[07:03:35]	[IC] Gauleiter Edmund von Trapp: ok
+[07:03:41]	SA-Obergruppenführer Guther Albrech Manheinz[STEAM_0:1:60562422] has disconnected from the server.
+[07:04:31]	SS-Obersturmführer Hans Gruber's money has changed by 5.
+[07:04:52]	[IC] Unteroffizer Joseph Altenberg: RDM
+[07:04:53]	[IC] Gauleiter Edmund von Trapp: hey
+[07:04:55]	[IC] Unteroffizer Joseph Altenberg: hi
+[07:05:01]	[IC] Gauleiter Edmund von Trapp: where do you get pac3 shit again
+[07:05:13]	[IC] Unteroffizer Joseph Altenberg: online but most of it got taken down
+[07:05:21]	[IC] Gauleiter Edmund von Trapp: where online 
+[07:05:22]	[IC] Unteroffizer Joseph Altenberg: I can send you some stuff if you want
+[07:05:29]	[IC] Gauleiter Edmund von Trapp: sure
+[07:05:32]	[IC] Unteroffizer Joseph Altenberg: just look up uh
+[07:05:38]	[IC] Unteroffizer Joseph Altenberg: gmod ww2 pac3 pastebin
+[07:05:58]	[IC] Gauleiter Edmund von Trapp: god bless
+[07:06:22]	Gauleiter Edmund von Trapp's money has changed by 75.
+[07:06:37]	[IC] Unteroffizer Joseph Altenberg: one sec
+[07:06:44]	[IC] Gauleiter Edmund von Trapp: how the fuck you get them to work
+[07:07:13]	[IC] Gauleiter Edmund von Trapp: cute
+[07:07:25]	[ME] Unteroffizer Joseph Altenberg: Flashes NKGB ID: NKGB-36157
+[07:07:38]	[IC] Unteroffizer Joseph Altenberg: I made all of this for the Metro Server
+[07:07:39]	[IC] Unteroffizer Joseph Altenberg: lmfao
+[07:07:42]	[IC] Gauleiter Edmund von Trapp: epic
+[07:07:51]	[IC] Gauleiter Edmund von Trapp: what kind of sound file can you use
+[07:07:57]	[IC] Gauleiter Edmund von Trapp: for 
+[07:07:59]	[IC] Unteroffizer Joseph Altenberg: mp3
+[07:08:03]	[IC] Unteroffizer Joseph Altenberg: post it on discord
+[07:08:04]	Unteroffizer Joseph Altenberg's money has changed by 75.
+[07:08:07]	[IC] Unteroffizer Joseph Altenberg: then right click it and copy
+[07:08:12]	[IC] Gauleiter Edmund von Trapp: ok
+[07:08:52]	[IC] Unteroffizer Joseph Altenberg: God Bless the Union!
+[07:08:58]	[IC] Unteroffizer Joseph Altenberg: shii
+[07:09:20]	SS-Obersturmführer Hans Gruber's money has changed by 5.
+[07:09:40]	[IC] Gauleiter Edmund von Trapp: what do i copy
+[07:09:47]	[IC] Gauleiter Edmund von Trapp: i just get https://discord.com/channels/900032625681518632/902097003935326218/1036899528684613662
+[07:09:56]	[IC] Unteroffizer Joseph Altenberg: right click on the file, the blue part, and hit copy
+[07:09:57]	[IC] Unteroffizer Joseph Altenberg: https://cdn.discordapp.com/attachments/674028069417123850/1033993820087537674/Crucem_Sanctam_Subiit_but_youre_marching_back_from_the_Fourth_Crusade.mp3
+[07:10:01]	[IC] Unteroffizer Joseph Altenberg: should look something like that
+[07:10:17]	[IC] Gauleiter Edmund von Trapp: https://www.youtube.com/watch?v=pQ7M2mpU4IU&list=RDMMoX5pLwHbllg&index=1
+[07:10:28]	[IC] Gauleiter Edmund von Trapp: https://discord.com/channels/900032625681518632/902097003935326218/1036899528684613662
+[07:10:40]	[IC] Gauleiter Edmund von Trapp: https://www.youtube.com/watch?v=pQ7M2mpU4IU&list=RDMMoX5pLwHbllg&index=1
+[07:10:51]	[IC] Unteroffizer Joseph Altenberg: youtube links will not work
+[07:10:59]	[IC] Gauleiter Edmund von Trapp: nigga
+[07:11:11]	Gauleiter Edmund von Trapp's money has changed by 75.
+[07:11:58]	SS-Obersturmführer Hans Gruber[STEAM_0:0:524507651] has disconnected from the server.
+[07:12:43]	[IC] Gauleiter Edmund von Trapp: https://cdn.discordapp.com/attachments/902097003935326218/1036900559753580544/YT2mp3.info_-___Pasties_with_Cheese___-_Leonid_Kharitonov__The_Alexandrov_Red_Army_Choir_1968_320kbps.mp3
+[07:12:46]	[IC] Gauleiter Edmund von Trapp: ay
+[07:12:50]	[IC] Unteroffizer Joseph Altenberg: ye
+[07:12:53]	Unteroffizer Joseph Altenberg's money has changed by 75.
+[07:13:10]	[IC] Gauleiter Edmund von Trapp: how do i play it now
+[07:13:14]	[IC] Unteroffizer Joseph Altenberg: kk so
+[07:13:17]	[IC] Unteroffizer Joseph Altenberg: open toolgun
+[07:13:23]	[IC] Unteroffizer Joseph Altenberg: go down to radio spawner
+[07:13:30]	[IC] Unteroffizer Joseph Altenberg: under stream URL post link
+[07:13:36]	[IC] Unteroffizer Joseph Altenberg: then spawn the radio
+[07:13:53]	[IC] Unteroffizer Joseph Altenberg: Ayyy
+[07:15:02]	[ME] Unteroffizer Joseph Altenberg: performs a Militärischergruß
+[07:15:37]	[ME] Unteroffizer Joseph Altenberg: performs a Militärischergruß
+[07:15:39]	[ME] Gauleiter Edmund von Trapp: grüßt mit großer Ehre und Respekt.
+[07:16:00]	Gauleiter Edmund von Trapp's money has changed by 75.
+[07:17:42]	Unteroffizer Joseph Altenberg's money has changed by 75.
+[07:18:36]	[IC] Gauleiter Edmund von Trapp: nice
+[07:18:43]	[IC] Unteroffizer Joseph Altenberg: God Bless Dixie
+[07:20:33]	[IC] Gauleiter Edmund von Trapp: nuts
+[07:20:38]	[IC] Unteroffizer Joseph Altenberg: I love pac
+[07:20:41]	[IC] Gauleiter Edmund von Trapp: same
+[07:20:49]	Gauleiter Edmund von Trapp's money has changed by 75.
+[07:20:51]	[IC] Unteroffizer Joseph Altenberg: YEEEEEEEE HAWWWWWWWWW
+[07:21:03]	[IC] Gauleiter Edmund von Trapp: f3 me
+[07:22:15]	[IC] Gauleiter Edmund von Trapp: this is the best
+[07:22:31]	Unteroffizer Joseph Altenberg's money has changed by 75.
+[07:25:01]	[IC] Gauleiter Edmund von Trapp: cheese
+[07:25:05]	[IC] Unteroffizer Joseph Altenberg: Viva la France!
+[07:25:13]	[IC] Unteroffizer Joseph Altenberg: Viva la Emperor!
+[07:25:37]	[IC] Unteroffizer Joseph Altenberg: this song is great
+[07:25:38]	Gauleiter Edmund von Trapp's money has changed by 75.
+[07:25:39]	[IC] Unteroffizer Joseph Altenberg: best anthem
+[07:27:20]	Unteroffizer Joseph Altenberg's money has changed by 75.
+[07:29:02]	[IC] Gauleiter Edmund von Trapp: why cant i move in pac
+[07:29:13]	[IC] Unteroffizer Joseph Altenberg: its kinda broken, lemme see if I can fix it
+[07:29:16]	[IC] Unteroffizer Joseph Altenberg: I gotta restart anyways
+[07:29:19]	[IC] Gauleiter Edmund von Trapp: ok
+[07:30:27]	Gauleiter Edmund von Trapp's money has changed by 75.
+[07:30:40]	Gauleiter Edmund von Trapp[STEAM_0:0:103712993] has disconnected from the server.
+[07:32:09]	Unteroffizer Joseph Altenberg's money has changed by 75.
+[07:33:32]	Unteroffizer Joseph Altenberg used '/getpos'
+[07:36:58]	Unteroffizer Joseph Altenberg's money has changed by 75.
+[07:41:47]	Unteroffizer Joseph Altenberg's money has changed by 75.
+[07:46:36]	Unteroffizer Joseph Altenberg's money has changed by 75.
+[07:53:25]	Lanius[STEAM_0:0:211494314] has connected to the server.
+[07:53:55]	Lanius loaded the character #4(Dr. Werner Altenberg)
+[07:55:30]	Dr. Werner Altenberg used '/medalgive alten ahnenerbe_ring'
+[07:55:33]	Dr. Werner Altenberg used '/medals'
+[07:55:47]	Dr. Werner Altenberg used '/medalgive alten wewelsburg_badge'
+[07:55:49]	Dr. Werner Altenberg used '/medals'
+[07:57:05]	Dr. Werner Altenberg used '/medals'
+[07:58:08]	Dr. Werner Altenberg used 'table: 0xf1322950'
+[07:58:17]	Dr. Werner Altenberg used 'table: 0xf1322950'
+[07:58:30]	Dr. Werner Altenberg used 'table: 0xf1322950'
+[07:58:44]	Dr. Werner Altenberg's money has changed by 75.
+[07:59:08]	Dr. Werner Altenberg used '/adminannounce THIS IS A TEST ANNOUNCEMENT'
+[07:59:21]	Dr. Werner Altenberg used '/adminannounce'
+[07:59:25]	Dr. Werner Altenberg used '/adminannounce ee'
+[07:59:28]	Dr. Werner Altenberg used '/announce test'
+[08:02:56]	Dr. Werner Altenberg[STEAM_0:0:211494314] has disconnected from the server.
+[08:06:43]	The_Boss_Eggy[STEAM_0:0:103712993] has connected to the server.
+[08:07:18]	The_Boss_Eggy loaded the character #7(Gauleiter Edmund von Trapp)
+[08:07:25]	Gauleiter Edmund von Trapp[STEAM_0:0:103712993] has disconnected from the server.
+[12:36:40]	Beach[STEAM_0:1:60562422] has connected to the server.
+[12:37:04]	Beach loaded the character #20(SA-Obergruppenführer Guther Albrech Manheinz)
+[12:41:53]	SA-Obergruppenführer Guther Albrech Manheinz's money has changed by 75.
+[12:46:42]	SA-Obergruppenführer Guther Albrech Manheinz's money has changed by 75.
+[12:51:31]	SA-Obergruppenführer Guther Albrech Manheinz's money has changed by 75.
+[12:56:20]	SA-Obergruppenführer Guther Albrech Manheinz's money has changed by 75.
+[12:56:37]	SA-Obergruppenführer Guther Albrech Manheinz used '/medals'
+[21:28:57]	Dirty ❤[STEAM_0:0:37114416] has connected to the server.
+[21:31:20]	Dirty ❤ loaded the character #18(Reichsleiter Dr. Leon Strauss)
+[21:33:10]	Dirty ❤[STEAM_0:0:37114416] has connected to the server.
+[21:34:40]	Dirty ❤ loaded the character #18(Reichsleiter Dr. Leon Strauss)
+[21:36:00]	Lanius[STEAM_0:0:211494314] has connected to the server.
+[21:36:34]	Lanius loaded the character #1(Lanius)
+[21:36:53]	Reichsleiter Dr. Leon Strauss has accessed vendor Party Locker.
+[21:36:58]	Lanius used '/trunk'
+[21:37:00]	Reichsleiter Dr. Leon Strauss's money has changed by -50.
+[21:37:00]	Reichsleiter Dr. Leon Strauss has bought a Party Locker from doorcharge.
+[21:37:05]	Reichsleiter Dr. Leon Strauss tried 'throw' on item 'Dynamite'(#132)
+[21:37:29]	Reichsleiter Dr. Leon Strauss has accessed vendor Party Locker.
+[21:37:32]	Reichsleiter Dr. Leon Strauss's money has changed by -100.
+[21:37:32]	Reichsleiter Dr. Leon Strauss has bought a Party Locker from luger.
+[21:37:34]	Reichsleiter Dr. Leon Strauss's money has changed by 0.
+[21:37:34]	Reichsleiter Dr. Leon Strauss has bought a Party Locker from ammo_generic.
+[21:37:35]	Reichsleiter Dr. Leon Strauss's money has changed by 0.
+[21:37:35]	Reichsleiter Dr. Leon Strauss has bought a Party Locker from ammo_generic.
+[21:37:37]	Reichsleiter Dr. Leon Strauss's money has changed by -25.
+[21:37:37]	Reichsleiter Dr. Leon Strauss has bought a Party Locker from radio.
+[21:37:37]	Reichsleiter Dr. Leon Strauss's money has changed by -15.
+[21:37:37]	Reichsleiter Dr. Leon Strauss has bought a Party Locker from tie.
+[21:37:41]	Reichsleiter Dr. Leon Strauss tried 'Equip' on item 'Luger P08'(#133)
+[21:37:44]	Reichsleiter Dr. Leon Strauss tried 'use' on item 'Generic Ammo'(#134)
+[21:38:17]	Lanius has taken 30 damage from Reichsleiter Dr. Leon Strauss, leaving them at 70 health.
+[21:38:44]	Reichsleiter Dr. Leon Strauss used '/heil'
+[21:38:45]	[IC] Reichsleiter Dr. Leon Strauss: Heil Hitler!
+[21:38:48]	Reichsleiter Dr. Leon Strauss used '/heil'
+[21:38:48]	[IC] Reichsleiter Dr. Leon Strauss: Heil Hitler!
+[21:38:50]	Reichsleiter Dr. Leon Strauss used '/heil'
+[21:38:51]	[IC] Reichsleiter Dr. Leon Strauss: Heil Hitler!
+[21:39:19]	Lanius used '/flaggive reichs pet'
+[21:39:29]	Reichsleiter Dr. Leon Strauss's money has changed by 75.
+[21:40:16]	Lanius loaded the character #21(Unteroffizer Joseph Altenberg)
+[21:43:07]	Lanius[STEAM_0:0:211494314] has connected to the server.
+[21:43:35]	Lanius loaded the character #1(Lanius)
+[21:43:53]	Lanius used '/trunk'
+[21:44:11]	Lanius used '/trunk'
+[21:44:27]	Lanius used '/trunk'
+[21:49:06]	Lanius[STEAM_0:0:211494314] has connected to the server.
+[21:49:23]	Lanius loaded the character #1(Lanius)
+[21:49:34]	Lanius used '/trunk'
+[21:54:12]	Lanius's money has changed by 0.
+[21:59:01]	Lanius's money has changed by 0.
+[22:03:50]	Lanius's money has changed by 0.
+[22:08:39]	Lanius's money has changed by 0.
+[22:13:28]	Lanius's money has changed by 0.
+[22:18:17]	Lanius's money has changed by 0.
+[22:23:06]	Lanius's money has changed by 0.
+[22:27:55]	Lanius's money has changed by 0.
+[22:32:44]	Lanius's money has changed by 0.
+[22:37:33]	Lanius's money has changed by 0.
+[22:42:22]	Lanius's money has changed by 0.
+[22:47:11]	Lanius's money has changed by 0.
+[22:52:00]	Lanius's money has changed by 0.
+[22:56:49]	Lanius's money has changed by 0.
+[23:01:38]	Lanius's money has changed by 0.
+[23:06:27]	Lanius's money has changed by 0.
+[23:11:16]	Lanius's money has changed by 0.
+[23:16:05]	Lanius's money has changed by 0.
+[23:20:54]	Lanius's money has changed by 0.
+[23:25:43]	Lanius's money has changed by 0.
+[23:30:32]	Lanius's money has changed by 0.
+[23:35:21]	Lanius's money has changed by 0.
+[23:40:10]	Lanius's money has changed by 0.
+[23:44:59]	Lanius's money has changed by 0.
+[23:49:48]	Lanius's money has changed by 0.
+[23:54:37]	Lanius's money has changed by 0.
+[23:59:26]	Lanius's money has changed by 0.

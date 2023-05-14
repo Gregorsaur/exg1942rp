@@ -1,0 +1,2242 @@
+[00:02:08]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[00:02:11]	Elliot Goldbergstein[STEAM_0:1:59675686] has connected to the server.
+[00:02:47]	Elliot Goldbergstein loaded the character #12(Elliot)
+[00:03:24]	[IC] Elliot: cant hear 
+[00:03:27]	[IC] Führer und Reichskanzler Adolf Hitler: tragic
+[00:03:34]	[IC] Führer und Reichskanzler Adolf Hitler: you smell
+[00:03:38]	[IC] Elliot: lemme get headset
+[00:03:41]	[IC] Führer und Reichskanzler Adolf Hitler: kk
+[00:06:57]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[00:07:36]	Elliot's money has changed by 0.
+[00:07:39]	Elliot has taken 20 damage from nut_bodygroupcloset, leaving them at 80 health.
+[00:11:46]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[00:12:25]	Elliot's money has changed by 0.
+[00:13:32]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:13:32]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:16:35]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[00:17:14]	Elliot's money has changed by 0.
+[00:18:17]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:18:29]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:18:29]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:18:31]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:18:32]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:18:33]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:18:33]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:18:37]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:18:38]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:18:38]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:18:39]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:18:40]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:18:40]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:18:40]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:18:40]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:18:41]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:18:42]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:18:42]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:18:43]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:18:44]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:18:45]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:18:46]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:18:46]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:18:47]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:18:48]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:18:49]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:18:50]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:18:58]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:20:23]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:20:26]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:20:26]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:20:26]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:20:27]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:20:28]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:20:29]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:20:30]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:20:31]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:20:32]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:20:32]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:20:33]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:20:34]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:20:34]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:20:35]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:20:35]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:20:36]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:20:36]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:20:38]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:20:39]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:20:40]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:20:40]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:20:41]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:20:42]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:20:42]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:20:44]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:20:44]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:20:46]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:20:47]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:20:47]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:20:52]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:20:53]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:20:53]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:20:54]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:20:55]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:20:55]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:20:56]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:20:57]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:20:57]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:20:58]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:20:58]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:20:59]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:21:00]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:21:00]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:21:01]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:21:02]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:21:02]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:21:03]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:21:04]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:21:05]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:21:06]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:21:06]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:21:07]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:21:07]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:21:08]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:21:08]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:21:09]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:21:12]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:21:12]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:21:14]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:21:14]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:21:15]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:21:17]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:21:20]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:21:20]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:21:21]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:21:22]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:21:23]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:21:23]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:21:24]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[00:21:31]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:21:32]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:21:33]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:21:34]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:21:35]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:21:35]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:21:36]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:21:38]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:21:40]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:21:40]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:21:41]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:21:42]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:21:42]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:21:43]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:21:43]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:21:44]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:21:44]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:21:44]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:21:45]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:21:46]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:21:46]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:21:47]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:21:48]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:21:48]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:21:49]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:21:50]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:21:52]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:21:54]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:21:55]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:21:56]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:21:57]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:21:58]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:22:02]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:22:03]	Elliot's money has changed by 0.
+[00:22:06]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:22:11]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:22:11]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:22:13]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:22:13]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:22:14]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:22:14]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:22:15]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:22:15]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:22:16]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:22:16]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:22:17]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:22:18]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:22:19]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:22:20]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:22:20]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:22:20]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:22:21]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:22:22]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:22:23]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:22:23]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:22:26]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:22:26]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:22:27]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:22:28]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:22:28]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:22:29]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:22:30]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:22:30]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:22:31]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:22:31]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:22:32]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:22:32]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:22:33]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:22:34]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:22:36]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:22:37]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:22:39]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:22:40]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:22:41]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:22:42]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:22:43]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:22:43]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:22:44]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:22:45]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:22:45]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:22:46]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:22:47]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:22:55]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:22:56]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:22:56]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:22:57]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:22:57]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:22:58]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:22:59]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:22:59]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:23:00]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:23:00]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:23:01]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:23:04]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:23:04]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:23:05]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:23:06]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:23:06]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:23:07]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:23:07]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:23:08]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:23:08]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:23:08]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:23:14]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:23:14]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:23:15]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:23:15]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:23:17]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:23:17]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:23:19]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:23:19]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:23:22]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:23:22]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:23:22]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:23:23]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:23:23]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:23:24]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:23:24]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:23:25]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:23:25]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:23:26]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:23:26]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:23:27]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:23:27]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:23:28]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:23:41]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:23:42]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:23:42]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:23:42]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:23:43]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:23:43]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:23:44]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:23:45]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:23:45]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:23:46]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:23:47]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:23:47]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:23:48]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:23:48]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:23:50]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:23:50]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:23:51]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:23:52]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:23:52]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:23:53]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:23:53]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:23:54]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:23:54]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:23:56]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:23:57]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:23:57]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:23:58]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:23:59]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:24:00]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:24:07]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:24:09]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:24:09]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:24:10]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:24:10]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:24:11]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:24:11]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:24:11]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:24:12]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:24:14]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:24:14]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:24:15]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:24:16]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:24:17]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:24:18]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:24:18]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:24:18]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:24:19]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:24:19]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:24:20]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:24:20]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:24:21]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:24:21]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:24:22]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:24:22]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:24:23]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:24:24]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:24:24]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:24:24]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:24:25]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:24:26]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:24:26]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:24:27]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:24:28]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:24:29]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:24:30]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:24:30]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:24:31]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:24:31]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:24:31]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:24:32]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:24:33]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:24:33]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:24:35]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:24:35]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:24:36]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:24:36]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:24:37]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:24:38]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:24:38]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:24:39]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:24:39]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:24:39]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:24:40]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:24:40]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:24:42]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:24:43]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:24:43]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:24:44]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:24:44]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:24:45]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:24:45]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:24:46]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:24:46]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:24:46]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:24:47]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:24:47]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:24:48]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:24:49]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:24:49]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:26:13]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[00:26:38]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:26:39]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:26:40]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:26:40]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:26:41]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:26:41]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:26:42]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:26:43]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:26:43]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:26:44]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:26:44]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:26:45]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:26:46]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:26:46]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:26:48]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:26:48]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:26:49]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:26:49]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:26:49]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:26:50]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:26:52]	Elliot's money has changed by 0.
+[00:26:52]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:26:52]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:26:54]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:26:55]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:26:56]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:26:56]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:26:57]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:26:57]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:26:59]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:27:01]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:27:04]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:27:12]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:27:13]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:27:18]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:27:18]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:27:36]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:27:44]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:27:48]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:27:49]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:27:53]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:27:53]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:27:54]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:27:55]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:27:57]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:27:57]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:27:58]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:27:58]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:28:10]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:28:10]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:28:11]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:28:12]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[00:28:14]	Führer und Reichskanzler Adolf Hitler has left observer.
+[00:28:19]	Führer und Reichskanzler Adolf Hitler[STEAM_0:0:211494314] has disconnected from the server.
+[00:31:41]	Elliot's money has changed by 0.
+[00:36:30]	Elliot's money has changed by 0.
+[00:41:19]	Elliot's money has changed by 0.
+[00:46:08]	Elliot's money has changed by 0.
+[00:50:57]	Elliot's money has changed by 0.
+[00:55:46]	Elliot's money has changed by 0.
+[00:57:49]	Elliot Goldbergstein loaded the character #13(Leiter der Parteikanzlei Eckhardt Köstner)
+[01:01:13]	Leiter der Parteikanzlei Eckhardt Köstner has accessed vendor Party Locker.
+[01:01:48]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by -100.
+[01:01:48]	Leiter der Parteikanzlei Eckhardt Köstner has bought a Party Locker from luger.
+[01:01:50]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by -25.
+[01:01:50]	Leiter der Parteikanzlei Eckhardt Köstner has bought a Party Locker from radio.
+[01:01:54]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 0.
+[01:01:54]	Leiter der Parteikanzlei Eckhardt Köstner has bought a Party Locker from ammo_generic.
+[01:01:54]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 0.
+[01:01:54]	Leiter der Parteikanzlei Eckhardt Köstner has bought a Party Locker from ammo_generic.
+[01:01:54]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 0.
+[01:01:54]	Leiter der Parteikanzlei Eckhardt Köstner has bought a Party Locker from ammo_generic.
+[01:01:55]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 0.
+[01:01:55]	Leiter der Parteikanzlei Eckhardt Köstner has bought a Party Locker from ammo_generic.
+[01:01:55]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 0.
+[01:01:55]	Leiter der Parteikanzlei Eckhardt Köstner has bought a Party Locker from ammo_generic.
+[01:01:55]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 0.
+[01:01:55]	Leiter der Parteikanzlei Eckhardt Köstner has bought a Party Locker from ammo_generic.
+[01:01:56]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 0.
+[01:01:56]	Leiter der Parteikanzlei Eckhardt Köstner has bought a Party Locker from ammo_generic.
+[01:01:56]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 0.
+[01:01:56]	Leiter der Parteikanzlei Eckhardt Köstner has bought a Party Locker from ammo_generic.
+[01:01:56]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 0.
+[01:01:56]	Leiter der Parteikanzlei Eckhardt Köstner has bought a Party Locker from ammo_generic.
+[01:01:57]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 0.
+[01:01:57]	Leiter der Parteikanzlei Eckhardt Köstner has bought a Party Locker from ammo_generic.
+[01:02:02]	Leiter der Parteikanzlei Eckhardt Köstner has accessed vendor Party Locker.
+[01:02:03]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by -25.
+[01:02:03]	Leiter der Parteikanzlei Eckhardt Köstner has bought a Party Locker from radio.
+[01:02:04]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by -25.
+[01:02:04]	Leiter der Parteikanzlei Eckhardt Köstner has bought a Party Locker from radio.
+[01:02:38]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[01:03:33]	Leiter der Parteikanzlei Eckhardt Köstner used '/doorsettitle'
+[01:04:52]	Leiter der Parteikanzlei Eckhardt Köstner used '/doorsettitle Leiter der Parteikanzlei'
+[01:07:27]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[01:12:16]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[01:17:05]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[01:21:54]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[01:26:43]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[01:31:32]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[01:36:21]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[01:41:10]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[01:45:59]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[01:50:48]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[01:55:37]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[01:55:39]	Lanius[STEAM_0:0:211494314] has connected to the server.
+[01:55:46]	Leiter der Parteikanzlei Eckhardt Köstner[STEAM_0:1:59675686] has disconnected from the server.
+[01:56:32]	Lanius loaded the character #1(Lanius)
+[01:56:34]	Lanius has entered observer.
+[01:56:36]	Lanius has left observer.
+[01:56:36]	Lanius has entered observer.
+[01:56:37]	Lanius has left observer.
+[01:56:37]	Lanius has entered observer.
+[01:56:39]	Lanius has left observer.
+[01:56:39]	Lanius has entered observer.
+[01:56:41]	Lanius has left observer.
+[01:56:42]	Lanius has entered observer.
+[01:56:44]	Lanius has left observer.
+[01:56:45]	Lanius has entered observer.
+[01:56:45]	Lanius has left observer.
+[01:56:46]	Lanius has entered observer.
+[01:56:46]	Lanius has left observer.
+[01:56:47]	Lanius has entered observer.
+[01:56:47]	Lanius has left observer.
+[01:56:48]	Lanius has entered observer.
+[01:56:49]	Lanius has left observer.
+[01:56:49]	Lanius has entered observer.
+[01:56:56]	Lanius has left observer.
+[01:56:57]	Lanius has entered observer.
+[01:56:58]	Lanius has left observer.
+[01:56:59]	Lanius has entered observer.
+[01:56:59]	Lanius has left observer.
+[01:57:00]	Lanius has entered observer.
+[01:57:00]	Lanius has left observer.
+[01:57:00]	Lanius has entered observer.
+[01:57:01]	Lanius has left observer.
+[01:57:01]	Lanius has entered observer.
+[01:57:01]	Lanius has left observer.
+[01:57:02]	Lanius has entered observer.
+[01:57:03]	Lanius has left observer.
+[01:57:03]	Lanius has entered observer.
+[01:57:16]	Lanius has left observer.
+[01:57:16]	Lanius has entered observer.
+[01:57:17]	Lanius has left observer.
+[01:57:17]	Lanius has entered observer.
+[01:57:18]	Lanius has left observer.
+[01:57:19]	Lanius has entered observer.
+[01:57:19]	Lanius has left observer.
+[01:57:20]	Lanius has entered observer.
+[01:57:20]	Lanius has left observer.
+[01:57:21]	Lanius has entered observer.
+[01:57:21]	Lanius has left observer.
+[01:57:22]	Lanius has entered observer.
+[01:57:22]	Lanius has left observer.
+[01:57:23]	Lanius has entered observer.
+[01:57:23]	Lanius has left observer.
+[01:57:23]	Lanius has entered observer.
+[01:57:24]	Lanius has left observer.
+[01:57:24]	Lanius has entered observer.
+[01:57:24]	Lanius has left observer.
+[01:57:26]	Lanius has entered observer.
+[01:57:26]	Lanius has left observer.
+[01:57:27]	Lanius has entered observer.
+[01:57:28]	Lanius has left observer.
+[01:57:28]	Lanius has entered observer.
+[01:57:29]	Lanius has left observer.
+[01:57:29]	Lanius has entered observer.
+[02:01:21]	Lanius's money has changed by 0.
+[02:01:56]	Lanius has left observer.
+[02:01:57]	Lanius has entered observer.
+[02:01:58]	Lanius has left observer.
+[02:01:58]	Lanius has entered observer.
+[02:01:59]	Lanius has left observer.
+[02:01:59]	Lanius has entered observer.
+[02:02:00]	Lanius has left observer.
+[02:02:01]	Lanius has entered observer.
+[02:02:01]	Lanius has left observer.
+[02:02:01]	Lanius has entered observer.
+[02:02:02]	Lanius has left observer.
+[02:02:05]	Lanius has entered observer.
+[02:02:05]	Lanius has left observer.
+[02:02:06]	Lanius has entered observer.
+[02:02:06]	Lanius has left observer.
+[02:02:07]	Lanius has entered observer.
+[02:02:07]	Lanius has left observer.
+[02:02:08]	Lanius has entered observer.
+[02:02:10]	Lanius has left observer.
+[02:02:10]	Lanius has entered observer.
+[02:02:27]	Lanius has left observer.
+[02:02:49]	Lanius has entered observer.
+[02:03:20]	Lanius has left observer.
+[02:03:25]	Lanius has entered observer.
+[02:03:27]	Lanius has left observer.
+[02:03:31]	Lanius has entered observer.
+[02:05:17]	Lanius has left observer.
+[02:05:17]	Lanius has entered observer.
+[02:05:18]	Lanius has left observer.
+[02:05:18]	Lanius has entered observer.
+[02:05:21]	Lanius has left observer.
+[02:05:22]	Lanius has entered observer.
+[02:05:22]	Lanius has left observer.
+[02:05:23]	Lanius has entered observer.
+[02:05:24]	Lanius has left observer.
+[02:05:25]	Lanius has entered observer.
+[02:05:27]	Lanius has left observer.
+[02:05:27]	Lanius has entered observer.
+[02:05:28]	Lanius has left observer.
+[02:05:28]	Lanius has entered observer.
+[02:05:29]	Lanius has left observer.
+[02:05:29]	Lanius has entered observer.
+[02:05:29]	Lanius has left observer.
+[02:05:30]	Lanius has entered observer.
+[02:05:31]	Lanius has left observer.
+[02:05:32]	Lanius has entered observer.
+[02:05:33]	Lanius has left observer.
+[02:05:34]	Lanius has entered observer.
+[02:05:35]	Lanius has left observer.
+[02:05:36]	Lanius has entered observer.
+[02:05:36]	Lanius has left observer.
+[02:05:36]	Lanius has entered observer.
+[02:05:58]	Lanius has left observer.
+[02:05:59]	Lanius has entered observer.
+[02:06:00]	Lanius has left observer.
+[02:06:01]	Lanius has entered observer.
+[02:06:02]	Lanius has left observer.
+[02:06:03]	Lanius has entered observer.
+[02:06:04]	Lanius has left observer.
+[02:06:04]	Lanius has entered observer.
+[02:06:04]	Lanius has left observer.
+[02:06:05]	Lanius has entered observer.
+[02:06:05]	Lanius has left observer.
+[02:06:09]	Lanius has entered observer.
+[02:06:10]	Lanius's money has changed by 0.
+[02:06:11]	Lanius has left observer.
+[02:06:13]	Lanius has entered observer.
+[02:06:14]	Lanius has left observer.
+[02:06:14]	Lanius has entered observer.
+[02:06:18]	Lanius has left observer.
+[02:06:19]	Lanius has entered observer.
+[02:06:19]	Lanius has left observer.
+[02:06:21]	Lanius has entered observer.
+[02:06:22]	Lanius has left observer.
+[02:06:23]	Lanius has entered observer.
+[02:06:24]	Lanius has left observer.
+[02:06:25]	Lanius has entered observer.
+[02:06:26]	Lanius has left observer.
+[02:06:26]	Lanius has entered observer.
+[02:06:27]	Lanius has left observer.
+[02:06:28]	Lanius has entered observer.
+[02:06:29]	Lanius has left observer.
+[02:06:30]	Lanius has entered observer.
+[02:06:31]	Lanius has left observer.
+[02:06:31]	Lanius has entered observer.
+[02:06:33]	Lanius has left observer.
+[02:06:34]	Lanius has entered observer.
+[02:06:36]	Lanius has left observer.
+[02:06:37]	Lanius has entered observer.
+[02:06:37]	Lanius has left observer.
+[02:06:38]	Lanius has entered observer.
+[02:06:38]	Lanius has left observer.
+[02:06:39]	Lanius has entered observer.
+[02:06:40]	Lanius has left observer.
+[02:06:40]	Lanius has entered observer.
+[02:06:42]	Lanius has left observer.
+[02:06:42]	Lanius has entered observer.
+[02:06:44]	Lanius has left observer.
+[02:06:44]	Lanius has entered observer.
+[02:06:45]	Lanius has left observer.
+[02:06:45]	Lanius has entered observer.
+[02:06:45]	Lanius has left observer.
+[02:06:47]	Lanius has entered observer.
+[02:06:48]	Lanius has left observer.
+[02:06:49]	Lanius has entered observer.
+[02:06:50]	Lanius has left observer.
+[02:06:52]	Lanius has entered observer.
+[02:06:53]	Lanius has left observer.
+[02:06:54]	Lanius has entered observer.
+[02:06:55]	Lanius has left observer.
+[02:06:56]	Lanius has entered observer.
+[02:06:56]	Lanius has left observer.
+[02:06:56]	Lanius has entered observer.
+[02:06:57]	Lanius has left observer.
+[02:06:57]	Lanius has entered observer.
+[02:06:58]	Lanius has left observer.
+[02:06:59]	Lanius has entered observer.
+[02:07:00]	Lanius has left observer.
+[02:07:01]	Lanius has entered observer.
+[02:07:02]	Lanius has left observer.
+[02:07:03]	Lanius has entered observer.
+[02:07:04]	Lanius has left observer.
+[02:07:04]	Lanius has entered observer.
+[02:07:05]	Lanius has left observer.
+[02:07:06]	Lanius has entered observer.
+[02:07:06]	Lanius has left observer.
+[02:07:08]	Lanius has entered observer.
+[02:07:09]	Lanius has left observer.
+[02:07:10]	Lanius has entered observer.
+[02:07:10]	Lanius has left observer.
+[02:07:12]	Lanius has entered observer.
+[02:07:13]	Lanius has left observer.
+[02:07:13]	Lanius has entered observer.
+[02:07:14]	Lanius has left observer.
+[02:07:17]	Lanius has entered observer.
+[02:07:18]	Lanius has left observer.
+[02:07:20]	Lanius has entered observer.
+[02:07:21]	Lanius has left observer.
+[02:07:22]	Lanius has entered observer.
+[02:07:22]	Lanius has left observer.
+[02:07:23]	Lanius has entered observer.
+[02:07:24]	Lanius has left observer.
+[02:07:24]	Lanius has entered observer.
+[02:07:29]	Lanius has left observer.
+[02:07:31]	Lanius has entered observer.
+[02:07:33]	Lanius has left observer.
+[02:07:33]	Lanius has entered observer.
+[02:07:33]	Lanius has left observer.
+[02:07:35]	Lanius has entered observer.
+[02:07:35]	Lanius has left observer.
+[02:07:36]	Lanius has entered observer.
+[02:07:37]	Lanius has left observer.
+[02:07:38]	Lanius has entered observer.
+[02:07:39]	Lanius has left observer.
+[02:07:40]	Lanius has entered observer.
+[02:07:41]	Lanius has left observer.
+[02:07:44]	Lanius has entered observer.
+[02:07:47]	Lanius has left observer.
+[02:07:47]	Lanius has entered observer.
+[02:07:48]	Lanius has left observer.
+[02:07:48]	Lanius has entered observer.
+[02:07:49]	Lanius has left observer.
+[02:07:49]	Lanius has entered observer.
+[02:07:49]	Lanius has left observer.
+[02:07:50]	Lanius has entered observer.
+[02:07:51]	Lanius has left observer.
+[02:07:51]	Lanius has entered observer.
+[02:07:52]	Lanius has left observer.
+[02:07:55]	Lanius has entered observer.
+[02:07:56]	Lanius has left observer.
+[02:07:59]	Lanius has entered observer.
+[02:08:00]	Lanius has left observer.
+[02:08:02]	Lanius has taken 18 damage from worldspawn, leaving them at 82 health.
+[02:08:03]	Lanius has entered observer.
+[02:08:03]	Lanius has left observer.
+[02:08:05]	Lanius has entered observer.
+[02:08:06]	Lanius has left observer.
+[02:08:07]	Lanius has entered observer.
+[02:08:07]	Lanius has left observer.
+[02:08:08]	Lanius has entered observer.
+[02:08:16]	Lanius has left observer.
+[02:08:16]	Lanius has entered observer.
+[02:08:17]	Lanius has left observer.
+[02:08:18]	Lanius has entered observer.
+[02:08:20]	Lanius has left observer.
+[02:08:20]	Lanius has entered observer.
+[02:08:21]	Lanius has left observer.
+[02:08:22]	Lanius has entered observer.
+[02:08:22]	Lanius has left observer.
+[02:08:23]	Lanius has entered observer.
+[02:08:24]	Lanius has left observer.
+[02:08:26]	Lanius has entered observer.
+[02:09:22]	Lanius has left observer.
+[02:09:22]	Lanius has entered observer.
+[02:09:23]	Lanius has left observer.
+[02:09:24]	Lanius has entered observer.
+[02:09:24]	Lanius has left observer.
+[02:09:25]	Lanius has entered observer.
+[02:09:25]	Lanius has left observer.
+[02:09:26]	Lanius has entered observer.
+[02:09:26]	Lanius has left observer.
+[02:09:27]	Lanius has entered observer.
+[02:09:27]	Lanius has left observer.
+[02:09:27]	Lanius has entered observer.
+[02:09:28]	Lanius has left observer.
+[02:09:28]	Lanius has entered observer.
+[02:09:29]	Lanius has left observer.
+[02:09:30]	Lanius has entered observer.
+[02:09:31]	Lanius has left observer.
+[02:09:31]	Lanius has entered observer.
+[02:09:32]	Lanius has left observer.
+[02:09:33]	Lanius has entered observer.
+[02:09:33]	Lanius has left observer.
+[02:09:34]	Lanius has entered observer.
+[02:09:34]	Lanius has left observer.
+[02:09:34]	Lanius has entered observer.
+[02:09:35]	Lanius has left observer.
+[02:09:35]	Lanius has entered observer.
+[02:09:36]	Lanius has left observer.
+[02:09:37]	Lanius has entered observer.
+[02:09:37]	Lanius has left observer.
+[02:09:38]	Lanius has entered observer.
+[02:09:38]	Lanius has left observer.
+[02:09:39]	Lanius has entered observer.
+[02:09:39]	Lanius has left observer.
+[02:09:39]	Lanius has entered observer.
+[02:10:59]	Lanius's money has changed by 0.
+[02:15:48]	Lanius's money has changed by 0.
+[02:20:37]	Lanius's money has changed by 0.
+[02:25:26]	Lanius's money has changed by 0.
+[02:27:37]	Elliot Goldbergstein[STEAM_0:1:59675686] has connected to the server.
+[02:30:15]	Lanius's money has changed by 0.
+[02:34:22]	Elliot Goldbergstein loaded the character #13(Leiter der Parteikanzlei Eckhardt Köstner)
+[02:35:04]	Lanius's money has changed by 0.
+[02:36:24]	Lanius has left observer.
+[02:36:25]	Lanius has entered observer.
+[02:36:25]	Lanius has left observer.
+[02:36:26]	Lanius has entered observer.
+[02:36:26]	Lanius has left observer.
+[02:36:27]	Lanius has entered observer.
+[02:36:27]	Lanius has left observer.
+[02:36:28]	Lanius has entered observer.
+[02:36:31]	Lanius has left observer.
+[02:36:31]	Lanius has entered observer.
+[02:36:32]	Lanius has left observer.
+[02:36:32]	Lanius has entered observer.
+[02:36:33]	Lanius has left observer.
+[02:36:33]	Lanius has entered observer.
+[02:36:34]	Lanius has left observer.
+[02:36:35]	Lanius has entered observer.
+[02:36:35]	Lanius has left observer.
+[02:36:36]	Lanius has entered observer.
+[02:36:36]	Lanius has left observer.
+[02:36:37]	Lanius has entered observer.
+[02:36:37]	Lanius has left observer.
+[02:36:38]	Lanius has entered observer.
+[02:36:38]	Lanius has left observer.
+[02:36:39]	Lanius has entered observer.
+[02:36:41]	Lanius has left observer.
+[02:36:41]	Lanius has entered observer.
+[02:36:43]	Lanius has left observer.
+[02:36:43]	Lanius has entered observer.
+[02:36:44]	Lanius has left observer.
+[02:36:44]	Lanius has entered observer.
+[02:36:45]	Lanius has left observer.
+[02:36:45]	Lanius has entered observer.
+[02:36:49]	Lanius has left observer.
+[02:36:50]	Lanius has entered observer.
+[02:36:50]	Lanius has left observer.
+[02:36:52]	Lanius has entered observer.
+[02:36:53]	Lanius has left observer.
+[02:36:53]	Lanius has entered observer.
+[02:36:54]	Lanius has left observer.
+[02:36:54]	Lanius has entered observer.
+[02:36:57]	Lanius has left observer.
+[02:36:57]	Lanius has entered observer.
+[02:36:58]	Lanius has left observer.
+[02:36:59]	Lanius has entered observer.
+[02:36:59]	Lanius has left observer.
+[02:36:59]	Lanius has entered observer.
+[02:37:00]	Lanius has left observer.
+[02:37:01]	Lanius has entered observer.
+[02:37:01]	Lanius has left observer.
+[02:37:01]	Lanius has entered observer.
+[02:37:02]	Lanius has left observer.
+[02:37:03]	Lanius has entered observer.
+[02:37:04]	Lanius has left observer.
+[02:37:05]	Lanius has entered observer.
+[02:37:05]	Lanius has left observer.
+[02:37:06]	Lanius has entered observer.
+[02:37:07]	Lanius has left observer.
+[02:37:07]	Lanius has entered observer.
+[02:37:09]	Lanius has left observer.
+[02:37:10]	Lanius has entered observer.
+[02:37:10]	Lanius has left observer.
+[02:37:12]	Lanius has entered observer.
+[02:37:12]	Lanius has left observer.
+[02:37:13]	Lanius has entered observer.
+[02:37:13]	Lanius has left observer.
+[02:37:14]	Lanius has entered observer.
+[02:37:14]	Lanius has left observer.
+[02:37:14]	Lanius has entered observer.
+[02:37:15]	Lanius has left observer.
+[02:37:16]	Lanius has entered observer.
+[02:37:16]	Lanius has left observer.
+[02:37:17]	Lanius has entered observer.
+[02:37:18]	Lanius has left observer.
+[02:37:19]	Lanius has entered observer.
+[02:37:19]	Lanius has left observer.
+[02:37:20]	Lanius has entered observer.
+[02:37:21]	Lanius has left observer.
+[02:37:21]	Lanius has entered observer.
+[02:37:34]	Lanius has left observer.
+[02:37:34]	Lanius has entered observer.
+[02:37:36]	Lanius has left observer.
+[02:37:36]	Lanius has entered observer.
+[02:37:36]	Lanius has left observer.
+[02:37:37]	Lanius has entered observer.
+[02:37:37]	Lanius has left observer.
+[02:37:38]	Lanius has entered observer.
+[02:37:38]	Lanius has left observer.
+[02:37:38]	Lanius has entered observer.
+[02:37:39]	Lanius has left observer.
+[02:37:39]	Lanius has entered observer.
+[02:37:42]	Lanius has left observer.
+[02:38:13]	Leiter der Parteikanzlei Eckhardt Köstner has taken 462 damage from Lanius, leaving them at -362 health.
+[02:38:23]	Leiter der Parteikanzlei Eckhardt Köstner has taken 462 damage from Lanius, leaving them at -362 health.
+[02:38:38]	Leiter der Parteikanzlei Eckhardt Köstner has taken 462 damage from Lanius, leaving them at -362 health.
+[02:38:53]	Leiter der Parteikanzlei Eckhardt Köstner has taken 33 damage from Lanius, leaving them at 67 health.
+[02:38:56]	Leiter der Parteikanzlei Eckhardt Köstner has taken 4 damage from Lanius, leaving them at 63 health.
+[02:39:00]	Leiter der Parteikanzlei Eckhardt Köstner has taken 462 damage from Lanius, leaving them at -384 health.
+[02:39:11]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[02:39:18]	Leiter der Parteikanzlei Eckhardt Köstner has taken 66 damage from Lanius, leaving them at 34 health.
+[02:39:19]	Leiter der Parteikanzlei Eckhardt Köstner has taken 66 damage from Lanius, leaving them at -32 health.
+[02:39:27]	Leiter der Parteikanzlei Eckhardt Köstner has taken 66 damage from Lanius, leaving them at 34 health.
+[02:39:27]	Leiter der Parteikanzlei Eckhardt Köstner has taken 66 damage from Lanius, leaving them at -33 health.
+[02:39:48]	Leiter der Parteikanzlei Eckhardt Köstner has taken 47 damage from Lanius, leaving them at 53 health.
+[02:39:48]	Leiter der Parteikanzlei Eckhardt Köstner has taken 47 damage from Lanius, leaving them at 6 health.
+[02:39:49]	Leiter der Parteikanzlei Eckhardt Köstner has taken 47 damage from Lanius, leaving them at -41 health.
+[02:39:53]	Lanius's money has changed by 0.
+[02:40:07]	Leiter der Parteikanzlei Eckhardt Köstner has taken 47 damage from Lanius, leaving them at 53 health.
+[02:40:25]	Leiter der Parteikanzlei Eckhardt Köstner has taken 182 damage from Lanius, leaving them at -130 health.
+[02:40:31]	Lanius has entered observer.
+[02:40:34]	Lanius has left observer.
+[02:40:35]	Lanius has entered observer.
+[02:40:35]	Lanius has left observer.
+[02:40:39]	Leiter der Parteikanzlei Eckhardt Köstner has taken 182 damage from Lanius, leaving them at -82 health.
+[02:40:40]	Lanius has entered observer.
+[02:40:42]	Lanius has left observer.
+[02:40:55]	Leiter der Parteikanzlei Eckhardt Köstner has taken 43 damage from Lanius, leaving them at 57 health.
+[02:40:55]	Leiter der Parteikanzlei Eckhardt Köstner has taken 5 damage from Lanius, leaving them at 52 health.
+[02:40:55]	Leiter der Parteikanzlei Eckhardt Köstner has taken 5 damage from Lanius, leaving them at 46 health.
+[02:40:56]	Leiter der Parteikanzlei Eckhardt Köstner has taken 43 damage from Lanius, leaving them at 3 health.
+[02:40:56]	Leiter der Parteikanzlei Eckhardt Köstner has taken 43 damage from Lanius, leaving them at -40 health.
+[02:41:03]	Leiter der Parteikanzlei Eckhardt Köstner has taken 43 damage from Lanius, leaving them at 58 health.
+[02:41:03]	Leiter der Parteikanzlei Eckhardt Köstner has taken 5 damage from Lanius, leaving them at 52 health.
+[02:41:04]	Leiter der Parteikanzlei Eckhardt Köstner has taken 43 damage from Lanius, leaving them at 9 health.
+[02:41:04]	Leiter der Parteikanzlei Eckhardt Köstner has taken 5 damage from Lanius, leaving them at 4 health.
+[02:41:05]	Leiter der Parteikanzlei Eckhardt Köstner has taken 43 damage from Lanius, leaving them at -39 health.
+[02:41:12]	Leiter der Parteikanzlei Eckhardt Köstner has taken 601 damage from Lanius, leaving them at -501 health.
+[02:41:18]	Leiter der Parteikanzlei Eckhardt Köstner has taken 601 damage from Lanius, leaving them at -501 health.
+[02:41:33]	Leiter der Parteikanzlei Eckhardt Köstner has taken 69 damage from Lanius, leaving them at 32 health.
+[02:41:33]	Leiter der Parteikanzlei Eckhardt Köstner has taken 69 damage from Lanius, leaving them at -37 health.
+[02:41:41]	Leiter der Parteikanzlei Eckhardt Köstner has taken 69 damage from Lanius, leaving them at 32 health.
+[02:41:41]	Leiter der Parteikanzlei Eckhardt Köstner has taken 9 damage from Lanius, leaving them at 23 health.
+[02:41:41]	Leiter der Parteikanzlei Eckhardt Köstner has taken 9 damage from Lanius, leaving them at 14 health.
+[02:41:42]	Leiter der Parteikanzlei Eckhardt Köstner has taken 69 damage from Lanius, leaving them at -54 health.
+[02:42:06]	Leiter der Parteikanzlei Eckhardt Köstner has taken 73 damage from Lanius, leaving them at 27 health.
+[02:42:06]	Leiter der Parteikanzlei Eckhardt Köstner has taken 73 damage from Lanius, leaving them at -46 health.
+[02:42:14]	Leiter der Parteikanzlei Eckhardt Köstner has taken 73 damage from Lanius, leaving them at 27 health.
+[02:42:14]	Leiter der Parteikanzlei Eckhardt Köstner has taken 73 damage from Lanius, leaving them at -46 health.
+[02:42:20]	Leiter der Parteikanzlei Eckhardt Köstner has taken 73 damage from Lanius, leaving them at 27 health.
+[02:42:20]	Leiter der Parteikanzlei Eckhardt Köstner has taken 73 damage from Lanius, leaving them at -46 health.
+[02:42:32]	Leiter der Parteikanzlei Eckhardt Köstner has taken 73 damage from Lanius, leaving them at 27 health.
+[02:42:32]	Leiter der Parteikanzlei Eckhardt Köstner has taken 73 damage from Lanius, leaving them at -46 health.
+[02:42:41]	Leiter der Parteikanzlei Eckhardt Köstner has taken 73 damage from Lanius, leaving them at 27 health.
+[02:42:42]	Leiter der Parteikanzlei Eckhardt Köstner has taken 73 damage from Lanius, leaving them at -46 health.
+[02:42:52]	Leiter der Parteikanzlei Eckhardt Köstner has taken 73 damage from Lanius, leaving them at 27 health.
+[02:42:52]	Leiter der Parteikanzlei Eckhardt Köstner has taken 73 damage from Lanius, leaving them at -46 health.
+[02:42:56]	Lanius has entered observer.
+[02:43:01]	Lanius has left observer.
+[02:43:05]	Leiter der Parteikanzlei Eckhardt Köstner has taken 1021 damage from Lanius, leaving them at -921 health.
+[02:43:16]	Leiter der Parteikanzlei Eckhardt Köstner has taken 73 damage from Lanius, leaving them at 27 health.
+[02:43:16]	Leiter der Parteikanzlei Eckhardt Köstner has taken 73 damage from Lanius, leaving them at -46 health.
+[02:43:20]	Lanius loaded the character #4(Dr. Werner Altenberg)
+[02:43:22]	Dr. Werner Altenberg used '/medals'
+[02:43:26]	Dr. Werner Altenberg has entered observer.
+[02:43:46]	Dr. Werner Altenberg has left observer.
+[02:44:00]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[02:46:20]	Leiter der Parteikanzlei Eckhardt Köstner has taken 601 damage from Dr. Werner Altenberg, leaving them at -501 health.
+[02:46:30]	Leiter der Parteikanzlei Eckhardt Köstner has taken 43 damage from Dr. Werner Altenberg, leaving them at 58 health.
+[02:46:30]	Leiter der Parteikanzlei Eckhardt Köstner has taken 43 damage from Dr. Werner Altenberg, leaving them at 15 health.
+[02:48:09]	Dr. Werner Altenberg's money has changed by 75.
+[02:48:49]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[02:52:58]	Dr. Werner Altenberg's money has changed by 75.
+[02:53:38]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[02:54:12]	Dr. Werner Altenberg used '/charsetmodel alten models/delos/ss_leather_coat/m37_s1_06.mdl'
+[02:54:32]	Leiter der Parteikanzlei Eckhardt Köstner used '/medals'
+[02:56:22]	Dr. Werner Altenberg has entered observer.
+[02:56:31]	Dr. Werner Altenberg has left observer.
+[02:56:35]	Dr. Werner Altenberg used '/charsetmodel lanius models/not_brot/prometheus/ss/baseline/co6.mdl'
+[02:56:42]	Dr. Werner Altenberg used '/charsetmodel alten models/not_brot/prometheus/ss/baseline/co6.mdl'
+[02:57:47]	Dr. Werner Altenberg's money has changed by 75.
+[02:58:27]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[03:01:17]	Kaos[STEAM_0:0:524507651] has connected to the server.
+[03:02:33]	Kaos loaded the character #22(SS-Obersturmführer Hans Gruber)
+[03:02:36]	Dr. Werner Altenberg's money has changed by 75.
+[03:02:49]	[OOC] SS-Obersturmführer Hans Gruber: hello
+[03:03:16]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[03:03:25]	[OOC] Dr. Werner Altenberg: ello
+[03:03:51]	[OOC] SS-Obersturmführer Hans Gruber: how's it going?
+[03:04:10]	[OOC] Dr. Werner Altenberg: pretty good
+[03:04:10]	Dr. Werner Altenberg has entered observer.
+[03:05:01]	SS-Obersturmführer Hans Gruber used '/hitlerheil'
+[03:05:01]	[IC] SS-Obersturmführer Hans Gruber: Heil.
+[03:05:07]	SS-Obersturmführer Hans Gruber used '/heil'
+[03:05:08]	[IC] SS-Obersturmführer Hans Gruber: Heil Hitler!
+[03:05:30]	SS-Obersturmführer Hans Gruber used '/hitlerheil'
+[03:05:50]	SS-Obersturmführer Hans Gruber used '/heil'
+[03:05:51]	[IC] SS-Obersturmführer Hans Gruber: Heil Hitler!
+[03:05:53]	[IC] Dr. Werner Altenberg: models/player/Suits/male_09_closed_tie.mdl
+[03:06:57]	[OOC] SS-Obersturmführer Hans Gruber: found an ownable door
+[03:07:22]	SS-Obersturmführer Hans Gruber's money has changed by 75.
+[03:07:25]	Dr. Werner Altenberg's money has changed by 75.
+[03:08:05]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[03:09:15]	Dr. Werner Altenberg has left observer.
+[03:09:16]	Dr. Werner Altenberg has entered observer.
+[03:09:17]	Dr. Werner Altenberg has left observer.
+[03:09:18]	Dr. Werner Altenberg has taken 254 damage from worldspawn, leaving them at -153 health.
+[03:09:21]	[OOC] Dr. Werner Altenberg: kk one sec
+[03:09:26]	Dr. Werner Altenberg has entered observer.
+[03:09:27]	Dr. Werner Altenberg has left observer.
+[03:10:54]	Leiter der Parteikanzlei Eckhardt Köstner used 'table: 0xf13a4dc0'
+[03:12:11]	SS-Obersturmführer Hans Gruber's money has changed by 75.
+[03:12:14]	Dr. Werner Altenberg's money has changed by 75.
+[03:12:54]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[03:15:54]	[OOC] Leiter der Parteikanzlei Eckhardt Köstner: I am epic
+[03:16:23]	[OOC] SS-Obersturmführer Hans Gruber: totally
+[03:17:00]	SS-Obersturmführer Hans Gruber's money has changed by 75.
+[03:17:03]	Dr. Werner Altenberg's money has changed by 75.
+[03:17:43]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[03:21:49]	SS-Obersturmführer Hans Gruber's money has changed by 75.
+[03:21:52]	Dr. Werner Altenberg's money has changed by 75.
+[03:22:32]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[03:26:38]	SS-Obersturmführer Hans Gruber's money has changed by 75.
+[03:26:41]	Dr. Werner Altenberg's money has changed by 75.
+[03:27:21]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[03:30:20]	Dr. Werner Altenberg has entered observer.
+[03:30:26]	Dr. Werner Altenberg has left observer.
+[03:31:27]	SS-Obersturmführer Hans Gruber's money has changed by 75.
+[03:31:30]	Dr. Werner Altenberg's money has changed by 75.
+[03:32:10]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[03:32:36]	Dr. Werner Altenberg has entered observer.
+[03:32:38]	Dr. Werner Altenberg has left observer.
+[03:32:44]	[IC] Dr. Werner Altenberg: elloooo
+[03:32:51]	Dr. Werner Altenberg has entered observer.
+[03:32:55]	Dr. Werner Altenberg has left observer.
+[03:36:16]	SS-Obersturmführer Hans Gruber's money has changed by 75.
+[03:36:19]	Dr. Werner Altenberg's money has changed by 75.
+[03:36:59]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[03:40:29]	Leiter der Parteikanzlei Eckhardt Köstner used '/pointupdate eck 5'
+[03:40:34]	Leiter der Parteikanzlei Eckhardt Köstner used '/pointupdate eck 3'
+[03:41:05]	SS-Obersturmführer Hans Gruber's money has changed by 75.
+[03:41:08]	Dr. Werner Altenberg's money has changed by 75.
+[03:41:11]	[IC] Leiter der Parteikanzlei Eckhardt Köstner: oi
+[03:41:48]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[03:45:54]	SS-Obersturmführer Hans Gruber's money has changed by 75.
+[03:45:57]	Dr. Werner Altenberg's money has changed by 75.
+[03:46:37]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[03:48:26]	Leiter der Parteikanzlei Eckhardt Köstner used '/charsetmodel'
+[03:50:43]	SS-Obersturmführer Hans Gruber's money has changed by 75.
+[03:50:46]	Dr. Werner Altenberg's money has changed by 75.
+[03:51:26]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[03:54:03]	Dr. Werner Altenberg has entered observer.
+[03:54:10]	[OOC] Leiter der Parteikanzlei Eckhardt Köstner: ?
+[03:54:13]	[OOC] Dr. Werner Altenberg: ?
+[03:54:18]	Dr. Werner Altenberg has left observer.
+[03:54:21]	[IC] Dr. Werner Altenberg: you smell
+[03:54:22]	Dr. Werner Altenberg has entered observer.
+[03:54:26]	Dr. Werner Altenberg has left observer.
+[03:54:35]	[OOC] Leiter der Parteikanzlei Eckhardt Köstner: Dr. Stinky
+[03:54:45]	[OOC] Dr. Werner Altenberg: I am Dr. Stinky from Pakistan
+[03:54:55]	Dr. Werner Altenberg has entered observer.
+[03:54:58]	Dr. Werner Altenberg has left observer.
+[03:55:23]	Dr. Werner Altenberg used '/heil'
+[03:55:24]	[IC] Dr. Werner Altenberg: Heil Hitler!
+[03:55:32]	SS-Obersturmführer Hans Gruber's money has changed by 75.
+[03:55:35]	Dr. Werner Altenberg's money has changed by 75.
+[03:56:15]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[03:56:23]	[IC] Dr. Werner Altenberg: Stink Meister
+[03:58:07]	Dr. Werner Altenberg has entered observer.
+[03:58:19]	Dr. Werner Altenberg has left observer.
+[03:58:54]	[OOC] SS-Obersturmführer Hans Gruber: hey im back sorry
+[03:59:07]	[OOC] Dr. Werner Altenberg: all good
+[03:59:07]	Dr. Werner Altenberg has entered observer.
+[03:59:11]	Dr. Werner Altenberg has left observer.
+[03:59:19]	[IC] Dr. Werner Altenberg: whats wrong with this door
+[03:59:21]	[OOC] SS-Obersturmführer Hans Gruber: what stuff for civilians do yall plan on adding?
+[03:59:25]	[IC] SS-Obersturmführer Hans Gruber: it is ownable
+[03:59:30]	[IC] Dr. Werner Altenberg: thats fine
+[03:59:33]	[IC] Dr. Werner Altenberg: its a shop
+[03:59:42]	[IC] SS-Obersturmführer Hans Gruber: you could make RP with it
+[03:59:53]	[IC] SS-Obersturmführer Hans Gruber: have the ministry of finance sell the shop
+[04:00:06]	[IC] SS-Obersturmführer Hans Gruber: so someone random cant just walk up and buy it
+[04:00:13]	[IC] Dr. Werner Altenberg: ya, we are getting a perm door system soon
+[04:00:21]	SS-Obersturmführer Hans Gruber's money has changed by 75.
+[04:00:24]	[IC] Dr. Werner Altenberg: so we can set people to doors and not just factions
+[04:00:24]	Dr. Werner Altenberg's money has changed by 75.
+[04:00:28]	[IC] Dr. Werner Altenberg: one sec brb
+[04:00:28]	Dr. Werner Altenberg has entered observer.
+[04:00:31]	[IC] SS-Obersturmführer Hans Gruber: alr
+[04:01:04]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[04:01:34]	[OOC] SS-Obersturmführer Hans Gruber: question btw
+[04:02:01]	[OOC] SS-Obersturmführer Hans Gruber: eventually will we be having german scientists?
+[04:02:07]	[OOC] Dr. Werner Altenberg: thats what I am
+[04:02:12]	[OOC] SS-Obersturmführer Hans Gruber: dope
+[04:02:15]	[OOC] Dr. Werner Altenberg: right now its mainly an event thing
+[04:02:27]	[OOC] SS-Obersturmführer Hans Gruber: alrighy
+[04:02:36]	[OOC] Dr. Werner Altenberg: I am apart of Ahnererbe as an archeologist
+[04:02:45]	[OOC] Dr. Werner Altenberg: which is why I am wearing a lab coat lol
+[04:02:49]	Dr. Werner Altenberg has left observer.
+[04:03:04]	[OOC] SS-Obersturmführer Hans Gruber: i'm shooting more for the darker scientist if ya know what i mean lol
+[04:03:17]	[OOC] Dr. Werner Altenberg: thoes may be a thing too, idk up to RF
+[04:03:25]	[OOC] SS-Obersturmführer Hans Gruber: alright
+[04:03:34]	[OOC] SS-Obersturmführer Hans Gruber: the coats look dope
+[04:03:42]	Dr. Werner Altenberg has entered observer.
+[04:03:44]	[OOC] SS-Obersturmführer Hans Gruber: L cooldown timer lol
+[04:04:18]	Dr. Werner Altenberg has left observer.
+[04:04:18]	Dr. Werner Altenberg has entered observer.
+[04:04:24]	Dr. Werner Altenberg has left observer.
+[04:04:24]	Dr. Werner Altenberg has entered observer.
+[04:04:26]	Dr. Werner Altenberg has left observer.
+[04:04:27]	Dr. Werner Altenberg has entered observer.
+[04:04:28]	Dr. Werner Altenberg has left observer.
+[04:04:28]	Dr. Werner Altenberg has entered observer.
+[04:04:29]	Dr. Werner Altenberg has left observer.
+[04:04:29]	Dr. Werner Altenberg has entered observer.
+[04:04:30]	Dr. Werner Altenberg has left observer.
+[04:04:31]	Dr. Werner Altenberg has entered observer.
+[04:04:31]	Dr. Werner Altenberg has left observer.
+[04:04:31]	Dr. Werner Altenberg has entered observer.
+[04:04:32]	Dr. Werner Altenberg has left observer.
+[04:04:32]	Dr. Werner Altenberg has entered observer.
+[04:04:34]	Dr. Werner Altenberg has left observer.
+[04:04:48]	Dr. Werner Altenberg has entered observer.
+[04:05:10]	SS-Obersturmführer Hans Gruber's money has changed by 75.
+[04:05:13]	Dr. Werner Altenberg's money has changed by 75.
+[04:05:41]	Dr. Werner Altenberg has left observer.
+[04:05:53]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[04:05:55]	Dr. Werner Altenberg has entered observer.
+[04:06:04]	Dr. Werner Altenberg has left observer.
+[04:06:06]	Dr. Werner Altenberg has entered observer.
+[04:06:08]	Dr. Werner Altenberg has left observer.
+[04:06:08]	Dr. Werner Altenberg has entered observer.
+[04:06:09]	Dr. Werner Altenberg has left observer.
+[04:06:13]	Dr. Werner Altenberg has entered observer.
+[04:06:14]	Dr. Werner Altenberg has left observer.
+[04:06:14]	Dr. Werner Altenberg has entered observer.
+[04:06:15]	Dr. Werner Altenberg has left observer.
+[04:06:15]	Dr. Werner Altenberg has entered observer.
+[04:06:19]	Dr. Werner Altenberg has left observer.
+[04:06:20]	Dr. Werner Altenberg has entered observer.
+[04:06:20]	Dr. Werner Altenberg has left observer.
+[04:06:22]	[OOC] SS-Obersturmführer Hans Gruber: time to whip these boys into shape lol
+[04:07:45]	[OOC] SS-Obersturmführer Hans Gruber: also how close are we from having a closed beta so we can get everyone set up uniform/ rank wise? also sorry for asking a lot of questions lol
+[04:09:59]	SS-Obersturmführer Hans Gruber's money has changed by 75.
+[04:10:02]	Dr. Werner Altenberg's money has changed by 75.
+[04:10:42]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[04:11:04]	SS-Obersturmführer Hans Gruber used '/hitlerheil'
+[04:11:04]	[IC] SS-Obersturmführer Hans Gruber: Heil.
+[04:14:48]	SS-Obersturmführer Hans Gruber's money has changed by 75.
+[04:14:51]	Dr. Werner Altenberg's money has changed by 75.
+[04:15:31]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[04:15:57]	Dr. Werner Altenberg has entered observer.
+[04:16:04]	Dr. Werner Altenberg has left observer.
+[04:16:05]	Dr. Werner Altenberg has entered observer.
+[04:16:06]	Dr. Werner Altenberg has left observer.
+[04:16:19]	Dr. Werner Altenberg has entered observer.
+[04:16:23]	Dr. Werner Altenberg has left observer.
+[04:16:23]	Dr. Werner Altenberg has entered observer.
+[04:16:25]	Dr. Werner Altenberg has left observer.
+[04:16:25]	Dr. Werner Altenberg has entered observer.
+[04:16:31]	Dr. Werner Altenberg has left observer.
+[04:16:31]	Dr. Werner Altenberg has entered observer.
+[04:16:32]	Dr. Werner Altenberg has left observer.
+[04:16:33]	Dr. Werner Altenberg has entered observer.
+[04:16:35]	Dr. Werner Altenberg has left observer.
+[04:16:36]	Dr. Werner Altenberg has entered observer.
+[04:16:37]	Dr. Werner Altenberg has left observer.
+[04:16:38]	Dr. Werner Altenberg has entered observer.
+[04:16:41]	Dr. Werner Altenberg has left observer.
+[04:16:43]	Dr. Werner Altenberg has entered observer.
+[04:16:55]	Dr. Werner Altenberg has left observer.
+[04:16:55]	Dr. Werner Altenberg has entered observer.
+[04:17:19]	Dr. Werner Altenberg has left observer.
+[04:17:20]	Dr. Werner Altenberg has entered observer.
+[04:17:31]	Dr. Werner Altenberg has left observer.
+[04:17:34]	Dr. Werner Altenberg has entered observer.
+[04:18:13]	Dr. Werner Altenberg has left observer.
+[04:18:15]	Dr. Werner Altenberg has entered observer.
+[04:19:37]	SS-Obersturmführer Hans Gruber's money has changed by 75.
+[04:19:40]	Dr. Werner Altenberg's money has changed by 75.
+[04:20:20]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[04:21:54]	Dr. Werner Altenberg has left observer.
+[04:21:55]	Dr. Werner Altenberg has entered observer.
+[04:21:55]	Dr. Werner Altenberg has left observer.
+[04:21:56]	Dr. Werner Altenberg has entered observer.
+[04:21:57]	Dr. Werner Altenberg has left observer.
+[04:21:57]	Dr. Werner Altenberg has entered observer.
+[04:21:57]	Dr. Werner Altenberg has left observer.
+[04:21:58]	Dr. Werner Altenberg has entered observer.
+[04:21:58]	Dr. Werner Altenberg has left observer.
+[04:21:59]	Dr. Werner Altenberg has entered observer.
+[04:22:00]	Dr. Werner Altenberg has left observer.
+[04:22:00]	Dr. Werner Altenberg has entered observer.
+[04:22:01]	Dr. Werner Altenberg has left observer.
+[04:22:01]	Dr. Werner Altenberg has entered observer.
+[04:22:02]	Dr. Werner Altenberg has left observer.
+[04:22:02]	Dr. Werner Altenberg has entered observer.
+[04:22:03]	Dr. Werner Altenberg has left observer.
+[04:22:03]	Dr. Werner Altenberg has entered observer.
+[04:22:05]	Dr. Werner Altenberg has left observer.
+[04:22:05]	Dr. Werner Altenberg has entered observer.
+[04:22:06]	Dr. Werner Altenberg has left observer.
+[04:22:06]	Dr. Werner Altenberg has entered observer.
+[04:22:07]	Dr. Werner Altenberg has left observer.
+[04:22:08]	Dr. Werner Altenberg has entered observer.
+[04:22:08]	Dr. Werner Altenberg has left observer.
+[04:22:09]	Dr. Werner Altenberg has entered observer.
+[04:22:10]	Dr. Werner Altenberg has left observer.
+[04:22:10]	Dr. Werner Altenberg has entered observer.
+[04:22:11]	Dr. Werner Altenberg has left observer.
+[04:22:11]	Dr. Werner Altenberg has entered observer.
+[04:22:12]	Dr. Werner Altenberg has left observer.
+[04:22:12]	Dr. Werner Altenberg has entered observer.
+[04:22:13]	Dr. Werner Altenberg has left observer.
+[04:22:13]	Dr. Werner Altenberg has entered observer.
+[04:22:14]	Dr. Werner Altenberg has left observer.
+[04:22:14]	Dr. Werner Altenberg has entered observer.
+[04:22:15]	Dr. Werner Altenberg has left observer.
+[04:22:15]	Dr. Werner Altenberg has entered observer.
+[04:22:16]	Dr. Werner Altenberg has left observer.
+[04:22:16]	Dr. Werner Altenberg has entered observer.
+[04:22:16]	Dr. Werner Altenberg has left observer.
+[04:22:17]	Dr. Werner Altenberg has entered observer.
+[04:22:17]	Dr. Werner Altenberg has left observer.
+[04:22:21]	Dr. Werner Altenberg has entered observer.
+[04:22:26]	Dr. Werner Altenberg has left observer.
+[04:22:26]	Dr. Werner Altenberg has entered observer.
+[04:22:26]	Dr. Werner Altenberg has left observer.
+[04:22:27]	Dr. Werner Altenberg has entered observer.
+[04:22:27]	Dr. Werner Altenberg has left observer.
+[04:22:28]	Dr. Werner Altenberg has entered observer.
+[04:22:28]	Dr. Werner Altenberg has left observer.
+[04:22:29]	Dr. Werner Altenberg has entered observer.
+[04:22:30]	Dr. Werner Altenberg has left observer.
+[04:22:30]	Dr. Werner Altenberg has entered observer.
+[04:22:31]	Dr. Werner Altenberg has left observer.
+[04:22:32]	Dr. Werner Altenberg has entered observer.
+[04:22:33]	Dr. Werner Altenberg has left observer.
+[04:22:34]	Dr. Werner Altenberg has entered observer.
+[04:22:35]	Dr. Werner Altenberg has left observer.
+[04:22:36]	Dr. Werner Altenberg has entered observer.
+[04:22:37]	Dr. Werner Altenberg has left observer.
+[04:22:37]	Dr. Werner Altenberg has entered observer.
+[04:22:41]	Dr. Werner Altenberg has left observer.
+[04:22:41]	Dr. Werner Altenberg has entered observer.
+[04:22:41]	Dr. Werner Altenberg has left observer.
+[04:22:42]	Dr. Werner Altenberg has entered observer.
+[04:22:42]	Dr. Werner Altenberg has left observer.
+[04:22:43]	Dr. Werner Altenberg has entered observer.
+[04:22:46]	Dr. Werner Altenberg has left observer.
+[04:22:47]	Dr. Werner Altenberg has entered observer.
+[04:22:47]	Dr. Werner Altenberg has left observer.
+[04:22:48]	Dr. Werner Altenberg has entered observer.
+[04:22:50]	Dr. Werner Altenberg has left observer.
+[04:22:50]	Dr. Werner Altenberg has entered observer.
+[04:22:51]	Dr. Werner Altenberg has left observer.
+[04:22:51]	Dr. Werner Altenberg has entered observer.
+[04:22:51]	Dr. Werner Altenberg has left observer.
+[04:22:52]	Dr. Werner Altenberg has entered observer.
+[04:22:53]	Dr. Werner Altenberg has left observer.
+[04:22:53]	Dr. Werner Altenberg has entered observer.
+[04:22:54]	Dr. Werner Altenberg has left observer.
+[04:22:55]	Dr. Werner Altenberg has entered observer.
+[04:22:56]	Dr. Werner Altenberg has left observer.
+[04:22:56]	Dr. Werner Altenberg has entered observer.
+[04:22:57]	Dr. Werner Altenberg has left observer.
+[04:22:57]	Dr. Werner Altenberg has entered observer.
+[04:22:58]	Dr. Werner Altenberg has left observer.
+[04:22:59]	Dr. Werner Altenberg has entered observer.
+[04:22:59]	Dr. Werner Altenberg has left observer.
+[04:23:00]	Dr. Werner Altenberg has entered observer.
+[04:23:03]	Dr. Werner Altenberg has left observer.
+[04:23:03]	Dr. Werner Altenberg has entered observer.
+[04:23:04]	Dr. Werner Altenberg has left observer.
+[04:23:04]	Dr. Werner Altenberg has entered observer.
+[04:23:05]	Dr. Werner Altenberg has left observer.
+[04:23:05]	Dr. Werner Altenberg has entered observer.
+[04:23:06]	Dr. Werner Altenberg has left observer.
+[04:23:06]	Dr. Werner Altenberg has entered observer.
+[04:23:07]	Dr. Werner Altenberg has left observer.
+[04:23:08]	Dr. Werner Altenberg has entered observer.
+[04:23:09]	Dr. Werner Altenberg has left observer.
+[04:23:10]	Dr. Werner Altenberg has entered observer.
+[04:23:11]	Dr. Werner Altenberg has left observer.
+[04:23:11]	Dr. Werner Altenberg has entered observer.
+[04:23:14]	Dr. Werner Altenberg has left observer.
+[04:23:15]	Dr. Werner Altenberg has entered observer.
+[04:23:16]	Dr. Werner Altenberg has left observer.
+[04:23:16]	Dr. Werner Altenberg has entered observer.
+[04:23:18]	Dr. Werner Altenberg has left observer.
+[04:23:21]	Dr. Werner Altenberg has entered observer.
+[04:24:26]	SS-Obersturmführer Hans Gruber's money has changed by 75.
+[04:24:29]	Dr. Werner Altenberg's money has changed by 75.
+[04:25:09]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[04:25:32]	Dr. Werner Altenberg has left observer.
+[04:25:32]	Dr. Werner Altenberg has entered observer.
+[04:25:35]	Dr. Werner Altenberg has left observer.
+[04:25:35]	Dr. Werner Altenberg has entered observer.
+[04:25:36]	Dr. Werner Altenberg has left observer.
+[04:25:36]	Dr. Werner Altenberg has entered observer.
+[04:25:37]	Dr. Werner Altenberg has left observer.
+[04:25:37]	Dr. Werner Altenberg has entered observer.
+[04:25:59]	Dr. Werner Altenberg has left observer.
+[04:25:59]	Dr. Werner Altenberg has entered observer.
+[04:26:01]	Dr. Werner Altenberg has left observer.
+[04:26:01]	Dr. Werner Altenberg has entered observer.
+[04:26:02]	Dr. Werner Altenberg has left observer.
+[04:26:02]	Dr. Werner Altenberg has entered observer.
+[04:26:02]	Dr. Werner Altenberg has left observer.
+[04:26:03]	Dr. Werner Altenberg has entered observer.
+[04:26:03]	Dr. Werner Altenberg has left observer.
+[04:26:04]	Dr. Werner Altenberg has entered observer.
+[04:26:04]	SS-Obersturmführer Hans Gruber[STEAM_0:0:524507651] has disconnected from the server.
+[04:26:05]	Dr. Werner Altenberg has left observer.
+[04:26:06]	Dr. Werner Altenberg has entered observer.
+[04:26:12]	Dr. Werner Altenberg has left observer.
+[04:26:13]	Dr. Werner Altenberg has entered observer.
+[04:26:13]	Dr. Werner Altenberg has left observer.
+[04:26:14]	Dr. Werner Altenberg has entered observer.
+[04:26:14]	Dr. Werner Altenberg has left observer.
+[04:26:15]	Dr. Werner Altenberg has entered observer.
+[04:26:16]	Dr. Werner Altenberg has left observer.
+[04:26:17]	Dr. Werner Altenberg has entered observer.
+[04:26:17]	Dr. Werner Altenberg has left observer.
+[04:26:18]	Dr. Werner Altenberg has entered observer.
+[04:26:19]	Dr. Werner Altenberg has left observer.
+[04:26:20]	Dr. Werner Altenberg has entered observer.
+[04:26:20]	Dr. Werner Altenberg has left observer.
+[04:26:21]	Dr. Werner Altenberg has entered observer.
+[04:26:22]	Dr. Werner Altenberg has left observer.
+[04:26:23]	Dr. Werner Altenberg has entered observer.
+[04:26:25]	Dr. Werner Altenberg has left observer.
+[04:26:26]	Dr. Werner Altenberg has entered observer.
+[04:26:26]	Dr. Werner Altenberg has left observer.
+[04:26:27]	Dr. Werner Altenberg has entered observer.
+[04:26:28]	Dr. Werner Altenberg has left observer.
+[04:26:33]	Dr. Werner Altenberg has entered observer.
+[04:26:36]	Dr. Werner Altenberg has left observer.
+[04:26:50]	Dr. Werner Altenberg has entered observer.
+[04:26:53]	Dr. Werner Altenberg has left observer.
+[04:27:08]	Dr. Werner Altenberg has entered observer.
+[04:27:29]	Dr. Werner Altenberg has left observer.
+[04:27:31]	Dr. Werner Altenberg has entered observer.
+[04:27:31]	Dr. Werner Altenberg has left observer.
+[04:27:33]	Dr. Werner Altenberg has entered observer.
+[04:27:54]	Dr. Werner Altenberg has left observer.
+[04:27:54]	Dr. Werner Altenberg has entered observer.
+[04:27:55]	Dr. Werner Altenberg has left observer.
+[04:27:55]	Dr. Werner Altenberg has entered observer.
+[04:27:56]	Dr. Werner Altenberg has left observer.
+[04:27:56]	Dr. Werner Altenberg has entered observer.
+[04:27:58]	Dr. Werner Altenberg has left observer.
+[04:27:59]	Dr. Werner Altenberg has entered observer.
+[04:28:02]	Dr. Werner Altenberg has left observer.
+[04:28:02]	Dr. Werner Altenberg has entered observer.
+[04:28:03]	Dr. Werner Altenberg has left observer.
+[04:28:03]	Dr. Werner Altenberg has entered observer.
+[04:28:04]	Dr. Werner Altenberg has left observer.
+[04:28:04]	Dr. Werner Altenberg has entered observer.
+[04:28:06]	Dr. Werner Altenberg has left observer.
+[04:28:06]	Dr. Werner Altenberg has entered observer.
+[04:28:08]	Dr. Werner Altenberg has left observer.
+[04:28:10]	Dr. Werner Altenberg has entered observer.
+[04:28:12]	Dr. Werner Altenberg has left observer.
+[04:28:17]	Dr. Werner Altenberg has entered observer.
+[04:28:34]	Dr. Werner Altenberg has left observer.
+[04:28:36]	Dr. Werner Altenberg has entered observer.
+[04:28:39]	Dr. Werner Altenberg has left observer.
+[04:28:48]	Dr. Werner Altenberg has entered observer.
+[04:28:50]	Dr. Werner Altenberg has left observer.
+[04:28:51]	Dr. Werner Altenberg has entered observer.
+[04:28:51]	Dr. Werner Altenberg has left observer.
+[04:29:18]	Dr. Werner Altenberg's money has changed by 75.
+[04:29:21]	Dr. Werner Altenberg has entered observer.
+[04:29:51]	Dr. Werner Altenberg has left observer.
+[04:29:51]	Dr. Werner Altenberg has entered observer.
+[04:29:53]	Dr. Werner Altenberg has left observer.
+[04:29:54]	Dr. Werner Altenberg has entered observer.
+[04:29:58]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[04:30:22]	Dr. Werner Altenberg has left observer.
+[04:30:32]	Dr. Werner Altenberg has entered observer.
+[04:30:33]	Dr. Werner Altenberg has left observer.
+[04:30:37]	Dr. Werner Altenberg has entered observer.
+[04:30:41]	Dr. Werner Altenberg has left observer.
+[04:30:42]	Dr. Werner Altenberg has entered observer.
+[04:30:42]	Dr. Werner Altenberg has left observer.
+[04:30:43]	Dr. Werner Altenberg has entered observer.
+[04:30:43]	Dr. Werner Altenberg has left observer.
+[04:30:44]	Dr. Werner Altenberg has entered observer.
+[04:30:44]	Dr. Werner Altenberg has left observer.
+[04:30:45]	Dr. Werner Altenberg has entered observer.
+[04:30:45]	Dr. Werner Altenberg has left observer.
+[04:30:46]	Dr. Werner Altenberg has entered observer.
+[04:30:46]	Dr. Werner Altenberg has left observer.
+[04:30:47]	Dr. Werner Altenberg has entered observer.
+[04:30:47]	Dr. Werner Altenberg has left observer.
+[04:30:48]	Dr. Werner Altenberg has entered observer.
+[04:30:48]	Dr. Werner Altenberg has left observer.
+[04:30:49]	Dr. Werner Altenberg has entered observer.
+[04:30:50]	Dr. Werner Altenberg has left observer.
+[04:30:50]	Dr. Werner Altenberg has entered observer.
+[04:30:51]	Dr. Werner Altenberg has left observer.
+[04:30:51]	Dr. Werner Altenberg has entered observer.
+[04:30:51]	Dr. Werner Altenberg has left observer.
+[04:30:52]	Dr. Werner Altenberg has entered observer.
+[04:30:54]	Dr. Werner Altenberg has left observer.
+[04:30:55]	Dr. Werner Altenberg has entered observer.
+[04:30:55]	Dr. Werner Altenberg has left observer.
+[04:30:56]	Dr. Werner Altenberg has entered observer.
+[04:30:59]	Dr. Werner Altenberg has left observer.
+[04:30:59]	Dr. Werner Altenberg has entered observer.
+[04:31:01]	Dr. Werner Altenberg has left observer.
+[04:31:01]	Dr. Werner Altenberg has entered observer.
+[04:31:02]	Dr. Werner Altenberg has left observer.
+[04:31:02]	Dr. Werner Altenberg has entered observer.
+[04:31:03]	Dr. Werner Altenberg has left observer.
+[04:31:03]	Dr. Werner Altenberg has entered observer.
+[04:31:07]	Dr. Werner Altenberg has left observer.
+[04:31:07]	Dr. Werner Altenberg has entered observer.
+[04:31:09]	Dr. Werner Altenberg has left observer.
+[04:31:09]	Dr. Werner Altenberg has entered observer.
+[04:31:09]	Dr. Werner Altenberg has left observer.
+[04:31:10]	Dr. Werner Altenberg has entered observer.
+[04:31:12]	Dr. Werner Altenberg has left observer.
+[04:31:13]	Dr. Werner Altenberg has entered observer.
+[04:31:13]	Dr. Werner Altenberg has left observer.
+[04:31:14]	Dr. Werner Altenberg has entered observer.
+[04:31:18]	Dr. Werner Altenberg has left observer.
+[04:31:19]	Dr. Werner Altenberg has entered observer.
+[04:31:19]	Dr. Werner Altenberg has left observer.
+[04:31:20]	Dr. Werner Altenberg has entered observer.
+[04:31:21]	Dr. Werner Altenberg has left observer.
+[04:31:21]	Dr. Werner Altenberg has entered observer.
+[04:31:22]	Dr. Werner Altenberg has left observer.
+[04:31:23]	Dr. Werner Altenberg has entered observer.
+[04:31:25]	Dr. Werner Altenberg has left observer.
+[04:31:28]	Dr. Werner Altenberg has entered observer.
+[04:31:52]	Dr. Werner Altenberg has left observer.
+[04:32:08]	Dr. Werner Altenberg has entered observer.
+[04:32:25]	Dr. Werner Altenberg has left observer.
+[04:32:28]	Dr. Werner Altenberg has entered observer.
+[04:32:29]	Dr. Werner Altenberg has left observer.
+[04:33:58]	Dr. Werner Altenberg has entered observer.
+[04:34:07]	Dr. Werner Altenberg's money has changed by 75.
+[04:34:08]	Dr. Werner Altenberg has left observer.
+[04:34:10]	Dr. Werner Altenberg has accessed vendor George Floyd.
+[04:34:15]	Dr. Werner Altenberg has accessed vendor George Floyd.
+[04:34:16]	Dr. Werner Altenberg's money has changed by -1400.
+[04:34:16]	Dr. Werner Altenberg has bought a George Floyd from cigarette.
+[04:34:20]	Dr. Werner Altenberg has accessed vendor George Floyd.
+[04:34:26]	Dr. Werner Altenberg has entered observer.
+[04:34:47]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[04:34:54]	Dr. Werner Altenberg has left observer.
+[04:34:54]	Dr. Werner Altenberg has entered observer.
+[04:34:55]	Dr. Werner Altenberg has left observer.
+[04:34:55]	Dr. Werner Altenberg has entered observer.
+[04:34:56]	Dr. Werner Altenberg has left observer.
+[04:34:57]	Dr. Werner Altenberg has entered observer.
+[04:35:00]	Dr. Werner Altenberg has left observer.
+[04:35:00]	Dr. Werner Altenberg has entered observer.
+[04:35:01]	Dr. Werner Altenberg has left observer.
+[04:35:01]	Dr. Werner Altenberg has entered observer.
+[04:35:10]	Dr. Werner Altenberg has left observer.
+[04:35:11]	Dr. Werner Altenberg has entered observer.
+[04:36:26]	Dr. Werner Altenberg has left observer.
+[04:36:27]	Dr. Werner Altenberg has entered observer.
+[04:36:30]	Dr. Werner Altenberg has left observer.
+[04:36:31]	Dr. Werner Altenberg has entered observer.
+[04:36:35]	Dr. Werner Altenberg has left observer.
+[04:36:35]	Dr. Werner Altenberg has entered observer.
+[04:36:36]	Dr. Werner Altenberg has left observer.
+[04:36:37]	Dr. Werner Altenberg has entered observer.
+[04:36:37]	Dr. Werner Altenberg has left observer.
+[04:36:38]	Dr. Werner Altenberg has entered observer.
+[04:36:39]	Dr. Werner Altenberg has left observer.
+[04:36:40]	Dr. Werner Altenberg has entered observer.
+[04:36:40]	Dr. Werner Altenberg has left observer.
+[04:36:41]	Dr. Werner Altenberg has entered observer.
+[04:36:41]	Dr. Werner Altenberg has left observer.
+[04:36:42]	Dr. Werner Altenberg has entered observer.
+[04:36:42]	Dr. Werner Altenberg has left observer.
+[04:36:43]	Dr. Werner Altenberg has entered observer.
+[04:36:43]	Dr. Werner Altenberg has left observer.
+[04:36:43]	Dr. Werner Altenberg has entered observer.
+[04:36:44]	Dr. Werner Altenberg has left observer.
+[04:36:45]	Dr. Werner Altenberg has entered observer.
+[04:36:46]	Dr. Werner Altenberg has left observer.
+[04:36:46]	Dr. Werner Altenberg has entered observer.
+[04:36:46]	Dr. Werner Altenberg has left observer.
+[04:36:47]	Dr. Werner Altenberg has entered observer.
+[04:36:47]	Dr. Werner Altenberg has left observer.
+[04:36:48]	Dr. Werner Altenberg has entered observer.
+[04:36:48]	Dr. Werner Altenberg has left observer.
+[04:36:49]	Dr. Werner Altenberg has entered observer.
+[04:36:50]	Dr. Werner Altenberg has left observer.
+[04:36:51]	Dr. Werner Altenberg has entered observer.
+[04:36:52]	Dr. Werner Altenberg has left observer.
+[04:36:52]	Dr. Werner Altenberg has entered observer.
+[04:36:52]	Dr. Werner Altenberg has left observer.
+[04:36:53]	Dr. Werner Altenberg has entered observer.
+[04:36:53]	Dr. Werner Altenberg has left observer.
+[04:36:54]	Dr. Werner Altenberg has entered observer.
+[04:36:55]	Dr. Werner Altenberg has left observer.
+[04:36:55]	Dr. Werner Altenberg has entered observer.
+[04:36:56]	Dr. Werner Altenberg has left observer.
+[04:36:56]	Dr. Werner Altenberg has entered observer.
+[04:36:57]	Dr. Werner Altenberg has left observer.
+[04:36:58]	Dr. Werner Altenberg has entered observer.
+[04:36:59]	Dr. Werner Altenberg has left observer.
+[04:37:00]	Dr. Werner Altenberg has entered observer.
+[04:37:01]	Dr. Werner Altenberg has left observer.
+[04:37:01]	Dr. Werner Altenberg has entered observer.
+[04:37:02]	Dr. Werner Altenberg has left observer.
+[04:37:02]	Dr. Werner Altenberg has entered observer.
+[04:37:04]	Dr. Werner Altenberg has left observer.
+[04:37:04]	Dr. Werner Altenberg has entered observer.
+[04:37:05]	Dr. Werner Altenberg has left observer.
+[04:37:05]	Dr. Werner Altenberg has entered observer.
+[04:37:06]	Dr. Werner Altenberg has left observer.
+[04:37:06]	Dr. Werner Altenberg has entered observer.
+[04:38:56]	Dr. Werner Altenberg's money has changed by 75.
+[04:39:36]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[04:40:34]	Dr. Werner Altenberg has left observer.
+[04:43:45]	Dr. Werner Altenberg's money has changed by 75.
+[04:44:25]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[04:45:53]	Dr. Werner Altenberg has entered observer.
+[04:45:58]	Dr. Werner Altenberg has left observer.
+[04:45:59]	Dr. Werner Altenberg has entered observer.
+[04:48:14]	Dr. Werner Altenberg[STEAM_0:0:211494314] has disconnected from the server.
+[04:49:14]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[04:54:03]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[04:58:52]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[05:03:41]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[05:08:30]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[05:13:19]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[05:18:08]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[05:22:57]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[05:27:46]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[05:32:35]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[05:37:24]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[05:42:13]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[05:47:02]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[05:51:51]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[05:56:40]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[06:01:29]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[06:06:18]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[06:11:07]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[06:15:56]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[06:20:45]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[06:25:34]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[06:30:23]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[06:35:12]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[06:40:01]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[06:44:50]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[06:49:39]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[06:54:28]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[06:59:17]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[07:04:06]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[07:08:55]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[07:13:44]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[07:18:33]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[07:23:22]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[07:28:11]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[07:33:00]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[07:37:49]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[07:42:38]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[07:47:27]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[07:52:16]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[07:57:05]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[08:01:54]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[08:06:43]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[08:11:32]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[08:16:21]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[08:21:10]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[08:25:59]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[08:30:48]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[08:35:37]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[08:40:26]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[08:45:15]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[08:50:04]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[08:54:53]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[08:59:42]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[09:04:31]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[09:09:20]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[09:14:09]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[09:18:58]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[09:23:47]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[09:28:36]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[09:33:25]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[09:38:14]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[09:43:03]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[09:47:52]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[09:52:41]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[09:57:30]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[10:02:19]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[10:07:08]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[10:11:57]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[10:16:46]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[10:21:35]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[10:26:24]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[10:31:13]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[10:36:02]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[10:40:51]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[10:45:40]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[10:50:29]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[10:55:18]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[11:00:07]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[11:04:56]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[11:09:45]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[11:14:34]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[11:19:23]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[11:24:12]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[11:29:01]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[11:33:50]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[11:38:39]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[11:43:28]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[11:48:17]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[11:53:06]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[11:57:55]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[12:02:44]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[12:07:33]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[12:12:22]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[12:17:11]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[12:22:00]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[12:26:49]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[12:31:38]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[12:36:27]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[12:41:16]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[12:46:05]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[12:50:54]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[12:55:43]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[13:00:32]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[13:05:21]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[13:10:10]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[13:14:59]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[13:19:48]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[13:20:34]	Logan[STEAM_0:1:67558546] has connected to the server.
+[13:21:05]	Logan used '/toggleraise'
+[13:21:11]	Logan loaded the character #2(aaaaaa)
+[13:21:14]	aaaaaa has entered observer.
+[13:21:14]	aaaaaa has left observer.
+[13:21:15]	aaaaaa has entered observer.
+[13:21:16]	aaaaaa has left observer.
+[13:21:16]	aaaaaa has entered observer.
+[13:21:20]	aaaaaa has left observer.
+[13:21:23]	[OOC] aaaaaa: wag1
+[13:21:23]	aaaaaa has entered observer.
+[13:21:27]	aaaaaa has left observer.
+[13:21:32]	[OOC] aaaaaa: how longs u been on?
+[13:21:34]	aaaaaa has entered observer.
+[13:21:34]	aaaaaa has left observer.
+[13:21:35]	aaaaaa has entered observer.
+[13:21:35]	aaaaaa has left observer.
+[13:21:35]	aaaaaa has entered observer.
+[13:21:36]	aaaaaa has left observer.
+[13:22:12]	aaaaaa has entered observer.
+[13:22:18]	aaaaaa has left observer.
+[13:22:20]	aaaaaa has entered observer.
+[13:22:22]	aaaaaa has left observer.
+[13:22:23]	aaaaaa has entered observer.
+[13:22:29]	aaaaaa has left observer.
+[13:22:30]	aaaaaa has entered observer.
+[13:22:34]	aaaaaa has left observer.
+[13:22:34]	aaaaaa has entered observer.
+[13:22:35]	aaaaaa has left observer.
+[13:22:35]	aaaaaa has entered observer.
+[13:22:46]	aaaaaa has left observer.
+[13:22:50]	aaaaaa has entered observer.
+[13:22:50]	aaaaaa has left observer.
+[13:22:53]	aaaaaa has entered observer.
+[13:22:56]	aaaaaa has left observer.
+[13:22:59]	aaaaaa has entered observer.
+[13:23:01]	aaaaaa has left observer.
+[13:23:01]	aaaaaa has entered observer.
+[13:23:15]	aaaaaa has left observer.
+[13:23:17]	aaaaaa has entered observer.
+[13:23:17]	aaaaaa has left observer.
+[13:23:18]	aaaaaa has entered observer.
+[13:23:19]	aaaaaa has left observer.
+[13:23:19]	aaaaaa has entered observer.
+[13:23:20]	aaaaaa has left observer.
+[13:23:20]	aaaaaa has entered observer.
+[13:23:21]	aaaaaa has left observer.
+[13:23:23]	aaaaaa has entered observer.
+[13:23:27]	aaaaaa has left observer.
+[13:23:29]	aaaaaa has entered observer.
+[13:23:31]	aaaaaa has left observer.
+[13:23:35]	aaaaaa has entered observer.
+[13:23:35]	aaaaaa has left observer.
+[13:23:40]	aaaaaa has entered observer.
+[13:23:41]	aaaaaa has left observer.
+[13:23:42]	aaaaaa has taken 4 damage from trigger_hurt, leaving them at 96 health.
+[13:23:42]	aaaaaa has taken 4 damage from trigger_hurt, leaving them at 92 health.
+[13:23:43]	aaaaaa has taken 4 damage from trigger_hurt, leaving them at 88 health.
+[13:23:43]	aaaaaa has taken 4 damage from trigger_hurt, leaving them at 84 health.
+[13:23:44]	aaaaaa has entered observer.
+[13:23:46]	aaaaaa has left observer.
+[13:23:48]	aaaaaa has entered observer.
+[13:23:49]	aaaaaa has left observer.
+[13:23:52]	aaaaaa has entered observer.
+[13:23:52]	aaaaaa has left observer.
+[13:23:53]	aaaaaa has entered observer.
+[13:23:53]	aaaaaa has left observer.
+[13:23:54]	aaaaaa has entered observer.
+[13:23:55]	aaaaaa has left observer.
+[13:23:55]	aaaaaa has entered observer.
+[13:23:56]	aaaaaa has left observer.
+[13:23:58]	aaaaaa has entered observer.
+[13:23:59]	aaaaaa has left observer.
+[13:24:18]	aaaaaa has entered observer.
+[13:24:19]	aaaaaa has left observer.
+[13:24:21]	aaaaaa has entered observer.
+[13:24:22]	aaaaaa has left observer.
+[13:24:37]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[13:25:07]	aaaaaa has taken 62 damage from worldspawn, leaving them at 37 health.
+[13:25:16]	aaaaaa has taken 472 damage from worldspawn, leaving them at -435 health.
+[13:25:39]	aaaaaa has entered observer.
+[13:25:39]	aaaaaa has left observer.
+[13:25:42]	aaaaaa has entered observer.
+[13:25:43]	aaaaaa has left observer.
+[13:26:00]	aaaaaa's money has changed by 5.
+[13:26:11]	aaaaaa has entered observer.
+[13:26:11]	aaaaaa has left observer.
+[13:26:12]	aaaaaa has entered observer.
+[13:26:20]	aaaaaa has left observer.
+[13:26:25]	aaaaaa has taken 1 damage from env_fire, leaving them at 99 health.
+[13:26:26]	aaaaaa has taken 1 damage from env_fire, leaving them at 98 health.
+[13:26:27]	aaaaaa has taken 1 damage from env_fire, leaving them at 97 health.
+[13:26:33]	aaaaaa used '/toggleraise'
+[13:26:34]	aaaaaa has entered observer.
+[13:26:34]	aaaaaa has left observer.
+[13:26:35]	aaaaaa has entered observer.
+[13:26:36]	aaaaaa has left observer.
+[13:26:37]	aaaaaa has entered observer.
+[13:26:38]	aaaaaa has left observer.
+[13:26:57]	aaaaaa has entered observer.
+[13:26:57]	aaaaaa has left observer.
+[13:26:58]	aaaaaa has entered observer.
+[13:26:58]	aaaaaa has left observer.
+[13:27:06]	aaaaaa used '/toggleraise'
+[13:27:08]	Leiter der Parteikanzlei Eckhardt Köstner has taken 70 damage from aaaaaa, leaving them at 30 health.
+[13:27:09]	Leiter der Parteikanzlei Eckhardt Köstner has taken 70 damage from aaaaaa, leaving them at -40 health.
+[13:27:11]	aaaaaa has entered observer.
+[13:27:12]	aaaaaa has left observer.
+[13:27:16]	aaaaaa has entered observer.
+[13:27:17]	aaaaaa has left observer.
+[13:27:18]	aaaaaa has entered observer.
+[13:27:21]	aaaaaa has left observer.
+[13:27:24]	aaaaaa used '/toggleraise'
+[13:27:35]	Leiter der Parteikanzlei Eckhardt Köstner has taken 421 damage from aaaaaa, leaving them at -321 health.
+[13:27:45]	Leiter der Parteikanzlei Eckhardt Köstner has taken 421 damage from aaaaaa, leaving them at -320 health.
+[13:27:51]	aaaaaa used '/toggleraise'
+[13:27:56]	Leiter der Parteikanzlei Eckhardt Köstner has taken 631 damage from aaaaaa, leaving them at -531 health.
+[13:27:58]	aaaaaa[STEAM_0:1:67558546] has disconnected from the server.
+[13:29:26]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[13:32:53]	Logan[STEAM_0:1:67558546] has connected to the server.
+[13:33:59]	Logan loaded the character #2(aaaaaa)
+[13:34:02]	aaaaaa has entered observer.
+[13:34:02]	aaaaaa has left observer.
+[13:34:05]	aaaaaa has entered observer.
+[13:34:06]	aaaaaa has left observer.
+[13:34:06]	aaaaaa has entered observer.
+[13:34:07]	aaaaaa has left observer.
+[13:34:15]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[13:34:21]	Beach[STEAM_0:1:60562422] has connected to the server.
+[13:35:26]	Beach loaded the character #20(SA-Obergruppenführer Guther Albrech Manheinz)
+[13:35:41]	aaaaaa has entered observer.
+[13:35:41]	aaaaaa has left observer.
+[13:35:46]	[OOC] aaaaaa: wassup beach
+[13:35:50]	[OOC] SA-Obergruppenführer Guther Albrech Manheinz: Not much
+[13:35:55]	[OOC] SA-Obergruppenführer Guther Albrech Manheinz: Checking if the new map is here
+[13:35:57]	[OOC] aaaaaa: fair, 
+[13:35:58]	[OOC] SA-Obergruppenführer Guther Albrech Manheinz: Checking if the new map is here
+[13:36:00]	[OOC] SA-Obergruppenführer Guther Albrech Manheinz: Checking if the new map is here
+[13:36:01]	[OOC] SA-Obergruppenführer Guther Albrech Manheinz: Checking if the new map is here
+[13:36:05]	[OOC] aaaaaa: not yet
+[13:36:10]	[OOC] SA-Obergruppenführer Guther Albrech Manheinz: :(
+[13:36:12]	[OOC] aaaaaa: havin a few issues with it
+[13:36:12]	aaaaaa has entered observer.
+[13:36:12]	[OOC] SA-Obergruppenführer Guther Albrech Manheinz: :(
+[13:36:14]	aaaaaa has left observer.
+[13:36:18]	[OOC] aaaaaa: slight chance it might not happen
+[13:36:19]	aaaaaa has entered observer.
+[13:36:20]	aaaaaa has left observer.
+[13:36:20]	aaaaaa has entered observer.
+[13:36:21]	aaaaaa has left observer.
+[13:36:21]	aaaaaa has entered observer.
+[13:36:23]	aaaaaa has left observer.
+[13:36:25]	[OOC] SA-Obergruppenführer Guther Albrech Manheinz: What
+[13:36:31]	[OOC] aaaaaa: berlin is a pain in the arse to edit
+[13:36:32]	aaaaaa has entered observer.
+[13:36:32]	aaaaaa has left observer.
+[13:36:33]	aaaaaa has entered observer.
+[13:36:33]	aaaaaa has left observer.
+[13:36:34]	aaaaaa has entered observer.
+[13:36:34]	aaaaaa has left observer.
+[13:36:35]	aaaaaa has entered observer.
+[13:36:35]	aaaaaa has left observer.
+[13:36:37]	[OOC] SA-Obergruppenführer Guther Albrech Manheinz: It has to happen
+[13:36:43]	[OOC] aaaaaa: i'm tryin'
+[13:36:50]	[OOC] aaaaaa: i'm at my limit for almost everything
+[13:36:52]	[OOC] SA-Obergruppenführer Guther Albrech Manheinz: Do dont try
+[13:36:52]	aaaaaa has entered observer.
+[13:36:54]	aaaaaa has left observer.
+[13:36:59]	[OOC] aaaaaa: Lol
+[13:37:00]	aaaaaa has entered observer.
+[13:37:00]	aaaaaa has left observer.
+[13:37:01]	aaaaaa has entered observer.
+[13:37:01]	aaaaaa has left observer.
+[13:37:02]	aaaaaa has entered observer.
+[13:37:08]	aaaaaa has left observer.
+[13:37:09]	aaaaaa has entered observer.
+[13:37:10]	aaaaaa has left observer.
+[13:37:15]	aaaaaa has entered observer.
+[13:37:16]	aaaaaa has left observer.
+[13:37:17]	aaaaaa has entered observer.
+[13:37:43]	aaaaaa has left observer.
+[13:37:44]	aaaaaa has entered observer.
+[13:37:44]	[OOC] SA-Obergruppenführer Guther Albrech Manheinz: Wanna see something cool
+[13:37:44]	aaaaaa has left observer.
+[13:37:49]	[OOC] aaaaaa: sure
+[13:37:52]	[??] SA-Obergruppenführer Guther Albrech Manheinz: nil
+[13:37:57]	[IC] aaaaaa: ye
+[13:38:05]	[IC] aaaaaa: ye
+[13:38:10]	[IC] aaaaaa: mhm
+[13:38:14]	[IC] aaaaaa: lmao
+[13:38:21]	[IC] aaaaaa: i think
+[13:38:33]	[IC] aaaaaa: Lmaoo
+[13:38:44]	[IC] aaaaaa: he didn't atke it
+[13:38:46]	[IC] aaaaaa: lol
+[13:38:48]	aaaaaa's money has changed by 5.
+[13:38:51]	[IC] aaaaaa: oh
+[13:38:53]	[IC] aaaaaa: lmao
+[13:38:53]	SA-Obergruppenführer Guther Albrech Manheinz used '/medals'
+[13:38:59]	[IC] aaaaaa: fair
+[13:39:03]	[IC] aaaaaa: i don't give a shit, u can keep it
+[13:39:04]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[13:39:06]	[IC] aaaaaa: lol
+[13:39:12]	[IC] aaaaaa: fair
+[13:39:27]	[IC] aaaaaa: sounds like a plan
+[13:39:31]	SA-Obergruppenführer Guther Albrech Manheinz used '/medals'
+[13:39:39]	[IC] aaaaaa: lol,
+[13:39:42]	[IC] aaaaaa: yeah new maps being a bitch
+[13:39:51]	[IC] aaaaaa: i'm at my limit
+[13:39:53]	[IC] aaaaaa: added so much to the map
+[13:40:04]	[IC] aaaaaa: well yea I know that
+[13:40:09]	[IC] aaaaaa: I also gotta develop the actual server
+[13:40:15]	SA-Obergruppenführer Guther Albrech Manheinz's money has changed by 75.
+[13:40:16]	[IC] aaaaaa: farming systems gettin added soon
+[13:40:22]	[IC] aaaaaa: oh they don't got that
+[13:40:25]	[IC] aaaaaa: i'll sort that ouyt
+[13:40:34]	[IC] aaaaaa: never done spawns
+[13:40:44]	[IC] aaaaaa: yea im boutta get off to do that
+[13:40:46]	[IC] aaaaaa: well
+[13:40:50]	[IC] aaaaaa: u can only have so many props
+[13:40:51]	[IC] aaaaaa: brushes
+[13:40:54]	[IC] aaaaaa: and details in a map
+[13:40:56]	[IC] aaaaaa: i'm at my limit with all 3
+[13:41:00]	[IC] aaaaaa: and I don't gotta remove anythin
+[13:41:04]	[IC] aaaaaa: wanna*
+[13:41:08]	[IC] aaaaaa: go on
+[13:41:17]	aaaaaa has entered observer.
+[13:41:20]	aaaaaa has left observer.
+[13:41:21]	aaaaaa has entered observer.
+[13:41:27]	[OOC] aaaaaa: noclip + 3p is evil
+[13:41:37]	[OOC] aaaaaa: the village?
+[13:41:42]	[OOC] SA-Obergruppenführer Guther Albrech Manheinz: Come
+[13:41:45]	[OOC] aaaaaa: im next to u
+[13:41:46]	aaaaaa has left observer.
+[13:41:46]	aaaaaa has entered observer.
+[13:41:46]	aaaaaa has left observer.
+[13:41:47]	aaaaaa has entered observer.
+[13:41:47]	aaaaaa has left observer.
+[13:41:48]	aaaaaa has entered observer.
+[13:41:48]	aaaaaa has left observer.
+[13:41:49]	aaaaaa has entered observer.
+[13:41:49]	aaaaaa has left observer.
+[13:41:49]	aaaaaa has entered observer.
+[13:41:49]	aaaaaa has left observer.
+[13:41:49]	aaaaaa has entered observer.
+[13:41:50]	aaaaaa has left observer.
+[13:41:50]	aaaaaa has entered observer.
+[13:41:50]	aaaaaa has left observer.
+[13:41:50]	aaaaaa has entered observer.
+[13:41:52]	aaaaaa has left observer.
+[13:41:52]	aaaaaa has entered observer.
+[13:42:07]	[IC] aaaaaa: I might remove a few houses
+[13:42:15]	aaaaaa has left observer.
+[13:42:15]	aaaaaa has entered observer.
+[13:42:16]	aaaaaa has left observer.
+[13:42:17]	aaaaaa has entered observer.
+[13:42:19]	aaaaaa has left observer.
+[13:42:19]	aaaaaa has entered observer.
+[13:42:19]	aaaaaa has left observer.
+[13:42:20]	aaaaaa has entered observer.
+[13:42:20]	aaaaaa has left observer.
+[13:42:20]	aaaaaa has entered observer.
+[13:42:21]	aaaaaa has left observer.
+[13:42:21]	aaaaaa has entered observer.
+[13:42:23]	[IC] aaaaaa: I oculd
+[13:42:24]	aaaaaa has left observer.
+[13:42:25]	aaaaaa has entered observer.
+[13:42:27]	aaaaaa has left observer.
+[13:42:28]	aaaaaa has entered observer.
+[13:42:29]	aaaaaa has left observer.
+[13:42:30]	aaaaaa has entered observer.
+[13:42:30]	aaaaaa has left observer.
+[13:42:31]	aaaaaa has entered observer.
+[13:42:33]	[IC] aaaaaa: ye
+[13:42:35]	aaaaaa has left observer.
+[13:42:36]	aaaaaa has entered observer.
+[13:42:39]	[IC] aaaaaa: fair
+[13:42:49]	[IC] aaaaaa: i'll see, I had to tone down the water a bit
+[13:42:50]	aaaaaa has left observer.
+[13:42:50]	aaaaaa has entered observer.
+[13:42:51]	aaaaaa has left observer.
+[13:42:51]	aaaaaa has entered observer.
+[13:42:54]	[IC] aaaaaa: its too realistic
+[13:43:04]	[IC] aaaaaa: it's been toned down by like 40%
+[13:43:09]	[IC] aaaaaa: so its a little less murcury'y
+[13:43:14]	aaaaaa has left observer.
+[13:43:14]	aaaaaa has entered observer.
+[13:43:17]	aaaaaa has left observer.
+[13:43:23]	[IC] aaaaaa: ye
+[13:43:29]	[IC] aaaaaa: well
+[13:43:32]	[IC] aaaaaa: civvies need some shti too
+[13:43:37]	aaaaaa's money has changed by 5.
+[13:43:42]	[IC] aaaaaa: fair
+[13:43:47]	aaaaaa has left observer.
+[13:43:48]	[IC] aaaaaa: fair
+[13:43:49]	aaaaaa has entered observer.
+[13:43:49]	aaaaaa has left observer.
+[13:43:53]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[13:43:58]	[IC] aaaaaa: I shall
+[13:44:01]	[IC] aaaaaa: you'll be the first person I DM
+[13:44:05]	[IC] aaaaaa: ima get back to the map anyways
+[13:44:09]	[IC] aaaaaa: i added what I needed to
+[13:44:12]	[IC] aaaaaa: i'll try
+[13:44:17]	aaaaaa[STEAM_0:1:67558546] has disconnected from the server.
+[13:44:48]	SA-Obergruppenführer Guther Albrech Manheinz[STEAM_0:1:60562422] has disconnected from the server.
+[13:48:42]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[13:53:31]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[13:58:20]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[14:03:09]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[14:07:58]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[14:12:47]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[14:17:36]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[14:22:25]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[14:27:14]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[14:32:03]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[14:36:52]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[14:41:41]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[14:46:30]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[14:51:19]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[14:56:08]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[15:00:57]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[15:05:46]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[15:10:35]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[15:15:24]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[15:20:13]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[15:25:02]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[15:29:51]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[15:34:40]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[15:39:29]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[15:44:18]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[15:49:07]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[15:53:56]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[15:58:45]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[16:03:34]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[16:08:23]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[16:13:12]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[16:18:01]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[16:22:50]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[16:27:39]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[16:32:28]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[16:37:17]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[16:42:06]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[16:46:55]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[16:51:44]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[16:56:33]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[17:01:22]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[17:06:11]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[17:11:00]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[17:15:49]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[17:20:38]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[17:25:27]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[17:30:16]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[17:35:05]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[17:39:54]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[17:44:43]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[17:49:32]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[17:54:21]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[17:59:10]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[18:03:59]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[18:08:48]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[18:13:37]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[18:18:26]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[18:23:15]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[18:28:04]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[18:32:53]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[18:37:42]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[18:42:31]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[18:47:20]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[18:52:09]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[18:56:58]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[19:01:47]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[19:06:36]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[19:11:25]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[19:16:14]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[19:21:03]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[19:25:52]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[19:30:41]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[19:35:30]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[19:40:19]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[19:45:08]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[19:49:57]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[19:54:46]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[19:59:35]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[20:04:24]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[20:07:00]	Logan[STEAM_0:1:67558546] has connected to the server.
+[20:07:24]	Logan loaded the character #2(aaaaaa)
+[20:09:13]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[20:12:13]	aaaaaa's money has changed by 5.
+[20:14:02]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[20:17:02]	aaaaaa's money has changed by 5.
+[20:18:51]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[20:21:51]	aaaaaa's money has changed by 5.
+[20:22:31]	aaaaaa has entered observer.
+[20:22:33]	aaaaaa has left observer.
+[20:23:40]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[20:26:40]	aaaaaa's money has changed by 5.
+[20:28:29]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[20:29:10]	aaaaaa has entered observer.
+[20:29:18]	aaaaaa has left observer.
+[20:29:25]	aaaaaa has entered observer.
+[20:29:26]	aaaaaa has left observer.
+[20:29:29]	aaaaaa has entered observer.
+[20:29:32]	aaaaaa has left observer.
+[20:31:29]	aaaaaa's money has changed by 5.
+[20:33:18]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[20:35:48]	aaaaaa has entered observer.
+[20:35:49]	aaaaaa has left observer.
+[20:35:51]	[IC] aaaaaa: models/props_lab/box01a.mdl
+[20:36:18]	aaaaaa's money has changed by 5.
+[20:36:53]	aaaaaa has entered observer.
+[20:36:55]	aaaaaa has left observer.
+[20:37:02]	aaaaaa has entered observer.
+[20:37:02]	aaaaaa has left observer.
+[20:37:05]	aaaaaa has entered observer.
+[20:37:08]	aaaaaa has left observer.
+[20:37:09]	aaaaaa has entered observer.
+[20:37:52]	aaaaaa has left observer.
+[20:37:53]	aaaaaa has entered observer.
+[20:37:53]	aaaaaa has left observer.
+[20:37:54]	aaaaaa has entered observer.
+[20:38:02]	aaaaaa has left observer.
+[20:38:04]	aaaaaa has entered observer.
+[20:38:07]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[20:38:07]	aaaaaa has left observer.
+[20:38:30]	aaaaaa has entered observer.
+[20:38:31]	aaaaaa has left observer.
+[20:38:32]	aaaaaa has entered observer.
+[20:39:00]	aaaaaa has left observer.
+[20:41:07]	aaaaaa's money has changed by 5.
+[20:41:14]	aaaaaa used '/toggleraise'
+[20:42:22]	aaaaaa used '/toggleraise'
+[20:42:44]	aaaaaa used '/toggleraise'
+[20:42:56]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[20:43:09]	aaaaaa has entered observer.
+[20:43:12]	aaaaaa has left observer.
+[20:43:13]	Leiter der Parteikanzlei Eckhardt Köstner has taken 30 damage from aaaaaa, leaving them at 70 health.
+[20:43:13]	Leiter der Parteikanzlei Eckhardt Köstner has taken 30 damage from aaaaaa, leaving them at 40 health.
+[20:43:13]	Leiter der Parteikanzlei Eckhardt Köstner has taken 30 damage from aaaaaa, leaving them at 10 health.
+[20:43:13]	Leiter der Parteikanzlei Eckhardt Köstner has taken 30 damage from aaaaaa, leaving them at -20 health.
+[20:43:21]	aaaaaa has entered observer.
+[20:43:22]	aaaaaa has left observer.
+[20:43:47]	aaaaaa has entered observer.
+[20:43:47]	aaaaaa has left observer.
+[20:43:48]	Leiter der Parteikanzlei Eckhardt Köstner has taken 3 damage from aaaaaa, leaving them at 96 health.
+[20:43:48]	Leiter der Parteikanzlei Eckhardt Köstner has taken 3 damage from aaaaaa, leaving them at 93 health.
+[20:43:48]	Leiter der Parteikanzlei Eckhardt Köstner has taken 3 damage from aaaaaa, leaving them at 89 health.
+[20:43:48]	Leiter der Parteikanzlei Eckhardt Köstner has taken 3 damage from aaaaaa, leaving them at 86 health.
+[20:43:48]	Leiter der Parteikanzlei Eckhardt Köstner has taken 3 damage from aaaaaa, leaving them at 82 health.
+[20:43:48]	Leiter der Parteikanzlei Eckhardt Köstner has taken 28 damage from aaaaaa, leaving them at 54 health.
+[20:43:48]	Leiter der Parteikanzlei Eckhardt Köstner has taken 3 damage from aaaaaa, leaving them at 51 health.
+[20:43:48]	Leiter der Parteikanzlei Eckhardt Köstner has taken 3 damage from aaaaaa, leaving them at 47 health.
+[20:43:48]	Leiter der Parteikanzlei Eckhardt Köstner has taken 3 damage from aaaaaa, leaving them at 44 health.
+[20:43:48]	Leiter der Parteikanzlei Eckhardt Köstner has taken 28 damage from aaaaaa, leaving them at 16 health.
+[20:43:48]	Leiter der Parteikanzlei Eckhardt Köstner has taken 28 damage from aaaaaa, leaving them at -12 health.
+[20:44:06]	Leiter der Parteikanzlei Eckhardt Köstner has taken 661 damage from aaaaaa, leaving them at -561 health.
+[20:44:10]	aaaaaa used '/toggleraise'
+[20:44:13]	Leiter der Parteikanzlei Eckhardt Köstner has taken 84 damage from aaaaaa, leaving them at 17 health.
+[20:44:13]	Leiter der Parteikanzlei Eckhardt Köstner has taken 10 damage from aaaaaa, leaving them at 6 health.
+[20:44:13]	Leiter der Parteikanzlei Eckhardt Köstner has taken 10 damage from aaaaaa, leaving them at -4 health.
+[20:44:23]	aaaaaa has entered observer.
+[20:44:24]	aaaaaa has left observer.
+[20:44:26]	Leiter der Parteikanzlei Eckhardt Köstner has taken 84 damage from aaaaaa, leaving them at 16 health.
+[20:44:26]	Leiter der Parteikanzlei Eckhardt Köstner has taken 84 damage from aaaaaa, leaving them at -68 health.
+[20:44:34]	Leiter der Parteikanzlei Eckhardt Köstner has taken 1171 damage from aaaaaa, leaving them at -1071 health.
+[20:44:40]	Leiter der Parteikanzlei Eckhardt Köstner has taken 10 damage from aaaaaa, leaving them at 89 health.
+[20:44:40]	Leiter der Parteikanzlei Eckhardt Köstner has taken 84 damage from aaaaaa, leaving them at 6 health.
+[20:44:40]	Leiter der Parteikanzlei Eckhardt Köstner has taken 1171 damage from aaaaaa, leaving them at -1166 health.
+[20:45:17]	aaaaaa used '/toggleraise'
+[20:45:21]	Leiter der Parteikanzlei Eckhardt Köstner has taken 5 damage from aaaaaa, leaving them at 95 health.
+[20:45:22]	Leiter der Parteikanzlei Eckhardt Köstner has taken 601 damage from aaaaaa, leaving them at -506 health.
+[20:45:31]	Leiter der Parteikanzlei Eckhardt Köstner has taken 601 damage from aaaaaa, leaving them at -500 health.
+[20:45:56]	aaaaaa's money has changed by 5.
+[20:47:45]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[20:50:45]	aaaaaa's money has changed by 5.
+[20:52:34]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[20:53:13]	Leiter der Parteikanzlei Eckhardt Köstner has taken 1021 damage from aaaaaa, leaving them at -922 health.
+[20:53:26]	Leiter der Parteikanzlei Eckhardt Köstner has taken 1021 damage from aaaaaa, leaving them at -921 health.
+[20:53:39]	Leiter der Parteikanzlei Eckhardt Köstner has taken 73 damage from aaaaaa, leaving them at 27 health.
+[20:53:39]	Leiter der Parteikanzlei Eckhardt Köstner has taken 73 damage from aaaaaa, leaving them at -46 health.
+[20:53:42]	aaaaaa has entered observer.
+[20:53:42]	aaaaaa has left observer.
+[20:55:34]	aaaaaa's money has changed by 5.
+[20:57:23]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[20:57:42]	aaaaaa has entered observer.
+[20:57:43]	aaaaaa has left observer.
+[20:58:49]	aaaaaa has taken 50 damage from prop_physics, leaving them at 50 health.
+[20:58:49]	aaaaaa has taken 5 damage from prop_physics, leaving them at 45 health.
+[20:59:00]	aaaaaa has taken 10 damage from aaaaaa, leaving them at 35 health.
+[20:59:20]	aaaaaa has entered observer.
+[20:59:21]	aaaaaa has left observer.
+[20:59:21]	aaaaaa has entered observer.
+[20:59:22]	aaaaaa has left observer.
+[20:59:22]	aaaaaa has entered observer.
+[20:59:23]	aaaaaa has left observer.
+[20:59:23]	aaaaaa has entered observer.
+[20:59:24]	aaaaaa has left observer.
+[21:00:23]	aaaaaa's money has changed by 5.
+[21:01:55]	aaaaaa has entered observer.
+[21:02:00]	aaaaaa has left observer.
+[21:02:01]	aaaaaa has entered observer.
+[21:02:01]	aaaaaa has left observer.
+[21:02:02]	aaaaaa has entered observer.
+[21:02:02]	aaaaaa has left observer.
+[21:02:03]	aaaaaa has entered observer.
+[21:02:03]	aaaaaa has left observer.
+[21:02:04]	aaaaaa has entered observer.
+[21:02:05]	aaaaaa has left observer.
+[21:02:06]	aaaaaa has entered observer.
+[21:02:06]	aaaaaa has left observer.
+[21:02:08]	aaaaaa has entered observer.
+[21:02:08]	aaaaaa has left observer.
+[21:02:09]	aaaaaa has entered observer.
+[21:02:10]	aaaaaa has left observer.
+[21:02:10]	aaaaaa has entered observer.
+[21:02:11]	aaaaaa has left observer.
+[21:02:12]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[21:02:12]	aaaaaa has entered observer.
+[21:02:12]	aaaaaa has left observer.
+[21:04:13]	aaaaaa has entered observer.
+[21:04:20]	aaaaaa has left observer.
+[21:04:23]	aaaaaa used '/toggleraise'
+[21:04:25]	aaaaaa has entered observer.
+[21:04:35]	aaaaaa has left observer.
+[21:04:39]	Leiter der Parteikanzlei Eckhardt Köstner has taken 2343 damage from aaaaaa, leaving them at -2243 health.
+[21:04:49]	aaaaaa used '/toggleraise'
+[21:04:52]	aaaaaa has entered observer.
+[21:04:52]	aaaaaa has left observer.
+[21:04:57]	Leiter der Parteikanzlei Eckhardt Köstner has taken 71 damage from aaaaaa, leaving them at 29 health.
+[21:04:57]	Leiter der Parteikanzlei Eckhardt Köstner has taken 71 damage from aaaaaa, leaving them at -41 health.
+[21:05:05]	aaaaaa used '/toggleraise'
+[21:05:10]	Leiter der Parteikanzlei Eckhardt Köstner has taken 79 damage from aaaaaa, leaving them at 20 health.
+[21:05:11]	Leiter der Parteikanzlei Eckhardt Köstner has taken 79 damage from aaaaaa, leaving them at -59 health.
+[21:05:12]	aaaaaa's money has changed by 5.
+[21:06:10]	aaaaaa used '/toggleraise'
+[21:06:20]	aaaaaa used '/toggleraise'
+[21:06:38]	aaaaaa used '/toggleraise'
+[21:06:50]	Leiter der Parteikanzlei Eckhardt Köstner has taken 51 damage from aaaaaa, leaving them at 48 health.
+[21:06:50]	Leiter der Parteikanzlei Eckhardt Köstner has taken 51 damage from aaaaaa, leaving them at -3 health.
+[21:07:01]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[21:07:09]	aaaaaa used '/toggleraise'
+[21:07:28]	Leiter der Parteikanzlei Eckhardt Köstner has taken 751 damage from aaaaaa, leaving them at -651 health.
+[21:07:36]	Leiter der Parteikanzlei Eckhardt Köstner has taken 751 damage from aaaaaa, leaving them at -651 health.
+[21:07:47]	Leiter der Parteikanzlei Eckhardt Köstner has taken 7 damage from aaaaaa, leaving them at 93 health.
+[21:07:47]	Leiter der Parteikanzlei Eckhardt Köstner has taken 7 damage from aaaaaa, leaving them at 87 health.
+[21:07:48]	Leiter der Parteikanzlei Eckhardt Köstner has taken 54 damage from aaaaaa, leaving them at 33 health.
+[21:07:48]	Leiter der Parteikanzlei Eckhardt Köstner has taken 7 damage from aaaaaa, leaving them at 26 health.
+[21:07:48]	Leiter der Parteikanzlei Eckhardt Köstner has taken 7 damage from aaaaaa, leaving them at 20 health.
+[21:07:53]	Leiter der Parteikanzlei Eckhardt Köstner has taken 751 damage from aaaaaa, leaving them at -731 health.
+[21:08:03]	aaaaaa used '/toggleraise'
+[21:08:08]	Leiter der Parteikanzlei Eckhardt Köstner has taken 45 damage from aaaaaa, leaving them at 55 health.
+[21:08:08]	Leiter der Parteikanzlei Eckhardt Köstner has taken 45 damage from aaaaaa, leaving them at 10 health.
+[21:08:08]	Leiter der Parteikanzlei Eckhardt Köstner has taken 631 damage from aaaaaa, leaving them at -621 health.
+[21:08:21]	Leiter der Parteikanzlei Eckhardt Köstner has taken 45 damage from aaaaaa, leaving them at 55 health.
+[21:08:21]	Leiter der Parteikanzlei Eckhardt Köstner has taken 45 damage from aaaaaa, leaving them at 10 health.
+[21:08:22]	Leiter der Parteikanzlei Eckhardt Köstner has taken 45 damage from aaaaaa, leaving them at -35 health.
+[21:08:56]	aaaaaa used '/toggleraise'
+[21:09:01]	Leiter der Parteikanzlei Eckhardt Köstner has taken 60 damage from aaaaaa, leaving them at 40 health.
+[21:09:01]	Leiter der Parteikanzlei Eckhardt Köstner has taken 60 damage from aaaaaa, leaving them at -21 health.
+[21:09:17]	aaaaaa used '/toggleraise'
+[21:09:21]	Leiter der Parteikanzlei Eckhardt Köstner has taken 47 damage from aaaaaa, leaving them at 53 health.
+[21:09:21]	Leiter der Parteikanzlei Eckhardt Köstner has taken 661 damage from aaaaaa, leaving them at -608 health.
+[21:09:33]	aaaaaa used '/toggleraise'
+[21:09:36]	Leiter der Parteikanzlei Eckhardt Köstner has taken 73 damage from aaaaaa, leaving them at 28 health.
+[21:09:36]	Leiter der Parteikanzlei Eckhardt Köstner has taken 73 damage from aaaaaa, leaving them at -45 health.
+[21:09:44]	aaaaaa used '/toggleraise'
+[21:09:54]	Leiter der Parteikanzlei Eckhardt Köstner has taken 571 damage from aaaaaa, leaving them at -471 health.
+[21:10:01]	aaaaaa's money has changed by 5.
+[21:10:08]	aaaaaa has entered observer.
+[21:10:09]	aaaaaa has left observer.
+[21:10:46]	aaaaaa used '/toggleraise'
+[21:11:08]	aaaaaa used '/toggleraise'
+[21:11:42]	Leiter der Parteikanzlei Eckhardt Köstner has taken 69 damage from aaaaaa, leaving them at 31 health.
+[21:11:43]	Leiter der Parteikanzlei Eckhardt Köstner has taken 961 damage from aaaaaa, leaving them at -930 health.
+[21:11:50]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[21:12:03]	aaaaaa used '/toggleraise'
+[21:12:07]	Leiter der Parteikanzlei Eckhardt Köstner has taken 73 damage from aaaaaa, leaving them at 27 health.
+[21:12:07]	Leiter der Parteikanzlei Eckhardt Köstner has taken 73 damage from aaaaaa, leaving them at -46 health.
+[21:12:24]	aaaaaa used '/toggleraise'
+[21:12:26]	Leiter der Parteikanzlei Eckhardt Köstner has taken 45 damage from aaaaaa, leaving them at 55 health.
+[21:12:26]	Leiter der Parteikanzlei Eckhardt Köstner has taken 45 damage from aaaaaa, leaving them at 10 health.
+[21:12:26]	Leiter der Parteikanzlei Eckhardt Köstner has taken 45 damage from aaaaaa, leaving them at -35 health.
+[21:14:50]	aaaaaa's money has changed by 5.
+[21:16:39]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[21:19:39]	aaaaaa's money has changed by 5.
+[21:21:28]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[21:24:28]	aaaaaa's money has changed by 5.
+[21:26:17]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[21:27:11]	aaaaaa used '/toggleraise'
+[21:27:20]	Leiter der Parteikanzlei Eckhardt Köstner has taken 691 damage from aaaaaa, leaving them at -591 health.
+[21:27:35]	aaaaaa used '/toggleraise'
+[21:27:36]	Leiter der Parteikanzlei Eckhardt Köstner has taken 41 damage from aaaaaa, leaving them at 59 health.
+[21:27:36]	Leiter der Parteikanzlei Eckhardt Köstner has taken 41 damage from aaaaaa, leaving them at 19 health.
+[21:27:36]	Leiter der Parteikanzlei Eckhardt Köstner has taken 41 damage from aaaaaa, leaving them at -22 health.
+[21:27:50]	Leiter der Parteikanzlei Eckhardt Köstner has taken 41 damage from aaaaaa, leaving them at 59 health.
+[21:27:50]	Leiter der Parteikanzlei Eckhardt Köstner has taken 41 damage from aaaaaa, leaving them at 18 health.
+[21:27:50]	Leiter der Parteikanzlei Eckhardt Köstner has taken 41 damage from aaaaaa, leaving them at -22 health.
+[21:28:03]	aaaaaa used '/toggleraise'
+[21:28:13]	Leiter der Parteikanzlei Eckhardt Köstner has taken 45 damage from aaaaaa, leaving them at 54 health.
+[21:28:14]	Leiter der Parteikanzlei Eckhardt Köstner has taken 45 damage from aaaaaa, leaving them at 9 health.
+[21:28:15]	Leiter der Parteikanzlei Eckhardt Köstner has taken 6 damage from aaaaaa, leaving them at 4 health.
+[21:28:15]	Leiter der Parteikanzlei Eckhardt Köstner has taken 6 damage from aaaaaa, leaving them at -2 health.
+[21:28:29]	Leiter der Parteikanzlei Eckhardt Köstner has taken 139 damage from aaaaaa, leaving them at -39 health.
+[21:28:56]	Leiter der Parteikanzlei Eckhardt Köstner has taken 601 damage from aaaaaa, leaving them at -501 health.
+[21:29:12]	aaaaaa used '/toggleraise'
+[21:29:14]	Leiter der Parteikanzlei Eckhardt Köstner has taken 69 damage from aaaaaa, leaving them at 31 health.
+[21:29:16]	Leiter der Parteikanzlei Eckhardt Köstner has taken 69 damage from aaaaaa, leaving them at -37 health.
+[21:29:17]	aaaaaa's money has changed by 5.
+[21:29:24]	Leiter der Parteikanzlei Eckhardt Köstner has taken 69 damage from aaaaaa, leaving them at 31 health.
+[21:29:26]	Leiter der Parteikanzlei Eckhardt Köstner has taken 961 damage from aaaaaa, leaving them at -930 health.
+[21:29:33]	Leiter der Parteikanzlei Eckhardt Köstner has taken 961 damage from aaaaaa, leaving them at -861 health.
+[21:30:36]	aaaaaa used '/toggleraise'
+[21:30:38]	Leiter der Parteikanzlei Eckhardt Köstner has taken 421 damage from aaaaaa, leaving them at -321 health.
+[21:30:46]	aaaaaa used '/toggleraise'
+[21:30:52]	[OOC] aaaaaa: UR FINALLY BACK
+[21:30:55]	[OOC] Leiter der Parteikanzlei Eckhardt Köstner: YES
+[21:30:57]	[OOC] aaaaaa: I've only murdered you like 300 times
+[21:31:00]	[OOC] Leiter der Parteikanzlei Eckhardt Köstner: I WAS AT WORK
+[21:31:06]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[21:31:06]	[OOC] Leiter der Parteikanzlei Eckhardt Köstner: I WAS AT WORK
+[21:31:13]	[OOC] aaaaaa: Lol
+[21:31:16]	aaaaaa used '/toggleraise'
+[21:31:34]	Leiter der Parteikanzlei Eckhardt Köstner has taken 50 damage from aaaaaa, leaving them at 50 health.
+[21:31:35]	Leiter der Parteikanzlei Eckhardt Köstner has taken 60 damage from aaaaaa, leaving them at -10 health.
+[21:31:38]	aaaaaa[STEAM_0:1:67558546] has disconnected from the server.
+[21:35:55]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[21:40:44]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[21:45:33]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[21:50:22]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[21:55:11]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[22:00:00]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[22:04:49]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[22:09:38]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[22:14:27]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[22:19:16]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[22:24:05]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[22:28:54]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[22:33:43]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[22:38:32]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[22:43:21]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[22:48:10]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[22:52:21]	Leiter der Parteikanzlei Eckhardt Köstner used '/medals'
+[22:52:47]	Leiter der Parteikanzlei Eckhardt Köstner used 'table: 0xf13a3850'
+[22:52:47]	Leiter der Parteikanzlei Eckhardt Köstner used '/flagtake eck cross'
+[22:52:56]	Leiter der Parteikanzlei Eckhardt Köstner used 'table: 0xf13a3850'
+[22:52:56]	Leiter der Parteikanzlei Eckhardt Köstner used '/flagtake eck cross'
+[22:52:58]	Leiter der Parteikanzlei Eckhardt Köstner used '/medals'
+[22:52:59]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[22:56:01]	Lanius[STEAM_0:0:211494314] has connected to the server.
+[22:57:48]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[23:02:37]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[23:07:17]	[ME] Leiter der Parteikanzlei Eckhardt Köstner: discreetly flashes Geheime Staatspolizei warrant disk, displaying the numbers 1438
+[23:07:22]	Leiter der Parteikanzlei Eckhardt Köstner used '/charsetmodel'
+[23:07:26]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[23:09:38]	Leiter der Parteikanzlei Eckhardt Köstner used '/MEDALS'
+[23:12:15]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[23:17:04]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[23:21:53]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[23:26:42]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[23:31:31]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[23:36:20]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[23:41:09]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[23:42:17]	Vainmain![STEAM_0:1:35782731] has connected to the server.
+[23:45:58]	Leiter der Parteikanzlei Eckhardt Köstner's money has changed by 75.
+[23:47:56]	Vainmain! created the character #25(Erich Bismarck)
+[23:47:58]	Vainmain! loaded the character #25(Erich Bismarck)
+[23:48:07]	[OOC] Erich Bismarck: elliot 
+[23:48:10]	[OOC] Erich Bismarck: help me please!
+[23:49:20]	Elliot Goldbergstein loaded the character #12(Elliot)
+[23:49:21]	Elliot has taken 21 damage from worldspawn, leaving them at 79 health.
+[23:49:46]	Elliot used '/charsetmodel'
+[23:49:57]	Elliot used '/charsetmodel'
+[23:51:01]	Elliot used '/charsetmodel STEAM_0:1:35782731'
+[23:51:17]	Elliot used '/charsetmodel STEAM_0:1:35782731 models/not_brot/prometheus/ss/sd/co6.mdl'
+[23:52:47]	Erich Bismarck's money has changed by 5.
+[23:54:09]	Elliot's money has changed by 0.
+[23:57:36]	Erich Bismarck's money has changed by 5.
+[23:58:58]	Elliot's money has changed by 0.

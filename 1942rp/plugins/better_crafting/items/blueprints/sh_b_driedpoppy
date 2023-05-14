@@ -1,0 +1,11 @@
+ITEM.name = "Dried Poppy Guide"
+ITEM.desc = "How to Dry Poppy."
+ITEM.price = 59.14
+ITEM.noBusiness = true
+
+ITEM.requirements = {
+	{"poppy", 2},
+}
+ITEM.result = {
+    {"drypoppy", 1},
+}

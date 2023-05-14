@@ -1,0 +1,1544 @@
+[00:00:03]	Lanius has entered observer.
+[00:00:31]	Lanius has left observer.
+[00:00:32]	Lanius has entered observer.
+[00:00:45]	Lanius has left observer.
+[00:00:46]	Lanius has entered observer.
+[00:02:14]	Lanius's money has changed by 0.
+[00:07:03]	Lanius's money has changed by 0.
+[00:09:05]	Lanius has left observer.
+[00:09:05]	Lanius has entered observer.
+[00:09:06]	Lanius has left observer.
+[00:09:07]	Lanius has entered observer.
+[00:09:07]	Lanius has left observer.
+[00:09:08]	Lanius has entered observer.
+[00:09:09]	Lanius has left observer.
+[00:09:10]	Lanius has entered observer.
+[00:09:14]	Lanius has left observer.
+[00:09:14]	Lanius has entered observer.
+[00:09:15]	Lanius has left observer.
+[00:09:15]	Lanius has entered observer.
+[00:09:16]	Lanius has left observer.
+[00:09:16]	Lanius has entered observer.
+[00:09:17]	Lanius has left observer.
+[00:09:17]	Lanius has entered observer.
+[00:09:18]	Lanius has left observer.
+[00:09:19]	Lanius has entered observer.
+[00:09:19]	Lanius has left observer.
+[00:09:20]	Lanius has entered observer.
+[00:09:21]	Lanius has left observer.
+[00:09:22]	Lanius has entered observer.
+[00:09:22]	Lanius has left observer.
+[00:09:23]	Lanius has entered observer.
+[00:09:23]	Lanius has left observer.
+[00:09:24]	Lanius has entered observer.
+[00:09:24]	Lanius has left observer.
+[00:09:26]	Lanius has entered observer.
+[00:09:26]	Lanius has left observer.
+[00:09:29]	Lanius has entered observer.
+[00:10:16]	Lanius has left observer.
+[00:10:22]	Lanius has entered observer.
+[00:10:28]	Lanius has left observer.
+[00:10:32]	Lanius used '/flaggive lanius v'
+[00:10:48]	Lanius has entered observer.
+[00:10:52]	Lanius has left observer.
+[00:10:53]	Lanius has taken 253 damage from worldspawn, leaving them at -154 health.
+[00:11:30]	Lanius used '/plytransfer lanius cit'
+[00:11:34]	Lanius used '/plytransfer lanius allg'
+[00:11:38]	Lanius used '/plytransfer lanius staff'
+[00:11:41]	Lanius has entered observer.
+[00:11:43]	Lanius has left observer.
+[00:11:43]	Lanius has entered observer.
+[00:11:48]	Lanius has left observer.
+[00:11:52]	Lanius's money has changed by 0.
+[00:13:37]	Lanius loaded the character #4(Dr. Werner Altenberg)
+[00:27:59]	Lanius[STEAM_0:0:211494314] has connected to the server.
+[00:29:19]	Lanius loaded the character #1(Lanius)
+[00:29:24]	Lanius has entered observer.
+[00:29:31]	Lanius has left observer.
+[00:29:38]	Lanius used '/flaggive lanius v'
+[00:34:08]	Lanius's money has changed by 0.
+[00:34:12]	Lanius[STEAM_0:0:211494314] has disconnected from the server.
+[01:55:36]	Lanius[STEAM_0:0:211494314] has connected to the server.
+[01:56:32]	Lanius loaded the character #1(Lanius)
+[01:56:34]	Lanius has entered observer.
+[01:56:38]	Lanius has left observer.
+[01:56:56]	Lanius used '/charsetmoney lanius 99999999999999999'
+[01:57:14]	Lanius's money has changed by -5600.
+[01:57:14]	Lanius ordered a shipment
+[01:57:18]	Lanius took 'Maschinenpistole 40' from a shipment
+[01:57:18]	Lanius took 'Maschinenpistole 40' from a shipment
+[01:57:21]	Lanius tried 'Equip' on item 'Maschinenpistole 40'(#41)
+[02:01:21]	Lanius's money has changed by 0.
+[02:03:00]	Lanius has entered observer.
+[02:04:03]	Lanius has left observer.
+[02:04:05]	Lanius has entered observer.
+[02:04:28]	Lanius has left observer.
+[02:04:29]	Lanius has entered observer.
+[02:04:29]	Lanius has left observer.
+[02:04:30]	Lanius has entered observer.
+[02:04:31]	Lanius has left observer.
+[02:04:38]	Lanius has entered observer.
+[02:04:44]	Lanius has left observer.
+[02:04:45]	Lanius has entered observer.
+[02:04:47]	Lanius has left observer.
+[02:04:49]	Lanius has entered observer.
+[02:04:50]	Lanius has left observer.
+[02:04:52]	Lanius has entered observer.
+[02:04:53]	Lanius has left observer.
+[02:04:54]	Lanius has entered observer.
+[02:04:55]	Lanius has left observer.
+[02:04:58]	Lanius has entered observer.
+[02:04:58]	Lanius has left observer.
+[02:04:59]	Lanius has entered observer.
+[02:05:44]	Lanius has left observer.
+[02:05:47]	Lanius has entered observer.
+[02:06:10]	Lanius's money has changed by 0.
+[02:10:59]	Lanius's money has changed by 0.
+[02:14:54]	Lanius has left observer.
+[02:15:48]	Lanius's money has changed by 0.
+[02:20:37]	Lanius's money has changed by 0.
+[02:25:26]	Lanius's money has changed by 0.
+[02:30:15]	Lanius's money has changed by 0.
+[02:35:04]	Lanius's money has changed by 0.
+[02:39:53]	Lanius's money has changed by 0.
+[02:44:42]	Lanius's money has changed by 0.
+[02:47:31]	Lanius has entered observer.
+[02:47:33]	Lanius has left observer.
+[02:47:33]	Lanius has entered observer.
+[02:47:34]	Lanius has left observer.
+[02:47:34]	Lanius has entered observer.
+[02:47:35]	Lanius has left observer.
+[02:47:36]	Lanius has entered observer.
+[02:47:37]	Lanius has left observer.
+[02:47:38]	Lanius has entered observer.
+[02:47:40]	Lanius has left observer.
+[02:47:42]	Lanius has entered observer.
+[02:47:42]	Lanius has left observer.
+[02:47:43]	Lanius has entered observer.
+[02:47:44]	Lanius has left observer.
+[02:47:44]	Lanius has entered observer.
+[02:47:46]	Lanius has left observer.
+[02:47:47]	Lanius has entered observer.
+[02:47:48]	Lanius has left observer.
+[02:47:49]	Lanius has entered observer.
+[02:47:50]	Lanius has left observer.
+[02:47:52]	Lanius has entered observer.
+[02:47:52]	Lanius has left observer.
+[02:47:55]	Lanius has entered observer.
+[02:47:55]	Lanius has left observer.
+[02:47:55]	Lanius has entered observer.
+[02:47:56]	Lanius has left observer.
+[02:47:56]	Lanius has entered observer.
+[02:47:56]	Lanius has left observer.
+[02:47:57]	Lanius has entered observer.
+[02:47:58]	Lanius has left observer.
+[02:47:59]	Lanius has entered observer.
+[02:48:16]	Lanius has left observer.
+[02:48:46]	Lanius has accessed vendor Allgemeine-SS Vendor.
+[02:48:48]	Lanius has accessed vendor Allgemeine-SS Vendor.
+[02:49:04]	Lanius has accessed vendor Allgemeine-SS Vendor.
+[02:49:31]	Lanius's money has changed by 0.
+[02:50:02]	Lanius loaded the character #9(Führer und Reichskanzler Adolf Hitler)
+[02:50:12]	Lanius loaded the character #1(Lanius)
+[02:51:00]	Lanius has accessed vendor Allgemeine-SS Locker.
+[02:51:03]	Lanius has entered observer.
+[02:51:09]	Lanius has left observer.
+[02:52:30]	Lanius has accessed vendor Allgemeine-SS Locker.
+[02:52:41]	Lanius has entered observer.
+[02:52:53]	Lanius has left observer.
+[02:52:58]	Lanius has accessed vendor John Doe.
+[02:55:01]	Lanius's money has changed by 0.
+[02:55:49]	Lanius has accessed vendor John Doe.
+[02:56:56]	Lanius has entered observer.
+[02:57:10]	Lanius has left observer.
+[02:57:10]	Lanius has accessed vendor Walter Oppler.
+[02:57:14]	Lanius has accessed vendor Walter Oppler.
+[02:59:50]	Lanius's money has changed by 0.
+[03:03:04]	Lanius has entered observer.
+[03:03:14]	Lanius has left observer.
+[03:03:18]	Lanius has entered observer.
+[03:03:26]	Lanius has left observer.
+[03:03:26]	Lanius has entered observer.
+[03:03:27]	Lanius has left observer.
+[03:03:27]	Lanius has entered observer.
+[03:03:28]	Lanius has left observer.
+[03:03:28]	Lanius has entered observer.
+[03:03:28]	Lanius has left observer.
+[03:03:29]	Lanius has entered observer.
+[03:03:29]	Lanius has left observer.
+[03:03:30]	Lanius has entered observer.
+[03:03:31]	Lanius has left observer.
+[03:03:31]	Lanius has entered observer.
+[03:03:32]	Lanius has left observer.
+[03:03:33]	Lanius has entered observer.
+[03:03:41]	Lanius has left observer.
+[03:03:42]	Lanius has entered observer.
+[03:03:58]	Lanius has left observer.
+[03:04:11]	Lanius has entered observer.
+[03:04:39]	Lanius's money has changed by 0.
+[03:09:28]	Lanius's money has changed by 0.
+[03:14:17]	Lanius's money has changed by 0.
+[03:19:06]	Lanius's money has changed by 0.
+[03:23:55]	Lanius's money has changed by 0.
+[03:28:44]	Lanius's money has changed by 0.
+[03:33:33]	Lanius's money has changed by 0.
+[03:38:22]	Lanius's money has changed by 0.
+[03:43:11]	Lanius's money has changed by 0.
+[03:48:00]	Lanius's money has changed by 0.
+[03:50:58]	Lanius[STEAM_0:0:211494314] has disconnected from the server.
+[05:48:58]	Logan[STEAM_0:1:67558546] has connected to the server.
+[05:49:31]	Logan loaded the character #2(aaaaaa)
+[05:49:32]	aaaaaa has taken 13 damage from worldspawn, leaving them at 88 health.
+[05:49:32]	aaaaaa has entered observer.
+[05:49:33]	aaaaaa has left observer.
+[05:54:20]	aaaaaa's money has changed by 5.
+[05:59:09]	aaaaaa's money has changed by 5.
+[06:01:18]	aaaaaa used '/toggleraise'
+[06:01:32]	aaaaaa used '/toggleraise'
+[06:01:40]	aaaaaa used '/toggleraise'
+[06:02:16]	aaaaaa has taken 5 damage from worldspawn, leaving them at 95 health.
+[06:02:44]	aaaaaa has taken 2 damage from worldspawn, leaving them at 93 health.
+[06:03:58]	aaaaaa's money has changed by 5.
+[06:08:47]	aaaaaa's money has changed by 5.
+[06:10:39]	aaaaaa has taken 5 damage from worldspawn, leaving them at 95 health.
+[06:10:43]	aaaaaa has entered observer.
+[06:11:11]	aaaaaa has left observer.
+[06:11:12]	aaaaaa has entered observer.
+[06:11:35]	aaaaaa used '/toggleraise'
+[06:11:39]	aaaaaa has left observer.
+[06:11:59]	aaaaaa has taken 2 damage from worldspawn, leaving them at 98 health.
+[06:13:24]	aaaaaa has entered observer.
+[06:13:26]	aaaaaa used '/toggleraise'
+[06:13:28]	aaaaaa has left observer.
+[06:13:31]	aaaaaa has entered observer.
+[06:13:32]	aaaaaa has left observer.
+[06:13:33]	aaaaaa has entered observer.
+[06:13:35]	aaaaaa has left observer.
+[06:13:36]	aaaaaa's money has changed by 5.
+[06:13:36]	aaaaaa has entered observer.
+[06:13:36]	aaaaaa has left observer.
+[06:13:37]	aaaaaa has entered observer.
+[06:13:38]	aaaaaa has left observer.
+[06:13:39]	aaaaaa has entered observer.
+[06:13:39]	aaaaaa has left observer.
+[06:13:40]	aaaaaa has entered observer.
+[06:13:40]	aaaaaa has left observer.
+[06:13:41]	aaaaaa has entered observer.
+[06:13:44]	aaaaaa has left observer.
+[06:14:06]	aaaaaa has taken 2 damage from worldspawn, leaving them at 98 health.
+[06:15:00]	The_Boss_Eggy[STEAM_0:0:103712993] has connected to the server.
+[06:16:38]	aaaaaa used '/toggleraise'
+[06:17:02]	The_Boss_Eggy loaded the character #7(Edmund von Trapp)
+[06:17:04]	Edmund von Trapp has taken 70 damage from worldspawn, leaving them at 30 health.
+[06:17:04]	Edmund von Trapp has entered observer.
+[06:17:06]	Edmund von Trapp has left observer.
+[06:17:07]	Edmund von Trapp has entered observer.
+[06:17:10]	aaaaaa has taken 2 damage from worldspawn, leaving them at 98 health.
+[06:17:24]	aaaaaa has taken 5 damage from worldspawn, leaving them at 95 health.
+[06:17:26]	[OOC] aaaaaa: EVIL 
+[06:17:48]	[OOC] aaaaaa: bruh
+[06:18:11]	aaaaaa has entered observer.
+[06:18:16]	aaaaaa has left observer.
+[06:18:19]	aaaaaa used '/toggleraise'
+[06:18:21]	aaaaaa has entered observer.
+[06:18:22]	aaaaaa has left observer.
+[06:18:25]	aaaaaa's money has changed by 5.
+[06:18:26]	[IC] aaaaaa: wot
+[06:18:30]	[IC] Edmund von Trapp: !kill @
+[06:18:30]	[IC] aaaaaa: restarting server soon to add tobacco
+[06:18:34]	[IC] Edmund von Trapp: fuk
+[06:18:45]	Edmund von Trapp has entered observer.
+[06:19:02]	aaaaaa has taken 60 damage from env_explosion, leaving them at 40 health.
+[06:19:07]	aaaaaa has taken 40 damage from env_explosion, leaving them at 0 health.
+[06:19:20]	aaaaaa has taken 48 damage from env_explosion, leaving them at 52 health.
+[06:19:22]	aaaaaa has entered observer.
+[06:19:23]	aaaaaa has left observer.
+[06:19:24]	aaaaaa has entered observer.
+[06:19:35]	aaaaaa has left observer.
+[06:19:51]	aaaaaa has taken 40 damage from env_explosion, leaving them at 60 health.
+[06:19:52]	aaaaaa has entered observer.
+[06:19:56]	[OOC] aaaaaa: bruv
+[06:20:02]	aaaaaa has left observer.
+[06:20:02]	aaaaaa used '/toggleraise'
+[06:20:04]	aaaaaa has entered observer.
+[06:20:05]	aaaaaa has left observer.
+[06:20:06]	aaaaaa has entered observer.
+[06:20:06]	aaaaaa has left observer.
+[06:20:07]	aaaaaa has entered observer.
+[06:20:10]	Edmund von Trapp has accessed vendor Party Locker.
+[06:20:10]	aaaaaa has left observer.
+[06:20:12]	aaaaaa has entered observer.
+[06:20:12]	aaaaaa has left observer.
+[06:20:18]	Edmund von Trapp has entered observer.
+[06:20:21]	aaaaaa has left observer.
+[06:20:31]	aaaaaa has entered observer.
+[06:20:32]	aaaaaa has left observer.
+[06:20:36]	aaaaaa used '/toggleraise'
+[06:20:38]	aaaaaa has entered observer.
+[06:20:39]	aaaaaa has left observer.
+[06:20:40]	aaaaaa has entered observer.
+[06:20:46]	aaaaaa has left observer.
+[06:20:47]	aaaaaa has entered observer.
+[06:20:47]	aaaaaa has left observer.
+[06:20:50]	aaaaaa has entered observer.
+[06:20:54]	aaaaaa has left observer.
+[06:20:55]	aaaaaa has entered observer.
+[06:20:55]	aaaaaa has left observer.
+[06:20:56]	aaaaaa has entered observer.
+[06:20:56]	aaaaaa has left observer.
+[06:20:56]	aaaaaa has entered observer.
+[06:20:57]	aaaaaa has left observer.
+[06:20:57]	aaaaaa has entered observer.
+[06:20:59]	[OOC] aaaaaa: restartin btw
+[06:21:05]	[OOC] aaaaaa: well in 1m
+[06:21:51]	Edmund von Trapp's money has changed by 5.
+[06:22:34]	aaaaaa has left observer.
+[06:22:37]	aaaaaa has entered observer.
+[06:22:37]	aaaaaa has left observer.
+[06:22:40]	aaaaaa has entered observer.
+[06:22:48]	aaaaaa has left observer.
+[06:22:57]	aaaaaa used '/toggleraise'
+[06:23:05]	aaaaaa used '/toggleraise'
+[06:23:14]	aaaaaa's money has changed by 5.
+[06:23:15]	aaaaaa has entered observer.
+[06:23:16]	aaaaaa has left observer.
+[06:23:17]	aaaaaa has entered observer.
+[06:23:17]	aaaaaa has left observer.
+[06:23:17]	aaaaaa has taken 48 damage from worldspawn, leaving them at 52 health.
+[06:23:18]	aaaaaa has entered observer.
+[06:23:22]	aaaaaa has left observer.
+[06:23:42]	aaaaaa used '/toggleraise'
+[06:23:47]	aaaaaa has entered observer.
+[06:23:48]	aaaaaa has left observer.
+[06:23:49]	aaaaaa has entered observer.
+[06:23:49]	aaaaaa has left observer.
+[06:23:52]	aaaaaa has entered observer.
+[06:23:53]	aaaaaa has left observer.
+[06:23:54]	aaaaaa has entered observer.
+[06:23:54]	aaaaaa has left observer.
+[06:23:56]	aaaaaa has entered observer.
+[06:24:01]	aaaaaa has left observer.
+[06:24:29]	aaaaaa used '/toggleraise'
+[06:24:38]	aaaaaa has entered observer.
+[06:24:42]	aaaaaa has left observer.
+[06:24:50]	aaaaaa used '/toggleraise'
+[06:25:10]	aaaaaa has entered observer.
+[06:25:17]	aaaaaa has left observer.
+[06:25:17]	aaaaaa has entered observer.
+[06:25:19]	aaaaaa has left observer.
+[06:25:50]	aaaaaa has entered observer.
+[06:25:51]	aaaaaa has left observer.
+[06:25:57]	Edmund von Trapp[STEAM_0:0:103712993] has disconnected from the server.
+[06:26:40]	aaaaaa has entered observer.
+[06:26:42]	aaaaaa has left observer.
+[06:26:50]	aaaaaa has entered observer.
+[06:26:52]	aaaaaa has left observer.
+[06:26:56]	aaaaaa has entered observer.
+[06:27:00]	aaaaaa has left observer.
+[06:27:02]	aaaaaa has entered observer.
+[06:27:18]	aaaaaa has left observer.
+[06:27:21]	aaaaaa has entered observer.
+[06:27:22]	aaaaaa has left observer.
+[06:27:24]	aaaaaa has entered observer.
+[06:27:28]	aaaaaa has left observer.
+[06:27:29]	aaaaaa has entered observer.
+[06:27:31]	aaaaaa has left observer.
+[06:27:36]	aaaaaa has entered observer.
+[06:27:37]	aaaaaa has left observer.
+[06:27:41]	aaaaaa has entered observer.
+[06:27:43]	aaaaaa has left observer.
+[06:27:52]	aaaaaa has entered observer.
+[06:27:58]	aaaaaa has left observer.
+[06:28:03]	aaaaaa's money has changed by 5.
+[06:28:14]	aaaaaa has entered observer.
+[06:28:15]	aaaaaa has left observer.
+[06:28:27]	aaaaaa has entered observer.
+[06:28:33]	aaaaaa has left observer.
+[06:28:42]	aaaaaa has entered observer.
+[06:28:46]	aaaaaa has left observer.
+[06:29:14]	aaaaaa has entered observer.
+[06:29:23]	aaaaaa has left observer.
+[06:29:26]	aaaaaa has entered observer.
+[06:29:29]	aaaaaa has left observer.
+[06:29:33]	aaaaaa has entered observer.
+[06:29:41]	aaaaaa has left observer.
+[06:29:44]	aaaaaa has entered observer.
+[06:29:49]	aaaaaa has left observer.
+[06:29:51]	aaaaaa has entered observer.
+[06:30:17]	aaaaaa has left observer.
+[06:30:20]	aaaaaa has entered observer.
+[06:30:24]	aaaaaa has left observer.
+[06:30:24]	aaaaaa has entered observer.
+[06:30:28]	aaaaaa has left observer.
+[06:30:33]	aaaaaa has entered observer.
+[06:30:45]	aaaaaa has left observer.
+[06:30:53]	aaaaaa has entered observer.
+[06:30:55]	aaaaaa has left observer.
+[06:31:00]	aaaaaa has entered observer.
+[06:31:11]	aaaaaa has left observer.
+[06:31:28]	aaaaaa has entered observer.
+[06:31:37]	aaaaaa has left observer.
+[06:31:57]	aaaaaa has entered observer.
+[06:32:05]	aaaaaa has left observer.
+[06:32:13]	aaaaaa has entered observer.
+[06:32:24]	aaaaaa has left observer.
+[06:32:52]	aaaaaa's money has changed by 5.
+[06:32:54]	aaaaaa has entered observer.
+[06:33:00]	aaaaaa has left observer.
+[06:34:13]	aaaaaa has entered observer.
+[06:34:15]	aaaaaa has left observer.
+[06:34:23]	aaaaaa has entered observer.
+[06:34:25]	aaaaaa has left observer.
+[06:34:29]	aaaaaa has entered observer.
+[06:34:38]	aaaaaa has left observer.
+[06:34:42]	aaaaaa has entered observer.
+[06:34:44]	aaaaaa has left observer.
+[06:35:22]	aaaaaa has entered observer.
+[06:35:22]	aaaaaa has left observer.
+[06:35:26]	aaaaaa has entered observer.
+[06:35:26]	aaaaaa has left observer.
+[06:35:32]	aaaaaa[STEAM_0:1:67558546] has disconnected from the server.
+[07:05:07]	Logan[STEAM_0:1:67558546] has connected to the server.
+[07:05:34]	Logan loaded the character #2(aaaaaa)
+[07:05:58]	Logan (STEAM_0:1:67558546) has spawned 'Coca Leaves'
+[07:09:53]	Logan[STEAM_0:1:67558546] has connected to the server.
+[07:10:16]	Logan loaded the character #2(aaaaaa)
+[07:10:37]	Logan (STEAM_0:1:67558546) has spawned 'Rolling Paper'
+[07:10:39]	aaaaaa tried 'take' on item 'Rolling Paper'(#44)
+[07:10:39]	aaaaaa has picked up 1xRolling Paper.
+[07:10:40]	Logan (STEAM_0:1:67558546) has spawned 'Rolling Paper'
+[07:10:41]	Logan (STEAM_0:1:67558546) has spawned 'Rolling Paper'
+[07:10:42]	Logan (STEAM_0:1:67558546) has spawned 'Rolling Paper'
+[07:10:43]	Logan (STEAM_0:1:67558546) has spawned 'Tobacco'
+[07:10:44]	Logan (STEAM_0:1:67558546) has spawned 'Tobacco'
+[07:10:45]	Logan (STEAM_0:1:67558546) has spawned 'Tobacco'
+[07:10:47]	aaaaaa tried 'take' on item 'Tobacco'(#48)
+[07:10:47]	aaaaaa has picked up 1xTobacco.
+[07:10:48]	aaaaaa tried 'take' on item 'Tobacco'(#50)
+[07:10:48]	aaaaaa has picked up 1xTobacco.
+[07:10:49]	aaaaaa tried 'take' on item 'Tobacco'(#49)
+[07:10:49]	aaaaaa has picked up 1xTobacco.
+[07:10:49]	aaaaaa tried 'take' on item 'Rolling Paper'(#47)
+[07:10:49]	aaaaaa has picked up 1xRolling Paper.
+[07:10:50]	aaaaaa tried 'take' on item 'Rolling Paper'(#46)
+[07:10:50]	aaaaaa has picked up 1xRolling Paper.
+[07:10:50]	aaaaaa tried 'take' on item 'Rolling Paper'(#45)
+[07:10:50]	aaaaaa has picked up 1xRolling Paper.
+[07:11:12]	Logan (STEAM_0:1:67558546) has spawned 'Cigarette Guide'
+[07:11:14]	aaaaaa tried 'take' on item 'Cigarette Guide'(#51)
+[07:11:14]	aaaaaa has picked up 1xCigarette Guide.
+[07:11:29]	Logan (STEAM_0:1:67558546) has spawned 'Tobacco'
+[07:11:30]	aaaaaa tried 'take' on item 'Tobacco'(#52)
+[07:11:30]	aaaaaa has picked up 1xTobacco.
+[07:15:05]	aaaaaa's money has changed by 5.
+[07:15:47]	aaaaaa has entered observer.
+[07:15:49]	aaaaaa has left observer.
+[07:15:50]	aaaaaa has entered observer.
+[07:15:51]	aaaaaa has left observer.
+[07:17:53]	aaaaaa has accessed vendor John Doe.
+[07:19:54]	aaaaaa's money has changed by 5.
+[07:19:58]	aaaaaa has entered observer.
+[07:19:59]	aaaaaa has left observer.
+[07:21:04]	aaaaaa has accessed vendor George Floyd.
+[07:21:05]	aaaaaa's money has changed by -100.
+[07:21:05]	aaaaaa has bought a George Floyd from b_cigarette.
+[07:21:06]	aaaaaa's money has changed by -25.
+[07:21:06]	aaaaaa has bought a George Floyd from b_cigcarton.
+[07:21:15]	aaaaaa has accessed vendor George Floyd.
+[07:21:15]	aaaaaa's money has changed by -1.
+[07:21:15]	aaaaaa has bought a George Floyd from rollingpaper.
+[07:21:16]	aaaaaa's money has changed by -1.
+[07:21:16]	aaaaaa has bought a George Floyd from rollingpaper.
+[07:21:16]	aaaaaa's money has changed by -1.
+[07:21:16]	aaaaaa has bought a George Floyd from rollingpaper.
+[07:21:16]	aaaaaa's money has changed by -1.
+[07:21:16]	aaaaaa has bought a George Floyd from rollingpaper.
+[07:21:17]	aaaaaa's money has changed by -2.
+[07:21:17]	aaaaaa has bought a George Floyd from tobacco.
+[07:21:17]	aaaaaa's money has changed by -2.
+[07:21:17]	aaaaaa has bought a George Floyd from tobacco.
+[07:21:18]	aaaaaa's money has changed by -2.
+[07:21:18]	aaaaaa has bought a George Floyd from tobacco.
+[07:21:18]	aaaaaa's money has changed by -2.
+[07:21:18]	aaaaaa has bought a George Floyd from tobacco.
+[07:21:42]	aaaaaa has accessed vendor George Floyd.
+[07:21:55]	aaaaaa's money has changed by 0.
+[07:21:55]	aaaaaa has bought a George Floyd from cigarette.
+[07:21:56]	aaaaaa's money has changed by 0.
+[07:21:56]	aaaaaa has bought a George Floyd from cigarette.
+[07:21:56]	aaaaaa's money has changed by 0.
+[07:21:56]	aaaaaa has bought a George Floyd from cigarette.
+[07:21:56]	aaaaaa's money has changed by 0.
+[07:21:56]	aaaaaa has bought a George Floyd from cigarette.
+[07:21:56]	aaaaaa's money has changed by 0.
+[07:21:56]	aaaaaa has bought a George Floyd from cigarette.
+[07:21:57]	aaaaaa's money has changed by 0.
+[07:21:57]	aaaaaa has bought a George Floyd from cigarette.
+[07:21:57]	aaaaaa's money has changed by 0.
+[07:21:57]	aaaaaa has bought a George Floyd from cigarette.
+[07:21:57]	aaaaaa's money has changed by 0.
+[07:21:57]	aaaaaa has bought a George Floyd from cigarette.
+[07:21:58]	aaaaaa's money has changed by 0.
+[07:21:58]	aaaaaa has bought a George Floyd from cigarette.
+[07:21:58]	aaaaaa's money has changed by 0.
+[07:21:58]	aaaaaa has bought a George Floyd from cigarette.
+[07:21:58]	aaaaaa's money has changed by 0.
+[07:21:58]	aaaaaa has bought a George Floyd from cigarette.
+[07:21:58]	aaaaaa's money has changed by 0.
+[07:21:58]	aaaaaa has bought a George Floyd from cigarette.
+[07:21:59]	aaaaaa's money has changed by 0.
+[07:21:59]	aaaaaa has bought a George Floyd from cigarette.
+[07:21:59]	aaaaaa's money has changed by 0.
+[07:21:59]	aaaaaa has bought a George Floyd from cigarette.
+[07:22:06]	aaaaaa has lost 1xCigarette Guide.
+[07:22:06]	aaaaaa tried 'drop' on item 'Cigarette Guide'(#57)
+[07:22:26]	aaaaaa has accessed vendor George Floyd.
+[07:22:27]	aaaaaa's money has changed by 0.
+[07:22:27]	aaaaaa has bought a George Floyd from cigarette.
+[07:22:28]	aaaaaa's money has changed by 0.
+[07:22:28]	aaaaaa has bought a George Floyd from cigarette.
+[07:22:28]	aaaaaa's money has changed by 0.
+[07:22:28]	aaaaaa has bought a George Floyd from cigarette.
+[07:22:29]	aaaaaa's money has changed by 0.
+[07:22:29]	aaaaaa has bought a George Floyd from cigarette.
+[07:22:29]	aaaaaa's money has changed by 0.
+[07:22:29]	aaaaaa has bought a George Floyd from cigarette.
+[07:22:30]	aaaaaa's money has changed by 0.
+[07:22:30]	aaaaaa has bought a George Floyd from cigarette.
+[07:22:30]	aaaaaa's money has changed by 0.
+[07:22:30]	aaaaaa has bought a George Floyd from cigarette.
+[07:22:30]	aaaaaa's money has changed by 0.
+[07:22:30]	aaaaaa has bought a George Floyd from cigarette.
+[07:22:31]	aaaaaa's money has changed by 0.
+[07:22:31]	aaaaaa has bought a George Floyd from cigarette.
+[07:22:31]	aaaaaa's money has changed by 0.
+[07:22:31]	aaaaaa has bought a George Floyd from cigarette.
+[07:22:31]	aaaaaa's money has changed by 0.
+[07:22:31]	aaaaaa has bought a George Floyd from cigarette.
+[07:22:32]	aaaaaa's money has changed by 0.
+[07:22:32]	aaaaaa has bought a George Floyd from cigarette.
+[07:22:32]	aaaaaa's money has changed by 0.
+[07:22:32]	aaaaaa has bought a George Floyd from cigarette.
+[07:22:33]	aaaaaa's money has changed by 0.
+[07:22:33]	aaaaaa has bought a George Floyd from cigarette.
+[07:22:33]	aaaaaa's money has changed by 0.
+[07:22:33]	aaaaaa has bought a George Floyd from cigarette.
+[07:22:33]	aaaaaa's money has changed by 0.
+[07:22:33]	aaaaaa has bought a George Floyd from cigarette.
+[07:22:33]	aaaaaa's money has changed by 0.
+[07:22:33]	aaaaaa has bought a George Floyd from cigarette.
+[07:22:44]	aaaaaa has accessed vendor George Floyd.
+[07:22:46]	aaaaaa's money has changed by 0.
+[07:22:46]	aaaaaa has bought a George Floyd from cigarette.
+[07:24:11]	aaaaaa has accessed vendor George Floyd.
+[07:24:13]	aaaaaa's money has changed by 250.
+[07:24:13]	aaaaaa has sold a George Floyd to cigcarton.
+[07:24:43]	aaaaaa's money has changed by 5.
+[07:29:11]	aaaaaa has accessed vendor George Floyd.
+[07:29:18]	aaaaaa has entered observer.
+[07:29:19]	aaaaaa has left observer.
+[07:29:20]	aaaaaa has entered observer.
+[07:29:21]	aaaaaa has left observer.
+[07:29:22]	aaaaaa has entered observer.
+[07:29:22]	aaaaaa has left observer.
+[07:29:24]	aaaaaa has entered observer.
+[07:29:24]	aaaaaa has left observer.
+[07:29:25]	aaaaaa has entered observer.
+[07:29:26]	aaaaaa has left observer.
+[07:29:32]	aaaaaa's money has changed by 5.
+[07:29:47]	aaaaaa has entered observer.
+[07:29:48]	aaaaaa has left observer.
+[07:29:51]	aaaaaa has entered observer.
+[07:29:52]	aaaaaa has left observer.
+[07:29:55]	aaaaaa has taken 9 damage from worldspawn, leaving them at 91 health.
+[07:30:05]	aaaaaa[STEAM_0:1:67558546] has disconnected from the server.
+[08:25:11]	Snoopi[STEAM_0:0:102201840] has connected to the server.
+[08:25:24]	Snoopi loaded the character #3(Snoopi)
+[08:25:27]	Snoopi has entered observer.
+[08:25:28]	Snoopi has left observer.
+[08:25:42]	Snoopi has entered observer.
+[08:25:43]	Snoopi has left observer.
+[08:25:44]	Snoopi has entered observer.
+[08:25:44]	Snoopi has left observer.
+[08:25:45]	Snoopi has entered observer.
+[08:25:46]	Snoopi has left observer.
+[08:25:46]	Snoopi has entered observer.
+[08:25:47]	Snoopi has left observer.
+[08:25:49]	Snoopi has entered observer.
+[08:25:49]	Snoopi has left observer.
+[08:25:52]	Snoopi has entered observer.
+[08:25:52]	Snoopi has left observer.
+[08:25:52]	Snoopi has entered observer.
+[08:25:53]	Snoopi has left observer.
+[08:25:54]	Snoopi has entered observer.
+[08:25:54]	Snoopi has left observer.
+[08:25:56]	Snoopi has entered observer.
+[08:25:56]	Snoopi has left observer.
+[08:26:09]	Snoopi has entered observer.
+[08:26:09]	Snoopi has left observer.
+[08:26:10]	Snoopi has entered observer.
+[08:26:35]	Snoopi has left observer.
+[08:26:36]	Snoopi has entered observer.
+[08:26:36]	Snoopi has left observer.
+[08:26:37]	Snoopi has entered observer.
+[08:26:37]	Snoopi has left observer.
+[08:26:43]	Snoopi has entered observer.
+[08:26:43]	Snoopi has left observer.
+[08:26:43]	Snoopi has entered observer.
+[08:26:44]	Snoopi has left observer.
+[08:26:47]	Snoopi has entered observer.
+[08:26:48]	Snoopi has left observer.
+[08:26:51]	Snoopi has entered observer.
+[08:26:51]	Snoopi has left observer.
+[08:26:51]	Snoopi has entered observer.
+[08:26:51]	Snoopi has left observer.
+[08:26:53]	Snoopi has entered observer.
+[08:26:54]	Snoopi has left observer.
+[08:26:56]	Snoopi has entered observer.
+[08:26:56]	Snoopi has left observer.
+[08:26:56]	Snoopi has entered observer.
+[08:26:56]	Snoopi has left observer.
+[08:26:58]	Snoopi has taken 164 damage from worldspawn, leaving them at -63 health.
+[08:26:58]	Snoopi has entered observer.
+[08:27:05]	Snoopi has entered observer.
+[08:27:06]	Snoopi has left observer.
+[08:27:07]	Snoopi has entered observer.
+[08:27:08]	Snoopi has left observer.
+[08:27:10]	Snoopi has entered observer.
+[08:27:10]	Snoopi has left observer.
+[08:27:11]	Snoopi has entered observer.
+[08:27:11]	Snoopi has left observer.
+[08:27:12]	Snoopi has entered observer.
+[08:27:12]	Snoopi has left observer.
+[08:27:13]	Snoopi has entered observer.
+[08:27:13]	Snoopi has left observer.
+[08:27:15]	Snoopi has taken 63 damage from worldspawn, leaving them at 37 health.
+[08:27:15]	Snoopi has entered observer.
+[08:27:15]	Snoopi has left observer.
+[08:27:17]	Snoopi has entered observer.
+[08:27:19]	Snoopi has left observer.
+[08:27:30]	Snoopi has entered observer.
+[08:27:33]	Snoopi has left observer.
+[08:27:34]	Snoopi has entered observer.
+[08:27:34]	Snoopi has left observer.
+[08:27:35]	Snoopi has entered observer.
+[08:27:36]	Snoopi has left observer.
+[08:27:37]	Snoopi has entered observer.
+[08:27:38]	Snoopi has left observer.
+[08:27:38]	Snoopi has entered observer.
+[08:27:39]	Snoopi has left observer.
+[08:27:39]	Snoopi has entered observer.
+[08:27:40]	Snoopi has left observer.
+[08:27:40]	Snoopi has entered observer.
+[08:27:41]	Snoopi has left observer.
+[08:27:41]	Snoopi has entered observer.
+[08:27:49]	Snoopi has left observer.
+[08:27:52]	Snoopi has entered observer.
+[08:27:53]	Snoopi has left observer.
+[08:27:54]	Snoopi has entered observer.
+[08:27:54]	Snoopi has left observer.
+[08:27:57]	Snoopi has entered observer.
+[08:28:50]	Snoopi has left observer.
+[08:28:55]	Snoopi has entered observer.
+[08:28:56]	Snoopi has left observer.
+[08:29:02]	Snoopi has entered observer.
+[08:29:03]	Snoopi has left observer.
+[08:29:06]	Snoopi has entered observer.
+[08:29:06]	Snoopi has left observer.
+[08:29:09]	Snoopi has entered observer.
+[08:29:10]	Snoopi has left observer.
+[08:29:43]	Snoopi has entered observer.
+[08:29:43]	Snoopi has left observer.
+[08:29:48]	Snoopi has entered observer.
+[08:29:49]	Snoopi has left observer.
+[08:29:50]	Snoopi has entered observer.
+[08:29:50]	Snoopi has left observer.
+[08:30:09]	Snoopi has entered observer.
+[08:30:10]	Snoopi has left observer.
+[08:30:10]	Snoopi has entered observer.
+[08:30:11]	Snoopi has left observer.
+[08:30:13]	Snoopi's money has changed by 0.
+[08:30:28]	Snoopi has entered observer.
+[08:30:28]	Snoopi has left observer.
+[08:30:32]	Snoopi has entered observer.
+[08:30:33]	Snoopi has left observer.
+[08:30:33]	Snoopi has entered observer.
+[08:30:35]	Snoopi has left observer.
+[08:30:36]	Snoopi has entered observer.
+[08:30:36]	Snoopi has left observer.
+[08:30:37]	Snoopi has entered observer.
+[08:30:38]	Snoopi has left observer.
+[08:31:52]	Snoopi has entered observer.
+[08:31:52]	Snoopi has left observer.
+[08:31:53]	Snoopi has entered observer.
+[08:31:56]	Snoopi has left observer.
+[08:31:57]	Snoopi has entered observer.
+[08:31:58]	Snoopi has left observer.
+[08:31:58]	Snoopi has entered observer.
+[08:31:58]	Snoopi has left observer.
+[08:32:01]	Snoopi has entered observer.
+[08:32:01]	Snoopi has left observer.
+[08:32:02]	Snoopi has entered observer.
+[08:32:07]	Snoopi has left observer.
+[08:34:00]	Snoopi has entered observer.
+[08:34:00]	Snoopi has left observer.
+[08:34:01]	Snoopi has entered observer.
+[08:34:02]	Snoopi has left observer.
+[08:34:05]	Snoopi has entered observer.
+[08:34:30]	Snoopi has left observer.
+[08:34:40]	Snoopi has entered observer.
+[08:34:41]	Snoopi has left observer.
+[08:34:43]	Snoopi has entered observer.
+[08:34:43]	Snoopi has left observer.
+[08:34:44]	Snoopi has entered observer.
+[08:34:44]	Snoopi has left observer.
+[08:34:45]	Snoopi has entered observer.
+[08:34:45]	Snoopi has left observer.
+[08:34:46]	Snoopi has entered observer.
+[08:34:46]	Snoopi has left observer.
+[08:34:47]	Snoopi has entered observer.
+[08:34:48]	Snoopi has left observer.
+[08:34:49]	Snoopi has entered observer.
+[08:34:50]	Snoopi has left observer.
+[08:35:02]	Snoopi's money has changed by 0.
+[08:35:14]	Snoopi has entered observer.
+[08:35:15]	Snoopi has left observer.
+[08:35:16]	Snoopi has entered observer.
+[08:35:17]	Snoopi has left observer.
+[08:35:17]	Snoopi has taken 66 damage from worldspawn, leaving them at 34 health.
+[08:35:21]	Snoopi has entered observer.
+[08:35:25]	Snoopi has left observer.
+[08:39:04]	Snoopi has entered observer.
+[08:39:10]	Snoopi has left observer.
+[08:39:11]	Snoopi has entered observer.
+[08:39:11]	Snoopi has left observer.
+[08:39:12]	Snoopi has entered observer.
+[08:39:16]	Snoopi has left observer.
+[08:39:51]	Snoopi's money has changed by 0.
+[08:44:35]	Snoopi[STEAM_0:0:102201840] has disconnected from the server.
+[09:28:37]	Snoopi[STEAM_0:0:102201840] has connected to the server.
+[09:29:13]	Snoopi loaded the character #3(Snoopi)
+[09:30:46]	Snoopi has entered observer.
+[09:30:47]	Snoopi has left observer.
+[09:30:48]	Snoopi has entered observer.
+[09:30:48]	Snoopi has left observer.
+[09:33:06]	Snoopi has entered observer.
+[09:33:07]	Snoopi has left observer.
+[09:33:13]	Snoopi has entered observer.
+[09:33:15]	Snoopi has left observer.
+[09:33:31]	Snoopi has taken 2 damage from worldspawn, leaving them at 98 health.
+[09:34:02]	Snoopi's money has changed by 0.
+[09:35:11]	Snoopi has taken 5 damage from worldspawn, leaving them at 95 health.
+[09:35:53]	Snoopi has taken 2 damage from worldspawn, leaving them at 98 health.
+[09:37:38]	Snoopi has taken 2 damage from worldspawn, leaving them at 98 health.
+[09:38:45]	Snoopi has taken 2 damage from worldspawn, leaving them at 98 health.
+[09:38:47]	Snoopi has taken 2 damage from worldspawn, leaving them at 96 health.
+[09:38:51]	Snoopi's money has changed by 0.
+[09:39:19]	Snoopi has entered observer.
+[09:39:25]	Snoopi has left observer.
+[09:39:25]	Snoopi has entered observer.
+[09:39:25]	Snoopi has left observer.
+[09:39:27]	Snoopi has entered observer.
+[09:39:27]	Snoopi has left observer.
+[09:39:28]	Snoopi has entered observer.
+[09:39:31]	Snoopi has left observer.
+[09:39:31]	Snoopi has entered observer.
+[09:39:31]	Snoopi has left observer.
+[09:39:32]	Snoopi has entered observer.
+[09:39:32]	Snoopi has left observer.
+[09:39:32]	Snoopi has entered observer.
+[09:39:33]	Snoopi has left observer.
+[09:39:49]	Snoopi has entered observer.
+[09:39:50]	Snoopi has left observer.
+[09:39:50]	Snoopi has taken 70 damage from worldspawn, leaving them at 31 health.
+[09:39:50]	Snoopi has entered observer.
+[09:39:51]	Snoopi has left observer.
+[09:39:52]	Snoopi has entered observer.
+[09:39:53]	Snoopi has left observer.
+[09:39:53]	Snoopi has taken 67 damage from worldspawn, leaving them at -37 health.
+[09:40:24]	Snoopi has entered observer.
+[09:40:25]	Snoopi has left observer.
+[09:40:25]	Snoopi has entered observer.
+[09:40:26]	Snoopi has left observer.
+[09:40:26]	Snoopi has entered observer.
+[09:40:27]	Snoopi has left observer.
+[09:40:27]	Snoopi has entered observer.
+[09:40:28]	Snoopi has left observer.
+[09:40:28]	Snoopi has entered observer.
+[09:40:28]	Snoopi has left observer.
+[09:40:28]	Snoopi has entered observer.
+[09:40:29]	Snoopi has left observer.
+[09:40:32]	Snoopi has entered observer.
+[09:40:32]	Snoopi has left observer.
+[09:40:35]	Snoopi has entered observer.
+[09:40:35]	Snoopi has left observer.
+[09:42:50]	Snoopi has accessed vendor David Von Schandenburg.
+[09:43:40]	Snoopi's money has changed by 0.
+[09:47:32]	Snoopi has taken 2 damage from worldspawn, leaving them at 98 health.
+[09:48:29]	Snoopi's money has changed by 0.
+[09:48:32]	Snoopi has entered observer.
+[09:48:33]	Snoopi has left observer.
+[09:48:33]	Snoopi has entered observer.
+[09:48:34]	Snoopi has left observer.
+[09:48:35]	Snoopi has entered observer.
+[09:48:35]	Snoopi has left observer.
+[09:52:27]	Snoopi has entered observer.
+[09:53:18]	Snoopi's money has changed by 0.
+[09:58:07]	Snoopi's money has changed by 0.
+[10:02:56]	Snoopi's money has changed by 0.
+[10:07:45]	Snoopi's money has changed by 0.
+[10:12:34]	Snoopi's money has changed by 0.
+[10:16:39]	Snoopi[STEAM_0:0:102201840] has disconnected from the server.
+[11:22:48]	Logan[STEAM_0:1:67558546] has connected to the server.
+[11:23:17]	Logan loaded the character #2(aaaaaa)
+[11:23:21]	aaaaaa has entered observer.
+[11:23:28]	aaaaaa has left observer.
+[11:23:48]	aaaaaa has entered observer.
+[11:23:50]	aaaaaa has left observer.
+[11:23:53]	aaaaaa has entered observer.
+[11:23:53]	aaaaaa has left observer.
+[11:23:54]	aaaaaa has entered observer.
+[11:23:57]	aaaaaa has left observer.
+[11:24:00]	aaaaaa has accessed vendor Party Locker.
+[11:24:04]	aaaaaa has entered observer.
+[11:24:06]	aaaaaa has left observer.
+[11:24:09]	aaaaaa has entered observer.
+[11:24:12]	aaaaaa has left observer.
+[11:24:44]	aaaaaa has entered observer.
+[11:24:45]	aaaaaa has left observer.
+[11:24:47]	aaaaaa used '/toggleraise'
+[11:24:48]	aaaaaa has entered observer.
+[11:24:49]	aaaaaa has left observer.
+[11:25:14]	aaaaaa used '/toggleraise'
+[11:25:32]	aaaaaa used '/toggleraise'
+[11:25:45]	aaaaaa has entered observer.
+[11:25:46]	aaaaaa has left observer.
+[11:25:48]	aaaaaa has entered observer.
+[11:25:48]	aaaaaa has left observer.
+[11:25:49]	aaaaaa has entered observer.
+[11:25:50]	aaaaaa has left observer.
+[11:25:50]	aaaaaa used '/toggleraise'
+[11:25:51]	aaaaaa has entered observer.
+[11:25:51]	aaaaaa has left observer.
+[11:26:27]	aaaaaa has entered observer.
+[11:26:27]	aaaaaa has left observer.
+[11:26:28]	aaaaaa has entered observer.
+[11:26:29]	aaaaaa has left observer.
+[11:26:32]	aaaaaa has entered observer.
+[11:26:33]	aaaaaa has left observer.
+[11:26:43]	aaaaaa has entered observer.
+[11:26:43]	aaaaaa has left observer.
+[11:27:33]	aaaaaa has entered observer.
+[11:27:33]	aaaaaa has left observer.
+[11:27:34]	aaaaaa has entered observer.
+[11:27:35]	aaaaaa has left observer.
+[11:27:36]	aaaaaa has entered observer.
+[11:27:43]	aaaaaa has left observer.
+[11:27:48]	aaaaaa has entered observer.
+[11:27:48]	aaaaaa has left observer.
+[11:27:52]	aaaaaa has entered observer.
+[11:27:52]	aaaaaa has left observer.
+[11:28:06]	aaaaaa's money has changed by 5.
+[11:28:11]	aaaaaa used '/toggleraise'
+[11:28:27]	aaaaaa used '/toggleraise'
+[11:28:38]	aaaaaa used '/toggleraise'
+[11:28:50]	aaaaaa[STEAM_0:1:67558546] has disconnected from the server.
+[11:39:56]	Snoopi[STEAM_0:0:102201840] has connected to the server.
+[11:41:37]	Snoopi loaded the character #3(Snoopi)
+[11:41:46]	Snoopi has entered observer.
+[11:42:00]	Snoopi has left observer.
+[11:42:00]	Snoopi (STEAM_0:0:102201840) has spawned 'Cigarette Carton'
+[11:42:04]	Snoopi tried 'take' on item 'Cigarette Carton'(#104)
+[11:42:04]	Snoopi has picked up 1xCigarette Carton.
+[11:42:07]	Snoopi has lost 1xCigarette Carton.
+[11:42:07]	Snoopi tried 'drop' on item 'Cigarette Carton'(#104)
+[11:42:13]	Snoopi (STEAM_0:0:102201840) has spawned 'Tobacco'
+[11:42:14]	Snoopi tried 'take' on item 'Tobacco'(#105)
+[11:42:14]	Snoopi has picked up 1xTobacco.
+[11:42:22]	Snoopi has lost 1xTobacco.
+[11:42:22]	Snoopi tried 'drop' on item 'Tobacco'(#105)
+[11:42:23]	Snoopi has lost 1xBrown Trout.
+[11:42:23]	Snoopi tried 'drop' on item 'Brown Trout'(#25)
+[11:43:01]	Snoopi (STEAM_0:0:102201840) has spawned 'atow_p08'
+[11:43:03]	Snoopi tried 'take' on item 'atow_p08'(#106)
+[11:43:03]	Snoopi has picked up 1xatow_p08.
+[11:43:05]	Snoopi tried 'Equip' on item 'atow_p08'(#106)
+[11:46:26]	Snoopi's money has changed by 0.
+[11:47:16]	Snoopi has taken 2 damage from worldspawn, leaving them at 98 health.
+[11:48:45]	Snoopi has taken 2 damage from worldspawn, leaving them at 98 health.
+[11:48:52]	Snoopi has taken 2 damage from worldspawn, leaving them at 96 health.
+[11:51:15]	Snoopi's money has changed by 0.
+[11:56:04]	Snoopi's money has changed by 0.
+[12:00:08]	Snoopi[STEAM_0:0:102201840] has disconnected from the server.
+[12:22:19]	Logan[STEAM_0:1:67558546] has connected to the server.
+[12:24:15]	Logan loaded the character #2(aaaaaa)
+[12:26:52]	aaaaaa has entered observer.
+[12:26:54]	aaaaaa has left observer.
+[12:26:55]	aaaaaa has entered observer.
+[12:26:56]	aaaaaa has left observer.
+[12:27:02]	aaaaaa has entered observer.
+[12:27:25]	aaaaaa has left observer.
+[12:27:29]	aaaaaa has entered observer.
+[12:27:29]	aaaaaa has left observer.
+[12:27:30]	aaaaaa has entered observer.
+[12:27:33]	aaaaaa has left observer.
+[12:27:40]	aaaaaa has entered observer.
+[12:27:41]	aaaaaa has left observer.
+[12:27:43]	aaaaaa has entered observer.
+[12:27:44]	aaaaaa has left observer.
+[12:27:52]	aaaaaa has entered observer.
+[12:27:55]	aaaaaa used '/toggleraise'
+[12:27:56]	aaaaaa has left observer.
+[12:27:58]	aaaaaa has entered observer.
+[12:27:59]	aaaaaa has left observer.
+[12:28:00]	aaaaaa has entered observer.
+[12:28:01]	aaaaaa has left observer.
+[12:28:07]	aaaaaa has entered observer.
+[12:28:09]	aaaaaa has left observer.
+[12:28:11]	aaaaaa has entered observer.
+[12:28:11]	aaaaaa has left observer.
+[12:28:14]	aaaaaa has entered observer.
+[12:28:17]	aaaaaa has left observer.
+[12:29:04]	aaaaaa's money has changed by 5.
+[12:30:33]	aaaaaa has entered observer.
+[12:30:34]	aaaaaa has left observer.
+[12:30:34]	aaaaaa has entered observer.
+[12:30:35]	aaaaaa has left observer.
+[12:30:36]	aaaaaa has entered observer.
+[12:31:44]	aaaaaa has left observer.
+[12:31:45]	aaaaaa has entered observer.
+[12:31:46]	aaaaaa has left observer.
+[12:31:56]	aaaaaa has entered observer.
+[12:33:21]	aaaaaa has left observer.
+[12:33:49]	aaaaaa has entered observer.
+[12:33:51]	aaaaaa has left observer.
+[12:33:53]	aaaaaa's money has changed by 5.
+[12:34:23]	aaaaaa has entered observer.
+[12:35:28]	aaaaaa has left observer.
+[12:35:29]	aaaaaa has entered observer.
+[12:35:31]	aaaaaa has left observer.
+[12:35:32]	aaaaaa has entered observer.
+[12:35:33]	aaaaaa has left observer.
+[12:35:34]	aaaaaa has entered observer.
+[12:35:35]	aaaaaa has left observer.
+[12:35:35]	aaaaaa has entered observer.
+[12:35:36]	aaaaaa has left observer.
+[12:35:39]	aaaaaa has entered observer.
+[12:35:40]	aaaaaa has left observer.
+[12:35:49]	aaaaaa[STEAM_0:1:67558546] has disconnected from the server.
+[16:46:33]	Snoopi[STEAM_0:0:102201840] has connected to the server.
+[16:47:49]	Snoopi loaded the character #3(Snoopi)
+[16:47:51]	Snoopi has entered observer.
+[16:47:52]	Snoopi has left observer.
+[16:47:53]	Snoopi has entered observer.
+[16:47:54]	Snoopi has left observer.
+[16:47:54]	Snoopi has entered observer.
+[16:47:55]	Snoopi has left observer.
+[16:47:55]	Snoopi has entered observer.
+[16:48:44]	Snoopi has left observer.
+[16:48:45]	Snoopi has entered observer.
+[16:48:46]	Snoopi has left observer.
+[16:48:46]	Snoopi has entered observer.
+[16:48:47]	Snoopi has left observer.
+[16:48:48]	Snoopi has entered observer.
+[16:48:48]	Snoopi has left observer.
+[16:48:49]	Snoopi has entered observer.
+[16:48:50]	Snoopi has left observer.
+[16:48:53]	Snoopi has entered observer.
+[16:48:54]	Snoopi has left observer.
+[16:48:56]	Snoopi has entered observer.
+[16:48:56]	Snoopi has left observer.
+[16:48:57]	Snoopi has entered observer.
+[16:48:57]	Snoopi has left observer.
+[16:48:59]	Snoopi has entered observer.
+[16:49:07]	Snoopi has left observer.
+[16:49:08]	Snoopi has entered observer.
+[16:49:09]	Snoopi has left observer.
+[16:49:10]	Snoopi has entered observer.
+[16:49:10]	Snoopi has left observer.
+[16:49:18]	Snoopi has entered observer.
+[16:49:19]	Snoopi has left observer.
+[16:49:20]	Snoopi has entered observer.
+[16:49:23]	Snoopi has left observer.
+[16:49:23]	Snoopi has entered observer.
+[16:49:29]	Snoopi has left observer.
+[16:49:30]	Snoopi has entered observer.
+[16:49:31]	Snoopi has left observer.
+[16:49:35]	Snoopi has entered observer.
+[16:49:36]	Snoopi has left observer.
+[16:49:37]	Snoopi has entered observer.
+[16:49:38]	Snoopi has left observer.
+[16:49:39]	Snoopi has entered observer.
+[16:49:40]	Snoopi has left observer.
+[16:49:40]	Snoopi has entered observer.
+[16:49:41]	Snoopi has left observer.
+[16:49:43]	Snoopi has entered observer.
+[16:49:43]	Snoopi has left observer.
+[16:49:46]	Snoopi has entered observer.
+[16:49:46]	Snoopi has left observer.
+[16:49:47]	Snoopi has entered observer.
+[16:49:48]	Snoopi has left observer.
+[16:49:49]	Snoopi has entered observer.
+[16:49:49]	Snoopi has left observer.
+[16:49:54]	Snoopi has entered observer.
+[16:49:54]	Snoopi has left observer.
+[16:49:56]	Snoopi has entered observer.
+[16:49:56]	Snoopi has left observer.
+[16:50:03]	Snoopi has entered observer.
+[16:50:04]	Snoopi has left observer.
+[16:50:04]	Snoopi has entered observer.
+[16:50:05]	Snoopi has left observer.
+[16:50:14]	Snoopi has entered observer.
+[16:50:15]	Snoopi has left observer.
+[16:50:16]	Snoopi has entered observer.
+[16:50:16]	Snoopi has left observer.
+[16:50:17]	Snoopi has entered observer.
+[16:50:17]	Snoopi has left observer.
+[16:50:18]	Snoopi has entered observer.
+[16:50:18]	Snoopi has left observer.
+[16:50:18]	Varin[STEAM_0:0:456026907] has connected to the server.
+[16:50:19]	Snoopi has entered observer.
+[16:50:22]	Snoopi has left observer.
+[16:50:23]	Snoopi has entered observer.
+[16:50:30]	Snoopi has left observer.
+[16:50:30]	Snoopi has entered observer.
+[16:50:31]	Snoopi has left observer.
+[16:50:31]	Snoopi has entered observer.
+[16:50:34]	Snoopi has left observer.
+[16:50:34]	Snoopi has entered observer.
+[16:50:36]	Snoopi has left observer.
+[16:50:37]	Snoopi has entered observer.
+[16:50:37]	Snoopi has left observer.
+[16:50:37]	Snoopi has entered observer.
+[16:50:38]	Snoopi has left observer.
+[16:50:38]	Snoopi has entered observer.
+[16:50:38]	Snoopi has left observer.
+[16:50:39]	Snoopi has entered observer.
+[16:50:45]	Snoopi has left observer.
+[16:50:45]	Snoopi has entered observer.
+[16:50:48]	Snoopi has left observer.
+[16:50:48]	Snoopi has entered observer.
+[16:51:01]	Snoopi has lost 1xatow_p08.
+[16:51:01]	Snoopi tried 'drop' on item 'atow_p08'(#106)
+[16:51:06]	Snoopi has left observer.
+[16:51:09]	Snoopi has entered observer.
+[16:51:10]	Snoopi has left observer.
+[16:51:13]	Snoopi has entered observer.
+[16:51:34]	Snoopi has left observer.
+[16:51:38]	Snoopi has entered observer.
+[16:51:38]	Snoopi has left observer.
+[16:51:39]	Snoopi has entered observer.
+[16:51:53]	Snoopi has left observer.
+[16:51:54]	Snoopi has entered observer.
+[16:51:55]	Snoopi has left observer.
+[16:51:56]	Snoopi has entered observer.
+[16:51:57]	Snoopi has left observer.
+[16:51:57]	Varin created the character #10(Reichsführer-SS Joachim Wolfgang Erwin Wilhelm)
+[16:51:57]	Snoopi has entered observer.
+[16:51:59]	Varin loaded the character #10(Reichsführer-SS Joachim Wolfgang Erwin Wilhelm)
+[16:52:11]	Snoopi has left observer.
+[16:52:15]	Snoopi has entered observer.
+[16:52:18]	Snoopi has left observer.
+[16:52:29]	Snoopi (STEAM_0:0:102201840) has spawned 'Radio'
+[16:52:32]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm tried 'take' on item 'Radio'(#107)
+[16:52:32]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has picked up 1xRadio.
+[16:52:33]	[IC] Snoopi: 128.0
+[16:52:36]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm tried 'Freq' on item 'Radio'(#107)
+[16:52:38]	Snoopi's money has changed by 0.
+[16:52:44]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm tried 'Toggle' on item 'Radio'(#107)
+[16:53:08]	[IC] Snoopi: nutradio
+[16:53:23]	Snoopi has entered observer.
+[16:53:27]	Snoopi has left observer.
+[16:54:24]	Snoopi has entered observer.
+[16:54:26]	Snoopi has left observer.
+[16:54:28]	Snoopi (STEAM_0:0:102201840) has spawned 'Stationary Radio'
+[16:54:29]	Snoopi has entered observer.
+[16:54:31]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm tried 'take' on item 'Stationary Radio'(#108)
+[16:54:31]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has picked up 1xStationary Radio.
+[16:54:35]	Snoopi has left observer.
+[16:54:36]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has lost 1xStationary Radio.
+[16:54:36]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm tried 'drop' on item 'Stationary Radio'(#108)
+[16:54:40]	Snoopi has entered observer.
+[16:54:40]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm tried 'Toggle' on item 'Stationary Radio'(#108)
+[16:54:41]	Snoopi has left observer.
+[16:54:42]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm tried 'Freq' on item 'Stationary Radio'(#108)
+[16:54:43]	Snoopi (STEAM_0:0:102201840) has spawned 'Stationary Radio'
+[16:54:48]	Snoopi tried 'Toggle' on item 'Stationary Radio'(#109)
+[16:54:52]	Snoopi tried 'Freq' on item 'Stationary Radio'(#109)
+[16:55:00]	[RADIO] Snoopi: test
+[16:55:02]	[RADIO] Reichsführer-SS Joachim Wolfgang Erwin Wilhelm: Retarded nigger
+[16:55:07]	Snoopi has entered observer.
+[16:55:12]	Snoopi has left observer.
+[16:55:12]	Snoopi has entered observer.
+[16:55:13]	Snoopi has left observer.
+[16:55:14]	Snoopi has entered observer.
+[16:55:25]	Snoopi has left observer.
+[16:55:29]	Snoopi tried 'Freq' on item 'Stationary Radio'(#109)
+[16:55:32]	Snoopi has entered observer.
+[16:55:36]	[RADIO] Reichsführer-SS Joachim Wolfgang Erwin Wilhelm: .
+[16:55:42]	Snoopi has left observer.
+[16:55:45]	[RADIO] Reichsführer-SS Joachim Wolfgang Erwin Wilhelm: .
+[16:55:56]	Snoopi has entered observer.
+[16:56:23]	Snoopi has left observer.
+[16:56:23]	Snoopi has entered observer.
+[16:56:23]	Snoopi has left observer.
+[16:56:24]	Snoopi has entered observer.
+[16:56:29]	Snoopi has left observer.
+[16:56:37]	Snoopi has entered observer.
+[16:56:46]	Snoopi has left observer.
+[16:56:48]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm's money has changed by 5.
+[16:56:55]	Snoopi has entered observer.
+[16:56:56]	Snoopi has left observer.
+[16:57:03]	Snoopi has entered observer.
+[16:57:07]	Snoopi has left observer.
+[16:57:08]	Snoopi has entered observer.
+[16:57:09]	Snoopi has left observer.
+[16:57:14]	Snoopi has entered observer.
+[16:57:14]	Snoopi has left observer.
+[16:57:15]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 4 damage from npc_combine_s, leaving them at 95 health.
+[16:57:22]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 5 damage from cw_ammo_kit_small, leaving them at 90 health.
+[16:57:25]	Snoopi has entered observer.
+[16:57:26]	Snoopi has left observer.
+[16:57:27]	Snoopi's money has changed by 0.
+[16:57:39]	Snoopi has entered observer.
+[16:57:39]	Snoopi has left observer.
+[16:57:59]	Snoopi has taken 4 damage from Reichsführer-SS Joachim Wolfgang Erwin Wilhelm, leaving them at 97 health.
+[16:58:04]	Snoopi has taken 4 damage from Reichsführer-SS Joachim Wolfgang Erwin Wilhelm, leaving them at 93 health.
+[16:58:05]	Snoopi has taken 4 damage from Reichsführer-SS Joachim Wolfgang Erwin Wilhelm, leaving them at 89 health.
+[16:58:05]	Snoopi has taken 4 damage from Reichsführer-SS Joachim Wolfgang Erwin Wilhelm, leaving them at 85 health.
+[16:58:06]	Snoopi has taken 420 damage from Reichsführer-SS Joachim Wolfgang Erwin Wilhelm, leaving them at -335 health.
+[16:58:39]	Snoopi has entered observer.
+[16:58:43]	Snoopi has left observer.
+[16:58:46]	Snoopi has taken 30 damage from Reichsführer-SS Joachim Wolfgang Erwin Wilhelm, leaving them at 70 health.
+[16:58:46]	Snoopi has entered observer.
+[16:58:47]	Snoopi has left observer.
+[16:59:05]	Snoopi has entered observer.
+[16:59:05]	Snoopi has left observer.
+[16:59:18]	Snoopi has entered observer.
+[16:59:18]	Snoopi has left observer.
+[16:59:28]	Snoopi has entered observer.
+[16:59:29]	Snoopi has left observer.
+[16:59:42]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 4 damage from Snoopi, leaving them at 97 health.
+[16:59:53]	Snoopi has entered observer.
+[16:59:53]	Snoopi has left observer.
+[17:00:05]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 28 damage from Snoopi, leaving them at 68 health.
+[17:00:05]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 4 damage from Snoopi, leaving them at 65 health.
+[17:00:05]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 28 damage from Snoopi, leaving them at 36 health.
+[17:00:06]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 4 damage from Snoopi, leaving them at 33 health.
+[17:00:06]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 4 damage from Snoopi, leaving them at 29 health.
+[17:00:21]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 28 damage from Snoopi, leaving them at 1 health.
+[17:00:21]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 28 damage from Snoopi, leaving them at -28 health.
+[17:00:29]	Snoopi has entered observer.
+[17:00:47]	Snoopi has left observer.
+[17:00:51]	Snoopi has entered observer.
+[17:01:05]	Snoopi has left observer.
+[17:01:29]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 6 damage from Snoopi, leaving them at 94 health.
+[17:01:37]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm's money has changed by 5.
+[17:01:44]	Snoopi has entered observer.
+[17:01:44]	Snoopi has left observer.
+[17:01:48]	Snoopi has taken 51 damage from Reichsführer-SS Joachim Wolfgang Erwin Wilhelm, leaving them at 49 health.
+[17:02:12]	Snoopi has taken 6 damage from Reichsführer-SS Joachim Wolfgang Erwin Wilhelm, leaving them at 43 health.
+[17:02:15]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 6 damage from Snoopi, leaving them at 94 health.
+[17:02:16]	Snoopi's money has changed by 0.
+[17:02:17]	Snoopi has taken 51 damage from Reichsführer-SS Joachim Wolfgang Erwin Wilhelm, leaving them at -8 health.
+[17:02:28]	Greg[STEAM_0:1:109721047] has connected to the server.
+[17:02:36]	Snoopi has entered observer.
+[17:02:37]	Snoopi has left observer.
+[17:02:42]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 632 damage from Snoopi, leaving them at -532 health.
+[17:03:27]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 70 damage from Snoopi, leaving them at 30 health.
+[17:03:30]	Snoopi has taken 70 damage from Reichsführer-SS Joachim Wolfgang Erwin Wilhelm, leaving them at 30 health.
+[17:03:33]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 70 damage from Snoopi, leaving them at -25 health.
+[17:04:10]	Snoopi has entered observer.
+[17:04:15]	Snoopi has left observer.
+[17:04:30]	Snoopi has entered observer.
+[17:04:30]	Snoopi has left observer.
+[17:04:37]	Greg created the character #11(Polish Guy)
+[17:04:38]	Greg loaded the character #11(Polish Guy)
+[17:04:43]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 48 damage from Snoopi, leaving them at 52 health.
+[17:05:24]	Snoopi has taken 48 damage from Reichsführer-SS Joachim Wolfgang Erwin Wilhelm, leaving them at 52 health.
+[17:05:28]	Polish Guy has taken 6 damage from Snoopi, leaving them at 94 health.
+[17:05:28]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 70 damage from Polish Guy, leaving them at -18 health.
+[17:05:35]	Polish Guy has taken 6 damage from Snoopi, leaving them at 94 health.
+[17:05:57]	Polish Guy has taken 6 damage from Snoopi, leaving them at 88 health.
+[17:05:57]	Polish Guy has taken 672 damage from Snoopi, leaving them at -584 health.
+[17:06:01]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 672 damage from Snoopi, leaving them at -572 health.
+[17:06:04]	Snoopi has entered observer.
+[17:06:07]	Snoopi has left observer.
+[17:06:26]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm's money has changed by 5.
+[17:06:32]	Snoopi has entered observer.
+[17:06:35]	Snoopi has left observer.
+[17:06:39]	Snoopi has entered observer.
+[17:06:52]	Snoopi has left observer.
+[17:06:59]	Snoopi has taken 2 damage from Reichsführer-SS Joachim Wolfgang Erwin Wilhelm, leaving them at 80 health.
+[17:06:59]	Snoopi has taken 2 damage from Reichsführer-SS Joachim Wolfgang Erwin Wilhelm, leaving them at 77 health.
+[17:07:04]	Snoopi has entered observer.
+[17:07:04]	Snoopi has left observer.
+[17:07:05]	Snoopi's money has changed by 0.
+[17:07:10]	Snoopi has entered observer.
+[17:07:10]	Snoopi has left observer.
+[17:07:16]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 20 damage from Snoopi, leaving them at 80 health.
+[17:07:16]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 20 damage from Snoopi, leaving them at 61 health.
+[17:07:16]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 2 damage from Snoopi, leaving them at 58 health.
+[17:07:21]	Snoopi has taken 273 damage from Reichsführer-SS Joachim Wolfgang Erwin Wilhelm, leaving them at -196 health.
+[17:07:29]	Snoopi has entered observer.
+[17:07:31]	Snoopi has left observer.
+[17:07:37]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 20 damage from Polish Guy, leaving them at 54 health.
+[17:07:37]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 2 damage from Polish Guy, leaving them at 52 health.
+[17:07:37]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 2 damage from Polish Guy, leaving them at 49 health.
+[17:07:41]	Polish Guy has taken 20 damage from Reichsführer-SS Joachim Wolfgang Erwin Wilhelm, leaving them at 81 health.
+[17:07:41]	Polish Guy has taken 273 damage from Reichsführer-SS Joachim Wolfgang Erwin Wilhelm, leaving them at -192 health.
+[17:07:50]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 161792 damage from Snoopi, leaving them at -161743 health.
+[17:08:08]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 6539 damage from gb_bomb_sc100, leaving them at -6439 health.
+[17:08:08]	Polish Guy has taken 14305 damage from gb_bomb_sc100, leaving them at -14205 health.
+[17:08:08]	Snoopi has taken 17807 damage from gb_bomb_sc100, leaving them at -17707 health.
+[17:08:15]	Snoopi has entered observer.
+[17:08:15]	Snoopi has left observer.
+[17:08:20]	Polish Guy has taken 8 damage from Reichsführer-SS Joachim Wolfgang Erwin Wilhelm, leaving them at 92 health.
+[17:08:23]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 27758 damage from Polish Guy, leaving them at -27659 health.
+[17:08:23]	Polish Guy has taken 457246 damage from Polish Guy, leaving them at -457154 health.
+[17:08:23]	Snoopi has taken 308879 damage from Polish Guy, leaving them at -308778 health.
+[17:08:30]	Snoopi has entered observer.
+[17:08:31]	Snoopi has left observer.
+[17:08:36]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 9662529 damage from Polish Guy, leaving them at -9662429 health.
+[17:08:36]	Snoopi has taken 11264950 damage from Polish Guy, leaving them at -11264850 health.
+[17:08:36]	Polish Guy has taken 10160725 damage from Polish Guy, leaving them at -10160625 health.
+[17:08:41]	Snoopi has entered observer.
+[17:08:43]	Snoopi has left observer.
+[17:08:44]	Snoopi has entered observer.
+[17:08:45]	Snoopi has left observer.
+[17:09:01]	Snoopi (STEAM_0:0:102201840) has spawned 'Radio'
+[17:09:03]	Polish Guy tried 'take' on item 'Radio'(#110)
+[17:09:03]	Polish Guy has picked up 1xRadio.
+[17:09:04]	Snoopi has taken 8 damage from Reichsführer-SS Joachim Wolfgang Erwin Wilhelm, leaving them at 92 health.
+[17:09:05]	Snoopi has taken 8 damage from Reichsführer-SS Joachim Wolfgang Erwin Wilhelm, leaving them at 85 health.
+[17:09:09]	Snoopi has taken 8 damage from Polish Guy, leaving them at 77 health.
+[17:09:09]	Polish Guy has taken 8 damage from Reichsführer-SS Joachim Wolfgang Erwin Wilhelm, leaving them at 92 health.
+[17:09:20]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 8 damage from Polish Guy, leaving them at 93 health.
+[17:09:21]	Polish Guy has taken 12 damage from Snoopi, leaving them at 80 health.
+[17:09:22]	Polish Guy has taken 12 damage from Snoopi, leaving them at 67 health.
+[17:09:22]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 8 damage from Polish Guy, leaving them at 85 health.
+[17:09:27]	Polish Guy's money has changed by 5.
+[17:09:28]	Polish Guy has taken 8 damage from Reichsführer-SS Joachim Wolfgang Erwin Wilhelm, leaving them at 60 health.
+[17:09:28]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 8 damage from Polish Guy, leaving them at 78 health.
+[17:09:30]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 12 damage from Snoopi, leaving them at 66 health.
+[17:09:30]	Polish Guy has taken 8 damage from Reichsführer-SS Joachim Wolfgang Erwin Wilhelm, leaving them at 52 health.
+[17:09:30]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 12 damage from Snoopi, leaving them at 68 health.
+[17:09:31]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 8 damage from Polish Guy, leaving them at 61 health.
+[17:09:33]	Polish Guy has taken 12 damage from Snoopi, leaving them at 55 health.
+[17:09:37]	Snoopi has taken 8 damage from Polish Guy, leaving them at 85 health.
+[17:09:38]	Snoopi has taken 8 damage from Polish Guy, leaving them at 77 health.
+[17:09:41]	Polish Guy has taken 70 damage from Snoopi, leaving them at -15 health.
+[17:09:44]	Snoopi has entered observer.
+[17:09:44]	Snoopi has left observer.
+[17:09:57]	Snoopi has entered observer.
+[17:09:58]	Snoopi has left observer.
+[17:10:16]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 92 damage from Snoopi, leaving them at -31 health.
+[17:10:29]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 183 damage from Snoopi, leaving them at -84 health.
+[17:10:29]	Polish Guy has taken 248 damage from Snoopi, leaving them at -149 health.
+[17:10:54]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 170 damage from Snoopi, leaving them at -70 health.
+[17:10:54]	Polish Guy has taken 215 damage from Snoopi, leaving them at -115 health.
+[17:11:09]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 224 damage from Snoopi, leaving them at -123 health.
+[17:11:09]	Snoopi has taken 31 damage from Snoopi, leaving them at 61 health.
+[17:11:15]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm's money has changed by 5.
+[17:11:22]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 238 damage from Snoopi, leaving them at -139 health.
+[17:11:40]	Polish Guy has taken 235 damage from Snoopi, leaving them at -134 health.
+[17:11:54]	Snoopi's money has changed by 0.
+[17:12:01]	Snoopi has entered observer.
+[17:12:01]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 279 damage from Snoopi, leaving them at -179 health.
+[17:12:03]	Snoopi has left observer.
+[17:12:44]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 34 damage from Snoopi, leaving them at 66 health.
+[17:12:44]	Snoopi has taken 82 damage from Snoopi, leaving them at 10 health.
+[17:12:44]	Snoopi has taken 10 damage from Snoopi, leaving them at 0 health.
+[17:13:08]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 150 damage from Snoopi, leaving them at -84 health.
+[17:13:13]	Snoopi has entered observer.
+[17:13:17]	Polish Guy has taken 150 damage from Snoopi, leaving them at -50 health.
+[17:13:19]	Snoopi has left observer.
+[17:13:19]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 150 damage from Snoopi, leaving them at -50 health.
+[17:13:30]	Polish Guy has taken 90 damage from Snoopi, leaving them at 10 health.
+[17:13:31]	Polish Guy has taken 43 damage from Snoopi, leaving them at -18 health.
+[17:13:36]	Snoopi has entered observer.
+[17:13:37]	Snoopi has left observer.
+[17:14:16]	Polish Guy's money has changed by 5.
+[17:15:06]	Snoopi has taken 5 damage from npc_fastzombie, leaving them at 95 health.
+[17:15:20]	Snoopi has taken 5 damage from npc_headcrab_fast, leaving them at 90 health.
+[17:15:22]	Snoopi has taken 5 damage from npc_headcrab_fast, leaving them at 85 health.
+[17:15:24]	Snoopi has taken 5 damage from npc_headcrab_fast, leaving them at 80 health.
+[17:15:28]	Polish Guy has taken 20 damage from Snoopi, leaving them at 80 health.
+[17:15:28]	Polish Guy has taken 20 damage from Snoopi, leaving them at 61 health.
+[17:15:28]	Polish Guy has taken 20 damage from Snoopi, leaving them at 41 health.
+[17:15:28]	Polish Guy has taken 20 damage from Snoopi, leaving them at 22 health.
+[17:15:28]	Polish Guy has taken 20 damage from Snoopi, leaving them at 2 health.
+[17:15:28]	Polish Guy has taken 2 damage from Snoopi, leaving them at 0 health.
+[17:15:39]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 20 damage from Snoopi, leaving them at 80 health.
+[17:15:39]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 20 damage from Snoopi, leaving them at 61 health.
+[17:15:39]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 20 damage from Snoopi, leaving them at 41 health.
+[17:15:39]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 20 damage from Snoopi, leaving them at 22 health.
+[17:15:39]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 20 damage from Snoopi, leaving them at 2 health.
+[17:15:39]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 20 damage from Snoopi, leaving them at -17 health.
+[17:16:00]	Polish Guy has taken 10 damage from npc_poisonzombie, leaving them at 90 health.
+[17:16:02]	Snoopi has entered observer.
+[17:16:02]	Polish Guy has taken 5 damage from npc_headcrab_poison, leaving them at 85 health.
+[17:16:02]	Polish Guy has taken 84 damage from npc_headcrab_poison, leaving them at 1 health.
+[17:16:02]	Polish Guy has taken 10 damage from npc_poisonzombie, leaving them at -9 health.
+[17:16:02]	Snoopi has left observer.
+[17:16:04]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm's money has changed by 5.
+[17:16:05]	[IC] Reichsführer-SS Joachim Wolfgang Erwin Wilhelm: Fuck you nigger
+[17:16:08]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 5 damage from npc_headcrab_poison, leaving them at 95 health.
+[17:16:08]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 94 damage from npc_headcrab_poison, leaving them at 1 health.
+[17:16:12]	Polish Guy has taken 10 damage from npc_poisonzombie, leaving them at 90 health.
+[17:16:14]	Polish Guy has taken 10 damage from npc_poisonzombie, leaving them at 80 health.
+[17:16:16]	Polish Guy has taken 10 damage from npc_poisonzombie, leaving them at 70 health.
+[17:16:18]	Polish Guy has taken 10 damage from npc_poisonzombie, leaving them at 60 health.
+[17:16:19]	Polish Guy has taken 5 damage from npc_headcrab_poison, leaving them at 55 health.
+[17:16:19]	Polish Guy has taken 54 damage from npc_headcrab_poison, leaving them at 1 health.
+[17:16:20]	Snoopi has taken 10 damage from npc_poisonzombie, leaving them at 85 health.
+[17:16:21]	Snoopi has taken 10 damage from npc_poisonzombie, leaving them at 75 health.
+[17:16:22]	Snoopi has taken 5 damage from npc_headcrab_poison, leaving them at 70 health.
+[17:16:22]	Snoopi has taken 69 damage from npc_headcrab_poison, leaving them at 1 health.
+[17:16:28]	Snoopi has taken 5 damage from npc_headcrab_poison, leaving them at 16 health.
+[17:16:28]	Snoopi has taken 15 damage from npc_headcrab_poison, leaving them at 1 health.
+[17:16:34]	Polish Guy has taken 70 damage from Snoopi, leaving them at 16 health.
+[17:16:35]	Polish Guy has taken 70 damage from Snoopi, leaving them at -54 health.
+[17:16:43]	Snoopi's money has changed by 0.
+[17:16:46]	[OOC] Reichsführer-SS Joachim Wolfgang Erwin Wilhelm: obv its real
+[17:16:52]	[OOC] Snoopi: its just his name lol
+[17:17:00]	[OOC] Snoopi: he dosent understand we wiped
+[17:17:07]	[OOC] Reichsführer-SS Joachim Wolfgang Erwin Wilhelm: Stfu retard
+[17:17:25]	Snoopi has taken 8 damage from Reichsführer-SS Joachim Wolfgang Erwin Wilhelm, leaving them at 72 health.
+[17:17:26]	Snoopi has taken 8 damage from Reichsführer-SS Joachim Wolfgang Erwin Wilhelm, leaving them at 65 health.
+[17:17:26]	Snoopi has taken 8 damage from Reichsführer-SS Joachim Wolfgang Erwin Wilhelm, leaving them at 57 health.
+[17:17:28]	Snoopi has entered observer.
+[17:17:28]	Snoopi has left observer.
+[17:18:10]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 70 damage from Snoopi, leaving them at 30 health.
+[17:18:19]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 70 damage from Snoopi, leaving them at -40 health.
+[17:18:42]	Snoopi has entered observer.
+[17:18:53]	Snoopi used '/flaggive erwin pet'
+[17:18:53]	Snoopi has left observer.
+[17:18:59]	Snoopi has taken 5 damage from worldspawn, leaving them at 82 health.
+[17:18:59]	Snoopi has taken 5 damage from worldspawn, leaving them at 77 health.
+[17:19:00]	Snoopi has taken 5 damage from worldspawn, leaving them at 72 health.
+[17:19:00]	Snoopi has entered observer.
+[17:19:01]	Snoopi has left observer.
+[17:19:04]	Snoopi has taken 500 damage from Reichsführer-SS Joachim Wolfgang Erwin Wilhelm, leaving them at -428 health.
+[17:19:05]	Polish Guy's money has changed by 5.
+[17:19:11]	Snoopi has entered observer.
+[17:19:12]	Snoopi has left observer.
+[17:19:24]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 5 damage from prop_physics, leaving them at 95 health.
+[17:19:31]	Snoopi has taken 500 damage from Reichsführer-SS Joachim Wolfgang Erwin Wilhelm, leaving them at -400 health.
+[17:19:38]	Snoopi has entered observer.
+[17:19:51]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 2 damage from worldspawn, leaving them at 98 health.
+[17:19:52]	Snoopi has left observer.
+[17:20:00]	Snoopi has taken 88 damage from worldspawn, leaving them at 12 health.
+[17:20:07]	Snoopi has entered observer.
+[17:20:09]	Snoopi has left observer.
+[17:20:10]	Snoopi has taken 100 damage from cw_ammo_fraggrenades, leaving them at -88 health.
+[17:20:30]	Snoopi has entered observer.
+[17:20:30]	Snoopi has left observer.
+[17:20:35]	Snoopi has entered observer.
+[17:20:36]	Snoopi has left observer.
+[17:20:38]	Snoopi has taken 11 damage from worldspawn, leaving them at 89 health.
+[17:20:52]	Snoopi has entered observer.
+[17:20:52]	Snoopi has left observer.
+[17:20:53]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm's money has changed by 5.
+[17:21:00]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 6 damage from Snoopi, leaving them at 94 health.
+[17:21:08]	Snoopi has taken 500 damage from Reichsführer-SS Joachim Wolfgang Erwin Wilhelm, leaving them at -411 health.
+[17:21:32]	Snoopi's money has changed by 0.
+[17:21:42]	Snoopi has taken 200 damage from worldspawn, leaving them at -100 health.
+[17:21:55]	Snoopi has entered observer.
+[17:21:56]	Snoopi has left observer.
+[17:22:06]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 500 damage from Snoopi, leaving them at -400 health.
+[17:22:15]	Snoopi has entered observer.
+[17:22:22]	Snoopi has left observer.
+[17:22:24]	Snoopi has taken 100 damage from prop_physics, leaving them at 0 health.
+[17:22:33]	Snoopi has entered observer.
+[17:22:34]	Snoopi has left observer.
+[17:22:39]	Snoopi has taken 500 damage from prop_physics, leaving them at -400 health.
+[17:22:55]	Snoopi has entered observer.
+[17:22:57]	Snoopi has left observer.
+[17:23:05]	Snoopi has taken 500 damage from Reichsführer-SS Joachim Wolfgang Erwin Wilhelm, leaving them at -400 health.
+[17:23:14]	Snoopi has entered observer.
+[17:23:16]	Snoopi has left observer.
+[17:23:21]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 500 damage from Snoopi, leaving them at -400 health.
+[17:23:42]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 204 damage from worldspawn, leaving them at -104 health.
+[17:23:54]	Snoopi has taken 500 damage from Reichsführer-SS Joachim Wolfgang Erwin Wilhelm, leaving them at -400 health.
+[17:23:54]	Polish Guy's money has changed by 5.
+[17:24:06]	Polish Guy has taken 500 damage from Reichsführer-SS Joachim Wolfgang Erwin Wilhelm, leaving them at -400 health.
+[17:24:08]	Snoopi has taken 200 damage from worldspawn, leaving them at -100 health.
+[17:24:33]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 158 damage from worldspawn, leaving them at -58 health.
+[17:24:43]	Snoopi has entered observer.
+[17:24:45]	Snoopi has left observer.
+[17:24:46]	Snoopi has entered observer.
+[17:24:48]	Snoopi has left observer.
+[17:24:49]	Snoopi has entered observer.
+[17:24:49]	Snoopi has left observer.
+[17:25:00]	Snoopi has taken 500 damage from Reichsführer-SS Joachim Wolfgang Erwin Wilhelm, leaving them at -400 health.
+[17:25:30]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 9 damage from worldspawn, leaving them at 91 health.
+[17:25:39]	Polish Guy has taken 500 damage from Reichsführer-SS Joachim Wolfgang Erwin Wilhelm, leaving them at -400 health.
+[17:25:42]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm's money has changed by 5.
+[17:25:47]	Polish Guy has taken 5 damage from Snoopi, leaving them at 95 health.
+[17:25:47]	Polish Guy has taken 5 damage from Snoopi, leaving them at 90 health.
+[17:25:49]	Polish Guy has taken 500 damage from Snoopi, leaving them at -410 health.
+[17:25:50]	Snoopi has entered observer.
+[17:25:51]	Snoopi has left observer.
+[17:25:52]	Snoopi has entered observer.
+[17:25:52]	Snoopi has left observer.
+[17:25:53]	Snoopi has entered observer.
+[17:25:55]	Snoopi has left observer.
+[17:26:02]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 203 damage from worldspawn, leaving them at -103 health.
+[17:26:02]	Snoopi has entered observer.
+[17:26:09]	Snoopi has left observer.
+[17:26:12]	Polish Guy has taken 500 damage from prop_physics, leaving them at -400 health.
+[17:26:13]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 500 damage from Snoopi, leaving them at -400 health.
+[17:26:21]	Snoopi's money has changed by 0.
+[17:26:24]	Snoopi has entered observer.
+[17:26:24]	Snoopi has left observer.
+[17:26:29]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm has taken 500 damage from prop_physics, leaving them at -400 health.
+[17:26:38]	Polish Guy has taken 500 damage from Snoopi, leaving them at -400 health.
+[17:26:41]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm used '/hitlerheil'
+[17:26:41]	Snoopi has entered observer.
+[17:26:42]	Snoopi has left observer.
+[17:27:11]	Snoopi has taken 500 damage from prop_physics, leaving them at -400 health.
+[17:27:27]	Polish Guy has taken 500 damage from Reichsführer-SS Joachim Wolfgang Erwin Wilhelm, leaving them at -400 health.
+[17:27:46]	Polish Guy has taken 500 damage from Reichsführer-SS Joachim Wolfgang Erwin Wilhelm, leaving them at -400 health.
+[17:28:04]	Reichsführer-SS Joachim Wolfgang Erwin Wilhelm[STEAM_0:0:456026907] has disconnected from the server.
+[17:28:14]	Snoopi[STEAM_0:0:102201840] has disconnected from the server.
+[17:28:27]	Polish Guy[STEAM_0:1:109721047] has disconnected from the server.
+[22:15:49]	Logan[STEAM_0:1:67558546] has connected to the server.
+[22:16:07]	Logan loaded the character #2(aaaaaa)
+[22:17:40]	Logan[STEAM_0:1:67558546] has connected to the server.
+[22:18:12]	Logan loaded the character #2(aaaaaa)
+[22:18:33]	aaaaaa has taken 77 damage from worldspawn, leaving them at 24 health.
+[22:18:36]	aaaaaa has taken 21 damage from worldspawn, leaving them at 3 health.
+[22:18:39]	aaaaaa has taken 27 damage from worldspawn, leaving them at -24 health.
+[22:18:48]	Lanius[STEAM_0:0:211494314] has connected to the server.
+[22:18:54]	aaaaaa[STEAM_0:1:67558546] has disconnected from the server.
+[22:19:49]	Lanius loaded the character #9(Führer und Reichskanzler Adolf Hitler)
+[22:20:21]	Logan[STEAM_0:1:67558546] has connected to the server.
+[22:20:51]	Logan loaded the character #2(aaaaaa)
+[22:21:17]	Elliot Goldbergstein[STEAM_0:1:59675686] has connected to the server.
+[22:22:29]	Elliot Goldbergstein created the character #12(Elliot)
+[22:22:30]	Elliot Goldbergstein loaded the character #12(Elliot)
+[22:22:43]	[OOC] Elliot: ay
+[22:22:50]	Elliot used '/plytransfer STEAM_0:1:59675686 staff'
+[22:23:30]	aaaaaa has taken 21 damage from worldspawn, leaving them at 80 health.
+[22:23:45]	aaaaaa has taken 4 damage from trigger_hurt, leaving them at 76 health.
+[22:23:46]	aaaaaa has taken 4 damage from trigger_hurt, leaving them at 72 health.
+[22:23:46]	aaaaaa has taken 4 damage from trigger_hurt, leaving them at 68 health.
+[22:23:47]	aaaaaa has taken 4 damage from trigger_hurt, leaving them at 64 health.
+[22:23:47]	aaaaaa has taken 4 damage from trigger_hurt, leaving them at 60 health.
+[22:23:48]	aaaaaa has taken 4 damage from trigger_hurt, leaving them at 56 health.
+[22:23:59]	aaaaaa has taken 19 damage from worldspawn, leaving them at 37 health.
+[22:24:17]	Logan (STEAM_0:1:67558546) has spawned 'Drugmaking Table'
+[22:24:19]	aaaaaa tried 'take' on item 'Drugmaking Table'(#111)
+[22:24:19]	aaaaaa has picked up 1xDrugmaking Table.
+[22:24:22]	aaaaaa tried 'Use' on item 'Drugmaking Table'(#111)
+[22:24:38]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[22:25:12]	Logan (STEAM_0:1:67558546) has spawned 'Mulched Leaves'
+[22:25:14]	aaaaaa tried 'take' on item 'Mulched Leaves'(#112)
+[22:25:14]	aaaaaa has picked up 1xMulched Leaves.
+[22:25:18]	Logan (STEAM_0:1:67558546) has spawned 'Mulched Coca Leaves'
+[22:25:19]	aaaaaa tried 'take' on item 'Mulched Coca Leaves'(#113)
+[22:25:19]	aaaaaa has picked up 1xMulched Coca Leaves.
+[22:25:38]	Logan (STEAM_0:1:67558546) has spawned 'Storage Bank'
+[22:25:40]	aaaaaa's money has changed by 5.
+[22:25:46]	aaaaaa tried 'Use' on item 'Storage Bank'(#114)
+[22:25:56]	Elliot used 'table: 0xf137a1e8'
+[22:25:59]	Logan (STEAM_0:1:67558546) has spawned 'Cocaine Recipe'
+[22:26:00]	aaaaaa tried 'take' on item 'Cocaine Recipe'(#115)
+[22:26:00]	aaaaaa has picked up 1xCocaine Recipe.
+[22:27:19]	Elliot's money has changed by 5.
+[22:27:36]	Elliot used 'table: 0xf137a1e8'
+[22:29:27]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[22:30:29]	aaaaaa's money has changed by 5.
+[22:31:10]	Logan (STEAM_0:1:67558546) has spawned 'Coca Leaves'
+[22:31:12]	aaaaaa tried 'take' on item 'Coca Leaves'(#116)
+[22:31:12]	aaaaaa has picked up 1xCoca Leaves.
+[22:31:28]	[IC] Führer und Reichskanzler Adolf Hitler: ello
+[22:31:31]	Logan (STEAM_0:1:67558546) has spawned 'Coca Leaves'
+[22:31:42]	Führer und Reichskanzler Adolf Hitler used '/flaggive adolf QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm'
+[22:31:56]	Führer und Reichskanzler Adolf Hitler used '/plytransfer elliot staff'
+[22:32:08]	[IC] Führer und Reichskanzler Adolf Hitler: !sam setrank elliot junioradministrator
+[22:32:08]	Elliot's money has changed by 5.
+[22:32:34]	Führer und Reichskanzler Adolf Hitler used '/charsetmodel elliot models/humans/Suits_07_EXG.mdl'
+[22:32:39]	Führer und Reichskanzler Adolf Hitler used '/flaggive elliot pet'
+[22:33:38]	aaaaaa used '/toggleraise'
+[22:34:16]	Elliot has taken 167021 damage from aaaaaa, leaving them at -166921 health.
+[22:34:16]	aaaaaa has taken 108610 damage from aaaaaa, leaving them at -108511 health.
+[22:34:16]	Führer und Reichskanzler Adolf Hitler has taken 63237 damage from aaaaaa, leaving them at -63137 health.
+[22:34:16]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[22:34:58]	aaaaaa has taken 75845 damage from aaaaaa, leaving them at -75744 health.
+[22:34:58]	Führer und Reichskanzler Adolf Hitler has taken 167235 damage from aaaaaa, leaving them at -167134 health.
+[22:35:18]	aaaaaa's money has changed by 5.
+[22:35:20]	aaaaaa has taken 30 damage from aaaaaa, leaving them at 70 health.
+[22:36:01]	aaaaaa has taken 143841 damage from aaaaaa, leaving them at -143771 health.
+[22:36:57]	Elliot's money has changed by 5.
+[22:37:36]	aaaaaa used '/toggleraise'
+[22:38:00]	aaaaaa used '/toggleraise'
+[22:38:13]	aaaaaa used '/toggleraise'
+[22:38:44]	aaaaaa used '/toggleraise'
+[22:38:55]	aaaaaa has taken 21 damage from aaaaaa, leaving them at 79 health.
+[22:39:05]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[22:39:10]	aaaaaa used '/toggleraise'
+[22:39:25]	aaaaaa used '/toggleraise'
+[22:39:46]	aaaaaa used '/toggleraise'
+[22:40:07]	aaaaaa's money has changed by 5.
+[22:40:11]	aaaaaa used '/toggleraise'
+[22:40:20]	aaaaaa used '/toggleraise'
+[22:40:32]	aaaaaa used '/toggleraise'
+[22:41:15]	aaaaaa used '/toggleraise'
+[22:41:46]	Elliot's money has changed by 5.
+[22:43:11]	aaaaaa used '/toggleraise'
+[22:43:54]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[22:44:40]	aaaaaa used '/toggleraise'
+[22:44:51]	aaaaaa used '/toggleraise'
+[22:44:56]	aaaaaa's money has changed by 5.
+[22:46:35]	Elliot's money has changed by 5.
+[22:46:36]	aaaaaa used '/toggleraise'
+[22:48:43]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[22:49:45]	aaaaaa's money has changed by 5.
+[22:51:24]	Elliot's money has changed by 5.
+[22:53:32]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[22:54:34]	aaaaaa's money has changed by 5.
+[22:56:13]	Elliot's money has changed by 5.
+[22:58:21]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[22:59:23]	aaaaaa's money has changed by 5.
+[23:01:02]	Elliot's money has changed by 5.
+[23:03:10]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[23:04:12]	aaaaaa's money has changed by 5.
+[23:05:25]	[OOC] Führer und Reichskanzler Adolf Hitler: elllooo
+[23:05:32]	Lanius loaded the character #1(Lanius)
+[23:05:45]	[OOC] Lanius: we working on the Wolfs Lair map rn which is why we are AFK
+[23:05:51]	Elliot's money has changed by 5.
+[23:05:55]	[OOC] Elliot: ah epic
+[23:06:14]	[OOC] Elliot: should pull me to vc im bored
+[23:06:23]	[OOC] Lanius: kk
+[23:09:01]	aaaaaa's money has changed by 5.
+[23:10:21]	Lanius's money has changed by 0.
+[23:10:40]	Elliot's money has changed by 5.
+[23:13:30]	Elliot has accessed vendor Mining Union Boss.
+[23:13:50]	aaaaaa's money has changed by 5.
+[23:15:10]	Lanius's money has changed by 0.
+[23:15:29]	Elliot's money has changed by 5.
+[23:18:39]	aaaaaa's money has changed by 5.
+[23:19:59]	Lanius's money has changed by 0.
+[23:20:18]	Elliot's money has changed by 5.
+[23:23:28]	aaaaaa's money has changed by 5.
+[23:24:48]	Lanius's money has changed by 0.
+[23:25:07]	Elliot's money has changed by 5.
+[23:28:17]	aaaaaa's money has changed by 5.
+[23:29:35]	aaaaaa[STEAM_0:1:67558546] has disconnected from the server.
+[23:29:37]	Lanius's money has changed by 0.
+[23:29:56]	Elliot's money has changed by 5.
+[23:34:26]	Lanius's money has changed by 0.
+[23:34:45]	Elliot's money has changed by 5.
+[23:39:15]	Lanius's money has changed by 0.
+[23:39:34]	Elliot's money has changed by 5.
+[23:44:04]	Lanius's money has changed by 0.
+[23:44:23]	Elliot's money has changed by 5.
+[23:48:53]	Lanius's money has changed by 0.
+[23:49:12]	Elliot's money has changed by 5.
+[23:53:42]	Lanius's money has changed by 0.
+[23:54:01]	Elliot's money has changed by 5.
+[23:58:31]	Lanius's money has changed by 0.
+[23:58:50]	Elliot's money has changed by 5.
+[23:59:14]	Lanius loaded the character #9(Führer und Reichskanzler Adolf Hitler)

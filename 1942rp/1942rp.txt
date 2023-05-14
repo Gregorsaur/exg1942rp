@@ -1,0 +1,7 @@
+"1942rp"
+{
+	"base"		"nutscript"
+	"title"		"1942rp"
+	"author"	"Black Tea Za rebel1324"
+	"menusystem" "1"
+}

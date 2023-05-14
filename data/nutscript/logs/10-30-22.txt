@@ -1,0 +1,3427 @@
+[04:25:58]	Lanius[STEAM_0:0:211494314] has connected to the server.
+[04:26:16]	Lanius loaded the character #6(Lanius)
+[04:26:31]	Lanius has accessed vendor Allgemeine-SS Quartermaster.
+[04:29:14]	Lanius has accessed vendor Heinrich Deitrick.
+[04:31:16]	Lanius's money has changed by 500.
+[04:36:16]	Lanius's money has changed by 500.
+[04:41:16]	Lanius's money has changed by 500.
+[04:46:16]	Lanius's money has changed by 500.
+[04:50:26]	Lanius has taken 4 damage from trigger_hurt, leaving them at 96 health.
+[04:51:16]	Lanius's money has changed by 500.
+[04:56:16]	Lanius's money has changed by 500.
+[05:01:16]	Lanius's money has changed by 500.
+[05:06:16]	Lanius's money has changed by 500.
+[05:11:16]	Lanius's money has changed by 500.
+[05:16:16]	Lanius's money has changed by 500.
+[05:21:16]	Lanius's money has changed by 500.
+[05:26:16]	Lanius's money has changed by 500.
+[05:31:16]	Lanius's money has changed by 500.
+[05:36:16]	Lanius's money has changed by 500.
+[05:41:16]	Lanius's money has changed by 500.
+[05:46:16]	Lanius's money has changed by 500.
+[05:51:16]	Lanius's money has changed by 500.
+[05:56:16]	Lanius's money has changed by 500.
+[06:01:16]	Lanius's money has changed by 500.
+[06:06:16]	Lanius's money has changed by 500.
+[06:11:16]	Lanius's money has changed by 500.
+[06:16:16]	Lanius's money has changed by 500.
+[06:24:32]	Lanius[STEAM_0:0:211494314] has connected to the server.
+[06:25:05]	Lanius loaded the character #6(Lanius)
+[06:25:07]	Lanius has entered observer.
+[06:25:11]	Lanius has left observer.
+[06:25:12]	Lanius has entered observer.
+[06:25:12]	Lanius has left observer.
+[06:25:13]	Lanius has entered observer.
+[06:25:13]	Lanius has left observer.
+[06:25:14]	Lanius has entered observer.
+[06:25:17]	Lanius has left observer.
+[06:25:18]	Lanius has entered observer.
+[06:25:20]	Lanius has left observer.
+[06:25:20]	Lanius has entered observer.
+[06:25:21]	Lanius has left observer.
+[06:25:21]	Lanius has entered observer.
+[06:25:23]	Lanius has left observer.
+[06:25:23]	Lanius has entered observer.
+[06:25:24]	Lanius has left observer.
+[06:25:24]	Lanius has entered observer.
+[06:25:25]	Lanius has left observer.
+[06:25:26]	Lanius has entered observer.
+[06:25:27]	Lanius has left observer.
+[06:25:28]	Lanius has entered observer.
+[06:25:28]	Lanius has left observer.
+[06:25:29]	Lanius has entered observer.
+[06:25:31]	Snoopi[STEAM_0:0:102201840] has connected to the server.
+[06:25:31]	Lanius has left observer.
+[06:25:31]	Lanius has entered observer.
+[06:25:32]	Lanius has left observer.
+[06:25:32]	Lanius has entered observer.
+[06:25:33]	Lanius has left observer.
+[06:25:33]	Lanius has entered observer.
+[06:25:39]	Lanius has left observer.
+[06:25:39]	Lanius has entered observer.
+[06:25:40]	Lanius has left observer.
+[06:25:40]	Lanius has entered observer.
+[06:25:41]	Lanius has left observer.
+[06:25:42]	Lanius has entered observer.
+[06:25:42]	Lanius has left observer.
+[06:25:43]	Lanius has entered observer.
+[06:25:43]	Lanius has left observer.
+[06:25:43]	Lanius has entered observer.
+[06:25:46]	Lanius has left observer.
+[06:25:46]	Lanius has entered observer.
+[06:25:47]	Lanius has left observer.
+[06:25:47]	Lanius has entered observer.
+[06:25:47]	Lanius has left observer.
+[06:25:48]	Lanius has entered observer.
+[06:25:51]	Lanius has left observer.
+[06:25:51]	Lanius has entered observer.
+[06:25:52]	Snoopi loaded the character #2(AFK Snoopi)
+[06:26:01]	AFK Snoopi has entered observer.
+[06:26:17]	Lanius has left observer.
+[06:26:18]	Lanius has entered observer.
+[06:26:27]	Lanius has left observer.
+[06:26:42]	Lanius has accessed vendor John Doe.
+[06:26:51]	Lanius has accessed vendor John Doe.
+[06:27:09]	Lanius has entered observer.
+[06:27:16]	Lanius has left observer.
+[06:27:17]	Lanius has accessed vendor Test Vendor.
+[06:27:43]	Lanius has entered observer.
+[06:27:47]	Lanius has left observer.
+[06:27:47]	Lanius has entered observer.
+[06:27:48]	Lanius has left observer.
+[06:27:49]	Lanius has entered observer.
+[06:28:00]	Lanius has left observer.
+[06:28:32]	Lanius has accessed vendor Test Vendor.
+[06:28:37]	AFK Snoopi has left observer.
+[06:28:38]	AFK Snoopi has accessed vendor Test Vendor.
+[06:28:43]	Lanius has accessed vendor Test Vendor.
+[06:28:44]	AFK Snoopi has entered observer.
+[06:28:48]	AFK Snoopi has left observer.
+[06:28:49]	AFK Snoopi has accessed vendor Test Vendor.
+[06:28:51]	AFK Snoopi has accessed vendor Test Vendor.
+[06:29:00]	AFK Snoopi has accessed vendor Test Vendor.
+[06:29:03]	Lanius has accessed vendor Test Vendor.
+[06:29:08]	AFK Snoopi has entered observer.
+[06:29:41]	AFK Snoopi has left observer.
+[06:29:43]	AFK Snoopi has entered observer.
+[06:29:43]	AFK Snoopi has left observer.
+[06:30:05]	Lanius's money has changed by 0.
+[06:30:52]	AFK Snoopi's money has changed by 0.
+[06:35:05]	Lanius's money has changed by 0.
+[06:35:52]	AFK Snoopi's money has changed by 0.
+[06:40:05]	Lanius's money has changed by 0.
+[06:40:52]	AFK Snoopi's money has changed by 0.
+[06:45:05]	Lanius's money has changed by 0.
+[06:45:52]	AFK Snoopi's money has changed by 0.
+[06:50:05]	Lanius's money has changed by 0.
+[06:50:52]	AFK Snoopi's money has changed by 0.
+[06:55:05]	Lanius's money has changed by 0.
+[06:55:52]	AFK Snoopi's money has changed by 0.
+[07:00:05]	Lanius's money has changed by 0.
+[07:00:52]	AFK Snoopi's money has changed by 0.
+[07:05:05]	Lanius's money has changed by 0.
+[07:05:52]	AFK Snoopi's money has changed by 0.
+[07:10:05]	Lanius's money has changed by 0.
+[07:10:52]	AFK Snoopi's money has changed by 0.
+[07:15:05]	Lanius's money has changed by 0.
+[07:15:52]	AFK Snoopi's money has changed by 0.
+[07:20:05]	Lanius's money has changed by 0.
+[07:20:52]	AFK Snoopi's money has changed by 0.
+[07:25:05]	Lanius's money has changed by 0.
+[07:25:52]	AFK Snoopi's money has changed by 0.
+[07:30:05]	Lanius's money has changed by 0.
+[07:30:52]	AFK Snoopi's money has changed by 0.
+[07:35:05]	Lanius's money has changed by 0.
+[07:35:26]	Lanius has accessed vendor Test Vendor.
+[07:45:53]	Lanius[STEAM_0:0:211494314] has connected to the server.
+[07:46:59]	Lanius created the character #1(Lanius)
+[07:47:01]	Lanius loaded the character #1(Lanius)
+[07:47:24]	Lanius used '/flaggive lanius QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm'
+[07:47:34]	Lanius has accessed vendor Test Vendor.
+[07:48:21]	Lanius has accessed vendor Test Vendor.
+[07:50:28]	Lanius has taken 261 damage from worldspawn, leaving them at -160 health.
+[07:51:50]	Lanius's money has changed by 5.
+[07:55:33]	Lanius[STEAM_0:0:211494314] has disconnected from the server.
+[07:56:15]	Lanius[STEAM_0:0:211494314] has connected to the server.
+[07:57:28]	Lanius loaded the character #1(Lanius)
+[07:57:39]	Snoopi[STEAM_0:0:102201840] has connected to the server.
+[08:02:17]	Lanius's money has changed by 5.
+[08:04:06]	Snoopi[STEAM_0:0:102201840] has connected to the server.
+[08:04:28]	Logan[STEAM_0:1:67558546] has connected to the server.
+[08:05:05]	Logan created the character #2(aaaaaa)
+[08:05:06]	Logan loaded the character #2(aaaaaa)
+[08:05:32]	Snoopi created the character #3(Snoopi)
+[08:05:34]	Snoopi loaded the character #3(Snoopi)
+[08:05:47]	Snoopi used '/charsetfaction snoopi staff'
+[08:07:06]	Lanius's money has changed by 5.
+[08:09:55]	aaaaaa's money has changed by 5.
+[08:10:15]	aaaaaa used '/flaggive aaa petCcMmDd'
+[08:10:16]	Snoopi used '/charsetmoney snoopi 100000'
+[08:10:23]	Snoopi's money has changed by 5.
+[08:11:54]	Snoopi used '/flaggive snoopi pet'
+[08:11:55]	Lanius's money has changed by 5.
+[08:12:17]	Snoopi used '/flaggive snoopi O'
+[08:12:25]	[OOC] Lanius: test
+[08:12:29]	Snoopi used '/flaggive snoopi d'
+[08:12:43]	Lanius used '/severrightarm aaa'
+[08:13:00]	aaaaaa used '/toggleraise'
+[08:13:02]	Lanius used '/severleftarm aaa'
+[08:13:13]	aaaaaa used '/toggleraise'
+[08:13:30]	Lanius used '/severrightleg aaa'
+[08:13:39]	Lanius used '/severleftleg aaa'
+[08:13:46]	Lanius used '/severhead aaa'
+[08:14:24]	Lanius used '/severhead aaa'
+[08:14:25]	Lanius used '/severleftleg aaa'
+[08:14:28]	Lanius used '/severrightleg aaa'
+[08:14:31]	Lanius used '/severleftarm aaa'
+[08:14:34]	Lanius used '/severrightarm aaa'
+[08:14:36]	aaaaaa used '/toggleraise'
+[08:14:44]	aaaaaa's money has changed by 5.
+[08:14:50]	Lanius used '/heiltoggle'
+[08:15:05]	Lanius used '/heiltoggle'
+[08:15:12]	Snoopi's money has changed by 5.
+[08:15:45]	aaaaaa used '/flaggive aa Cc'
+[08:15:56]	aaaaaa has taken 2 damage from worldspawn, leaving them at 98 health.
+[08:15:56]	aaaaaa has taken 2 damage from worldspawn, leaving them at 96 health.
+[08:16:44]	Lanius's money has changed by 5.
+[08:16:59]	aaaaaa has taken 2 damage from worldspawn, leaving them at 98 health.
+[08:17:21]	aaaaaa used '/toggleraise'
+[08:17:25]	aaaaaa used '/toggleraise'
+[08:18:15]	aaaaaa used '/toggleraise'
+[08:18:36]	aaaaaa used '/toggleraise'
+[08:19:03]	aaaaaa used '/toggleraise'
+[08:19:33]	aaaaaa's money has changed by 5.
+[08:19:46]	aaaaaa used '/toggleraise'
+[08:20:01]	Snoopi's money has changed by 5.
+[08:21:33]	Lanius's money has changed by 5.
+[08:24:04]	aaaaaa has taken 1 damage from env_fire, leaving them at 99 health.
+[08:24:10]	Lanius has taken 1 damage from env_fire, leaving them at 99 health.
+[08:24:22]	aaaaaa's money has changed by 5.
+[08:24:34]	aaaaaa[STEAM_0:1:67558546] has disconnected from the server.
+[08:24:50]	Snoopi's money has changed by 5.
+[08:26:22]	Lanius's money has changed by 5.
+[08:29:39]	Snoopi's money has changed by 5.
+[08:31:11]	Lanius's money has changed by 5.
+[08:34:28]	Snoopi's money has changed by 5.
+[08:36:00]	Lanius's money has changed by 5.
+[08:36:42]	Snoopi has taken 38 damage from worldspawn, leaving them at 62 health.
+[08:38:22]	Snoopi has taken 422857 damage from Snoopi, leaving them at -422765 health.
+[08:38:39]	Snoopi has taken 421245 damage from Snoopi, leaving them at -421145 health.
+[08:38:59]	Snoopi has taken 377203 damage from Snoopi, leaving them at -377103 health.
+[08:39:17]	Snoopi's money has changed by 5.
+[08:39:28]	Snoopi has taken 446437 damage from Snoopi, leaving them at -446338 health.
+[08:40:20]	Snoopi has taken 331757 damage from Snoopi, leaving them at -331657 health.
+[08:40:49]	Lanius's money has changed by 5.
+[08:40:53]	Snoopi has taken 358235 damage from Snoopi, leaving them at -358135 health.
+[08:41:35]	Snoopi has taken 146650 damage from Snoopi, leaving them at -146549 health.
+[08:41:55]	Snoopi has taken 6014 damage from gb_bomb_250gp, leaving them at -5915 health.
+[08:42:08]	Snoopi has taken 19180 damage from gb_bomb_mk82, leaving them at -19079 health.
+[08:43:38]	Snoopi has taken 2 damage from worldspawn, leaving them at 98 health.
+[08:44:06]	Snoopi's money has changed by 5.
+[08:45:38]	Lanius's money has changed by 5.
+[08:48:55]	Snoopi's money has changed by 5.
+[08:50:27]	Lanius's money has changed by 5.
+[08:53:44]	Snoopi's money has changed by 5.
+[08:54:24]	[OOC] Snoopi: twtwtwtwtwtwwwwwwwwwwwwwwwwwwwwwwwwwwww twtwtwtwtwtwwwwwwwwwwwwwwwwwwwwwwwwwwwwtwtwtwtwtwtwwwwwwwwwwwwwwwwwwwwwwwwwwwwtwtwtwtwtwtwwwwwwwwwwwwwwwwwwwwwwwwwwwwtwtwtwtwtwtwwwwwwwwwwwwwwwwwwwwwwwwwwwwtwtwtwtwtwtwwwwwwwwwwwwwwwwwwwwwwwwwwwwtwtwtwtwtwtwwwwwww
+[08:54:32]	[OOC] Snoopi: twtwtwtwtwtwwwwwwwwwwwwwwwwwwwwwwwwwwwwtwtwtwtwtwtwwwwwwwwwwwwwwwwwwwwwwwwwwwwtwtwtwtwtwtwwwwwwwwwwwwwwwwwwwwwwwwwwwwtwtwtwtwtwtwwwwwwwwwwwwwwwwwwwwwwwwwwwwtwtwtwtwtwtwwwwwwwwwwwwwwwwwwwwwwwwwwwwtwtwtwtwtwtwwwwwwwwwwwwwwwwwwwwwwwwwwwwtwtwtwtwtwtwwwwwwww
+[08:55:16]	Lanius's money has changed by 5.
+[08:56:39]	Snoopi has taken 2 damage from worldspawn, leaving them at 97 health.
+[08:58:33]	Snoopi's money has changed by 5.
+[09:00:05]	Lanius's money has changed by 5.
+[09:03:22]	Snoopi's money has changed by 5.
+[09:04:54]	Lanius's money has changed by 5.
+[09:08:11]	Snoopi's money has changed by 5.
+[09:09:43]	Lanius's money has changed by 5.
+[09:13:00]	Snoopi's money has changed by 5.
+[09:13:22]	Snoopi has accessed vendor Einrich Von Manstien.
+[09:13:31]	Snoopi has accessed vendor Einrich Von Manstien.
+[09:13:38]	Snoopi has accessed vendor Einrich Von Manstien.
+[09:14:32]	Lanius's money has changed by 5.
+[09:17:49]	Snoopi's money has changed by 5.
+[09:19:21]	Lanius's money has changed by 5.
+[09:22:38]	Snoopi's money has changed by 5.
+[09:24:10]	Lanius's money has changed by 5.
+[09:27:27]	Snoopi's money has changed by 5.
+[09:28:42]	Snoopi[STEAM_0:0:102201840] has disconnected from the server.
+[09:28:59]	Lanius's money has changed by 5.
+[09:33:48]	Lanius's money has changed by 5.
+[09:38:37]	Lanius's money has changed by 5.
+[09:43:26]	Lanius's money has changed by 5.
+[09:48:15]	Lanius's money has changed by 5.
+[09:54:42]	Logan[STEAM_0:1:67558546] has connected to the server.
+[09:54:45]	Lanius[STEAM_0:0:211494314] has connected to the server.
+[09:55:17]	Logan loaded the character #2(aaaaaa)
+[09:55:43]	aaaaaa used '/toggleraise'
+[09:55:44]	aaaaaa used '/toggleraise'
+[09:56:34]	aaaaaa used '/toggleraise'
+[09:56:51]	Lanius loaded the character #1(Lanius)
+[09:57:39]	Logan (STEAM_0:1:67558546) has spawned 'Heroin Needle'
+[09:57:43]	aaaaaa tried 'take' on item 'Heroin Needle'(#1)
+[09:57:43]	aaaaaa has picked up 1xHeroin Needle.
+[10:00:06]	aaaaaa's money has changed by 5.
+[10:01:40]	Lanius's money has changed by 5.
+[10:02:13]	Lanius (STEAM_0:0:211494314) has spawned 'Generic Ammo'
+[10:02:13]	Lanius (STEAM_0:0:211494314) has spawned 'Generic Ammo'
+[10:02:14]	Lanius (STEAM_0:0:211494314) has spawned 'Generic Ammo'
+[10:02:16]	Lanius tried 'use' on item 'Generic Ammo'(#4)
+[10:02:17]	Lanius tried 'use' on item 'Generic Ammo'(#3)
+[10:02:18]	Lanius tried 'use' on item 'Generic Ammo'(#2)
+[10:02:27]	Lanius (STEAM_0:0:211494314) has spawned '32 Round Magazine (MP 34)'
+[10:02:29]	Lanius tried 'take' on item '32 Round Magazine (MP 34)'(#5)
+[10:02:29]	Lanius has picked up 1x32 Round Magazine (MP 34).
+[10:02:31]	Lanius tried 'use' on item '32 Round Magazine (MP 34)'(#5)
+[10:03:01]	Logan (STEAM_0:1:67558546) has spawned 'Coca Leaves'
+[10:03:07]	Logan (STEAM_0:1:67558546) has spawned 'Mulched Leaves'
+[10:04:16]	aaaaaa has taken 504 damage from Lanius, leaving them at -404 health.
+[10:04:55]	aaaaaa's money has changed by 5.
+[10:06:29]	Lanius's money has changed by 5.
+[10:08:27]	aaaaaa has taken 4 damage from Lanius, leaving them at 96 health.
+[10:08:28]	aaaaaa has taken 35 damage from Lanius, leaving them at 61 health.
+[10:08:31]	aaaaaa has taken 35 damage from Lanius, leaving them at 27 health.
+[10:08:36]	Lanius has taken 131038 damage from aaaaaa, leaving them at -130938 health.
+[10:09:14]	Lanius used '/CHARSETMODEL LANIUS models/hts/comradebear/pm0v3/player/wss/infantry/nco/m42smock_s1_03.mdl'
+[10:09:22]	aaaaaa has taken 974001 damage from aaaaaa, leaving them at -973959 health.
+[10:09:44]	aaaaaa's money has changed by 5.
+[10:10:01]	aaaaaa has taken 19360 damage from gb_bomb_500gp, leaving them at -19260 health.
+[10:10:08]	aaaaaa used '/toggleraise'
+[10:10:19]	Lanius (STEAM_0:0:211494314) has spawned 'atow_mp40'
+[10:10:23]	Lanius tried 'take' on item 'atow_mp40'(#8)
+[10:10:23]	Lanius has picked up 1xatow_mp40.
+[10:10:25]	Lanius tried 'Equip' on item 'atow_mp40'(#8)
+[10:10:39]	Lanius (STEAM_0:0:211494314) has spawned 'Suppressor'
+[10:10:40]	Lanius tried 'take' on item 'Suppressor'(#9)
+[10:10:40]	Lanius has picked up 1xSuppressor.
+[10:10:43]	Lanius tried 'use' on item 'Suppressor'(#9)
+[10:11:18]	Lanius's money has changed by 5.
+[10:11:32]	aaaaaa has taken 210277 damage from aaaaaa, leaving them at -210177 health.
+[10:11:43]	aaaaaa has taken 30 damage from Lanius, leaving them at 70 health.
+[10:11:43]	aaaaaa has taken 4 damage from Lanius, leaving them at 66 health.
+[10:11:46]	aaaaaa has taken 288968 damage from gb_rocket_hvar, leaving them at -288902 health.
+[10:11:58]	aaaaaa has taken 4 damage from Lanius, leaving them at 96 health.
+[10:12:04]	aaaaaa has taken 84507 damage from aaaaaa, leaving them at -84411 health.
+[10:12:29]	aaaaaa has taken 30 damage from Lanius, leaving them at 70 health.
+[10:12:43]	aaaaaa has taken 30 damage from Lanius, leaving them at 55 health.
+[10:12:43]	aaaaaa has taken 4 damage from Lanius, leaving them at 52 health.
+[10:12:49]	aaaaaa has taken 420 damage from Lanius, leaving them at -368 health.
+[10:13:18]	aaaaaa has taken 15 damage from Lanius, leaving them at 84 health.
+[10:13:18]	aaaaaa has taken 27 damage from Lanius, leaving them at 58 health.
+[10:13:57]	aaaaaa has taken 672 damage from Lanius, leaving them at -599 health.
+[10:14:19]	Lanius has taken 4 damage from aaaaaa, leaving them at 96 health.
+[10:14:19]	aaaaaa has taken 48 damage from Lanius, leaving them at 52 health.
+[10:14:19]	Lanius has taken 30 damage from aaaaaa, leaving them at 66 health.
+[10:14:19]	Lanius has taken 4 damage from aaaaaa, leaving them at 63 health.
+[10:14:19]	aaaaaa has taken 48 damage from Lanius, leaving them at 4 health.
+[10:14:20]	aaaaaa has taken 48 damage from Lanius, leaving them at -44 health.
+[10:14:33]	aaaaaa's money has changed by 5.
+[10:14:34]	aaaaaa used '/toggleraise'
+[10:14:35]	Lanius has taken 4 damage from aaaaaa, leaving them at 59 health.
+[10:14:44]	aaaaaa has taken 48 damage from Lanius, leaving them at 52 health.
+[10:14:44]	aaaaaa has taken 6 damage from Lanius, leaving them at 46 health.
+[10:14:44]	aaaaaa has taken 672 damage from Lanius, leaving them at -626 health.
+[10:14:59]	aaaaaa has taken 48 damage from Lanius, leaving them at 52 health.
+[10:15:00]	aaaaaa has taken 6 damage from Lanius, leaving them at 46 health.
+[10:15:00]	aaaaaa has taken 672 damage from Lanius, leaving them at -626 health.
+[10:15:23]	Lanius has taken 40 damage from aaaaaa, leaving them at 33 health.
+[10:15:23]	aaaaaa has taken 48 damage from Lanius, leaving them at 52 health.
+[10:15:35]	Lanius has taken 5 damage from aaaaaa, leaving them at 28 health.
+[10:15:48]	aaaaaa has taken 672 damage from Lanius, leaving them at -605 health.
+[10:16:03]	aaaaaa used '/toggleraise'
+[10:16:04]	aaaaaa used '/toggleraise'
+[10:16:05]	aaaaaa used '/toggleraise'
+[10:16:07]	Lanius's money has changed by 5.
+[10:16:08]	Lanius has taken 6 damage from aaaaaa, leaving them at 37 health.
+[10:16:08]	aaaaaa has taken 672 damage from Lanius, leaving them at -572 health.
+[10:16:27]	aaaaaa used '/toggleraise'
+[10:16:37]	Lanius has taken 56 damage from aaaaaa, leaving them at -18 health.
+[10:16:50]	aaaaaa used '/toggleraise'
+[10:17:04]	aaaaaa has taken 98 damage from Lanius, leaving them at 2 health.
+[10:17:04]	aaaaaa has taken 98 damage from Lanius, leaving them at -95 health.
+[10:17:28]	aaaaaa used '/toggleraise'
+[10:17:32]	aaaaaa has taken 12 damage from Lanius, leaving them at 87 health.
+[10:17:32]	aaaaaa has taken 12 damage from Lanius, leaving them at 75 health.
+[10:17:59]	Lanius has taken 4 damage from aaaaaa, leaving them at 96 health.
+[10:18:00]	aaaaaa has taken 98 damage from Lanius, leaving them at -7 health.
+[10:18:18]	aaaaaa used '/toggleraise'
+[10:18:39]	aaaaaa has taken 98 damage from Lanius, leaving them at 2 health.
+[10:18:40]	aaaaaa has taken 12 damage from Lanius, leaving them at -10 health.
+[10:19:05]	Lanius has taken 1974 damage from aaaaaa, leaving them at -1874 health.
+[10:19:22]	aaaaaa's money has changed by 5.
+[10:20:18]	aaaaaa used '/toggleraise'
+[10:20:28]	Lanius has taken 1260 damage from aaaaaa, leaving them at -1160 health.
+[10:20:56]	Lanius's money has changed by 5.
+[10:21:19]	aaaaaa has taken 18 damage from Lanius, leaving them at 82 health.
+[10:21:24]	Lanius has taken 18 damage from aaaaaa, leaving them at 83 health.
+[10:21:34]	Lanius has taken 141 damage from aaaaaa, leaving them at -58 health.
+[10:21:48]	aaaaaa used '/toggleraise'
+[10:21:59]	aaaaaa used '/toggleraise'
+[10:22:22]	aaaaaa has taken 24 damage from Lanius, leaving them at 74 health.
+[10:22:31]	Lanius has taken 24 damage from aaaaaa, leaving them at 76 health.
+[10:22:43]	aaaaaa has taken 337 damage from Lanius, leaving them at -248 health.
+[10:22:58]	aaaaaa used '/toggleraise'
+[10:23:12]	Lanius has taken 668 damage from aaaaaa, leaving them at -578 health.
+[10:23:42]	Lanius has taken 6 damage from aaaaaa, leaving them at 95 health.
+[10:23:51]	aaaaaa has taken 16 damage from Lanius, leaving them at 84 health.
+[10:24:02]	Lanius has taken 42 damage from aaaaaa, leaving them at 53 health.
+[10:24:09]	aaaaaa has taken 15 damage from Lanius, leaving them at 68 health.
+[10:24:11]	aaaaaa's money has changed by 5.
+[10:24:12]	aaaaaa has taken 1724 damage from Lanius, leaving them at -1656 health.
+[10:24:21]	aaaaaa has taken 135 damage from Lanius, leaving them at -35 health.
+[10:24:27]	aaaaaa has taken 65 damage from Lanius, leaving them at 35 health.
+[10:24:27]	Lanius has taken 70 damage from Lanius, leaving them at -18 health.
+[10:24:32]	aaaaaa used '/toggleraise'
+[10:24:49]	Lanius has taken 15 damage from aaaaaa, leaving them at 85 health.
+[10:24:52]	Lanius has taken 123 damage from aaaaaa, leaving them at -38 health.
+[10:25:26]	Lanius has taken 123 damage from aaaaaa, leaving them at -23 health.
+[10:25:43]	aaaaaa has taken 10 damage from Lanius, leaving them at 55 health.
+[10:25:45]	Lanius's money has changed by 5.
+[10:26:10]	Lanius has taken 1793 damage from aaaaaa, leaving them at -1694 health.
+[10:26:31]	aaaaaa has taken 5 damage from Lanius, leaving them at 50 health.
+[10:26:32]	aaaaaa has taken 558 damage from Lanius, leaving them at -509 health.
+[10:26:45]	aaaaaa used '/toggleraise'
+[10:26:54]	Lanius has taken 558 damage from aaaaaa, leaving them at -458 health.
+[10:27:09]	aaaaaa used '/toggleraise'
+[10:27:15]	aaaaaa used '/toggleraise'
+[10:27:16]	aaaaaa used '/toggleraise'
+[10:27:21]	aaaaaa has taken 84 damage from Lanius, leaving them at 16 health.
+[10:27:27]	aaaaaa has taken 10 damage from Lanius, leaving them at 6 health.
+[10:27:27]	Lanius has taken 6 damage from aaaaaa, leaving them at 94 health.
+[10:27:30]	aaaaaa has taken 10 damage from Lanius, leaving them at -5 health.
+[10:27:43]	aaaaaa used '/toggleraise'
+[10:27:48]	aaaaaa has taken 1176 damage from Lanius, leaving them at -1076 health.
+[10:27:49]	Lanius has taken 72 damage from worldspawn, leaving them at 28 health.
+[10:28:05]	Lanius has taken 75 damage from aaaaaa, leaving them at -47 health.
+[10:28:26]	aaaaaa has taken 882 damage from Lanius, leaving them at -782 health.
+[10:28:33]	aaaaaa used '/toggleraise'
+[10:28:33]	aaaaaa has taken 63 damage from Lanius, leaving them at 37 health.
+[10:28:33]	aaaaaa has taken 8 damage from Lanius, leaving them at 29 health.
+[10:28:33]	aaaaaa has taken 8 damage from Lanius, leaving them at 22 health.
+[10:28:34]	aaaaaa has taken 63 damage from Lanius, leaving them at -41 health.
+[10:28:47]	aaaaaa used '/toggleraise'
+[10:28:55]	Lanius has taken 231 damage from aaaaaa, leaving them at -131 health.
+[10:29:00]	aaaaaa's money has changed by 5.
+[10:29:25]	aaaaaa has taken 30 damage from Lanius, leaving them at 70 health.
+[10:29:25]	aaaaaa has taken 4 damage from Lanius, leaving them at 66 health.
+[10:29:26]	aaaaaa has taken 4 damage from Lanius, leaving them at 62 health.
+[10:29:26]	aaaaaa has taken 4 damage from Lanius, leaving them at 58 health.
+[10:29:26]	aaaaaa has taken 4 damage from Lanius, leaving them at 55 health.
+[10:29:26]	aaaaaa has taken 4 damage from Lanius, leaving them at 51 health.
+[10:29:26]	aaaaaa has taken 30 damage from Lanius, leaving them at 21 health.
+[10:29:26]	Lanius has taken 1000 damage from aaaaaa, leaving them at -900 health.
+[10:29:47]	Lanius has taken 1000 damage from aaaaaa, leaving them at -900 health.
+[10:29:57]	Lanius has taken 1000 damage from aaaaaa, leaving them at -900 health.
+[10:30:12]	Lanius has taken 1000 damage from aaaaaa, leaving them at -900 health.
+[10:30:34]	Lanius's money has changed by 5.
+[10:30:36]	aaaaaa used '/toggleraise'
+[10:30:53]	Lanius has taken 53 damage from aaaaaa, leaving them at 47 health.
+[10:31:01]	Lanius has taken 80 damage from aaaaaa, leaving them at -34 health.
+[10:31:24]	aaaaaa used '/toggleraise'
+[10:31:27]	aaaaaa used '/toggleraise'
+[10:31:36]	Lanius has taken 36 damage from aaaaaa, leaving them at 65 health.
+[10:31:38]	Lanius has taken 18 damage from aaaaaa, leaving them at 47 health.
+[10:31:38]	Lanius has taken 2 damage from aaaaaa, leaving them at 44 health.
+[10:31:38]	Lanius has taken 252 damage from aaaaaa, leaving them at -208 health.
+[10:31:45]	aaaaaa used '/toggleraise'
+[10:31:52]	aaaaaa has taken 1 damage from entityflame, leaving them at 65 health.
+[10:31:52]	Lanius has taken 1 damage from entityflame, leaving them at 99 health.
+[10:31:52]	aaaaaa has taken 117 damage from worldspawn, leaving them at -52 health.
+[10:31:52]	Lanius has taken 1 damage from entityflame, leaving them at 98 health.
+[10:31:52]	Lanius has taken 29652 damage from gb_bomb_2000gp, leaving them at -29554 health.
+[10:31:57]	aaaaaa has taken 27877 damage from gb_bomb_2000gp, leaving them at -27777 health.
+[10:31:58]	Lanius has taken 28708 damage from gb_bomb_2000gp, leaving them at -28608 health.
+[10:32:02]	aaaaaa has taken 29384 damage from gb_bomb_2000gp, leaving them at -29284 health.
+[10:32:03]	Lanius has taken 1 damage from entityflame, leaving them at 99 health.
+[10:32:03]	Lanius has taken 1 damage from entityflame, leaving them at 98 health.
+[10:32:03]	Lanius has taken 1 damage from entityflame, leaving them at 97 health.
+[10:32:03]	Lanius has taken 1 damage from entityflame, leaving them at 96 health.
+[10:32:03]	Lanius has taken 27842 damage from gb_bomb_2000gp, leaving them at -27746 health.
+[10:32:07]	aaaaaa has taken 1 damage from entityflame, leaving them at 99 health.
+[10:32:07]	aaaaaa has taken 28493 damage from gb_bomb_2000gp, leaving them at -28394 health.
+[10:32:08]	Lanius has taken 1 damage from entityflame, leaving them at 99 health.
+[10:32:09]	Lanius has taken 1 damage from entityflame, leaving them at 98 health.
+[10:32:09]	Lanius has taken 1 damage from entityflame, leaving them at 97 health.
+[10:32:09]	Lanius has taken 1 damage from entityflame, leaving them at 96 health.
+[10:32:09]	Lanius has taken 1 damage from entityflame, leaving them at 95 health.
+[10:32:10]	Lanius has taken 1 damage from entityflame, leaving them at 94 health.
+[10:32:10]	Lanius has taken 1 damage from entityflame, leaving them at 93 health.
+[10:32:10]	Lanius has taken 1 damage from entityflame, leaving them at 92 health.
+[10:32:10]	Lanius has taken 1 damage from entityflame, leaving them at 91 health.
+[10:32:10]	Lanius has taken 1 damage from entityflame, leaving them at 90 health.
+[10:32:11]	Lanius has taken 1 damage from entityflame, leaving them at 89 health.
+[10:32:11]	Lanius has taken 1 damage from entityflame, leaving them at 88 health.
+[10:32:11]	Lanius has taken 1 damage from entityflame, leaving them at 87 health.
+[10:32:11]	Lanius has taken 1 damage from entityflame, leaving them at 86 health.
+[10:32:11]	Lanius has taken 1 damage from entityflame, leaving them at 85 health.
+[10:32:12]	Lanius has taken 1 damage from entityflame, leaving them at 84 health.
+[10:32:12]	Lanius has taken 1 damage from entityflame, leaving them at 83 health.
+[10:32:12]	Lanius has taken 1 damage from entityflame, leaving them at 82 health.
+[10:32:12]	aaaaaa has taken 1 damage from entityflame, leaving them at 99 health.
+[10:32:12]	Lanius has taken 1 damage from entityflame, leaving them at 81 health.
+[10:32:12]	aaaaaa has taken 1 damage from entityflame, leaving them at 98 health.
+[10:32:12]	Lanius has taken 1 damage from entityflame, leaving them at 80 health.
+[10:32:13]	aaaaaa has taken 1 damage from entityflame, leaving them at 97 health.
+[10:32:13]	Lanius has taken 1 damage from entityflame, leaving them at 79 health.
+[10:32:13]	aaaaaa has taken 1 damage from entityflame, leaving them at 96 health.
+[10:32:13]	Lanius has taken 1 damage from entityflame, leaving them at 78 health.
+[10:32:13]	aaaaaa has taken 1 damage from entityflame, leaving them at 95 health.
+[10:32:13]	Lanius has taken 1 damage from entityflame, leaving them at 77 health.
+[10:32:13]	aaaaaa has taken 1 damage from entityflame, leaving them at 94 health.
+[10:32:13]	Lanius has taken 1 damage from entityflame, leaving them at 76 health.
+[10:32:13]	aaaaaa has taken 1 damage from entityflame, leaving them at 93 health.
+[10:32:14]	Lanius has taken 1 damage from entityflame, leaving them at 75 health.
+[10:32:14]	aaaaaa has taken 1 damage from entityflame, leaving them at 92 health.
+[10:32:14]	Lanius has taken 1 damage from entityflame, leaving them at 74 health.
+[10:32:14]	aaaaaa has taken 1 damage from entityflame, leaving them at 91 health.
+[10:32:14]	Lanius has taken 1 damage from entityflame, leaving them at 73 health.
+[10:32:14]	aaaaaa has taken 1 damage from entityflame, leaving them at 90 health.
+[10:32:14]	Lanius has taken 1 damage from entityflame, leaving them at 72 health.
+[10:32:14]	aaaaaa has taken 1 damage from entityflame, leaving them at 89 health.
+[10:32:14]	Lanius has taken 1 damage from entityflame, leaving them at 71 health.
+[10:32:15]	aaaaaa has taken 1 damage from entityflame, leaving them at 88 health.
+[10:32:15]	Lanius has taken 1 damage from entityflame, leaving them at 70 health.
+[10:32:15]	aaaaaa has taken 1 damage from entityflame, leaving them at 87 health.
+[10:32:15]	Lanius has taken 1 damage from entityflame, leaving them at 69 health.
+[10:32:15]	aaaaaa has taken 1 damage from entityflame, leaving them at 86 health.
+[10:32:15]	Lanius has taken 1 damage from entityflame, leaving them at 68 health.
+[10:32:15]	aaaaaa has taken 1 damage from entityflame, leaving them at 85 health.
+[10:32:15]	Lanius has taken 1 damage from entityflame, leaving them at 67 health.
+[10:32:15]	aaaaaa has taken 1 damage from entityflame, leaving them at 84 health.
+[10:32:15]	Lanius has taken 1 damage from entityflame, leaving them at 66 health.
+[10:32:16]	aaaaaa has taken 1 damage from entityflame, leaving them at 83 health.
+[10:32:16]	Lanius has taken 1 damage from entityflame, leaving them at 65 health.
+[10:32:16]	aaaaaa has taken 1 damage from entityflame, leaving them at 82 health.
+[10:32:16]	Lanius has taken 1 damage from entityflame, leaving them at 64 health.
+[10:32:16]	aaaaaa has taken 1 damage from entityflame, leaving them at 81 health.
+[10:32:16]	Lanius has taken 1 damage from entityflame, leaving them at 63 health.
+[10:32:16]	aaaaaa has taken 1 damage from entityflame, leaving them at 80 health.
+[10:32:16]	Lanius has taken 1 damage from entityflame, leaving them at 62 health.
+[10:32:16]	aaaaaa has taken 1 damage from entityflame, leaving them at 79 health.
+[10:32:17]	Lanius has taken 1 damage from entityflame, leaving them at 61 health.
+[10:32:17]	aaaaaa has taken 1 damage from entityflame, leaving them at 78 health.
+[10:32:17]	Lanius has taken 1 damage from entityflame, leaving them at 60 health.
+[10:32:17]	Lanius has taken 1 damage from entityflame, leaving them at 59 health.
+[10:32:17]	Lanius has taken 1 damage from entityflame, leaving them at 58 health.
+[10:32:17]	Lanius has taken 1 damage from entityflame, leaving them at 57 health.
+[10:32:18]	Lanius has taken 1 damage from entityflame, leaving them at 56 health.
+[10:32:18]	Lanius has taken 1 damage from entityflame, leaving them at 55 health.
+[10:32:18]	Lanius has taken 1 damage from entityflame, leaving them at 54 health.
+[10:32:18]	Lanius has taken 1 damage from entityflame, leaving them at 53 health.
+[10:32:18]	Lanius has taken 1 damage from entityflame, leaving them at 52 health.
+[10:32:19]	Lanius has taken 1 damage from entityflame, leaving them at 51 health.
+[10:32:19]	Lanius has taken 1 damage from entityflame, leaving them at 50 health.
+[10:32:19]	Lanius has taken 1 damage from entityflame, leaving them at 49 health.
+[10:32:19]	Lanius has taken 1 damage from entityflame, leaving them at 48 health.
+[10:32:19]	Lanius has taken 1 damage from entityflame, leaving them at 47 health.
+[10:32:20]	Lanius has taken 1 damage from entityflame, leaving them at 46 health.
+[10:32:20]	Lanius has taken 1 damage from entityflame, leaving them at 45 health.
+[10:32:20]	Lanius has taken 1 damage from entityflame, leaving them at 44 health.
+[10:32:20]	Lanius has taken 1 damage from entityflame, leaving them at 43 health.
+[10:32:21]	Lanius has taken 1 damage from entityflame, leaving them at 42 health.
+[10:32:21]	Lanius has taken 1 damage from entityflame, leaving them at 41 health.
+[10:32:21]	Lanius has taken 1 damage from entityflame, leaving them at 40 health.
+[10:32:21]	Lanius has taken 1 damage from entityflame, leaving them at 39 health.
+[10:32:21]	Lanius has taken 1 damage from entityflame, leaving them at 38 health.
+[10:32:22]	Lanius has taken 1 damage from entityflame, leaving them at 37 health.
+[10:32:22]	Lanius has taken 1 damage from entityflame, leaving them at 36 health.
+[10:32:22]	Lanius has taken 1 damage from entityflame, leaving them at 35 health.
+[10:32:46]	aaaaaa has taken 18071 damage from gb_bomb_sc100, leaving them at -17978 health.
+[10:33:00]	Lanius has taken 19158 damage from gb_bomb_2000gp, leaving them at -19108 health.
+[10:33:00]	aaaaaa has taken 18846 damage from gb_bomb_2000gp, leaving them at -18745 health.
+[10:33:08]	Lanius has taken 28797 damage from gb_bomb_2000gp, leaving them at -28696 health.
+[10:33:08]	aaaaaa has taken 29527 damage from gb_bomb_2000gp, leaving them at -29428 health.
+[10:33:15]	Lanius has taken 29162 damage from gb_bomb_2000gp, leaving them at -29062 health.
+[10:33:15]	aaaaaa has taken 28785 damage from gb_bomb_2000gp, leaving them at -28685 health.
+[10:33:21]	aaaaaa has taken 28924 damage from gb_bomb_2000gp, leaving them at -28824 health.
+[10:33:21]	Lanius has taken 27514 damage from gb_bomb_2000gp, leaving them at -27414 health.
+[10:33:34]	Lanius has taken 77339 damage from Lanius, leaving them at -77239 health.
+[10:33:34]	aaaaaa has taken 108782 damage from Lanius, leaving them at -108682 health.
+[10:33:47]	aaaaaa has taken 109696 damage from aaaaaa, leaving them at -109596 health.
+[10:33:47]	Lanius has taken 105866 damage from aaaaaa, leaving them at -105766 health.
+[10:33:49]	aaaaaa's money has changed by 5.
+[10:34:24]	Lanius has taken 167235 damage from Lanius, leaving them at -167134 health.
+[10:34:32]	Lanius has taken 45193 damage from Lanius, leaving them at -45094 health.
+[10:34:48]	aaaaaa has taken 166858 damage from aaaaaa, leaving them at -166758 health.
+[10:34:58]	Lanius has taken 74642 damage from Lanius, leaving them at -74541 health.
+[10:34:58]	aaaaaa has taken 167235 damage from Lanius, leaving them at -167135 health.
+[10:35:13]	Lanius has taken 235400 damage from Lanius, leaving them at -235300 health.
+[10:35:13]	aaaaaa has taken 419485 damage from Lanius, leaving them at -419386 health.
+[10:35:23]	Lanius's money has changed by 5.
+[10:35:42]	Lanius has taken 147013 damage from aaaaaa, leaving them at -146913 health.
+[10:36:16]	Lanius has taken 259959 damage from Lanius, leaving them at -259859 health.
+[10:36:50]	aaaaaa has taken 3928 damage from aaaaaa, leaving them at -3827 health.
+[10:36:50]	Lanius has taken 833 damage from aaaaaa, leaving them at -733 health.
+[10:37:11]	Lanius has taken 1839 damage from aaaaaa, leaving them at -1740 health.
+[10:37:11]	aaaaaa has taken 1119 damage from Lanius, leaving them at -1019 health.
+[10:37:25]	Lanius has taken 361127 damage from Lanius, leaving them at -361027 health.
+[10:37:58]	aaaaaa has taken 10584 damage from gb_bomb_sc500, leaving them at -10484 health.
+[10:38:21]	Lanius has taken 351448 damage from Lanius, leaving them at -351348 health.
+[10:38:33]	aaaaaa has taken 16308 damage from gb_bomb_gbu12, leaving them at -16208 health.
+[10:38:38]	aaaaaa's money has changed by 5.
+[10:39:32]	aaaaaa has taken 937 damage from gb_bomb_mk77, leaving them at -838 health.
+[10:39:32]	Lanius has taken 270 damage from gb_bomb_mk77, leaving them at -170 health.
+[10:40:12]	Lanius's money has changed by 5.
+[10:42:08]	aaaaaa has taken 15351039 damage from aaaaaa, leaving them at -15350939 health.
+[10:43:27]	aaaaaa's money has changed by 5.
+[10:45:01]	Lanius's money has changed by 5.
+[10:48:16]	aaaaaa's money has changed by 5.
+[10:49:50]	Lanius's money has changed by 5.
+[10:52:00]	Lanius created the character #4(Dr. Werner Altenberg)
+[10:52:01]	Lanius loaded the character #4(Dr. Werner Altenberg)
+[10:52:54]	Dr. Werner Altenberg used '/charsetmodel alten models/not_brot/prometheus/ss/baseline/co6.mdl'
+[10:53:05]	aaaaaa's money has changed by 5.
+[10:54:31]	aaaaaa used '/toggleraise'
+[10:55:15]	Dr. Werner Altenberg[STEAM_0:0:211494314] has disconnected from the server.
+[10:55:28]	aaaaaa used '/toggleraise'
+[10:56:06]	Lanius[STEAM_0:0:211494314] has connected to the server.
+[10:56:27]	Lanius loaded the character #4(Dr. Werner Altenberg)
+[10:57:54]	aaaaaa's money has changed by 5.
+[10:59:38]	aaaaaa[STEAM_0:1:67558546] has disconnected from the server.
+[10:59:43]	Dr. Werner Altenberg used 'table: 0xf14bca70'
+[11:01:10]	Dr. Werner Altenberg used 'table: 0xf14bca70'
+[11:01:16]	Dr. Werner Altenberg's money has changed by 5.
+[11:03:08]	Dr. Werner Altenberg used '/plytransfer werner allg'
+[11:03:23]	Dr. Werner Altenberg used 'table: 0xf14bca70'
+[11:03:33]	Dr. Werner Altenberg used '/medalgive werner 12_ss'
+[11:03:47]	Dr. Werner Altenberg used '/flaggive werner QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm'
+[11:03:48]	Dr. Werner Altenberg used '/medalgive werner 12_ss'
+[11:03:54]	Dr. Werner Altenberg used '/medalcanmanage werner'
+[11:13:35]	Logan[STEAM_0:1:67558546] has connected to the server.
+[11:14:03]	Logan loaded the character #2(aaaaaa)
+[11:14:20]	Logan (STEAM_0:1:67558546) has spawned 'Coca Leaves'
+[11:14:22]	aaaaaa tried 'take' on item 'Coca Leaves'(#10)
+[11:14:22]	aaaaaa has picked up 1xCoca Leaves.
+[11:14:23]	Logan (STEAM_0:1:67558546) has spawned 'Coca Leaves'
+[11:14:24]	Logan (STEAM_0:1:67558546) has spawned 'Coca Leaves'
+[11:14:24]	Logan (STEAM_0:1:67558546) has spawned 'Coca Leaves'
+[11:14:25]	Logan (STEAM_0:1:67558546) has spawned 'Coca Leaves'
+[11:14:33]	aaaaaa tried 'take' on item 'Coca Leaves'(#14)
+[11:14:33]	aaaaaa has picked up 1xCoca Leaves.
+[11:14:34]	aaaaaa tried 'take' on item 'Coca Leaves'(#13)
+[11:14:34]	aaaaaa has picked up 1xCoca Leaves.
+[11:14:46]	aaaaaa tried 'take' on item 'Coca Leaves'(#12)
+[11:14:46]	aaaaaa has picked up 1xCoca Leaves.
+[11:14:47]	aaaaaa tried 'take' on item 'Coca Leaves'(#11)
+[11:14:47]	aaaaaa has picked up 1xCoca Leaves.
+[11:15:04]	aaaaaa[STEAM_0:1:67558546] has disconnected from the server.
+[11:15:43]	Logan[STEAM_0:1:67558546] has connected to the server.
+[11:15:59]	Logan loaded the character #2(aaaaaa)
+[11:16:12]	aaaaaa[STEAM_0:1:67558546] has disconnected from the server.
+[11:16:49]	Logan[STEAM_0:1:67558546] has connected to the server.
+[11:19:30]	Logan loaded the character #2(aaaaaa)
+[11:19:46]	aaaaaa[STEAM_0:1:67558546] has disconnected from the server.
+[11:20:26]	Logan[STEAM_0:1:67558546] has connected to the server.
+[11:21:43]	Logan loaded the character #2(aaaaaa)
+[11:21:50]	aaaaaa used '/clearinv aa'
+[11:22:04]	Logan (STEAM_0:1:67558546) has spawned 'Coca Leaves'
+[11:22:06]	aaaaaa tried 'take' on item 'Coca Leaves'(#15)
+[11:22:06]	aaaaaa has picked up 1xCoca Leaves.
+[11:22:42]	Logan (STEAM_0:1:67558546) has spawned 'Mulched Leaves'
+[11:22:43]	aaaaaa tried 'take' on item 'Mulched Leaves'(#16)
+[11:22:43]	aaaaaa has picked up 1xMulched Leaves.
+[11:22:54]	Logan (STEAM_0:1:67558546) has spawned 'C96 M1932'
+[11:22:56]	aaaaaa tried 'take' on item 'C96 M1932'(#17)
+[11:22:56]	aaaaaa has picked up 1xC96 M1932.
+[11:22:58]	aaaaaa tried 'Equip' on item 'C96 M1932'(#17)
+[11:22:59]	aaaaaa used '/toggleraise'
+[11:26:32]	aaaaaa's money has changed by 5.
+[11:31:21]	aaaaaa's money has changed by 5.
+[11:36:10]	aaaaaa's money has changed by 5.
+[11:40:59]	aaaaaa's money has changed by 5.
+[11:45:48]	aaaaaa's money has changed by 5.
+[11:50:37]	aaaaaa's money has changed by 5.
+[11:55:26]	aaaaaa's money has changed by 5.
+[12:00:15]	aaaaaa's money has changed by 5.
+[12:05:04]	aaaaaa's money has changed by 5.
+[12:09:53]	aaaaaa's money has changed by 5.
+[12:14:42]	aaaaaa's money has changed by 5.
+[12:19:31]	aaaaaa's money has changed by 5.
+[12:24:20]	aaaaaa's money has changed by 5.
+[12:29:09]	aaaaaa's money has changed by 5.
+[12:33:58]	aaaaaa's money has changed by 5.
+[12:38:47]	aaaaaa's money has changed by 5.
+[12:43:36]	aaaaaa's money has changed by 5.
+[12:48:25]	aaaaaa's money has changed by 5.
+[12:53:14]	aaaaaa's money has changed by 5.
+[12:58:03]	aaaaaa's money has changed by 5.
+[13:02:52]	aaaaaa's money has changed by 5.
+[13:07:41]	aaaaaa's money has changed by 5.
+[13:11:09]	aaaaaa has entered observer.
+[13:11:12]	aaaaaa used '/toggleraise'
+[13:11:32]	aaaaaa used '/toggleraise'
+[13:11:32]	aaaaaa has left observer.
+[13:11:36]	aaaaaa has entered observer.
+[13:11:42]	aaaaaa used '/toggleraise'
+[13:11:52]	aaaaaa has left observer.
+[13:11:53]	aaaaaa has entered observer.
+[13:12:27]	aaaaaa has left observer.
+[13:12:30]	Logan (STEAM_0:1:67558546) has spawned 'Maschinengewehr 34'
+[13:12:30]	aaaaaa's money has changed by 5.
+[13:17:15]	Logan[STEAM_0:1:67558546] has connected to the server.
+[13:17:50]	Logan loaded the character #2(aaaaaa)
+[13:18:06]	aaaaaa has entered observer.
+[13:18:06]	aaaaaa has left observer.
+[13:18:24]	Logan (STEAM_0:1:67558546) has spawned 'Coca Leaves'
+[13:18:37]	Logan (STEAM_0:1:67558546) has spawned 'Crate of Bottles'
+[13:18:45]	Logan (STEAM_0:1:67558546) has spawned 'High-Grade Beer Shipment'
+[13:18:47]	aaaaaa tried 'take' on item 'High-Grade Beer Shipment'(#21)
+[13:18:52]	Logan (STEAM_0:1:67558546) has spawned 'Coca Leaves'
+[13:18:53]	aaaaaa tried 'take' on item 'Coca Leaves'(#22)
+[13:18:53]	aaaaaa has picked up 1xCoca Leaves.
+[13:22:39]	aaaaaa's money has changed by 5.
+[13:23:00]	aaaaaa has entered observer.
+[13:23:29]	aaaaaa has left observer.
+[13:23:31]	aaaaaa has entered observer.
+[13:23:48]	aaaaaa has left observer.
+[13:23:50]	aaaaaa has entered observer.
+[13:24:33]	aaaaaa has left observer.
+[13:24:35]	aaaaaa has entered observer.
+[13:24:36]	aaaaaa has left observer.
+[13:27:28]	aaaaaa's money has changed by 5.
+[13:32:17]	aaaaaa's money has changed by 5.
+[13:37:06]	aaaaaa's money has changed by 5.
+[13:41:55]	aaaaaa's money has changed by 5.
+[13:43:45]	aaaaaa has taken 5 damage from worldspawn, leaving them at 95 health.
+[13:44:01]	aaaaaa has entered observer.
+[13:44:02]	aaaaaa has left observer.
+[13:46:44]	aaaaaa's money has changed by 5.
+[13:46:44]	aaaaaa has entered observer.
+[13:49:02]	aaaaaa has left observer.
+[13:50:07]	aaaaaa used '/toggleraise'
+[13:50:21]	aaaaaa has entered observer.
+[13:50:22]	aaaaaa has left observer.
+[13:50:44]	aaaaaa has entered observer.
+[13:51:33]	aaaaaa's money has changed by 5.
+[13:52:01]	aaaaaa has left observer.
+[13:52:01]	aaaaaa has entered observer.
+[13:52:02]	aaaaaa has left observer.
+[13:52:04]	aaaaaa has entered observer.
+[13:54:00]	aaaaaa tried 'take' on item 'Maschinengewehr 34'(#18)
+[13:54:00]	aaaaaa has picked up 1xMaschinengewehr 34.
+[13:55:45]	aaaaaa has left observer.
+[13:55:47]	aaaaaa has entered observer.
+[13:55:53]	aaaaaa has left observer.
+[13:56:11]	aaaaaa has entered observer.
+[13:56:22]	aaaaaa's money has changed by 5.
+[13:57:21]	aaaaaa has left observer.
+[13:57:22]	aaaaaa has entered observer.
+[13:57:23]	aaaaaa has left observer.
+[13:57:28]	aaaaaa has entered observer.
+[13:57:29]	aaaaaa has left observer.
+[13:57:30]	aaaaaa has entered observer.
+[13:57:31]	aaaaaa has left observer.
+[13:57:32]	aaaaaa has entered observer.
+[13:57:33]	aaaaaa has left observer.
+[13:57:33]	aaaaaa has entered observer.
+[13:57:33]	aaaaaa has left observer.
+[13:57:34]	aaaaaa has entered observer.
+[13:57:34]	aaaaaa has left observer.
+[13:57:34]	aaaaaa has entered observer.
+[13:57:35]	aaaaaa has left observer.
+[13:57:35]	aaaaaa has entered observer.
+[13:57:35]	aaaaaa has left observer.
+[13:57:38]	aaaaaa has entered observer.
+[13:57:39]	aaaaaa has left observer.
+[13:57:56]	aaaaaa has entered observer.
+[13:57:57]	aaaaaa has left observer.
+[13:58:00]	aaaaaa has entered observer.
+[13:58:06]	aaaaaa has left observer.
+[13:58:07]	aaaaaa has entered observer.
+[13:58:08]	aaaaaa has left observer.
+[13:58:09]	aaaaaa has entered observer.
+[13:58:12]	aaaaaa has left observer.
+[13:58:13]	aaaaaa has entered observer.
+[13:58:13]	aaaaaa has left observer.
+[13:58:15]	aaaaaa has entered observer.
+[13:58:15]	aaaaaa has left observer.
+[13:58:19]	aaaaaa has entered observer.
+[13:58:25]	aaaaaa has left observer.
+[13:58:28]	aaaaaa has entered observer.
+[13:58:31]	aaaaaa has left observer.
+[13:58:33]	aaaaaa has entered observer.
+[13:59:50]	aaaaaa has left observer.
+[14:00:06]	aaaaaa has entered observer.
+[14:00:06]	aaaaaa has left observer.
+[14:00:08]	aaaaaa has entered observer.
+[14:00:08]	aaaaaa has left observer.
+[14:00:09]	aaaaaa has entered observer.
+[14:00:09]	aaaaaa has left observer.
+[14:00:10]	aaaaaa has entered observer.
+[14:00:10]	aaaaaa has left observer.
+[14:00:11]	aaaaaa has entered observer.
+[14:00:11]	aaaaaa has left observer.
+[14:00:12]	aaaaaa has entered observer.
+[14:00:13]	aaaaaa has left observer.
+[14:01:11]	aaaaaa's money has changed by 5.
+[14:03:13]	aaaaaa has entered observer.
+[14:03:16]	aaaaaa has left observer.
+[14:03:30]	aaaaaa has entered observer.
+[14:06:00]	aaaaaa's money has changed by 5.
+[14:10:49]	aaaaaa's money has changed by 5.
+[14:11:02]	aaaaaa[STEAM_0:1:67558546] has disconnected from the server.
+[16:19:09]	Snoopi[STEAM_0:0:102201840] has connected to the server.
+[16:23:34]	Snoopi loaded the character #3(Snoopi)
+[16:28:23]	Snoopi's money has changed by 0.
+[16:28:46]	Snoopi has taken 5 damage from worldspawn, leaving them at 95 health.
+[16:28:52]	Snoopi has taken 5 damage from worldspawn, leaving them at 90 health.
+[16:28:53]	Snoopi has taken 2 damage from worldspawn, leaving them at 88 health.
+[16:29:06]	Snoopi has taken 2 damage from worldspawn, leaving them at 86 health.
+[16:29:06]	Snoopi has taken 2 damage from worldspawn, leaving them at 84 health.
+[16:29:08]	Snoopi has taken 2 damage from worldspawn, leaving them at 82 health.
+[16:29:15]	Snoopi has taken 5 damage from worldspawn, leaving them at 77 health.
+[16:29:18]	Snoopi has taken 2 damage from worldspawn, leaving them at 75 health.
+[16:29:19]	Snoopi has entered observer.
+[16:29:21]	Snoopi has left observer.
+[16:33:12]	Snoopi's money has changed by 0.
+[16:34:50]	Snoopi has taken 5 damage from worldspawn, leaving them at 95 health.
+[16:34:50]	Snoopi has taken 2 damage from worldspawn, leaving them at 93 health.
+[16:35:08]	Snoopi has taken 2 damage from worldspawn, leaving them at 91 health.
+[16:38:01]	Snoopi's money has changed by 0.
+[16:40:27]	Snoopi has taken 5 damage from worldspawn, leaving them at 95 health.
+[16:40:27]	Snoopi has taken 2 damage from worldspawn, leaving them at 93 health.
+[16:41:24]	Snoopi has taken 5 damage from worldspawn, leaving them at 95 health.
+[16:41:24]	Snoopi has taken 2 damage from worldspawn, leaving them at 93 health.
+[16:42:50]	Snoopi's money has changed by 0.
+[16:47:39]	Snoopi's money has changed by 0.
+[16:52:28]	Snoopi's money has changed by 0.
+[16:57:17]	Snoopi's money has changed by 0.
+[17:02:06]	Snoopi's money has changed by 0.
+[17:06:55]	Snoopi's money has changed by 0.
+[17:11:44]	Snoopi's money has changed by 0.
+[17:16:33]	Snoopi's money has changed by 0.
+[17:21:22]	Snoopi's money has changed by 0.
+[17:26:11]	Snoopi's money has changed by 0.
+[17:26:29]	Snoopi[STEAM_0:0:102201840] has disconnected from the server.
+[17:47:23]	Logan[STEAM_0:1:67558546] has connected to the server.
+[17:47:51]	Logan loaded the character #2(aaaaaa)
+[17:47:53]	aaaaaa has entered observer.
+[17:48:09]	aaaaaa has left observer.
+[17:48:10]	aaaaaa has entered observer.
+[17:48:10]	aaaaaa has left observer.
+[17:48:14]	aaaaaa has entered observer.
+[17:48:16]	aaaaaa has left observer.
+[17:48:30]	aaaaaa has entered observer.
+[17:48:31]	aaaaaa has left observer.
+[17:48:44]	[IC] aaaaaa: weapon_ciga
+[17:51:10]	aaaaaa has entered observer.
+[17:51:14]	aaaaaa has left observer.
+[17:52:40]	aaaaaa's money has changed by 5.
+[17:55:48]	aaaaaa used '/toggleraise'
+[17:55:49]	aaaaaa has entered observer.
+[17:55:50]	aaaaaa has left observer.
+[17:56:17]	aaaaaa has entered observer.
+[17:56:18]	aaaaaa has left observer.
+[17:56:18]	aaaaaa has entered observer.
+[17:56:19]	aaaaaa has left observer.
+[17:56:19]	aaaaaa has entered observer.
+[17:56:22]	aaaaaa has left observer.
+[17:56:33]	aaaaaa has entered observer.
+[17:56:39]	aaaaaa has left observer.
+[17:56:42]	aaaaaa has entered observer.
+[17:56:44]	aaaaaa has left observer.
+[17:56:44]	aaaaaa used '/toggleraise'
+[17:56:46]	aaaaaa has entered observer.
+[17:56:47]	aaaaaa has left observer.
+[17:56:49]	aaaaaa has entered observer.
+[17:56:50]	aaaaaa has left observer.
+[17:57:29]	aaaaaa's money has changed by 5.
+[17:57:59]	aaaaaa used '/toggleraise'
+[17:58:29]	aaaaaa used '/toggleraise'
+[17:58:29]	aaaaaa used '/toggleraise'
+[17:58:35]	aaaaaa has entered observer.
+[17:58:36]	aaaaaa has left observer.
+[17:58:38]	aaaaaa has entered observer.
+[17:58:39]	aaaaaa has left observer.
+[17:59:44]	aaaaaa has entered observer.
+[17:59:45]	aaaaaa has left observer.
+[17:59:47]	aaaaaa has entered observer.
+[17:59:47]	aaaaaa has left observer.
+[17:59:55]	aaaaaa has entered observer.
+[17:59:57]	aaaaaa has left observer.
+[18:02:18]	aaaaaa's money has changed by 5.
+[18:07:07]	aaaaaa's money has changed by 5.
+[18:08:07]	aaaaaa has taken 2 damage from worldspawn, leaving them at 98 health.
+[18:08:29]	aaaaaa has taken 2 damage from worldspawn, leaving them at 98 health.
+[18:08:32]	aaaaaa has taken 2 damage from worldspawn, leaving them at 96 health.
+[18:08:54]	aaaaaa has taken 2 damage from worldspawn, leaving them at 94 health.
+[18:09:47]	aaaaaa has taken 2 damage from worldspawn, leaving them at 98 health.
+[18:11:56]	aaaaaa's money has changed by 5.
+[18:16:45]	aaaaaa's money has changed by 5.
+[18:21:34]	aaaaaa's money has changed by 5.
+[18:22:01]	aaaaaa has entered observer.
+[18:22:11]	aaaaaa has left observer.
+[18:22:13]	aaaaaa has entered observer.
+[18:22:36]	aaaaaa has left observer.
+[18:22:38]	aaaaaa has entered observer.
+[18:22:47]	aaaaaa has left observer.
+[18:22:47]	aaaaaa has entered observer.
+[18:22:55]	aaaaaa has left observer.
+[18:23:59]	aaaaaa has entered observer.
+[18:25:08]	aaaaaa has left observer.
+[18:25:10]	aaaaaa has entered observer.
+[18:25:40]	aaaaaa has left observer.
+[18:25:40]	aaaaaa has entered observer.
+[18:26:00]	aaaaaa has left observer.
+[18:26:08]	aaaaaa has entered observer.
+[18:26:14]	aaaaaa has left observer.
+[18:26:23]	aaaaaa's money has changed by 5.
+[18:28:39]	aaaaaa has entered observer.
+[18:28:40]	aaaaaa has left observer.
+[18:28:43]	aaaaaa has entered observer.
+[18:28:45]	aaaaaa has left observer.
+[18:29:08]	aaaaaa has taken 2 damage from worldspawn, leaving them at 98 health.
+[18:29:16]	aaaaaa has taken 5 damage from worldspawn, leaving them at 93 health.
+[18:29:16]	aaaaaa has taken 2 damage from worldspawn, leaving them at 91 health.
+[18:31:12]	aaaaaa's money has changed by 5.
+[18:34:55]	aaaaaa has taken 2 damage from worldspawn, leaving them at 98 health.
+[18:36:01]	aaaaaa's money has changed by 5.
+[18:40:35]	aaaaaa has taken 2 damage from worldspawn, leaving them at 98 health.
+[18:40:46]	aaaaaa has taken 5 damage from worldspawn, leaving them at 93 health.
+[18:40:50]	aaaaaa's money has changed by 5.
+[18:42:36]	aaaaaa has taken 5 damage from worldspawn, leaving them at 95 health.
+[18:42:44]	aaaaaa has entered observer.
+[18:43:53]	aaaaaa has left observer.
+[18:43:56]	aaaaaa has entered observer.
+[18:44:37]	aaaaaa has left observer.
+[18:45:39]	aaaaaa's money has changed by 5.
+[18:46:28]	aaaaaa has taken 2 damage from worldspawn, leaving them at 98 health.
+[18:50:28]	aaaaaa's money has changed by 5.
+[18:52:57]	aaaaaa has taken 5 damage from worldspawn, leaving them at 95 health.
+[18:53:56]	aaaaaa has taken 5 damage from worldspawn, leaving them at 95 health.
+[18:53:56]	aaaaaa has taken 2 damage from worldspawn, leaving them at 93 health.
+[18:54:09]	aaaaaa used '/clearinv aa'
+[18:54:12]	aaaaaa[STEAM_0:1:67558546] has disconnected from the server.
+[18:54:51]	Logan[STEAM_0:1:67558546] has connected to the server.
+[18:55:07]	Logan loaded the character #2(aaaaaa)
+[18:55:13]	aaaaaa has entered observer.
+[18:55:14]	aaaaaa has left observer.
+[18:55:23]	aaaaaa has entered observer.
+[18:56:52]	aaaaaa has left observer.
+[18:56:52]	aaaaaa has entered observer.
+[18:57:58]	aaaaaa[STEAM_0:1:67558546] has disconnected from the server.
+[19:13:42]	Snoopi[STEAM_0:0:102201840] has connected to the server.
+[19:15:29]	Snoopi loaded the character #3(Snoopi)
+[19:15:31]	Snoopi has entered observer.
+[19:15:32]	Snoopi has left observer.
+[19:15:41]	Snoopi has entered observer.
+[19:15:41]	Snoopi has left observer.
+[19:15:58]	Snoopi has entered observer.
+[19:15:59]	Snoopi has left observer.
+[19:16:23]	Snoopi has entered observer.
+[19:16:24]	Snoopi has left observer.
+[19:16:25]	Snoopi has taken 16 damage from worldspawn, leaving them at 85 health.
+[19:16:25]	Snoopi has entered observer.
+[19:16:27]	Snoopi has left observer.
+[19:16:27]	Snoopi has entered observer.
+[19:16:27]	Snoopi has left observer.
+[19:22:44]	DoopieWop[STEAM_0:0:76025496] has connected to the server.
+[19:30:17]	Snoopi[STEAM_0:0:102201840] has connected to the server.
+[19:30:43]	Snoopi loaded the character #3(Snoopi)
+[19:30:45]	Snoopi has entered observer.
+[19:30:46]	Snoopi has left observer.
+[19:30:49]	Snoopi has entered observer.
+[19:30:52]	Snoopi has left observer.
+[19:32:46]	Snoopi has entered observer.
+[19:32:47]	Snoopi has left observer.
+[19:32:47]	Snoopi has entered observer.
+[19:35:32]	Snoopi's money has changed by 0.
+[19:36:01]	Snoopi has entered observer.
+[19:36:01]	Snoopi has left observer.
+[19:36:02]	Snoopi has accessed vendor Florian "The Fisherman".
+[19:36:03]	Snoopi's money has changed by -75.
+[19:36:03]	Snoopi has bought a Florian "The Fisherman" from fishing_pole.
+[19:36:04]	Snoopi's money has changed by -5.
+[19:36:04]	Snoopi has bought a Florian "The Fisherman" from fishing_bait.
+[19:36:08]	Snoopi tried 'FishBait' on item 'Fishing Pole'(#23)
+[19:36:18]	Snoopi tried 'FishBait' on item 'Fishing Pole'(#23)
+[19:36:29]	Snoopi has lost 1xFishing Pole.
+[19:36:29]	Snoopi tried 'drop' on item 'Fishing Pole'(#23)
+[19:36:38]	Snoopi has lost 1xBrown Trout.
+[19:36:38]	Snoopi tried 'drop' on item 'Brown Trout'(#25)
+[19:36:40]	Snoopi tried 'take' on item 'Brown Trout'(#25)
+[19:36:40]	Snoopi has picked up 1xBrown Trout.
+[19:40:21]	Snoopi's money has changed by 0.
+[19:43:20]	Snoopi has taken 2 damage from worldspawn, leaving them at 98 health.
+[19:45:00]	Snoopi has taken 5 damage from worldspawn, leaving them at 95 health.
+[19:45:00]	Snoopi has taken 2 damage from worldspawn, leaving them at 93 health.
+[19:45:10]	Snoopi's money has changed by 0.
+[19:45:15]	Snoopi has taken 2 damage from worldspawn, leaving them at 91 health.
+[19:46:53]	DoopieWop created the character #5(Doopie Dev)
+[19:46:55]	DoopieWop loaded the character #5(Doopie Dev)
+[19:46:57]	Doopie Dev has entered observer.
+[19:47:11]	[OOC] Doopie Dev: hey, im still kinda eating but i can try to show you some things
+[19:47:17]	[OOC] Snoopi: oka
+[19:47:19]	Snoopi has entered observer.
+[19:47:23]	Snoopi has left observer.
+[19:47:23]	Doopie Dev has left observer.
+[19:47:26]	[IC] Doopie Dev: hi
+[19:47:28]	[IC] Snoopi: he
+[19:47:29]	[IC] Snoopi: y
+[19:47:36]	Doopie Dev used '/chargiveitem doopie radio'
+[19:47:40]	Doopie Dev has lost 1xRadio.
+[19:47:40]	Doopie Dev tried 'drop' on item 'Radio'(#26)
+[19:47:42]	DoopieWop (STEAM_0:0:76025496) has spawned 'Stationary Radio'
+[19:47:48]	[IC] Doopie Dev: here r the two items
+[19:47:51]	Snoopi tried 'bindKey' on item 'Radio'(#26)
+[19:47:54]	Snoopi tried 'take' on item 'Radio'(#26)
+[19:47:54]	Snoopi has picked up 1xRadio.
+[19:47:58]	Snoopi tried 'enable' on item 'Radio'(#26)
+[19:47:59]	[IC] Doopie Dev: so both items have a frequency option. and an option to turn it on
+[19:48:00]	Snoopi tried 'take' on item 'Stationary Radio'(#27)
+[19:48:00]	Snoopi has picked up 1xStationary Radio.
+[19:48:02]	Snoopi has lost 1xStationary Radio.
+[19:48:02]	Snoopi tried 'drop' on item 'Stationary Radio'(#27)
+[19:48:04]	[IC] Doopie Dev: the radio has to be in the inv
+[19:48:04]	Snoopi tried 'Toggle' on item 'Stationary Radio'(#27)
+[19:48:08]	[IC] Doopie Dev: the stationary outside the inv
+[19:48:16]	Snoopi tried 'bindKey' on item 'Radio'(#26)
+[19:48:29]	Snoopi tried 'enable' on item 'Radio'(#26)
+[19:48:30]	Snoopi tried 'Freq' on item 'Stationary Radio'(#27)
+[19:48:38]	[IC] Doopie Dev: the way it works rn is that a frequency looks like this: 103.0 for example
+[19:48:43]	Snoopi tried 'Freq' on item 'Stationary Radio'(#27)
+[19:48:57]	[IC] Snoopi: 128.0
+[19:49:02]	[IC] Doopie Dev: ye type that in
+[19:49:03]	Doopie Dev tried 'Freq' on item 'Stationary Radio'(#27)
+[19:49:05]	[IC] Snoopi: it is
+[19:49:06]	Snoopi tried 'Freq' on item 'Stationary Radio'(#27)
+[19:49:07]	[IC] Doopie Dev: ye
+[19:49:11]	[IC] Doopie Dev: so now you can do /radio
+[19:49:15]	[RADIO] Snoopi: test
+[19:49:23]	[IC] Snoopi: you can't speak?
+[19:49:23]	[IC] Doopie Dev: anyone who is nearby can see radio text
+[19:49:33]	Snoopi tried 'bindKey' on item 'Radio'(#26)
+[19:49:36]	[IC] Doopie Dev: and anyone with the same frequency can see the chat
+[19:49:39]	Snoopi tried 'bindKey' on item 'Radio'(#26)
+[19:49:44]	Doopie Dev used '/chargiveitem doopie radio'
+[19:49:46]	Snoopi tried 'enable' on item 'Radio'(#26)
+[19:49:46]	Doopie Dev tried 'enable' on item 'Radio'(#28)
+[19:49:54]	[IC] Snoopi: what about speaking
+[19:49:59]	Snoopi's money has changed by 0.
+[19:50:05]	[RADIO] Snoopi: hi
+[19:50:06]	[IC] Doopie Dev: just use the speak button while looking at the radio
+[19:50:10]	[RADIO] Snoopi: hi
+[19:50:15]	Snoopi tried 'enable' on item 'Radio'(#26)
+[19:50:17]	Snoopi tried 'bindKey' on item 'Radio'(#26)
+[19:50:18]	[IC] Doopie Dev: for the inv radiio you get the option to mute urself pretty much
+[19:50:23]	Snoopi has lost 1xRadio.
+[19:50:23]	Snoopi tried 'drop' on item 'Radio'(#26)
+[19:50:24]	[IC] Doopie Dev: for some reason my radio item was overriden
+[19:50:29]	Snoopi tried 'take' on item 'Radio'(#26)
+[19:50:29]	Snoopi has picked up 1xRadio.
+[19:50:32]	[IC] Doopie Dev: there must be another radio item in the schema
+[19:50:33]	Snoopi tried 'disable' on item 'Radio'(#26)
+[19:50:39]	[RADIO] Snoopi: hi
+[19:50:51]	[IC] Snoopi: go fae away
+[19:50:55]	[IC] Doopie Dev: one sec let me just get rid of the copy
+[19:50:56]	[IC] Snoopi: and place radio
+[19:51:03]	[RADIO] Snoopi: test
+[19:51:09]	[OOC] Snoopi: test
+[19:51:12]	[RADIO] Snoopi: test
+[19:51:44]	Doopie Dev's money has changed by 5.
+[19:52:30]	[RADIO] Snoopi: hi
+[19:52:32]	Doopie Dev tried 'Toggle' on item 'Stationary Radio'(#27)
+[19:52:34]	Doopie Dev tried 'Toggle' on item 'Stationary Radio'(#27)
+[19:52:38]	Doopie Dev tried 'disable' on item 'Radio'(#28)
+[19:52:41]	Doopie Dev tried 'enable' on item 'Radio'(#28)
+[19:52:46]	[RADIO] Snoopi: hi
+[19:52:54]	[IC] Doopie Dev: can you send me a screenshot?
+[19:53:00]	[IC] Doopie Dev: i dont remember putting notifications like that
+[19:53:11]	[RADIO] Snoopi: hi
+[19:53:23]	[RADIO] Snoopi: test
+[19:54:48]	Snoopi's money has changed by 0.
+[19:55:13]	Doopie Dev has entered observer.
+[19:55:15]	Doopie Dev has left observer.
+[19:55:15]	DoopieWop (STEAM_0:0:76025496) has spawned 'Stationary Radio'
+[19:55:18]	Snoopi has entered observer.
+[19:55:18]	Doopie Dev tried 'Freq' on item 'Stationary Radio'(#29)
+[19:55:18]	Snoopi has left observer.
+[19:55:22]	Doopie Dev tried 'Toggle' on item 'Stationary Radio'(#29)
+[19:55:27]	[RADIO] Doopie Dev: hi
+[19:55:28]	[RADIO] Doopie Dev: hi
+[19:55:31]	[RADIO] Doopie Dev: hi
+[19:55:34]	Doopie Dev has lost 1xRadio.
+[19:55:34]	Doopie Dev tried 'drop' on item 'Radio'(#28)
+[19:55:35]	[RADIO] Snoopi: hi
+[19:55:40]	[RADIO] Snoopi: hi
+[19:55:46]	[RADIO] Snoopi: hi
+[19:55:52]	[OOC] Snoopi: hmm dosent work now
+[19:55:55]	Snoopi tried 'enable' on item 'Radio'(#26)
+[19:55:57]	[RADIO] Snoopi: test
+[19:55:59]	[OOC] Snoopi: there
+[19:56:19]	[OOC] Snoopi: can you hear my voice
+[19:56:19]	[OOC] Doopie Dev: im confused, i dont have the option enable in my radios
+[19:56:31]	[OOC] Doopie Dev: there must be like plugins interfering with this one
+[19:56:33]	Doopie Dev's money has changed by 5.
+[19:56:34]	[OOC] Snoopi: maybe cuz the other radio plugin is on the server
+[19:56:37]	[OOC] Snoopi: ya
+[19:56:40]	[OOC] Doopie Dev: i thought i removed it
+[19:56:43]	[OOC] Snoopi: then u did
+[19:56:45]	[OOC] Snoopi: hmmm
+[19:57:15]	[OOC] Doopie Dev: i guess we can try restarting again
+[19:57:21]	[OOC] Doopie Dev: maybe it just didnt register or something
+[19:57:23]	Doopie Dev tried 'take' on item 'Stationary Radio'(#29)
+[19:57:23]	Doopie Dev has picked up 1xStationary Radio.
+[19:57:42]	[OOC] Snoopi: lets do it
+[19:59:02]	DoopieWop[STEAM_0:0:76025496] has connected to the server.
+[19:59:04]	Snoopi[STEAM_0:0:102201840] has connected to the server.
+[19:59:19]	Snoopi loaded the character #3(Snoopi)
+[20:02:28]	DoopieWop[STEAM_0:0:76025496] has connected to the server.
+[20:02:42]	Lanius[STEAM_0:0:211494314] has connected to the server.
+[20:02:51]	Snoopi[STEAM_0:0:102201840] has connected to the server.
+[20:03:00]	DoopieWop loaded the character #5(Doopie Dev)
+[20:03:06]	Doopie Dev tried 'take' on item 'Radio'(#28)
+[20:03:06]	Doopie Dev has picked up 1xRadio.
+[20:03:07]	Doopie Dev has entered observer.
+[20:03:08]	Doopie Dev has left observer.
+[20:03:09]	Doopie Dev has entered observer.
+[20:03:10]	Doopie Dev has left observer.
+[20:03:21]	Doopie Dev has entered observer.
+[20:03:26]	Doopie Dev tried 'Freq' on item 'Radio'(#28)
+[20:03:29]	Doopie Dev tried 'Toggle' on item 'Radio'(#28)
+[20:03:30]	Lanius loaded the character #1(Lanius)
+[20:03:31]	Lanius has entered observer.
+[20:03:44]	Doopie Dev has left observer.
+[20:03:53]	[OOC] Lanius: hey Doopie, did you ever see that faction restriction bug I was referring to?
+[20:03:56]	Doopie Dev used '/flaggive doopie'
+[20:04:00]	Lanius has left observer.
+[20:04:01]	Lanius has accessed vendor Test Vendor.
+[20:04:11]	[OOC] Doopie Dev: its not a bug
+[20:04:19]	[OOC] Doopie Dev: admins can see any vendor in any faction
+[20:04:21]	[OOC] Doopie Dev: users wont
+[20:04:26]	[OOC] Doopie Dev: or anyone without the proper cami 
+[20:04:29]	Doopie Dev has entered observer.
+[20:04:31]	Doopie Dev has left observer.
+[20:04:35]	Doopie Dev has entered observer.
+[20:04:36]	Snoopi loaded the character #3(Snoopi)
+[20:04:39]	Snoopi has entered observer.
+[20:04:41]	Doopie Dev has left observer.
+[20:04:45]	Snoopi has left observer.
+[20:04:46]	Snoopi has entered observer.
+[20:04:47]	Snoopi has left observer.
+[20:04:47]	Snoopi has entered observer.
+[20:04:47]	Snoopi has left observer.
+[20:04:48]	[OOC] Lanius: ah gotcha, I thought I was experiencing something else. Ima test something rq
+[20:04:48]	[IC] Doopie Dev: hey
+[20:04:50]	Lanius has accessed vendor Test Vendor.
+[20:04:54]	[IC] Doopie Dev: u got the radio
+[20:05:01]	Lanius used '/plytransfer lanius allg'
+[20:05:07]	[IC] Snoopi: where do u find them
+[20:05:11]	Lanius has accessed vendor Test Vendor.
+[20:05:15]	[IC] Doopie Dev: u can either give it to urself with command
+[20:05:16]	[IC] Doopie Dev: or
+[20:05:20]	[IC] Doopie Dev: in the communication tab
+[20:05:23]	[IC] Doopie Dev: category
+[20:05:23]	Lanius has accessed vendor Test Vendor.
+[20:05:31]	[IC] Doopie Dev: ye
+[20:05:34]	DoopieWop (STEAM_0:0:76025496) has spawned 'Radio'
+[20:05:34]	DoopieWop (STEAM_0:0:76025496) has spawned 'Stationary Radio'
+[20:05:37]	[IC] Doopie Dev: ye
+[20:05:46]	Snoopi has entered observer.
+[20:05:48]	Snoopi has left observer.
+[20:05:51]	Snoopi (STEAM_0:0:102201840) has spawned 'Stationary Radio'
+[20:05:59]	Lanius has accessed vendor Test Vendor.
+[20:06:06]	Snoopi (STEAM_0:0:102201840) has spawned 'Radio'
+[20:06:08]	Snoopi tried 'take' on item 'Radio'(#33)
+[20:06:08]	Snoopi has picked up 1xRadio.
+[20:06:12]	Snoopi has lost 1xRadio.
+[20:06:12]	Snoopi tried 'drop' on item 'Radio'(#33)
+[20:06:14]	Lanius used '/plytransfer lanius cit'
+[20:06:16]	Lanius has accessed vendor Test Vendor.
+[20:06:16]	Snoopi tried 'Freq' on item 'Stationary Radio'(#32)
+[20:06:25]	Snoopi tried 'Freq' on item 'Radio'(#26)
+[20:06:32]	Snoopi tried 'Toggle' on item 'Radio'(#26)
+[20:06:37]	Snoopi tried 'Toggle' on item 'Stationary Radio'(#32)
+[20:06:50]	[RADIO] Snoopi: test
+[20:06:52]	[OOC] Lanius: oh ok, I thought it was reseting because when you go into the vendor again to see faction restrictions the factions get unchecked
+[20:06:56]	Snoopi tried 'Freq' on item 'Stationary Radio'(#32)
+[20:06:59]	[OOC] Lanius: but I see it works now
+[20:07:00]	[RADIO] Snoopi: test
+[20:07:03]	[OOC] Lanius: but I see it works now
+[20:07:05]	[OOC] Doopie Dev: ye first it doesnt show up, but if you click it again it shows
+[20:07:08]	[OOC] Doopie Dev: for some reason
+[20:07:10]	[OOC] Doopie Dev: lag maybe idk
+[20:07:12]	Snoopi has entered observer.
+[20:07:14]	[OOC] Lanius: guess so
+[20:07:15]	Snoopi has left observer.
+[20:07:19]	Doopie Dev tried 'Freq' on item 'Stationary Radio'(#31)
+[20:07:23]	Lanius has entered observer.
+[20:07:24]	Doopie Dev tried 'Toggle' on item 'Stationary Radio'(#31)
+[20:07:27]	Lanius has left observer.
+[20:07:31]	Lanius has entered observer.
+[20:07:33]	[IC] Doopie Dev: it should just work on the radio this one
+[20:07:36]	Doopie Dev tried 'Toggle' on item 'Radio'(#28)
+[20:07:36]	Snoopi has entered observer.
+[20:07:37]	Lanius has left observer.
+[20:07:38]	Snoopi has left observer.
+[20:07:38]	Doopie Dev has lost 1xRadio.
+[20:07:38]	Doopie Dev tried 'drop' on item 'Radio'(#28)
+[20:07:39]	Doopie Dev has lost 1xStationary Radio.
+[20:07:39]	Doopie Dev tried 'drop' on item 'Stationary Radio'(#29)
+[20:07:46]	[RADIO] Doopie Dev: test
+[20:07:49]	Doopie Dev's money has changed by 5.
+[20:07:51]	[RADIO] Snoopi: test
+[20:07:51]	Lanius used '/charsetmodel lanius models/humans/Suits_07_EXG.mdl'
+[20:07:55]	[RADIO] Snoopi: test
+[20:07:58]	Lanius has entered observer.
+[20:07:59]	Snoopi tried 'Freq' on item 'Radio'(#26)
+[20:08:02]	Lanius has left observer.
+[20:08:05]	Lanius has entered observer.
+[20:08:12]	[RADIO] Snoopi: test
+[20:08:17]	[RADIO] Doopie Dev: hey
+[20:08:18]	Lanius's money has changed by 5.
+[20:08:20]	[RADIO] Doopie Dev: hey
+[20:08:21]	[RADIO] Snoopi: received your test.
+[20:08:24]	[RADIO] Doopie Dev: do you read me?
+[20:08:26]	[RADIO] Snoopi: hi
+[20:08:28]	[RADIO] Doopie Dev: good
+[20:08:30]	[RADIO] Snoopi: Copy.
+[20:08:31]	[RADIO] Doopie Dev: try vc
+[20:08:40]	Snoopi tried 'Freq' on item 'Stationary Radio'(#32)
+[20:08:44]	Snoopi tried 'Freq' on item 'Radio'(#26)
+[20:08:48]	Snoopi has entered observer.
+[20:08:50]	Snoopi has left observer.
+[20:08:58]	Doopie Dev tried 'Toggle' on item 'Stationary Radio'(#31)
+[20:09:02]	Doopie Dev tried 'take' on item 'Radio'(#28)
+[20:09:02]	Doopie Dev has picked up 1xRadio.
+[20:09:05]	Doopie Dev tried 'Freq' on item 'Radio'(#28)
+[20:09:08]	Doopie Dev tried 'Toggle' on item 'Radio'(#28)
+[20:09:10]	[IC] Doopie Dev: 128.0
+[20:09:11]	[IC] Doopie Dev: right?
+[20:09:19]	[IC] Doopie Dev: it shouldnt need to
+[20:09:22]	[IC] Doopie Dev: i tested them seperately
+[20:09:24]	Doopie Dev tried 'Freq' on item 'Stationary Radio'(#29)
+[20:09:25]	Snoopi's money has changed by 0.
+[20:09:25]	Snoopi has entered observer.
+[20:09:26]	Doopie Dev tried 'Toggle' on item 'Stationary Radio'(#29)
+[20:09:28]	Snoopi has left observer.
+[20:09:34]	Snoopi has entered observer.
+[20:09:35]	Snoopi has left observer.
+[20:09:46]	[RADIO] Snoopi: Do you copy?
+[20:09:49]	[OOC] Doopie Dev: how about you come on my dev server and we test if it works there
+[20:09:55]	[RADIO] Doopie Dev: see ur message but no vc
+[20:09:56]	[OOC] Snoopi: sure
+[20:10:01]	Snoopi has entered observer.
+[20:10:01]	[OOC] Doopie Dev: one second
+[20:10:04]	Snoopi has left observer.
+[20:10:16]	Snoopi has entered observer.
+[20:10:17]	Snoopi has left observer.
+[20:10:26]	Doopie Dev[STEAM_0:0:76025496] has disconnected from the server.
+[20:11:41]	Snoopi has entered observer.
+[20:11:42]	Snoopi has left observer.
+[20:12:19]	Snoopi[STEAM_0:0:102201840] has disconnected from the server.
+[20:13:07]	Lanius's money has changed by 5.
+[20:15:38]	Lanius has left observer.
+[20:15:38]	Lanius has entered observer.
+[20:15:39]	Lanius has left observer.
+[20:15:39]	Lanius has entered observer.
+[20:15:40]	Lanius has left observer.
+[20:15:40]	Lanius has entered observer.
+[20:15:41]	Lanius has left observer.
+[20:15:42]	Lanius has entered observer.
+[20:15:42]	Lanius has left observer.
+[20:15:43]	Lanius has entered observer.
+[20:15:43]	Lanius has left observer.
+[20:15:44]	Lanius has entered observer.
+[20:15:45]	Lanius has left observer.
+[20:15:45]	Lanius has entered observer.
+[20:15:46]	Lanius has left observer.
+[20:15:47]	Lanius has entered observer.
+[20:15:47]	Lanius has left observer.
+[20:15:48]	Lanius has entered observer.
+[20:15:49]	Lanius has left observer.
+[20:15:50]	Lanius has entered observer.
+[20:15:54]	Lanius has left observer.
+[20:15:54]	Lanius has entered observer.
+[20:15:55]	Lanius has left observer.
+[20:15:56]	Lanius has entered observer.
+[20:15:57]	Lanius has left observer.
+[20:15:58]	Lanius has entered observer.
+[20:17:56]	Lanius's money has changed by 5.
+[20:22:45]	Lanius's money has changed by 5.
+[20:28:38]	Snoopi[STEAM_0:0:102201840] has connected to the server.
+[20:28:52]	Snoopi loaded the character #3(Snoopi)
+[20:28:53]	DoopieWop[STEAM_0:0:76025496] has connected to the server.
+[20:29:10]	DoopieWop loaded the character #5(Doopie Dev)
+[20:29:40]	Lanius[STEAM_0:0:211494314] has connected to the server.
+[20:30:38]	Doopie Dev tried 'Freq' on item 'Radio'(#28)
+[20:30:41]	Doopie Dev tried 'Toggle' on item 'Stationary Radio'(#29)
+[20:30:42]	Snoopi tried 'Freq' on item 'Stationary Radio'(#32)
+[20:30:55]	Snoopi tried 'Freq' on item 'Radio'(#26)
+[20:31:08]	Doopie Dev tried 'Toggle' on item 'Stationary Radio'(#29)
+[20:31:20]	Doopie Dev tried 'Toggle' on item 'Stationary Radio'(#29)
+[20:31:23]	Snoopi tried 'Toggle' on item 'Radio'(#26)
+[20:31:24]	Snoopi tried 'Toggle' on item 'Radio'(#26)
+[20:31:30]	[RADIO] Doopie Dev: message
+[20:31:53]	Doopie Dev tried 'Toggle' on item 'Stationary Radio'(#29)
+[20:32:29]	Doopie Dev tried 'Toggle' on item 'Radio'(#28)
+[20:32:30]	Doopie Dev tried 'Toggle' on item 'Radio'(#28)
+[20:32:55]	Lanius loaded the character #1(Lanius)
+[20:32:58]	Doopie Dev[STEAM_0:0:76025496] has disconnected from the server.
+[20:33:41]	Snoopi's money has changed by 0.
+[20:35:52]	DoopieWop[STEAM_0:0:76025496] has connected to the server.
+[20:36:09]	DoopieWop loaded the character #5(Doopie Dev)
+[20:36:19]	Snoopi[STEAM_0:0:102201840] has connected to the server.
+[20:36:32]	Snoopi loaded the character #3(Snoopi)
+[20:36:37]	[RADIO] Doopie Dev: test
+[20:36:37]	Snoopi tried 'Toggle' on item 'Radio'(#26)
+[20:36:38]	Snoopi tried 'Toggle' on item 'Radio'(#26)
+[20:36:41]	[RADIO] Snoopi: test
+[20:36:55]	[RADIO] Doopie Dev: nothing
+[20:37:13]	Snoopi tried 'Freq' on item 'Radio'(#26)
+[20:37:13]	Doopie Dev[STEAM_0:0:76025496] has disconnected from the server.
+[20:37:44]	Snoopi[STEAM_0:0:102201840] has disconnected from the server.
+[20:46:55]	Snoopi[STEAM_0:0:102201840] has connected to the server.
+[20:47:07]	DoopieWop[STEAM_0:0:76025496] has connected to the server.
+[20:47:10]	Snoopi loaded the character #3(Snoopi)
+[20:47:24]	DoopieWop loaded the character #5(Doopie Dev)
+[20:47:40]	Snoopi tried 'Toggle' on item 'Radio'(#26)
+[20:47:41]	Snoopi tried 'Toggle' on item 'Radio'(#26)
+[20:48:05]	Doopie Dev tried 'Toggle' on item 'Stationary Radio'(#29)
+[20:51:59]	Snoopi's money has changed by 0.
+[20:52:13]	Doopie Dev's money has changed by 5.
+[20:55:48]	DoopieWop[STEAM_0:0:76025496] has connected to the server.
+[20:56:06]	Snoopi[STEAM_0:0:102201840] has connected to the server.
+[20:56:08]	DoopieWop loaded the character #5(Doopie Dev)
+[20:56:48]	Doopie Dev[STEAM_0:0:76025496] has disconnected from the server.
+[20:58:32]	DoopieWop[STEAM_0:0:76025496] has connected to the server.
+[20:59:08]	DoopieWop loaded the character #5(Doopie Dev)
+[21:00:32]	Snoopi[STEAM_0:0:102201840] has connected to the server.
+[21:00:46]	Snoopi loaded the character #3(Snoopi)
+[21:00:50]	Snoopi tried 'Toggle' on item 'Radio'(#26)
+[21:00:50]	Snoopi tried 'Toggle' on item 'Radio'(#26)
+[21:03:57]	Doopie Dev's money has changed by 5.
+[21:05:26]	Doopie Dev[STEAM_0:0:76025496] has disconnected from the server.
+[21:05:35]	Snoopi's money has changed by 0.
+[21:10:16]	DoopieWop[STEAM_0:0:76025496] has connected to the server.
+[21:11:30]	DoopieWop loaded the character #5(Doopie Dev)
+[21:12:46]	Doopie Dev tried 'Toggle' on item 'Stationary Radio'(#31)
+[21:13:29]	sergen[STEAM_0:1:98388231] has connected to the server.
+[21:15:30]	sergen[STEAM_0:1:98388231] has connected to the server.
+[21:16:07]	sergen created the character #6(eqeqeqqeqeqeq qeqeqeqeq)
+[21:16:09]	sergen loaded the character #6(eqeqeqqeqeqeq qeqeqeqeq)
+[21:16:19]	Doopie Dev's money has changed by 5.
+[21:16:51]	eqeqeqqeqeqeq qeqeqeqeq[STEAM_0:1:98388231] has disconnected from the server.
+[21:19:24]	DoopieWop[STEAM_0:0:76025496] has connected to the server.
+[21:19:34]	Snoopi[STEAM_0:0:102201840] has connected to the server.
+[21:20:07]	Snoopi loaded the character #3(Snoopi)
+[21:20:17]	DoopieWop loaded the character #5(Doopie Dev)
+[21:20:23]	Doopie Dev tried 'Toggle' on item 'Stationary Radio'(#31)
+[21:22:07]	Snoopi has entered observer.
+[21:22:10]	Snoopi has left observer.
+[21:22:32]	Snoopi has entered observer.
+[21:22:47]	Doopie Dev has entered observer.
+[21:22:48]	Snoopi has left observer.
+[21:22:50]	Doopie Dev has left observer.
+[21:23:03]	Snoopi has entered observer.
+[21:23:11]	Snoopi has left observer.
+[21:24:28]	Doopie Dev has entered observer.
+[21:24:30]	Doopie Dev has left observer.
+[21:24:31]	Doopie Dev has entered observer.
+[21:24:56]	Snoopi's money has changed by 0.
+[21:25:06]	Doopie Dev's money has changed by 5.
+[21:25:17]	Doopie Dev has left observer.
+[21:25:18]	Snoopi has entered observer.
+[21:25:21]	Snoopi has left observer.
+[21:25:21]	Snoopi has entered observer.
+[21:25:21]	Doopie Dev tried 'Toggle' on item 'Radio'(#28)
+[21:25:49]	Doopie Dev has entered observer.
+[21:29:40]	Snoopi[STEAM_0:0:102201840] has connected to the server.
+[21:29:54]	Snoopi loaded the character #3(Snoopi)
+[21:29:55]	Snoopi has entered observer.
+[21:29:55]	Snoopi has left observer.
+[21:29:56]	Snoopi has entered observer.
+[21:30:07]	Snoopi has left observer.
+[21:30:08]	Snoopi has entered observer.
+[21:30:08]	Snoopi has left observer.
+[21:30:11]	Snoopi has lost 1xRadio.
+[21:30:11]	Snoopi tried 'drop' on item 'Radio'(#26)
+[21:30:18]	Lanius[STEAM_0:0:211494314] has connected to the server.
+[21:30:34]	Lanius loaded the character #1(Lanius)
+[21:30:35]	Lanius has taken 25 damage from worldspawn, leaving them at 76 health.
+[21:30:35]	Lanius has entered observer.
+[21:30:38]	Lanius has left observer.
+[21:30:43]	Snoopi (STEAM_0:0:102201840) has spawned 'Radio'
+[21:30:45]	Snoopi (STEAM_0:0:102201840) has spawned 'Radio'
+[21:30:46]	Snoopi tried 'take' on item 'Radio'(#35)
+[21:30:46]	Snoopi has picked up 1xRadio.
+[21:30:49]	Lanius tried 'take' on item 'Radio'(#34)
+[21:30:49]	Lanius has picked up 1xRadio.
+[21:30:51]	Lanius tried 'Freq' on item 'Radio'(#34)
+[21:30:53]	Snoopi tried 'Freq' on item 'Radio'(#35)
+[21:30:58]	Snoopi tried 'Toggle' on item 'Radio'(#35)
+[21:31:00]	Lanius tried 'Toggle' on item 'Radio'(#34)
+[21:31:16]	Snoopi has entered observer.
+[21:31:18]	Snoopi has left observer.
+[21:31:50]	Lanius has entered observer.
+[21:31:54]	Lanius has left observer.
+[21:32:06]	Lanius has entered observer.
+[21:32:07]	Lanius has left observer.
+[21:32:07]	Lanius has entered observer.
+[21:32:08]	Lanius has left observer.
+[21:32:08]	Lanius has entered observer.
+[21:32:08]	Lanius has left observer.
+[21:32:08]	Lanius has entered observer.
+[21:32:09]	Lanius has left observer.
+[21:32:09]	Lanius has entered observer.
+[21:32:12]	Lanius has left observer.
+[21:32:13]	Lanius has entered observer.
+[21:32:13]	Lanius has left observer.
+[21:32:14]	Lanius has entered observer.
+[21:32:15]	Lanius has left observer.
+[21:32:15]	Lanius has entered observer.
+[21:32:16]	Lanius has left observer.
+[21:32:21]	Snoopi has entered observer.
+[21:32:22]	Snoopi has left observer.
+[21:32:24]	Lanius used '/plytransfer lanius staff'
+[21:32:36]	Snoopi has entered observer.
+[21:32:39]	Snoopi has left observer.
+[21:32:43]	Snoopi has entered observer.
+[21:33:20]	Snoopi has left observer.
+[21:33:20]	Snoopi has entered observer.
+[21:33:26]	Snoopi has left observer.
+[21:33:26]	Snoopi has entered observer.
+[21:33:27]	Snoopi has left observer.
+[21:33:28]	Snoopi has entered observer.
+[21:33:29]	Snoopi has left observer.
+[21:33:29]	Snoopi has entered observer.
+[21:33:29]	Snoopi has left observer.
+[21:33:31]	DoopieWop[STEAM_0:0:76025496] has connected to the server.
+[21:33:31]	Snoopi has entered observer.
+[21:33:44]	Snoopi has left observer.
+[21:33:46]	Lanius has entered observer.
+[21:33:48]	DoopieWop loaded the character #5(Doopie Dev)
+[21:33:50]	Lanius has left observer.
+[21:33:51]	Snoopi has entered observer.
+[21:33:51]	Lanius has entered observer.
+[21:33:51]	Snoopi has left observer.
+[21:33:51]	Lanius has left observer.
+[21:33:52]	Lanius has entered observer.
+[21:33:53]	Lanius has left observer.
+[21:33:53]	Lanius has entered observer.
+[21:33:53]	Doopie Dev tried 'Toggle' on item 'Radio'(#28)
+[21:33:53]	Lanius has left observer.
+[21:33:54]	Lanius has entered observer.
+[21:33:54]	Snoopi (STEAM_0:0:102201840) has spawned 'Stationary Radio'
+[21:33:55]	Lanius has left observer.
+[21:33:55]	Lanius has entered observer.
+[21:33:56]	Lanius has left observer.
+[21:33:58]	Doopie Dev has entered observer.
+[21:34:00]	Snoopi (STEAM_0:0:102201840) has spawned 'Stationary Radio'
+[21:34:01]	Lanius tried 'Toggle' on item 'Stationary Radio'(#36)
+[21:34:02]	Lanius tried 'Freq' on item 'Stationary Radio'(#36)
+[21:34:08]	Lanius tried 'Toggle' on item 'Stationary Radio'(#36)
+[21:34:08]	Snoopi has entered observer.
+[21:34:09]	Snoopi has left observer.
+[21:34:10]	Lanius tried 'Toggle' on item 'Stationary Radio'(#36)
+[21:34:10]	Snoopi has entered observer.
+[21:34:10]	Snoopi has left observer.
+[21:34:11]	Snoopi has entered observer.
+[21:34:17]	Snoopi has left observer.
+[21:34:23]	Snoopi has entered observer.
+[21:34:30]	Snoopi has left observer.
+[21:34:30]	Snoopi has entered observer.
+[21:34:30]	Snoopi has left observer.
+[21:34:37]	Snoopi has entered observer.
+[21:34:38]	Snoopi has left observer.
+[21:34:39]	Lanius has entered observer.
+[21:34:40]	Lanius has left observer.
+[21:34:41]	Lanius has entered observer.
+[21:34:42]	Lanius has left observer.
+[21:34:42]	Snoopi's money has changed by 0.
+[21:34:43]	Lanius has entered observer.
+[21:34:43]	Lanius has left observer.
+[21:34:44]	Lanius has entered observer.
+[21:34:44]	Lanius has left observer.
+[21:34:50]	Snoopi has entered observer.
+[21:34:50]	Snoopi has left observer.
+[21:34:50]	Snoopi has entered observer.
+[21:34:51]	Snoopi has left observer.
+[21:35:21]	Snoopi has entered observer.
+[21:35:22]	Snoopi has left observer.
+[21:35:23]	Snoopi has entered observer.
+[21:35:23]	Lanius's money has changed by 5.
+[21:35:35]	Snoopi has left observer.
+[21:35:37]	Snoopi has entered observer.
+[21:35:39]	Lanius has entered observer.
+[21:35:40]	Snoopi has left observer.
+[21:35:44]	Lanius has left observer.
+[21:35:44]	Lanius has entered observer.
+[21:35:45]	Lanius has left observer.
+[21:35:45]	Lanius has entered observer.
+[21:35:45]	Snoopi has entered observer.
+[21:35:46]	Lanius has left observer.
+[21:35:46]	Snoopi has left observer.
+[21:35:46]	Lanius has entered observer.
+[21:35:46]	Snoopi has entered observer.
+[21:35:47]	Snoopi has left observer.
+[21:35:47]	Snoopi has entered observer.
+[21:35:48]	Snoopi has left observer.
+[21:35:48]	Snoopi has entered observer.
+[21:35:49]	Snoopi has left observer.
+[21:35:49]	Snoopi has entered observer.
+[21:35:49]	Snoopi has left observer.
+[21:35:50]	Snoopi has entered observer.
+[21:35:51]	Snoopi has left observer.
+[21:35:51]	Snoopi has entered observer.
+[21:35:51]	Snoopi has left observer.
+[21:35:52]	Snoopi has entered observer.
+[21:35:52]	Snoopi has left observer.
+[21:35:52]	Snoopi has entered observer.
+[21:35:52]	Snoopi has left observer.
+[21:35:53]	Snoopi has entered observer.
+[21:36:00]	Snoopi has left observer.
+[21:36:00]	Snoopi has entered observer.
+[21:36:01]	Snoopi has left observer.
+[21:36:02]	Snoopi has entered observer.
+[21:36:02]	Snoopi has left observer.
+[21:36:03]	Snoopi has entered observer.
+[21:36:03]	Snoopi has left observer.
+[21:36:05]	Snoopi has entered observer.
+[21:36:05]	Snoopi has left observer.
+[21:36:08]	Snoopi has entered observer.
+[21:36:08]	Snoopi has left observer.
+[21:36:10]	Snoopi has entered observer.
+[21:36:10]	Snoopi has left observer.
+[21:36:11]	Snoopi has entered observer.
+[21:36:12]	Snoopi has left observer.
+[21:36:15]	Snoopi has entered observer.
+[21:36:15]	Snoopi has left observer.
+[21:36:16]	Snoopi has entered observer.
+[21:36:16]	Snoopi has left observer.
+[21:36:18]	Snoopi has entered observer.
+[21:36:18]	Snoopi has left observer.
+[21:36:19]	Snoopi has entered observer.
+[21:36:20]	Snoopi has left observer.
+[21:36:27]	Snoopi has entered observer.
+[21:36:27]	Snoopi has left observer.
+[21:36:28]	Snoopi has entered observer.
+[21:36:29]	Snoopi has left observer.
+[21:36:30]	The_Boss_Eggy[STEAM_0:0:103712993] has connected to the server.
+[21:36:30]	Snoopi has entered observer.
+[21:36:31]	Snoopi has left observer.
+[21:36:32]	Snoopi has entered observer.
+[21:36:32]	Snoopi has left observer.
+[21:36:33]	Snoopi has entered observer.
+[21:36:33]	Snoopi has left observer.
+[21:36:34]	Snoopi has entered observer.
+[21:37:20]	Snoopi has left observer.
+[21:37:21]	Snoopi has entered observer.
+[21:37:21]	Snoopi has left observer.
+[21:37:22]	Snoopi has entered observer.
+[21:37:32]	Snoopi has left observer.
+[21:37:33]	Snoopi has entered observer.
+[21:37:36]	Snoopi has left observer.
+[21:37:37]	Snoopi has entered observer.
+[21:37:37]	Snoopi has left observer.
+[21:37:41]	Snoopi has entered observer.
+[21:37:42]	Snoopi has left observer.
+[21:37:42]	Snoopi has entered observer.
+[21:37:43]	Snoopi has left observer.
+[21:37:43]	Snoopi has entered observer.
+[21:37:43]	Snoopi has left observer.
+[21:37:44]	Snoopi has entered observer.
+[21:37:44]	Snoopi has left observer.
+[21:37:45]	Snoopi has entered observer.
+[21:37:45]	Snoopi has left observer.
+[21:37:45]	Snoopi has entered observer.
+[21:37:46]	Snoopi has left observer.
+[21:37:46]	Snoopi has entered observer.
+[21:37:54]	Snoopi has left observer.
+[21:37:54]	Snoopi has entered observer.
+[21:38:37]	Doopie Dev's money has changed by 5.
+[21:38:53]	Snoopi has left observer.
+[21:38:53]	Snoopi has entered observer.
+[21:38:54]	Snoopi has left observer.
+[21:38:54]	Snoopi has entered observer.
+[21:38:54]	Snoopi has left observer.
+[21:38:55]	Snoopi has entered observer.
+[21:38:55]	Snoopi has left observer.
+[21:38:55]	Snoopi has entered observer.
+[21:38:56]	Snoopi has left observer.
+[21:38:57]	Snoopi has entered observer.
+[21:39:02]	Snoopi has left observer.
+[21:39:05]	Snoopi has entered observer.
+[21:39:07]	Snoopi has left observer.
+[21:39:08]	Snoopi has entered observer.
+[21:39:10]	Snoopi has left observer.
+[21:39:10]	Snoopi has entered observer.
+[21:39:30]	Lanius has left observer.
+[21:39:31]	Lanius has entered observer.
+[21:39:31]	Lanius has left observer.
+[21:39:31]	Snoopi's money has changed by 0.
+[21:39:32]	Lanius has entered observer.
+[21:39:41]	Lanius loaded the character #4(Dr. Werner Altenberg)
+[21:39:43]	Dr. Werner Altenberg has entered observer.
+[21:39:44]	Dr. Werner Altenberg has left observer.
+[21:39:53]	Snoopi has left observer.
+[21:39:58]	Doopie Dev has left observer.
+[21:39:59]	Doopie Dev has taken 12 damage from worldspawn, leaving them at 88 health.
+[21:40:06]	Dr. Werner Altenberg used '/flagtake lanis v'
+[21:40:10]	Doopie Dev has entered observer.
+[21:40:10]	Dr. Werner Altenberg used '/flagtake alten v'
+[21:40:15]	Snoopi has entered observer.
+[21:40:18]	Snoopi has left observer.
+[21:40:22]	Dr. Werner Altenberg has entered observer.
+[21:40:25]	Snoopi has entered observer.
+[21:40:27]	Snoopi has left observer.
+[21:40:27]	Snoopi has entered observer.
+[21:40:27]	Snoopi has left observer.
+[21:40:34]	Snoopi has entered observer.
+[21:40:35]	Snoopi has left observer.
+[21:40:36]	Snoopi has entered observer.
+[21:40:36]	Snoopi has left observer.
+[21:40:37]	Snoopi has entered observer.
+[21:40:37]	Snoopi has left observer.
+[21:40:38]	Snoopi has entered observer.
+[21:41:21]	Snoopi has left observer.
+[21:41:21]	Snoopi has entered observer.
+[21:41:22]	Snoopi has left observer.
+[21:41:22]	Snoopi has entered observer.
+[21:41:23]	Snoopi has left observer.
+[21:41:26]	Snoopi has entered observer.
+[21:41:27]	Snoopi has left observer.
+[21:41:27]	Snoopi has entered observer.
+[21:41:27]	Snoopi has left observer.
+[21:41:31]	Snoopi has entered observer.
+[21:41:31]	Snoopi has left observer.
+[21:41:33]	Snoopi has entered observer.
+[21:41:33]	Snoopi has left observer.
+[21:41:35]	Snoopi has entered observer.
+[21:41:43]	Dr. Werner Altenberg has left observer.
+[21:41:46]	Snoopi has left observer.
+[21:41:48]	Snoopi has entered observer.
+[21:41:48]	Dr. Werner Altenberg has entered observer.
+[21:41:48]	Dr. Werner Altenberg has left observer.
+[21:41:49]	Dr. Werner Altenberg has entered observer.
+[21:41:49]	Dr. Werner Altenberg has left observer.
+[21:41:49]	Dr. Werner Altenberg has entered observer.
+[21:41:53]	Dr. Werner Altenberg has left observer.
+[21:42:10]	Dr. Werner Altenberg used '/flaggive werner v'
+[21:43:43]	DoopieWop[STEAM_0:0:76025496] has connected to the server.
+[21:43:58]	DoopieWop loaded the character #5(Doopie Dev)
+[21:44:00]	Doopie Dev has entered observer.
+[21:44:01]	Snoopi[STEAM_0:0:102201840] has connected to the server.
+[21:44:16]	Doopie Dev has left observer.
+[21:44:17]	Snoopi loaded the character #3(Snoopi)
+[21:44:18]	Snoopi has entered observer.
+[21:44:19]	Doopie Dev has entered observer.
+[21:44:45]	Doopie Dev has left observer.
+[21:44:47]	Doopie Dev has entered observer.
+[21:45:00]	DoopieWop (STEAM_0:0:76025496) has spawned 'Stationary Radio'
+[21:45:09]	Doopie Dev has left observer.
+[21:45:16]	Doopie Dev tried 'Toggle' on item 'Radio'(#28)
+[21:45:18]	Doopie Dev tried 'Toggle' on item 'Stationary Radio'(#38)
+[21:45:19]	Doopie Dev tried 'Freq' on item 'Stationary Radio'(#38)
+[21:45:28]	The_Boss_Eggy[STEAM_0:0:103712993] has connected to the server.
+[21:45:33]	Lanius[STEAM_0:0:211494314] has connected to the server.
+[21:45:37]	Doopie Dev has entered observer.
+[21:45:37]	Doopie Dev has left observer.
+[21:45:53]	Lanius loaded the character #1(Lanius)
+[21:45:55]	Lanius has entered observer.
+[21:46:29]	Lanius has left observer.
+[21:46:40]	Doopie Dev has entered observer.
+[21:46:40]	Doopie Dev has left observer.
+[21:46:44]	DoopieWop (STEAM_0:0:76025496) has spawned 'Stationary Radio'
+[21:46:47]	Doopie Dev tried 'Toggle' on item 'Stationary Radio'(#39)
+[21:46:49]	Doopie Dev tried 'Freq' on item 'Stationary Radio'(#39)
+[21:46:57]	Lanius has entered observer.
+[21:47:01]	Snoopi has left observer.
+[21:47:01]	Snoopi has entered observer.
+[21:47:03]	Snoopi has left observer.
+[21:47:04]	Snoopi has entered observer.
+[21:47:06]	Snoopi has left observer.
+[21:47:07]	Snoopi has entered observer.
+[21:47:08]	Snoopi has left observer.
+[21:47:15]	Lanius has left observer.
+[21:47:15]	Lanius has entered observer.
+[21:47:16]	Lanius has left observer.
+[21:47:16]	Lanius has entered observer.
+[21:47:17]	Lanius has left observer.
+[21:47:17]	Lanius has entered observer.
+[21:47:17]	Lanius has left observer.
+[21:47:18]	Lanius has entered observer.
+[21:47:18]	Lanius has left observer.
+[21:47:19]	Lanius has entered observer.
+[21:47:19]	Lanius has left observer.
+[21:47:20]	Lanius has entered observer.
+[21:47:26]	Lanius has left observer.
+[21:47:26]	Lanius has entered observer.
+[21:47:26]	Lanius has left observer.
+[21:47:27]	Lanius has entered observer.
+[21:47:28]	Snoopi has entered observer.
+[21:47:29]	Snoopi has left observer.
+[21:47:34]	Snoopi has entered observer.
+[21:47:35]	Snoopi has left observer.
+[21:47:35]	Snoopi has entered observer.
+[21:47:36]	Snoopi has left observer.
+[21:47:36]	Snoopi has entered observer.
+[21:47:36]	Snoopi has left observer.
+[21:47:37]	Snoopi has entered observer.
+[21:47:37]	Snoopi has left observer.
+[21:47:39]	Snoopi has entered observer.
+[21:47:40]	Snoopi has left observer.
+[21:47:46]	Snoopi has entered observer.
+[21:47:47]	Snoopi has left observer.
+[21:47:48]	Snoopi has entered observer.
+[21:47:49]	Snoopi has left observer.
+[21:47:50]	Snoopi has entered observer.
+[21:47:50]	Snoopi has left observer.
+[21:47:51]	Snoopi has entered observer.
+[21:47:51]	Snoopi has left observer.
+[21:47:57]	Snoopi has entered observer.
+[21:47:57]	Snoopi has left observer.
+[21:47:57]	The_Boss_Eggy created the character #7(Edmund von Trapp)
+[21:47:58]	Snoopi has entered observer.
+[21:47:59]	The_Boss_Eggy loaded the character #7(Edmund von Trapp)
+[21:47:59]	Snoopi has left observer.
+[21:48:00]	Snoopi has entered observer.
+[21:48:01]	Edmund von Trapp has entered observer.
+[21:48:01]	Snoopi has left observer.
+[21:48:02]	Snoopi has entered observer.
+[21:48:02]	Snoopi has left observer.
+[21:48:02]	Snoopi has entered observer.
+[21:48:03]	Snoopi has left observer.
+[21:48:04]	Snoopi has entered observer.
+[21:48:10]	Snoopi has left observer.
+[21:48:11]	Snoopi has entered observer.
+[21:48:12]	Snoopi has left observer.
+[21:48:12]	Snoopi has entered observer.
+[21:48:13]	Snoopi has left observer.
+[21:48:13]	Snoopi has entered observer.
+[21:48:18]	Snoopi has left observer.
+[21:48:18]	Snoopi has entered observer.
+[21:48:28]	Snoopi has left observer.
+[21:48:30]	Snoopi has entered observer.
+[21:48:36]	Snoopi has left observer.
+[21:48:37]	Snoopi has entered observer.
+[21:48:38]	The_Boss_Eggy created the character #8(Edmund)
+[21:48:40]	The_Boss_Eggy loaded the character #8(Edmund)
+[21:48:41]	Edmund has entered observer.
+[21:48:47]	Doopie Dev's money has changed by 5.
+[21:49:06]	Snoopi's money has changed by 0.
+[21:49:38]	Snoopi has left observer.
+[21:49:46]	Snoopi has entered observer.
+[21:49:46]	Snoopi has left observer.
+[21:49:47]	Snoopi has entered observer.
+[21:49:48]	Snoopi has left observer.
+[21:49:51]	Snoopi has entered observer.
+[21:49:53]	Snoopi has left observer.
+[21:49:54]	Snoopi has entered observer.
+[21:49:54]	Snoopi has left observer.
+[21:49:55]	[OOC] Edmund: what do you need from me snoops
+[21:49:57]	Snoopi has entered observer.
+[21:49:57]	Snoopi has left observer.
+[21:50:02]	[OOC] Snoopi: tp
+[21:50:02]	Snoopi has entered observer.
+[21:50:03]	Snoopi has left observer.
+[21:50:09]	Edmund has left observer.
+[21:50:14]	Snoopi (STEAM_0:0:102201840) has spawned 'Radio'
+[21:50:17]	Edmund tried 'take' on item 'Radio'(#40)
+[21:50:17]	Edmund has picked up 1xRadio.
+[21:50:21]	[IC] Snoopi: 128.0
+[21:50:21]	Lanius has left observer.
+[21:50:22]	Edmund tried 'Toggle' on item 'Radio'(#40)
+[21:50:23]	Edmund tried 'Freq' on item 'Radio'(#40)
+[21:50:39]	[IC] Snoopi: nutRadioToggleVC 
+[21:50:42]	Lanius's money has changed by 0.
+[21:50:52]	Snoopi has entered observer.
+[21:50:59]	Lanius has entered observer.
+[21:51:00]	Lanius has left observer.
+[21:51:01]	Snoopi has left observer.
+[21:51:11]	Snoopi has entered observer.
+[21:51:12]	Snoopi has left observer.
+[21:51:29]	Snoopi has entered observer.
+[21:51:32]	Edmund has entered observer.
+[21:51:32]	Snoopi has left observer.
+[21:51:32]	Edmund has left observer.
+[21:51:34]	Lanius has taken 68 damage from worldspawn, leaving them at 33 health.
+[21:52:00]	Edmund tried 'Toggle' on item 'Radio'(#40)
+[21:52:02]	Edmund tried 'Toggle' on item 'Radio'(#40)
+[21:52:43]	Lanius has entered observer.
+[21:53:00]	Edmund used '/charsetmodel edmund models/humans/suits_07_exg.mdl'
+[21:53:02]	Edmund has entered observer.
+[21:53:03]	Doopie Dev tried 'Toggle' on item 'Stationary Radio'(#39)
+[21:53:08]	Doopie Dev tried 'Toggle' on item 'Radio'(#28)
+[21:53:09]	Edmund has left observer.
+[21:53:12]	Doopie Dev has entered observer.
+[21:53:23]	Edmund has entered observer.
+[21:53:29]	Edmund's money has changed by 5.
+[21:53:29]	Doopie Dev has left observer.
+[21:53:31]	Doopie Dev[STEAM_0:0:76025496] has disconnected from the server.
+[21:53:39]	Edmund tried 'Toggle' on item 'Radio'(#40)
+[21:53:41]	Edmund has left observer.
+[21:53:41]	Edmund has entered observer.
+[21:53:55]	Snoopi's money has changed by 0.
+[21:54:00]	Edmund has accessed vendor Walter Oppler.
+[21:54:19]	Edmund has accessed vendor Walter Oppler.
+[21:54:33]	Edmund has accessed vendor Walter Oppler.
+[21:55:26]	Edmund used '/flaggive edmund QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm'
+[21:55:31]	Lanius's money has changed by 0.
+[21:56:01]	The_Boss_Eggy loaded the character #7(Edmund von Trapp)
+[21:56:03]	Edmund von Trapp has entered observer.
+[21:56:08]	The_Boss_Eggy loaded the character #8(Edmund)
+[21:56:10]	Edmund has taken 45 damage from worldspawn, leaving them at 55 health.
+[21:56:12]	The_Boss_Eggy loaded the character #7(Edmund von Trapp)
+[21:56:14]	Edmund von Trapp has entered observer.
+[21:56:35]	Edmund von Trapp used '/flaggive edmund QWERTYUIOPASDFGHJKLZXCVBNMqwertyuiopasdfghjklzxcvbnm'
+[21:56:46]	Edmund von Trapp has left observer.
+[21:56:48]	Edmund von Trapp has entered observer.
+[21:56:52]	Edmund von Trapp[STEAM_0:0:103712993] has disconnected from the server.
+[21:57:24]	Snoopi has entered observer.
+[21:57:25]	Snoopi has left observer.
+[21:57:25]	Snoopi has entered observer.
+[21:57:26]	Snoopi has left observer.
+[21:57:27]	Snoopi has entered observer.
+[21:57:38]	Lanius has left observer.
+[21:57:38]	Lanius has entered observer.
+[21:57:39]	Lanius has left observer.
+[21:57:39]	Lanius has entered observer.
+[21:57:39]	Lanius has left observer.
+[21:57:40]	Lanius has entered observer.
+[21:57:40]	Lanius has left observer.
+[21:57:41]	Lanius has entered observer.
+[21:58:31]	Lanius has left observer.
+[21:58:36]	Lanius used 'table: 0xf1326388'
+[21:58:41]	Lanius loaded the character #4(Dr. Werner Altenberg)
+[21:58:44]	Snoopi's money has changed by 0.
+[21:58:47]	Lanius loaded the character #1(Lanius)
+[21:59:51]	Lanius has entered observer.
+[21:59:53]	Lanius has left observer.
+[21:59:54]	Lanius has entered observer.
+[21:59:54]	Lanius has left observer.
+[21:59:55]	Lanius has entered observer.
+[21:59:55]	Lanius has left observer.
+[21:59:56]	Lanius has entered observer.
+[21:59:56]	Lanius has left observer.
+[21:59:56]	Lanius has entered observer.
+[22:00:02]	Lanius has left observer.
+[22:00:02]	Lanius has entered observer.
+[22:00:02]	Lanius has left observer.
+[22:00:05]	Lanius has entered observer.
+[22:00:31]	Lanius has left observer.
+[22:00:32]	Lanius has entered observer.
+[22:00:33]	Lanius has left observer.
+[22:00:33]	Lanius has entered observer.
+[22:00:34]	Lanius has left observer.
+[22:00:35]	Lanius has entered observer.
+[22:00:35]	Lanius has left observer.
+[22:00:36]	Lanius has entered observer.
+[22:00:36]	Lanius has left observer.
+[22:00:37]	Lanius has entered observer.
+[22:00:37]	Lanius has left observer.
+[22:00:38]	Lanius has entered observer.
+[22:00:38]	Lanius has left observer.
+[22:00:39]	Lanius has entered observer.
+[22:00:39]	Lanius has left observer.
+[22:00:39]	Lanius has entered observer.
+[22:00:41]	Lanius has left observer.
+[22:00:41]	Lanius has entered observer.
+[22:00:46]	Lanius has left observer.
+[22:00:46]	Lanius has entered observer.
+[22:00:47]	Lanius has left observer.
+[22:00:47]	Lanius has entered observer.
+[22:00:48]	Lanius has left observer.
+[22:00:49]	Lanius has entered observer.
+[22:00:50]	Lanius has left observer.
+[22:00:51]	Lanius has entered observer.
+[22:00:52]	Lanius has left observer.
+[22:00:53]	Lanius has entered observer.
+[22:00:53]	Lanius has left observer.
+[22:00:54]	Lanius has entered observer.
+[22:00:55]	Lanius has left observer.
+[22:00:56]	Lanius has entered observer.
+[22:00:56]	Lanius has left observer.
+[22:00:57]	Lanius has entered observer.
+[22:00:58]	Lanius has left observer.
+[22:00:59]	Lanius has entered observer.
+[22:01:00]	Lanius has left observer.
+[22:01:00]	Lanius has entered observer.
+[22:01:01]	Lanius has left observer.
+[22:01:01]	Lanius has entered observer.
+[22:01:02]	Lanius has left observer.
+[22:01:03]	Lanius has entered observer.
+[22:01:03]	Lanius has left observer.
+[22:01:04]	Lanius has entered observer.
+[22:01:05]	Lanius has left observer.
+[22:01:06]	Lanius has entered observer.
+[22:01:07]	Lanius has left observer.
+[22:01:08]	Lanius has entered observer.
+[22:01:09]	Lanius has left observer.
+[22:01:10]	Lanius has entered observer.
+[22:01:11]	Lanius has left observer.
+[22:01:11]	Lanius has entered observer.
+[22:01:12]	Lanius has left observer.
+[22:01:13]	Lanius has entered observer.
+[22:01:14]	Lanius has left observer.
+[22:01:16]	Lanius has entered observer.
+[22:01:19]	Lanius has left observer.
+[22:01:19]	Lanius has entered observer.
+[22:01:20]	Lanius has left observer.
+[22:01:20]	Lanius has entered observer.
+[22:01:44]	Lanius has left observer.
+[22:01:45]	Lanius has entered observer.
+[22:01:45]	Lanius has left observer.
+[22:01:46]	Lanius has entered observer.
+[22:01:47]	Lanius has left observer.
+[22:01:47]	Lanius has entered observer.
+[22:01:48]	Lanius has left observer.
+[22:01:48]	Lanius has entered observer.
+[22:01:49]	Lanius has left observer.
+[22:01:49]	Lanius has entered observer.
+[22:01:50]	Lanius has left observer.
+[22:01:50]	Lanius has entered observer.
+[22:01:54]	Lanius has left observer.
+[22:01:55]	Lanius has entered observer.
+[22:01:56]	Lanius has left observer.
+[22:01:56]	Lanius has entered observer.
+[22:01:57]	Lanius has left observer.
+[22:01:57]	Lanius has entered observer.
+[22:02:00]	Lanius has left observer.
+[22:02:00]	Lanius has entered observer.
+[22:02:01]	Lanius has left observer.
+[22:02:01]	Lanius has entered observer.
+[22:02:02]	Lanius has left observer.
+[22:02:03]	Lanius has entered observer.
+[22:02:04]	Lanius has left observer.
+[22:02:05]	Lanius has entered observer.
+[22:02:06]	Lanius has left observer.
+[22:02:07]	Lanius has entered observer.
+[22:02:07]	Lanius has left observer.
+[22:02:08]	Lanius has entered observer.
+[22:02:09]	Lanius has left observer.
+[22:02:10]	Lanius has entered observer.
+[22:02:11]	Lanius has left observer.
+[22:02:12]	Lanius has entered observer.
+[22:02:12]	Lanius has left observer.
+[22:02:13]	Lanius has entered observer.
+[22:02:14]	Lanius has left observer.
+[22:02:14]	Lanius has entered observer.
+[22:02:15]	Lanius has left observer.
+[22:02:17]	Lanius has entered observer.
+[22:02:19]	Lanius has left observer.
+[22:02:20]	Lanius has entered observer.
+[22:02:20]	Lanius has left observer.
+[22:02:20]	Lanius has entered observer.
+[22:02:21]	Lanius has left observer.
+[22:02:22]	Lanius has entered observer.
+[22:02:22]	Lanius has left observer.
+[22:02:23]	Lanius has entered observer.
+[22:02:23]	Lanius has left observer.
+[22:02:24]	Lanius has entered observer.
+[22:02:24]	Lanius has left observer.
+[22:02:25]	Lanius has entered observer.
+[22:02:26]	Lanius has left observer.
+[22:02:26]	Lanius has entered observer.
+[22:02:26]	Lanius has left observer.
+[22:02:27]	Lanius has entered observer.
+[22:02:27]	Lanius has left observer.
+[22:02:28]	Lanius has entered observer.
+[22:02:29]	Lanius has left observer.
+[22:02:30]	Lanius has entered observer.
+[22:02:31]	Lanius has left observer.
+[22:02:32]	Lanius has entered observer.
+[22:02:33]	Lanius has left observer.
+[22:02:34]	Lanius has entered observer.
+[22:02:35]	Lanius has left observer.
+[22:02:36]	Lanius has entered observer.
+[22:02:37]	Lanius has left observer.
+[22:02:38]	Lanius has entered observer.
+[22:02:38]	Lanius has left observer.
+[22:02:39]	Lanius has entered observer.
+[22:02:40]	Lanius has left observer.
+[22:02:40]	Lanius has entered observer.
+[22:02:48]	Lanius has left observer.
+[22:02:48]	Lanius has entered observer.
+[22:02:48]	Lanius has left observer.
+[22:02:49]	Lanius has entered observer.
+[22:02:50]	Lanius has left observer.
+[22:02:50]	Lanius has entered observer.
+[22:02:52]	Lanius has left observer.
+[22:02:52]	Lanius has entered observer.
+[22:02:53]	Lanius has left observer.
+[22:02:53]	Lanius has entered observer.
+[22:02:54]	Lanius has left observer.
+[22:02:54]	Lanius has entered observer.
+[22:02:55]	Lanius has left observer.
+[22:02:56]	Lanius has entered observer.
+[22:02:56]	Lanius has left observer.
+[22:02:57]	Lanius has entered observer.
+[22:03:00]	Lanius has left observer.
+[22:03:01]	Lanius has entered observer.
+[22:03:01]	Lanius has left observer.
+[22:03:02]	Lanius has entered observer.
+[22:03:03]	Lanius has left observer.
+[22:03:03]	Lanius has entered observer.
+[22:03:03]	Lanius has left observer.
+[22:03:04]	Lanius has entered observer.
+[22:03:04]	Lanius has left observer.
+[22:03:05]	Lanius has entered observer.
+[22:03:07]	Lanius has left observer.
+[22:03:08]	Lanius has entered observer.
+[22:03:09]	Lanius has left observer.
+[22:03:09]	Lanius has entered observer.
+[22:03:10]	Lanius has left observer.
+[22:03:10]	Lanius has entered observer.
+[22:03:13]	Lanius has left observer.
+[22:03:13]	Lanius has entered observer.
+[22:03:14]	Lanius has left observer.
+[22:03:14]	Lanius has entered observer.
+[22:03:16]	Lanius has left observer.
+[22:03:17]	Lanius has entered observer.
+[22:03:17]	Lanius has left observer.
+[22:03:18]	Lanius has entered observer.
+[22:03:19]	Lanius has left observer.
+[22:03:19]	Lanius has entered observer.
+[22:03:19]	Lanius has left observer.
+[22:03:20]	Lanius has entered observer.
+[22:03:20]	Lanius has left observer.
+[22:03:20]	Lanius has entered observer.
+[22:03:21]	Lanius has left observer.
+[22:03:21]	Lanius has entered observer.
+[22:03:22]	Lanius has left observer.
+[22:03:22]	Lanius has entered observer.
+[22:03:23]	Lanius has left observer.
+[22:03:24]	Lanius has entered observer.
+[22:03:33]	Snoopi's money has changed by 0.
+[22:03:35]	Lanius has left observer.
+[22:03:35]	Lanius has entered observer.
+[22:03:36]	Lanius's money has changed by 0.
+[22:03:38]	Lanius has left observer.
+[22:03:38]	Lanius has entered observer.
+[22:03:39]	Lanius has left observer.
+[22:03:40]	Lanius has entered observer.
+[22:03:40]	Lanius has left observer.
+[22:03:41]	Lanius has entered observer.
+[22:03:41]	Lanius has left observer.
+[22:03:42]	Lanius has entered observer.
+[22:03:42]	Lanius has left observer.
+[22:03:43]	Lanius has entered observer.
+[22:03:44]	Lanius has left observer.
+[22:03:46]	Lanius has entered observer.
+[22:03:49]	Lanius has left observer.
+[22:03:49]	Lanius has entered observer.
+[22:03:51]	Lanius has left observer.
+[22:03:51]	Lanius has entered observer.
+[22:03:52]	Lanius has left observer.
+[22:03:52]	Lanius has entered observer.
+[22:03:53]	Lanius has left observer.
+[22:03:54]	Lanius has entered observer.
+[22:04:03]	Lanius has left observer.
+[22:04:05]	Lanius has entered observer.
+[22:04:14]	Lanius has left observer.
+[22:04:14]	Lanius has entered observer.
+[22:04:16]	Lanius has left observer.
+[22:04:16]	Lanius has entered observer.
+[22:04:17]	Lanius has left observer.
+[22:04:17]	Lanius has entered observer.
+[22:04:18]	Lanius has left observer.
+[22:04:18]	Lanius has entered observer.
+[22:04:19]	Lanius has left observer.
+[22:04:20]	Lanius has entered observer.
+[22:04:20]	Lanius has left observer.
+[22:04:21]	Lanius has entered observer.
+[22:04:30]	Lanius has left observer.
+[22:04:30]	Lanius has entered observer.
+[22:04:31]	Lanius has left observer.
+[22:04:31]	Lanius has entered observer.
+[22:04:31]	Lanius has left observer.
+[22:04:32]	Lanius has entered observer.
+[22:04:33]	Lanius has left observer.
+[22:04:33]	Lanius has entered observer.
+[22:05:04]	Lanius has left observer.
+[22:05:05]	Lanius has entered observer.
+[22:05:05]	Lanius has left observer.
+[22:05:05]	Lanius has entered observer.
+[22:05:06]	Lanius has left observer.
+[22:05:06]	Lanius has entered observer.
+[22:05:09]	Lanius has left observer.
+[22:05:09]	Lanius has entered observer.
+[22:05:21]	Lanius has left observer.
+[22:05:22]	Lanius has entered observer.
+[22:05:22]	Lanius has left observer.
+[22:05:22]	Lanius has entered observer.
+[22:05:23]	Lanius has left observer.
+[22:05:24]	Lanius has entered observer.
+[22:05:24]	Lanius has left observer.
+[22:05:25]	Lanius has entered observer.
+[22:05:25]	Lanius has left observer.
+[22:05:25]	Lanius has entered observer.
+[22:05:26]	Lanius has left observer.
+[22:05:26]	Lanius has entered observer.
+[22:05:27]	Lanius has left observer.
+[22:05:28]	Lanius has entered observer.
+[22:05:29]	Lanius has left observer.
+[22:05:29]	Lanius has entered observer.
+[22:05:29]	Lanius has left observer.
+[22:05:29]	Lanius has entered observer.
+[22:05:31]	Lanius has left observer.
+[22:05:32]	Lanius has entered observer.
+[22:05:49]	Lanius has left observer.
+[22:05:49]	Lanius has entered observer.
+[22:05:50]	Lanius has left observer.
+[22:05:51]	Lanius has entered observer.
+[22:05:52]	Lanius has left observer.
+[22:05:52]	Lanius has entered observer.
+[22:05:53]	Lanius has left observer.
+[22:05:53]	Lanius has entered observer.
+[22:05:54]	Lanius has left observer.
+[22:05:54]	Lanius has entered observer.
+[22:05:55]	Lanius has left observer.
+[22:05:55]	Lanius has entered observer.
+[22:05:56]	Lanius has left observer.
+[22:05:56]	Lanius has entered observer.
+[22:05:58]	Lanius has left observer.
+[22:05:58]	Lanius has entered observer.
+[22:05:59]	Lanius has left observer.
+[22:05:59]	Lanius has entered observer.
+[22:06:00]	Lanius has left observer.
+[22:06:00]	Lanius has entered observer.
+[22:06:01]	Lanius has left observer.
+[22:06:01]	Lanius has entered observer.
+[22:06:02]	Lanius has left observer.
+[22:06:02]	Lanius has entered observer.
+[22:06:03]	Lanius has left observer.
+[22:06:03]	Lanius has entered observer.
+[22:06:04]	Lanius has left observer.
+[22:06:05]	Lanius has entered observer.
+[22:06:13]	Lanius has left observer.
+[22:06:13]	Lanius has entered observer.
+[22:06:14]	Lanius has left observer.
+[22:06:14]	Lanius has entered observer.
+[22:06:15]	Lanius has left observer.
+[22:06:15]	Lanius has entered observer.
+[22:06:16]	Lanius has left observer.
+[22:06:17]	Lanius has entered observer.
+[22:06:18]	Lanius has left observer.
+[22:06:18]	Lanius has entered observer.
+[22:06:20]	Lanius has left observer.
+[22:06:20]	Lanius has entered observer.
+[22:06:21]	Lanius has left observer.
+[22:06:22]	Lanius has entered observer.
+[22:06:23]	Lanius has left observer.
+[22:06:23]	Lanius has entered observer.
+[22:06:23]	Lanius has left observer.
+[22:06:24]	Lanius has entered observer.
+[22:06:25]	Lanius has left observer.
+[22:06:25]	Lanius has entered observer.
+[22:06:27]	Lanius has left observer.
+[22:06:27]	Lanius has entered observer.
+[22:06:29]	Lanius has left observer.
+[22:06:29]	Lanius has entered observer.
+[22:06:30]	Lanius has left observer.
+[22:06:31]	Lanius has entered observer.
+[22:06:32]	Lanius has left observer.
+[22:06:32]	Lanius has entered observer.
+[22:06:34]	Lanius has left observer.
+[22:06:34]	Lanius has entered observer.
+[22:06:38]	Lanius has left observer.
+[22:06:41]	Lanius has entered observer.
+[22:06:51]	Lanius has left observer.
+[22:06:51]	Lanius has entered observer.
+[22:06:52]	Lanius has left observer.
+[22:06:52]	Lanius has entered observer.
+[22:06:55]	Lanius has left observer.
+[22:06:55]	Lanius has entered observer.
+[22:06:56]	Lanius has left observer.
+[22:06:57]	Lanius has entered observer.
+[22:06:59]	Lanius has left observer.
+[22:06:59]	Lanius has entered observer.
+[22:07:00]	Lanius has left observer.
+[22:07:00]	Lanius has entered observer.
+[22:07:01]	Lanius has left observer.
+[22:07:01]	Lanius has entered observer.
+[22:07:03]	Lanius has left observer.
+[22:07:03]	Lanius has entered observer.
+[22:07:11]	Lanius has left observer.
+[22:07:11]	Lanius has entered observer.
+[22:07:12]	Lanius has left observer.
+[22:07:13]	Lanius has entered observer.
+[22:07:16]	Lanius has left observer.
+[22:07:16]	Lanius has entered observer.
+[22:07:18]	Lanius has left observer.
+[22:07:18]	Lanius has entered observer.
+[22:07:20]	Lanius has left observer.
+[22:07:20]	Lanius has entered observer.
+[22:07:22]	Lanius has left observer.
+[22:07:22]	Lanius has entered observer.
+[22:07:23]	Lanius has left observer.
+[22:07:24]	Lanius has entered observer.
+[22:07:25]	Lanius has left observer.
+[22:07:26]	Lanius has entered observer.
+[22:07:27]	Lanius has left observer.
+[22:07:28]	Lanius has entered observer.
+[22:07:29]	Lanius has left observer.
+[22:07:29]	Lanius has entered observer.
+[22:07:30]	Lanius has left observer.
+[22:07:31]	Lanius has entered observer.
+[22:07:32]	Lanius has left observer.
+[22:07:33]	Lanius has entered observer.
+[22:07:34]	Lanius has left observer.
+[22:07:34]	Lanius has entered observer.
+[22:07:35]	Lanius has left observer.
+[22:07:36]	Lanius has entered observer.
+[22:07:37]	Lanius has left observer.
+[22:07:37]	Lanius has entered observer.
+[22:07:39]	Lanius has left observer.
+[22:07:39]	Lanius has entered observer.
+[22:07:41]	Lanius has left observer.
+[22:07:41]	Lanius has entered observer.
+[22:07:42]	Lanius has left observer.
+[22:07:42]	Lanius has entered observer.
+[22:07:43]	Lanius has left observer.
+[22:07:44]	Lanius has entered observer.
+[22:07:45]	Lanius has left observer.
+[22:07:46]	Lanius has entered observer.
+[22:07:51]	Lanius has left observer.
+[22:07:54]	Lanius has entered observer.
+[22:08:05]	Lanius has left observer.
+[22:08:06]	Lanius has entered observer.
+[22:08:07]	Lanius has left observer.
+[22:08:09]	Lanius has taken 32 damage from worldspawn, leaving them at 68 health.
+[22:08:16]	Lanius has entered observer.
+[22:08:19]	Lanius has left observer.
+[22:08:19]	Lanius has entered observer.
+[22:08:20]	Lanius has left observer.
+[22:08:21]	Lanius has entered observer.
+[22:08:21]	Lanius has left observer.
+[22:08:22]	Snoopi's money has changed by 0.
+[22:08:22]	Lanius has entered observer.
+[22:08:23]	Lanius has left observer.
+[22:08:23]	Lanius has entered observer.
+[22:08:24]	Lanius has left observer.
+[22:08:25]	Lanius's money has changed by 0.
+[22:08:26]	Lanius has entered observer.
+[22:08:27]	Lanius has left observer.
+[22:08:27]	Lanius has entered observer.
+[22:08:28]	Lanius has left observer.
+[22:08:29]	Lanius has entered observer.
+[22:08:29]	Lanius has left observer.
+[22:08:30]	Lanius has entered observer.
+[22:08:31]	Lanius has left observer.
+[22:08:32]	Lanius has entered observer.
+[22:08:33]	Lanius has left observer.
+[22:08:33]	Lanius has entered observer.
+[22:08:34]	Lanius has left observer.
+[22:08:34]	Lanius has entered observer.
+[22:08:54]	Lanius has left observer.
+[22:08:55]	Lanius has entered observer.
+[22:09:26]	Lanius has left observer.
+[22:09:27]	Lanius has entered observer.
+[22:09:28]	Lanius has left observer.
+[22:09:29]	Lanius has entered observer.
+[22:09:48]	Lanius has left observer.
+[22:09:48]	Lanius has entered observer.
+[22:09:49]	Lanius has left observer.
+[22:09:50]	Lanius has entered observer.
+[22:09:50]	Lanius has left observer.
+[22:09:51]	Lanius has entered observer.
+[22:09:52]	Lanius has left observer.
+[22:09:52]	Lanius has entered observer.
+[22:09:54]	Lanius has left observer.
+[22:09:55]	Lanius has entered observer.
+[22:09:55]	Lanius has left observer.
+[22:09:56]	Lanius has entered observer.
+[22:09:56]	Lanius has left observer.
+[22:09:56]	Lanius has entered observer.
+[22:09:59]	Lanius has left observer.
+[22:10:00]	Lanius has entered observer.
+[22:10:01]	Lanius has left observer.
+[22:10:02]	Lanius has entered observer.
+[22:10:04]	Lanius has left observer.
+[22:10:05]	Lanius has entered observer.
+[22:10:05]	Lanius has left observer.
+[22:10:06]	Lanius has entered observer.
+[22:10:09]	Lanius has left observer.
+[22:10:10]	Lanius has entered observer.
+[22:10:11]	Lanius has left observer.
+[22:10:12]	Lanius has entered observer.
+[22:11:32]	Lanius has left observer.
+[22:11:32]	Lanius has entered observer.
+[22:11:34]	Lanius has left observer.
+[22:11:34]	Lanius has entered observer.
+[22:11:35]	Lanius has left observer.
+[22:11:35]	Lanius has entered observer.
+[22:11:36]	Lanius has left observer.
+[22:11:37]	Lanius has entered observer.
+[22:11:37]	Lanius has left observer.
+[22:11:38]	Lanius has entered observer.
+[22:11:38]	Lanius has left observer.
+[22:11:39]	Lanius has entered observer.
+[22:11:41]	Lanius has left observer.
+[22:11:41]	Lanius has entered observer.
+[22:11:42]	Lanius has left observer.
+[22:11:42]	Lanius has entered observer.
+[22:11:44]	Lanius has left observer.
+[22:11:46]	Lanius has entered observer.
+[22:11:46]	Lanius has left observer.
+[22:11:47]	Lanius has entered observer.
+[22:11:49]	Lanius has left observer.
+[22:11:49]	Lanius has entered observer.
+[22:11:50]	Lanius has left observer.
+[22:11:50]	Lanius has entered observer.
+[22:11:51]	Lanius has left observer.
+[22:11:52]	Lanius has entered observer.
+[22:11:52]	Lanius has left observer.
+[22:11:54]	Lanius has entered observer.
+[22:11:55]	Lanius has left observer.
+[22:11:56]	Lanius has entered observer.
+[22:11:59]	Lanius has left observer.
+[22:11:59]	Lanius has entered observer.
+[22:11:59]	Lanius has left observer.
+[22:12:00]	Lanius has entered observer.
+[22:12:20]	Lanius has left observer.
+[22:12:20]	Lanius has entered observer.
+[22:12:25]	Lanius has left observer.
+[22:12:26]	Lanius has entered observer.
+[22:12:26]	Lanius has left observer.
+[22:12:27]	Lanius has entered observer.
+[22:12:28]	Lanius has left observer.
+[22:12:29]	Lanius has entered observer.
+[22:12:30]	Lanius has left observer.
+[22:12:30]	Lanius has entered observer.
+[22:12:32]	Lanius has left observer.
+[22:12:33]	Lanius has entered observer.
+[22:12:34]	Lanius has left observer.
+[22:12:35]	Lanius has entered observer.
+[22:12:36]	Lanius has left observer.
+[22:12:37]	Lanius has entered observer.
+[22:12:37]	Lanius has left observer.
+[22:12:38]	Lanius has entered observer.
+[22:12:39]	Lanius has left observer.
+[22:12:40]	Lanius has entered observer.
+[22:12:41]	Lanius has left observer.
+[22:12:42]	Lanius has entered observer.
+[22:12:45]	Lanius has left observer.
+[22:12:49]	Lanius has entered observer.
+[22:13:11]	Snoopi's money has changed by 0.
+[22:13:14]	Lanius's money has changed by 0.
+[22:13:19]	Lanius has left observer.
+[22:13:19]	Lanius has entered observer.
+[22:13:20]	Lanius has left observer.
+[22:13:20]	Lanius has entered observer.
+[22:13:21]	Lanius has left observer.
+[22:13:21]	Lanius has entered observer.
+[22:13:22]	Lanius has left observer.
+[22:13:22]	Lanius has entered observer.
+[22:13:25]	Lanius has left observer.
+[22:13:26]	Lanius has entered observer.
+[22:13:26]	Lanius has left observer.
+[22:13:27]	Lanius has entered observer.
+[22:13:28]	Lanius has left observer.
+[22:13:29]	Lanius has entered observer.
+[22:13:30]	Lanius has left observer.
+[22:13:31]	Lanius has entered observer.
+[22:13:32]	Lanius has left observer.
+[22:13:33]	Lanius has entered observer.
+[22:13:34]	Lanius has left observer.
+[22:13:34]	Lanius has entered observer.
+[22:13:35]	Lanius has left observer.
+[22:13:35]	Lanius has entered observer.
+[22:13:36]	Lanius has left observer.
+[22:13:36]	Lanius has entered observer.
+[22:13:37]	Lanius has left observer.
+[22:13:38]	Lanius has entered observer.
+[22:13:39]	Lanius has left observer.
+[22:13:40]	Lanius has entered observer.
+[22:13:40]	Lanius has left observer.
+[22:13:41]	Lanius has entered observer.
+[22:13:41]	Lanius has left observer.
+[22:13:43]	Lanius has entered observer.
+[22:13:43]	Lanius has left observer.
+[22:13:43]	Lanius has entered observer.
+[22:13:44]	Lanius has left observer.
+[22:13:45]	Lanius has entered observer.
+[22:13:45]	Lanius has left observer.
+[22:13:46]	Lanius has entered observer.
+[22:13:56]	Lanius has left observer.
+[22:13:57]	Lanius has entered observer.
+[22:13:58]	Lanius has left observer.
+[22:13:58]	Lanius has entered observer.
+[22:14:03]	Lanius has left observer.
+[22:14:03]	Lanius has entered observer.
+[22:14:04]	Lanius has left observer.
+[22:14:04]	Lanius has entered observer.
+[22:14:05]	Lanius has left observer.
+[22:14:06]	Lanius has entered observer.
+[22:14:07]	Lanius has left observer.
+[22:14:07]	Lanius has entered observer.
+[22:14:08]	Lanius has left observer.
+[22:14:09]	Lanius has entered observer.
+[22:14:11]	Lanius has left observer.
+[22:14:12]	Lanius has entered observer.
+[22:14:13]	Lanius has left observer.
+[22:14:14]	Lanius has entered observer.
+[22:14:14]	Lanius has left observer.
+[22:14:15]	Lanius has entered observer.
+[22:14:15]	Lanius has left observer.
+[22:14:16]	Lanius has entered observer.
+[22:14:25]	Lanius has left observer.
+[22:14:25]	Lanius has entered observer.
+[22:14:26]	Lanius has left observer.
+[22:14:26]	Lanius has entered observer.
+[22:14:29]	Lanius has left observer.
+[22:14:32]	Lanius has entered observer.
+[22:18:00]	Snoopi's money has changed by 0.
+[22:18:03]	Lanius's money has changed by 0.
+[22:19:05]	Lanius has left observer.
+[22:19:05]	Lanius has entered observer.
+[22:19:06]	Lanius has left observer.
+[22:19:07]	Lanius has entered observer.
+[22:19:08]	Lanius has left observer.
+[22:19:08]	Lanius has entered observer.
+[22:19:09]	Lanius has left observer.
+[22:19:10]	Lanius has entered observer.
+[22:19:14]	Lanius has left observer.
+[22:19:15]	Lanius has entered observer.
+[22:19:30]	Lanius has left observer.
+[22:19:30]	Lanius has entered observer.
+[22:19:31]	Lanius has left observer.
+[22:19:31]	Lanius has entered observer.
+[22:19:32]	Lanius has left observer.
+[22:19:33]	Lanius has entered observer.
+[22:19:35]	Lanius has left observer.
+[22:19:36]	Lanius has entered observer.
+[22:19:37]	Lanius has left observer.
+[22:19:38]	Lanius has entered observer.
+[22:19:45]	Lanius has left observer.
+[22:19:46]	Lanius has entered observer.
+[22:19:46]	Lanius has left observer.
+[22:19:47]	Lanius has entered observer.
+[22:19:48]	Lanius has left observer.
+[22:19:49]	Lanius has entered observer.
+[22:19:50]	Lanius has left observer.
+[22:19:51]	Lanius has entered observer.
+[22:19:52]	Lanius has left observer.
+[22:19:53]	Lanius has entered observer.
+[22:19:55]	Lanius has left observer.
+[22:19:56]	Lanius has entered observer.
+[22:19:58]	Lanius has left observer.
+[22:19:59]	Lanius has entered observer.
+[22:20:00]	Lanius has left observer.
+[22:20:02]	Lanius has entered observer.
+[22:20:03]	Lanius has left observer.
+[22:20:05]	Lanius has entered observer.
+[22:20:07]	Lanius has left observer.
+[22:20:09]	Lanius has entered observer.
+[22:20:10]	Lanius has left observer.
+[22:20:11]	Lanius has entered observer.
+[22:20:17]	Lanius has left observer.
+[22:20:18]	Lanius has entered observer.
+[22:20:18]	Lanius has left observer.
+[22:20:19]	Lanius has entered observer.
+[22:20:19]	Lanius has left observer.
+[22:20:20]	Lanius has entered observer.
+[22:20:20]	Lanius has left observer.
+[22:20:20]	Lanius has entered observer.
+[22:20:23]	Lanius has left observer.
+[22:20:24]	Lanius has entered observer.
+[22:20:25]	Lanius has left observer.
+[22:20:26]	Lanius has entered observer.
+[22:20:31]	Lanius has left observer.
+[22:20:32]	Lanius has entered observer.
+[22:20:33]	Lanius has left observer.
+[22:20:33]	Lanius has entered observer.
+[22:20:34]	Lanius has left observer.
+[22:20:35]	Lanius has entered observer.
+[22:20:38]	Lanius has left observer.
+[22:20:38]	Lanius has entered observer.
+[22:22:28]	Lanius has left observer.
+[22:22:28]	Lanius has entered observer.
+[22:22:29]	Lanius has left observer.
+[22:22:30]	Lanius has entered observer.
+[22:22:31]	Lanius has left observer.
+[22:22:31]	Lanius has entered observer.
+[22:22:33]	Lanius has left observer.
+[22:22:34]	Lanius has entered observer.
+[22:22:35]	Lanius has left observer.
+[22:22:35]	Lanius has entered observer.
+[22:22:36]	Lanius has left observer.
+[22:22:37]	Lanius has entered observer.
+[22:22:40]	Lanius has left observer.
+[22:22:40]	Lanius has entered observer.
+[22:22:41]	Lanius has left observer.
+[22:22:42]	Lanius has entered observer.
+[22:22:46]	Lanius has left observer.
+[22:22:46]	Lanius has entered observer.
+[22:22:47]	Lanius has left observer.
+[22:22:47]	Lanius has entered observer.
+[22:22:48]	Lanius has left observer.
+[22:22:49]	Lanius has entered observer.
+[22:22:49]	Snoopi's money has changed by 0.
+[22:22:49]	Lanius has left observer.
+[22:22:50]	Lanius has entered observer.
+[22:22:52]	Lanius's money has changed by 0.
+[22:22:53]	Lanius has left observer.
+[22:22:54]	Lanius has entered observer.
+[22:22:54]	Lanius has left observer.
+[22:22:55]	Lanius has entered observer.
+[22:22:55]	Lanius has left observer.
+[22:22:56]	Lanius has entered observer.
+[22:23:03]	Lanius has left observer.
+[22:23:11]	Lanius has entered observer.
+[22:23:20]	Lanius has left observer.
+[22:23:20]	Lanius has entered observer.
+[22:23:21]	Lanius has left observer.
+[22:23:22]	Lanius has entered observer.
+[22:23:28]	Lanius has left observer.
+[22:23:28]	Lanius has entered observer.
+[22:23:29]	Lanius has left observer.
+[22:23:30]	Lanius has entered observer.
+[22:23:30]	Lanius has left observer.
+[22:23:31]	Lanius has entered observer.
+[22:23:31]	Lanius has left observer.
+[22:23:32]	Lanius has entered observer.
+[22:23:33]	Lanius has left observer.
+[22:23:33]	Lanius has entered observer.
+[22:23:34]	Lanius has left observer.
+[22:23:35]	Lanius has entered observer.
+[22:23:36]	Lanius has left observer.
+[22:23:37]	Lanius has entered observer.
+[22:23:38]	Lanius has left observer.
+[22:23:38]	Lanius has entered observer.
+[22:23:39]	Lanius has left observer.
+[22:23:39]	Lanius has entered observer.
+[22:23:43]	Lanius has left observer.
+[22:23:44]	Lanius has entered observer.
+[22:23:44]	Lanius has left observer.
+[22:23:46]	Lanius has entered observer.
+[22:24:05]	Lanius has left observer.
+[22:24:05]	Lanius has entered observer.
+[22:24:06]	Lanius has left observer.
+[22:24:07]	Lanius has entered observer.
+[22:24:08]	Lanius has left observer.
+[22:24:08]	Lanius has entered observer.
+[22:24:13]	Lanius has left observer.
+[22:24:17]	Lanius has entered observer.
+[22:24:22]	Lanius has left observer.
+[22:24:23]	Lanius has entered observer.
+[22:24:24]	Lanius has left observer.
+[22:24:25]	Lanius has entered observer.
+[22:24:26]	Lanius has left observer.
+[22:24:27]	Lanius has entered observer.
+[22:24:29]	Lanius has left observer.
+[22:24:29]	Lanius has entered observer.
+[22:24:30]	Lanius has left observer.
+[22:24:31]	Lanius has entered observer.
+[22:24:31]	Lanius has left observer.
+[22:24:32]	Lanius has entered observer.
+[22:24:33]	Lanius has left observer.
+[22:24:34]	Lanius has entered observer.
+[22:24:34]	Lanius has left observer.
+[22:24:35]	Lanius has entered observer.
+[22:24:35]	Lanius has left observer.
+[22:24:36]	Lanius has entered observer.
+[22:24:36]	Lanius has left observer.
+[22:24:37]	Lanius has entered observer.
+[22:24:37]	Lanius has left observer.
+[22:24:38]	Lanius has entered observer.
+[22:24:38]	Lanius has left observer.
+[22:24:39]	Lanius has entered observer.
+[22:24:39]	Lanius has left observer.
+[22:24:40]	Lanius has entered observer.
+[22:24:40]	Lanius has left observer.
+[22:24:40]	Lanius has entered observer.
+[22:24:42]	Lanius has left observer.
+[22:24:42]	Lanius has entered observer.
+[22:24:43]	Lanius has left observer.
+[22:24:43]	Lanius has entered observer.
+[22:24:44]	Lanius has left observer.
+[22:24:44]	Lanius has entered observer.
+[22:24:45]	Lanius has left observer.
+[22:24:46]	Lanius has entered observer.
+[22:24:46]	Lanius has left observer.
+[22:24:47]	Lanius has entered observer.
+[22:24:47]	Lanius has left observer.
+[22:24:47]	Lanius has entered observer.
+[22:24:47]	Lanius has left observer.
+[22:24:48]	Lanius has entered observer.
+[22:24:50]	Lanius has left observer.
+[22:24:51]	Lanius has entered observer.
+[22:24:52]	Lanius has left observer.
+[22:24:52]	Lanius has entered observer.
+[22:25:05]	Lanius has left observer.
+[22:25:05]	Lanius has entered observer.
+[22:25:07]	Lanius has left observer.
+[22:25:07]	Lanius has entered observer.
+[22:25:24]	Lanius has left observer.
+[22:25:24]	Lanius has entered observer.
+[22:25:24]	Lanius has left observer.
+[22:25:25]	Lanius has entered observer.
+[22:25:25]	Lanius has left observer.
+[22:25:26]	Lanius has entered observer.
+[22:25:37]	Lanius has left observer.
+[22:25:38]	Lanius has entered observer.
+[22:25:38]	Lanius has left observer.
+[22:25:38]	Lanius has entered observer.
+[22:25:39]	Lanius has left observer.
+[22:25:39]	Lanius has entered observer.
+[22:25:40]	Lanius has left observer.
+[22:25:40]	Lanius has entered observer.
+[22:25:40]	Lanius has left observer.
+[22:25:41]	Lanius has entered observer.
+[22:25:42]	Lanius has left observer.
+[22:25:42]	Lanius has entered observer.
+[22:25:43]	Lanius has left observer.
+[22:25:44]	Lanius has entered observer.
+[22:25:47]	Lanius has left observer.
+[22:25:47]	Lanius has entered observer.
+[22:25:48]	Lanius has left observer.
+[22:25:48]	Lanius has entered observer.
+[22:25:51]	Lanius has left observer.
+[22:25:51]	Lanius has entered observer.
+[22:25:52]	Lanius has left observer.
+[22:25:52]	Lanius has entered observer.
+[22:25:53]	Lanius has left observer.
+[22:25:54]	Lanius has entered observer.
+[22:25:59]	Lanius has left observer.
+[22:25:59]	Lanius has entered observer.
+[22:26:02]	Lanius has left observer.
+[22:26:02]	Lanius has entered observer.
+[22:26:06]	Lanius has left observer.
+[22:26:06]	Lanius has entered observer.
+[22:26:07]	Lanius has left observer.
+[22:26:07]	Lanius has entered observer.
+[22:26:08]	Lanius has left observer.
+[22:26:08]	Lanius has entered observer.
+[22:26:08]	Lanius has left observer.
+[22:26:09]	Lanius has entered observer.
+[22:26:09]	Lanius has left observer.
+[22:26:10]	Lanius has entered observer.
+[22:26:11]	Lanius has left observer.
+[22:26:11]	Lanius has entered observer.
+[22:26:12]	Lanius has left observer.
+[22:26:13]	Lanius has entered observer.
+[22:26:15]	Lanius has left observer.
+[22:26:18]	Lanius has entered observer.
+[22:26:25]	Lanius has left observer.
+[22:26:26]	Lanius has entered observer.
+[22:26:27]	Lanius has left observer.
+[22:26:27]	Lanius has entered observer.
+[22:26:30]	Lanius has left observer.
+[22:26:30]	Lanius has entered observer.
+[22:26:31]	Lanius has left observer.
+[22:26:32]	Lanius has entered observer.
+[22:26:35]	Lanius has left observer.
+[22:26:35]	Lanius has entered observer.
+[22:26:36]	Lanius has left observer.
+[22:26:36]	Lanius has entered observer.
+[22:26:37]	Lanius has left observer.
+[22:26:38]	Lanius has entered observer.
+[22:26:38]	Lanius has left observer.
+[22:26:39]	Lanius has entered observer.
+[22:26:40]	Lanius has left observer.
+[22:26:40]	Lanius has entered observer.
+[22:26:52]	Lanius has left observer.
+[22:26:52]	Lanius has entered observer.
+[22:26:53]	Lanius has left observer.
+[22:26:53]	Lanius has entered observer.
+[22:26:54]	Lanius has left observer.
+[22:26:55]	Lanius has entered observer.
+[22:26:55]	Lanius has left observer.
+[22:26:56]	Lanius has entered observer.
+[22:26:56]	Lanius has left observer.
+[22:26:57]	Lanius has entered observer.
+[22:26:57]	Lanius has left observer.
+[22:26:58]	Lanius has entered observer.
+[22:26:59]	Lanius has left observer.
+[22:26:59]	Lanius has entered observer.
+[22:27:00]	Lanius has left observer.
+[22:27:00]	Lanius has entered observer.
+[22:27:05]	Lanius has left observer.
+[22:27:06]	Lanius has entered observer.
+[22:27:09]	Lanius has left observer.
+[22:27:10]	Lanius has entered observer.
+[22:27:10]	Lanius has left observer.
+[22:27:11]	Lanius has entered observer.
+[22:27:11]	Lanius has left observer.
+[22:27:11]	Lanius has entered observer.
+[22:27:14]	Lanius has left observer.
+[22:27:15]	Lanius has entered observer.
+[22:27:16]	Lanius has left observer.
+[22:27:16]	Lanius has entered observer.
+[22:27:17]	Lanius has left observer.
+[22:27:17]	Lanius has entered observer.
+[22:27:18]	Lanius has left observer.
+[22:27:18]	Lanius has entered observer.
+[22:27:22]	Lanius has left observer.
+[22:27:23]	Lanius has entered observer.
+[22:27:23]	Lanius has left observer.
+[22:27:23]	Lanius has entered observer.
+[22:27:24]	Lanius has left observer.
+[22:27:24]	Lanius has entered observer.
+[22:27:25]	Lanius has left observer.
+[22:27:26]	Lanius has entered observer.
+[22:27:26]	Lanius has left observer.
+[22:27:26]	Lanius has entered observer.
+[22:27:29]	Lanius has left observer.
+[22:27:29]	Lanius has entered observer.
+[22:27:31]	Lanius has left observer.
+[22:27:31]	Lanius has entered observer.
+[22:27:33]	Lanius has left observer.
+[22:27:34]	Lanius has entered observer.
+[22:27:36]	Lanius has left observer.
+[22:27:37]	Lanius has entered observer.
+[22:27:37]	Lanius has left observer.
+[22:27:38]	Snoopi's money has changed by 0.
+[22:27:38]	Lanius has entered observer.
+[22:27:39]	Lanius has left observer.
+[22:27:40]	Lanius has entered observer.
+[22:27:41]	Lanius has left observer.
+[22:27:41]	Lanius's money has changed by 0.
+[22:27:44]	Lanius has entered observer.
+[22:28:00]	Lanius has left observer.
+[22:28:01]	Lanius has entered observer.
+[22:28:10]	Lanius has left observer.
+[22:28:10]	Lanius has entered observer.
+[22:28:12]	Lanius has left observer.
+[22:28:12]	Lanius has entered observer.
+[22:28:16]	Lanius has left observer.
+[22:28:16]	Lanius has entered observer.
+[22:28:17]	Lanius has left observer.
+[22:28:18]	Lanius has entered observer.
+[22:28:21]	Lanius has left observer.
+[22:28:21]	Lanius has entered observer.
+[22:28:22]	Lanius has left observer.
+[22:28:22]	Lanius has entered observer.
+[22:28:23]	Lanius has left observer.
+[22:28:23]	Lanius has entered observer.
+[22:28:24]	Lanius has left observer.
+[22:28:24]	Lanius has entered observer.
+[22:28:27]	Lanius has left observer.
+[22:28:28]	Lanius has entered observer.
+[22:28:28]	Lanius has left observer.
+[22:28:29]	Lanius has entered observer.
+[22:28:31]	Lanius has left observer.
+[22:28:31]	Lanius has entered observer.
+[22:28:32]	Lanius has left observer.
+[22:28:32]	Lanius has entered observer.
+[22:28:33]	Lanius has left observer.
+[22:28:33]	Lanius has entered observer.
+[22:28:34]	Lanius has left observer.
+[22:28:34]	Lanius has entered observer.
+[22:28:35]	Lanius has left observer.
+[22:28:36]	Lanius has entered observer.
+[22:28:36]	Lanius has left observer.
+[22:28:36]	Lanius has entered observer.
+[22:28:37]	Lanius has left observer.
+[22:28:37]	Lanius has entered observer.
+[22:28:38]	Lanius has left observer.
+[22:28:39]	Lanius has entered observer.
+[22:28:40]	Lanius has left observer.
+[22:28:40]	Lanius has entered observer.
+[22:28:41]	Lanius has left observer.
+[22:28:41]	Lanius has entered observer.
+[22:28:42]	Lanius has left observer.
+[22:28:44]	Lanius has entered observer.
+[22:28:44]	Lanius has left observer.
+[22:28:44]	Lanius has entered observer.
+[22:28:45]	Lanius has left observer.
+[22:28:46]	Lanius has entered observer.
+[22:28:47]	Lanius has left observer.
+[22:28:47]	Lanius has entered observer.
+[22:28:52]	Lanius has left observer.
+[22:28:54]	Lanius has entered observer.
+[22:29:07]	Lanius has left observer.
+[22:29:07]	Lanius has entered observer.
+[22:29:09]	Lanius has left observer.
+[22:29:10]	Lanius has entered observer.
+[22:30:19]	Lanius has left observer.
+[22:30:26]	Lanius has entered observer.
+[22:30:28]	Lanius has left observer.
+[22:30:49]	Lanius has entered observer.
+[22:30:54]	Lanius has left observer.
+[22:30:54]	Lanius has entered observer.
+[22:30:55]	Lanius has left observer.
+[22:30:55]	Lanius has entered observer.
+[22:30:58]	Lanius has left observer.
+[22:30:59]	Lanius has entered observer.
+[22:31:11]	Lanius has left observer.
+[22:31:11]	Lanius has entered observer.
+[22:31:12]	Lanius has left observer.
+[22:31:13]	Lanius has entered observer.
+[22:31:14]	Lanius has left observer.
+[22:31:14]	Lanius has entered observer.
+[22:31:15]	Lanius has left observer.
+[22:31:15]	Lanius has entered observer.
+[22:31:16]	Lanius has left observer.
+[22:31:17]	Lanius has entered observer.
+[22:31:23]	Lanius has left observer.
+[22:31:23]	Lanius has entered observer.
+[22:31:24]	Lanius has left observer.
+[22:31:25]	Lanius has entered observer.
+[22:31:29]	Lanius has left observer.
+[22:31:33]	Lanius has entered observer.
+[22:32:19]	Lanius has left observer.
+[22:32:19]	Lanius has entered observer.
+[22:32:20]	Lanius has left observer.
+[22:32:20]	Lanius has entered observer.
+[22:32:20]	Lanius has left observer.
+[22:32:21]	Lanius has entered observer.
+[22:32:27]	Snoopi's money has changed by 0.
+[22:32:30]	Lanius's money has changed by 0.
+[22:32:47]	Lanius has left observer.
+[22:32:48]	Lanius has entered observer.
+[22:32:49]	Lanius has left observer.
+[22:32:49]	Lanius has entered observer.
+[22:32:49]	Lanius has left observer.
+[22:32:50]	Lanius has entered observer.
+[22:32:50]	Lanius has left observer.
+[22:32:52]	Lanius has entered observer.
+[22:32:53]	Lanius has left observer.
+[22:32:54]	Lanius has entered observer.
+[22:32:55]	Lanius has left observer.
+[22:32:55]	Lanius has entered observer.
+[22:32:56]	Lanius has left observer.
+[22:32:56]	Lanius has entered observer.
+[22:32:57]	Lanius has left observer.
+[22:32:57]	Lanius has entered observer.
+[22:32:58]	Lanius has left observer.
+[22:32:59]	Lanius has entered observer.
+[22:33:00]	Lanius has left observer.
+[22:33:00]	Lanius has entered observer.
+[22:33:02]	Lanius has left observer.
+[22:33:02]	Lanius has entered observer.
+[22:34:02]	Lanius tried 'Toggle' on item 'Radio'(#34)
+[22:35:09]	Lanius has left observer.
+[22:35:10]	Lanius has entered observer.
+[22:35:10]	Lanius has left observer.
+[22:35:11]	Lanius has entered observer.
+[22:35:12]	Lanius has left observer.
+[22:35:12]	Lanius has entered observer.
+[22:35:13]	Lanius has left observer.
+[22:35:13]	Lanius has entered observer.
+[22:35:14]	Lanius has left observer.
+[22:35:15]	Lanius has entered observer.
+[22:35:16]	Lanius has left observer.
+[22:35:17]	Lanius has entered observer.
+[22:35:20]	Lanius has left observer.
+[22:35:22]	Lanius has entered observer.
+[22:35:22]	Lanius has left observer.
+[22:35:23]	Lanius has entered observer.
+[22:35:23]	Lanius has left observer.
+[22:35:32]	Lanius has entered observer.
+[22:36:07]	Lanius has left observer.
+[22:36:07]	Lanius has entered observer.
+[22:36:08]	Lanius has left observer.
+[22:36:08]	Lanius has entered observer.
+[22:36:09]	Lanius has left observer.
+[22:36:09]	Lanius has entered observer.
+[22:36:10]	Lanius has left observer.
+[22:36:10]	Lanius has entered observer.
+[22:36:11]	Lanius has left observer.
+[22:36:12]	Lanius has entered observer.
+[22:36:12]	Lanius has left observer.
+[22:36:13]	Lanius has entered observer.
+[22:36:14]	Lanius has left observer.
+[22:36:14]	Lanius has entered observer.
+[22:36:15]	Lanius has left observer.
+[22:36:15]	Lanius has entered observer.
+[22:36:15]	Lanius has left observer.
+[22:36:16]	Lanius has entered observer.
+[22:36:16]	Lanius has left observer.
+[22:36:16]	Lanius has entered observer.
+[22:36:17]	Lanius has left observer.
+[22:36:18]	Lanius has entered observer.
+[22:36:18]	Lanius has left observer.
+[22:36:19]	Lanius has entered observer.
+[22:36:19]	Lanius has left observer.
+[22:36:20]	Lanius has entered observer.
+[22:36:21]	Lanius has left observer.
+[22:36:23]	Lanius has entered observer.
+[22:36:24]	Lanius has left observer.
+[22:36:24]	Lanius has entered observer.
+[22:36:24]	Lanius has left observer.
+[22:36:25]	Lanius has entered observer.
+[22:36:25]	Lanius has left observer.
+[22:36:26]	Lanius has entered observer.
+[22:36:27]	Lanius has left observer.
+[22:36:27]	Lanius has entered observer.
+[22:36:28]	Lanius has left observer.
+[22:36:28]	Lanius has entered observer.
+[22:36:29]	Lanius has left observer.
+[22:36:29]	Lanius has entered observer.
+[22:36:30]	Lanius has left observer.
+[22:36:30]	Lanius has entered observer.
+[22:36:31]	Lanius has left observer.
+[22:36:31]	Lanius has entered observer.
+[22:36:31]	Lanius has left observer.
+[22:36:32]	Lanius has entered observer.
+[22:36:33]	Lanius has left observer.
+[22:36:33]	Lanius has entered observer.
+[22:36:35]	Lanius has left observer.
+[22:36:35]	Lanius has entered observer.
+[22:36:36]	Lanius has left observer.
+[22:36:36]	Lanius has entered observer.
+[22:36:36]	Lanius has left observer.
+[22:36:37]	Lanius has entered observer.
+[22:36:38]	Lanius has left observer.
+[22:36:39]	Lanius has entered observer.
+[22:36:39]	Lanius has left observer.
+[22:36:40]	Lanius has entered observer.
+[22:36:40]	Lanius has left observer.
+[22:36:41]	Lanius has entered observer.
+[22:36:42]	Lanius has left observer.
+[22:36:42]	Lanius has entered observer.
+[22:36:46]	Lanius has left observer.
+[22:36:47]	Lanius has entered observer.
+[22:36:49]	Lanius has left observer.
+[22:36:49]	Lanius has entered observer.
+[22:36:50]	Lanius has left observer.
+[22:36:50]	Lanius has entered observer.
+[22:36:51]	Lanius has left observer.
+[22:36:51]	Lanius has entered observer.
+[22:36:53]	Lanius has left observer.
+[22:36:53]	Lanius has entered observer.
+[22:36:54]	Lanius has left observer.
+[22:36:55]	Lanius has entered observer.
+[22:36:56]	Lanius has left observer.
+[22:36:58]	Lanius has entered observer.
+[22:37:02]	Lanius has left observer.
+[22:37:08]	Lanius has entered observer.
+[22:37:15]	Lanius has left observer.
+[22:37:16]	Lanius has entered observer.
+[22:37:16]	Snoopi's money has changed by 0.
+[22:37:17]	Lanius has left observer.
+[22:37:19]	Lanius has entered observer.
+[22:37:19]	Lanius's money has changed by 0.
+[22:37:22]	Lanius has left observer.
+[22:37:23]	Lanius has entered observer.
+[22:37:25]	Lanius has left observer.
+[22:37:26]	Lanius has entered observer.
+[22:37:33]	Lanius has left observer.
+[22:37:33]	Lanius has entered observer.
+[22:37:46]	Lanius has left observer.
+[22:37:46]	Lanius has entered observer.
+[22:37:47]	Lanius has left observer.
+[22:37:48]	Lanius has entered observer.
+[22:37:56]	Lanius has left observer.
+[22:37:57]	Lanius has entered observer.
+[22:37:57]	Lanius has left observer.
+[22:37:58]	Lanius has entered observer.
+[22:37:58]	Lanius has left observer.
+[22:37:59]	Lanius has entered observer.
+[22:38:04]	Lanius has left observer.
+[22:38:04]	Lanius has entered observer.
+[22:38:05]	Lanius has left observer.
+[22:38:05]	Lanius has entered observer.
+[22:38:07]	Lanius has left observer.
+[22:38:07]	Lanius has entered observer.
+[22:38:08]	Lanius has left observer.
+[22:38:08]	Lanius has entered observer.
+[22:38:09]	Lanius has left observer.
+[22:38:10]	Lanius has entered observer.
+[22:38:10]	Lanius has left observer.
+[22:38:11]	Lanius has entered observer.
+[22:38:12]	Lanius has left observer.
+[22:38:13]	Lanius has entered observer.
+[22:38:13]	Lanius has left observer.
+[22:38:14]	Lanius has entered observer.
+[22:38:15]	Lanius has left observer.
+[22:38:16]	Lanius has entered observer.
+[22:38:16]	Lanius has left observer.
+[22:38:17]	Lanius has entered observer.
+[22:38:20]	Lanius has left observer.
+[22:38:21]	Lanius has entered observer.
+[22:38:29]	Lanius has left observer.
+[22:38:30]	Lanius has entered observer.
+[22:38:30]	Lanius has left observer.
+[22:38:31]	Lanius has entered observer.
+[22:38:31]	Lanius has left observer.
+[22:38:34]	Lanius has entered observer.
+[22:38:34]	Lanius has left observer.
+[22:39:03]	Lanius has entered observer.
+[22:39:05]	Lanius has left observer.
+[22:39:05]	Lanius has entered observer.
+[22:39:06]	Lanius has left observer.
+[22:39:07]	Lanius has entered observer.
+[22:39:08]	Lanius has left observer.
+[22:39:08]	Lanius has entered observer.
+[22:39:10]	Lanius has left observer.
+[22:39:10]	Lanius has entered observer.
+[22:39:12]	Lanius has left observer.
+[22:39:12]	Lanius has entered observer.
+[22:39:17]	Lanius has left observer.
+[22:39:17]	Lanius has entered observer.
+[22:39:18]	Lanius has left observer.
+[22:39:18]	Lanius has entered observer.
+[22:39:19]	Lanius has left observer.
+[22:39:19]	Lanius has entered observer.
+[22:39:20]	Lanius has left observer.
+[22:39:20]	Lanius has entered observer.
+[22:39:21]	Lanius has left observer.
+[22:39:21]	Lanius has entered observer.
+[22:39:22]	Lanius has left observer.
+[22:39:23]	Lanius has entered observer.
+[22:39:23]	Lanius has left observer.
+[22:39:23]	Lanius has entered observer.
+[22:39:25]	Lanius has left observer.
+[22:39:26]	Lanius has entered observer.
+[22:39:26]	Lanius has left observer.
+[22:39:27]	Lanius has entered observer.
+[22:39:27]	Lanius has left observer.
+[22:39:28]	Lanius has entered observer.
+[22:39:28]	Lanius has left observer.
+[22:39:29]	Lanius has entered observer.
+[22:39:29]	Lanius has left observer.
+[22:39:30]	Lanius has entered observer.
+[22:39:31]	Lanius has left observer.
+[22:39:31]	Lanius has entered observer.
+[22:39:32]	Lanius has left observer.
+[22:39:33]	Lanius has entered observer.
+[22:39:33]	Lanius has left observer.
+[22:39:35]	Lanius has entered observer.
+[22:39:35]	Lanius has left observer.
+[22:39:36]	Lanius has entered observer.
+[22:39:41]	Lanius has left observer.
+[22:39:44]	Lanius has entered observer.
+[22:39:50]	Lanius has left observer.
+[22:39:51]	Lanius has entered observer.
+[22:39:52]	Lanius has left observer.
+[22:39:52]	Lanius has entered observer.
+[22:40:05]	Lanius has left observer.
+[22:40:08]	Lanius has entered observer.
+[22:41:06]	Lanius has left observer.
+[22:41:06]	Lanius has entered observer.
+[22:41:10]	Lanius has left observer.
+[22:41:10]	Lanius has entered observer.
+[22:41:11]	Lanius has left observer.
+[22:41:13]	Lanius has entered observer.
+[22:41:14]	Lanius has left observer.
+[22:41:17]	Lanius has entered observer.
+[22:41:20]	Lanius has left observer.
+[22:41:20]	Lanius has entered observer.
+[22:41:22]	Lanius has left observer.
+[22:41:22]	Lanius has entered observer.
+[22:41:25]	Lanius has left observer.
+[22:41:25]	Lanius has entered observer.
+[22:41:25]	Lanius has left observer.
+[22:41:28]	Lanius has entered observer.
+[22:41:28]	Lanius has left observer.
+[22:41:29]	Lanius has entered observer.
+[22:41:30]	Lanius has left observer.
+[22:41:30]	Lanius has entered observer.
+[22:41:31]	Lanius has left observer.
+[22:41:31]	Lanius has entered observer.
+[22:41:32]	Lanius has left observer.
+[22:41:33]	Lanius has entered observer.
+[22:41:42]	Lanius has left observer.
+[22:41:42]	Lanius has entered observer.
+[22:41:43]	Lanius has left observer.
+[22:41:44]	Lanius has entered observer.
+[22:41:46]	Lanius has left observer.
+[22:41:47]	Lanius has entered observer.
+[22:41:50]	Lanius has left observer.
+[22:41:50]	Lanius has entered observer.
+[22:41:51]	Lanius has left observer.
+[22:41:51]	Lanius has entered observer.
+[22:41:53]	Lanius has left observer.
+[22:41:56]	Lanius has entered observer.
+[22:42:05]	Snoopi's money has changed by 0.
+[22:42:06]	Lanius has left observer.
+[22:42:06]	Lanius has entered observer.
+[22:42:07]	Lanius has left observer.
+[22:42:07]	Lanius has entered observer.
+[22:42:08]	Lanius has left observer.
+[22:42:08]	Lanius's money has changed by 0.
+[22:42:09]	Lanius has entered observer.
+[22:42:09]	Lanius has left observer.
+[22:42:10]	Lanius has entered observer.
+[22:42:10]	Lanius has left observer.
+[22:42:11]	Lanius has entered observer.
+[22:42:12]	Lanius has left observer.
+[22:42:12]	Lanius has entered observer.
+[22:42:14]	Lanius has left observer.
+[22:42:15]	Lanius has entered observer.
+[22:42:16]	Lanius has left observer.
+[22:42:16]	Lanius has entered observer.
+[22:42:19]	Lanius has left observer.
+[22:42:20]	Lanius has entered observer.
+[22:42:21]	Lanius has left observer.
+[22:42:21]	Lanius has entered observer.
+[22:42:27]	Lanius has left observer.
+[22:42:31]	Lanius has entered observer.
+[22:42:49]	Lanius has left observer.
+[22:42:50]	Lanius has entered observer.
+[22:42:50]	Lanius has left observer.
+[22:42:51]	Lanius has entered observer.
+[22:42:52]	Lanius has left observer.
+[22:42:52]	Lanius has entered observer.
+[22:42:52]	Lanius has left observer.
+[22:42:53]	Lanius has entered observer.
+[22:42:55]	Lanius has left observer.
+[22:42:55]	Lanius has entered observer.
+[22:42:57]	Lanius has left observer.
+[22:42:58]	Lanius has entered observer.
+[22:42:58]	Lanius has left observer.
+[22:42:59]	Lanius has entered observer.
+[22:43:00]	Lanius has left observer.
+[22:43:00]	Lanius has entered observer.
+[22:43:01]	Lanius has left observer.
+[22:43:01]	Lanius has entered observer.
+[22:43:02]	Lanius has left observer.
+[22:43:03]	Lanius has entered observer.
+[22:43:03]	Lanius has left observer.
+[22:43:04]	Lanius has entered observer.
+[22:43:05]	Lanius has left observer.
+[22:43:05]	Lanius has entered observer.
+[22:43:06]	Lanius has left observer.
+[22:43:06]	Lanius has entered observer.
+[22:43:12]	Lanius has left observer.
+[22:43:13]	Lanius has entered observer.
+[22:43:13]	Lanius has left observer.
+[22:43:13]	Lanius has entered observer.
+[22:43:14]	Lanius has left observer.
+[22:43:15]	Lanius has entered observer.
+[22:43:15]	Lanius has left observer.
+[22:43:16]	Lanius has entered observer.
+[22:43:16]	Lanius has left observer.
+[22:43:17]	Lanius has entered observer.
+[22:43:22]	Lanius has left observer.
+[22:43:23]	Lanius has entered observer.
+[22:43:24]	Lanius has left observer.
+[22:43:24]	Lanius has entered observer.
+[22:43:40]	Snoopi has left observer.
+[22:43:46]	Snoopi[STEAM_0:0:102201840] has disconnected from the server.
+[22:46:57]	Lanius's money has changed by 0.
+[22:48:26]	Lanius has left observer.
+[22:48:26]	Lanius has entered observer.
+[22:48:27]	Lanius has left observer.
+[22:48:27]	Lanius has entered observer.
+[22:48:27]	Lanius has left observer.
+[22:48:28]	Lanius has entered observer.
+[22:48:28]	Lanius has left observer.
+[22:48:29]	Lanius has entered observer.
+[22:48:31]	Lanius has left observer.
+[22:48:32]	Lanius has entered observer.
+[22:48:36]	Lanius has left observer.
+[22:48:36]	Lanius has entered observer.
+[22:48:37]	Lanius has left observer.
+[22:48:37]	Lanius has entered observer.
+[22:48:38]	Lanius has left observer.
+[22:48:39]	Lanius has entered observer.
+[22:48:40]	Lanius has left observer.
+[22:48:41]	Lanius has entered observer.
+[22:48:42]	Lanius has left observer.
+[22:48:43]	Lanius has entered observer.
+[22:48:45]	Lanius has left observer.
+[22:48:45]	Lanius has entered observer.
+[22:48:48]	Lanius has left observer.
+[22:48:56]	Lanius has entered observer.
+[22:49:20]	Lanius has left observer.
+[22:49:21]	Lanius has entered observer.
+[22:49:22]	Lanius has left observer.
+[22:49:22]	Lanius has entered observer.
+[22:49:23]	Lanius has left observer.
+[22:49:24]	Lanius has entered observer.
+[22:49:25]	Lanius has left observer.
+[22:49:26]	Lanius has entered observer.
+[22:49:27]	Lanius has left observer.
+[22:49:27]	Lanius has entered observer.
+[22:49:28]	Lanius has left observer.
+[22:49:29]	Lanius has entered observer.
+[22:49:30]	Lanius has left observer.
+[22:49:30]	Lanius has entered observer.
+[22:49:31]	Lanius has left observer.
+[22:49:31]	Lanius has entered observer.
+[22:49:31]	Lanius has left observer.
+[22:49:32]	Lanius has entered observer.
+[22:49:32]	Lanius has left observer.
+[22:49:33]	Lanius has entered observer.
+[22:49:33]	Lanius has left observer.
+[22:49:34]	Lanius has entered observer.
+[22:49:34]	Lanius has left observer.
+[22:50:34]	Lanius has entered observer.
+[22:50:48]	Lanius has left observer.
+[22:50:48]	Lanius has entered observer.
+[22:50:50]	Lanius has left observer.
+[22:50:50]	Lanius has entered observer.
+[22:50:51]	Lanius has left observer.
+[22:50:52]	Lanius has entered observer.
+[22:50:52]	Lanius has left observer.
+[22:50:53]	Lanius has entered observer.
+[22:50:55]	Lanius has left observer.
+[22:50:56]	Lanius has entered observer.
+[22:50:57]	Lanius has left observer.
+[22:50:57]	Lanius has entered observer.
+[22:50:59]	Lanius has left observer.
+[22:50:59]	Lanius has entered observer.
+[22:51:04]	Lanius has left observer.
+[22:51:04]	Lanius has entered observer.
+[22:51:06]	Lanius has left observer.
+[22:51:06]	Lanius has entered observer.
+[22:51:07]	Lanius has left observer.
+[22:51:08]	Lanius has entered observer.
+[22:51:09]	Lanius has left observer.
+[22:51:10]	Lanius has entered observer.
+[22:51:11]	Lanius has left observer.
+[22:51:11]	Lanius has entered observer.
+[22:51:12]	Lanius has left observer.
+[22:51:12]	Lanius has entered observer.
+[22:51:31]	Lanius has left observer.
+[22:51:31]	Lanius has entered observer.
+[22:51:42]	Lanius has left observer.
+[22:51:45]	Lanius has entered observer.
+[22:51:45]	Lanius has left observer.
+[22:51:46]	Lanius has entered observer.
+[22:51:46]	Lanius's money has changed by 0.
+[22:51:47]	Lanius has left observer.
+[22:51:48]	Lanius has entered observer.
+[22:52:11]	Lanius has left observer.
+[22:52:11]	Lanius has entered observer.
+[22:52:12]	Lanius has left observer.
+[22:52:13]	Lanius has entered observer.
+[22:52:18]	Lanius has left observer.
+[22:52:19]	Lanius has entered observer.
+[22:52:23]	Lanius has left observer.
+[22:52:24]	Lanius has entered observer.
+[22:52:24]	Lanius has left observer.
+[22:52:25]	Lanius has entered observer.
+[22:52:26]	Lanius has left observer.
+[22:52:27]	Lanius has entered observer.
+[22:52:29]	Lanius has left observer.
+[22:52:31]	Lanius has entered observer.
+[22:56:35]	Lanius's money has changed by 0.
+[23:01:24]	Lanius's money has changed by 0.
+[23:03:21]	Lanius has left observer.
+[23:03:21]	Lanius has entered observer.
+[23:03:22]	Lanius has left observer.
+[23:03:23]	Lanius has entered observer.
+[23:03:24]	Lanius has left observer.
+[23:03:25]	Lanius has entered observer.
+[23:03:25]	Lanius has left observer.
+[23:03:25]	Lanius has entered observer.
+[23:03:27]	Lanius has left observer.
+[23:03:27]	Lanius has entered observer.
+[23:03:28]	Lanius has left observer.
+[23:03:28]	Lanius has entered observer.
+[23:03:29]	Lanius has left observer.
+[23:03:30]	Lanius has entered observer.
+[23:03:30]	Lanius has left observer.
+[23:03:32]	Lanius has entered observer.
+[23:03:34]	Lanius has left observer.
+[23:03:34]	Lanius has entered observer.
+[23:03:34]	Lanius has left observer.
+[23:05:07]	Lanius has entered observer.
+[23:05:16]	Lanius has left observer.
+[23:05:18]	Lanius has entered observer.
+[23:05:59]	Lanius has left observer.
+[23:06:02]	Lanius has entered observer.
+[23:06:13]	Lanius's money has changed by 0.
+[23:06:20]	Lanius has left observer.
+[23:06:20]	Lanius has entered observer.
+[23:06:21]	Lanius has left observer.
+[23:06:22]	Lanius has entered observer.
+[23:06:22]	Lanius has left observer.
+[23:06:23]	Lanius has entered observer.
+[23:06:23]	Lanius has left observer.
+[23:06:24]	Lanius has entered observer.
+[23:07:13]	Lanius has left observer.
+[23:07:14]	Lanius has entered observer.
+[23:07:15]	Lanius has left observer.
+[23:07:21]	Lanius has entered observer.
+[23:07:25]	Lanius has left observer.
+[23:11:02]	Lanius's money has changed by 0.
+[23:15:10]	Lanius has entered observer.
+[23:15:16]	Lanius has left observer.
+[23:15:17]	Lanius has entered observer.
+[23:15:17]	Lanius has left observer.
+[23:15:17]	Lanius has entered observer.
+[23:15:18]	Lanius has left observer.
+[23:15:18]	Lanius has entered observer.
+[23:15:19]	Lanius has left observer.
+[23:15:21]	Lanius has entered observer.
+[23:15:22]	Lanius has left observer.
+[23:15:22]	Lanius has entered observer.
+[23:15:23]	Lanius has left observer.
+[23:15:24]	Lanius has entered observer.
+[23:15:26]	Lanius has left observer.
+[23:15:26]	Lanius has entered observer.
+[23:15:28]	Lanius has left observer.
+[23:15:29]	Lanius has entered observer.
+[23:15:30]	Lanius has left observer.
+[23:15:30]	Lanius has entered observer.
+[23:15:32]	Lanius has left observer.
+[23:15:32]	Lanius has entered observer.
+[23:15:33]	Lanius has left observer.
+[23:15:34]	Lanius has entered observer.
+[23:15:35]	Lanius has left observer.
+[23:15:35]	Lanius has entered observer.
+[23:15:36]	Lanius has left observer.
+[23:15:36]	Lanius has entered observer.
+[23:15:37]	Lanius has left observer.
+[23:15:37]	Lanius has entered observer.
+[23:15:38]	Lanius has left observer.
+[23:15:38]	Lanius has entered observer.
+[23:15:39]	Lanius has left observer.
+[23:15:40]	Lanius has entered observer.
+[23:15:41]	Lanius has left observer.
+[23:15:41]	Lanius has entered observer.
+[23:15:41]	Lanius has left observer.
+[23:15:42]	Lanius has entered observer.
+[23:15:44]	Lanius has left observer.
+[23:15:44]	Lanius has entered observer.
+[23:15:45]	Lanius has left observer.
+[23:15:46]	Lanius has entered observer.
+[23:15:46]	Lanius has left observer.
+[23:15:46]	Lanius has entered observer.
+[23:15:47]	Lanius has left observer.
+[23:15:47]	Lanius has entered observer.
+[23:15:48]	Lanius has left observer.
+[23:15:49]	Lanius has entered observer.
+[23:15:50]	Lanius has left observer.
+[23:15:50]	Lanius has entered observer.
+[23:15:51]	Lanius's money has changed by 0.
+[23:15:53]	Lanius has left observer.
+[23:15:53]	Lanius has entered observer.
+[23:16:21]	Lanius has left observer.
+[23:16:21]	Lanius has entered observer.
+[23:16:22]	Lanius has left observer.
+[23:16:22]	Lanius has entered observer.
+[23:16:23]	Lanius has left observer.
+[23:16:24]	Lanius has entered observer.
+[23:16:26]	Lanius has left observer.
+[23:16:26]	Lanius has entered observer.
+[23:16:27]	Lanius has left observer.
+[23:16:35]	Lanius has entered observer.
+[23:16:49]	Lanius has left observer.
+[23:17:03]	Lanius has entered observer.
+[23:17:06]	Lanius has left observer.
+[23:17:08]	Lanius has entered observer.
+[23:17:16]	Lanius has left observer.
+[23:17:20]	Lanius has entered observer.
+[23:17:23]	Lanius has left observer.
+[23:17:29]	Lanius has entered observer.
+[23:17:31]	Lanius has left observer.
+[23:17:35]	Lanius has entered observer.
+[23:17:35]	Lanius has left observer.
+[23:17:40]	Lanius has entered observer.
+[23:17:40]	Lanius has left observer.
+[23:17:41]	Lanius has entered observer.
+[23:17:42]	Lanius has left observer.
+[23:17:46]	Lanius has entered observer.
+[23:17:48]	Lanius has left observer.
+[23:17:52]	Lanius has entered observer.
+[23:17:55]	Lanius has left observer.
+[23:17:56]	Lanius has entered observer.
+[23:17:57]	Lanius has left observer.
+[23:17:58]	Lanius has entered observer.
+[23:17:58]	Lanius has left observer.
+[23:18:01]	Lanius has entered observer.
+[23:18:09]	Lanius has left observer.
+[23:18:13]	Lanius has entered observer.
+[23:18:16]	Lanius has left observer.
+[23:18:19]	Lanius has entered observer.
+[23:18:22]	Lanius has left observer.
+[23:18:27]	Lanius has entered observer.
+[23:18:35]	Lanius has left observer.
+[23:19:47]	Lanius has entered observer.
+[23:19:52]	Lanius has left observer.
+[23:19:53]	Lanius has entered observer.
+[23:19:53]	Lanius has left observer.
+[23:19:54]	Lanius has entered observer.
+[23:19:55]	Lanius has left observer.
+[23:19:56]	Lanius has entered observer.
+[23:19:56]	Lanius has left observer.
+[23:19:57]	Lanius has entered observer.
+[23:19:57]	Lanius has left observer.
+[23:19:58]	Lanius has entered observer.
+[23:19:58]	Lanius has left observer.
+[23:19:59]	Lanius has entered observer.
+[23:20:00]	Lanius has left observer.
+[23:20:00]	Lanius has entered observer.
+[23:20:01]	Lanius has left observer.
+[23:20:02]	Lanius has entered observer.
+[23:20:07]	Lanius has left observer.
+[23:20:08]	Lanius has entered observer.
+[23:20:09]	Lanius has left observer.
+[23:20:09]	Lanius has entered observer.
+[23:20:10]	Lanius has left observer.
+[23:20:11]	Lanius has entered observer.
+[23:20:11]	Lanius has left observer.
+[23:20:12]	Lanius has entered observer.
+[23:20:12]	Lanius has left observer.
+[23:20:13]	Lanius has entered observer.
+[23:20:14]	Lanius has left observer.
+[23:20:14]	Lanius has entered observer.
+[23:20:15]	Lanius has left observer.
+[23:20:15]	Lanius has entered observer.
+[23:20:16]	Lanius has left observer.
+[23:20:16]	Lanius has entered observer.
+[23:20:17]	Lanius has left observer.
+[23:20:18]	Lanius has entered observer.
+[23:20:19]	Lanius has left observer.
+[23:20:19]	Lanius has entered observer.
+[23:20:20]	Lanius has left observer.
+[23:20:20]	Lanius has entered observer.
+[23:20:21]	Lanius has left observer.
+[23:20:22]	Lanius has entered observer.
+[23:20:23]	Lanius has left observer.
+[23:20:34]	Lanius has entered observer.
+[23:20:35]	Lanius has left observer.
+[23:20:37]	Lanius has entered observer.
+[23:20:40]	Lanius's money has changed by 0.
+[23:20:51]	Lanius has left observer.
+[23:20:51]	Lanius has entered observer.
+[23:20:52]	Lanius has left observer.
+[23:20:53]	Lanius has entered observer.
+[23:20:53]	Lanius has left observer.
+[23:20:53]	Lanius has entered observer.
+[23:20:54]	Lanius has left observer.
+[23:20:55]	Lanius has entered observer.
+[23:20:55]	Lanius has left observer.
+[23:20:56]	Lanius has entered observer.
+[23:20:56]	Lanius has left observer.
+[23:20:57]	Lanius has entered observer.
+[23:20:57]	Lanius has left observer.
+[23:20:58]	Lanius has entered observer.
+[23:20:58]	Lanius has left observer.
+[23:21:05]	Lanius has entered observer.
+[23:21:15]	Lanius has left observer.
+[23:21:16]	Lanius has entered observer.
+[23:21:26]	Lanius has left observer.
+[23:21:26]	Lanius has entered observer.
+[23:21:28]	Lanius has left observer.
+[23:21:29]	Lanius has entered observer.
+[23:21:29]	Lanius has left observer.
+[23:21:29]	Lanius has entered observer.
+[23:21:30]	Lanius has left observer.
+[23:21:52]	Lanius has entered observer.
+[23:25:29]	Lanius's money has changed by 0.
+[23:30:18]	Lanius's money has changed by 0.
+[23:35:07]	Lanius's money has changed by 0.
+[23:39:56]	Lanius's money has changed by 0.
+[23:40:22]	Lanius created the character #9(Führer und Reichskanzler Adolf Hitler)
+[23:40:23]	Lanius loaded the character #9(Führer und Reichskanzler Adolf Hitler)
+[23:40:37]	Führer und Reichskanzler Adolf Hitler used '/plytransfer adolf nat'
+[23:40:48]	Führer und Reichskanzler Adolf Hitler used '/charsetmodel adolf models/not_brot/fuhrer/hilter.mdl'
+[23:42:26]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[23:42:29]	Führer und Reichskanzler Adolf Hitler has left observer.
+[23:42:34]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[23:42:37]	Führer und Reichskanzler Adolf Hitler has left observer.
+[23:42:48]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[23:42:49]	Führer und Reichskanzler Adolf Hitler has left observer.
+[23:42:50]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[23:42:58]	Lanius loaded the character #1(Lanius)
+[23:42:59]	Lanius has entered observer.
+[23:43:33]	Lanius used 'table: 0xf1326388'
+[23:43:55]	Lanius has left observer.
+[23:44:17]	Lanius has accessed vendor John Doe.
+[23:47:47]	Lanius's money has changed by 0.
+[23:48:00]	Lanius has accessed vendor Allgemeine-SS Vendor.
+[23:48:08]	Lanius has accessed vendor Allgemeine-SS Vendor.
+[23:48:15]	Lanius has entered observer.
+[23:48:37]	Lanius has left observer.
+[23:48:38]	Lanius has entered observer.
+[23:50:34]	Lanius has left observer.
+[23:50:35]	Lanius has entered observer.
+[23:50:35]	Lanius has left observer.
+[23:50:36]	Lanius has entered observer.
+[23:50:37]	Lanius has left observer.
+[23:50:38]	Lanius has entered observer.
+[23:50:43]	Lanius has left observer.
+[23:50:44]	Lanius has entered observer.
+[23:50:45]	Lanius has left observer.
+[23:51:11]	Lanius has entered observer.
+[23:52:36]	Lanius's money has changed by 0.
+[23:57:25]	Lanius's money has changed by 0.
+[23:59:58]	Lanius has left observer.
+[23:59:58]	Lanius has entered observer.
+[23:59:59]	Lanius has left observer.

@@ -1,0 +1,9 @@
+ITEM.name = "Coca Leaves"
+ITEM.model = "models/hts/ww2ns/props/cob/cob_crate_produce_01.mdl"
+ITEM.category = "Cocaine"
+ITEM.desc = "A Crate Of Coca Leaves, used for crafting."
+ITEM.noBusiness = true
+ITEM.uniqueID = "leaves"
+ITEM.price = 0.36
+ITEM.width = 1
+ITEM.weight = 1

@@ -1,0 +1,9 @@
+ITEM.name = "Cocaine"
+ITEM.model = "models/gdrugs/cocaine/cocaine.mdl"
+ITEM.category = "Cocaine"
+ITEM.desc = " 'My name is Antonio Montana!' "
+ITEM.noBusiness = true
+ITEM.uniqueID = "cocaine"
+ITEM.price = 4.55
+ITEM.width = 3
+ITEM.height = 3

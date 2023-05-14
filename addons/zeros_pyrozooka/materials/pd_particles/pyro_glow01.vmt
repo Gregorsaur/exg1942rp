@@ -1,0 +1,7 @@
+"SpriteCard"
+{
+	"$basetexture" "pd_particles/pyro_glow01"
+	"$additive" "1"
+	"$vertexcolor" 1
+	"$vertexalpha" "1"
+}

@@ -1,0 +1,1 @@
+{"everyone":{"ranks":{"management":true,"silvervip":true,"superadmin":true,"bronzevip":true,"juniormoderator":true,"goldvip":true,"moderator":true,"admin":true,"user":true},"name":"everyone","jobs":[],"needBoth":false},"donator":{"needBoth":false,"jobs":[],"name":"donator","ranks":{"bronzevip":true,"superadmin":true,"goldvip":true}}}

@@ -1,0 +1,9 @@
+ITEM.name = "Rolling Paper"
+ITEM.model = "models/props_interiors/paper_tray.mdl"
+ITEM.category = "Cigarettes"
+ITEM.desc = "Rolling paper used for Cigarettes."
+ITEM.noBusiness = true
+ITEM.uniqueID = "rollingpaper"
+ITEM.price = 0.36
+ITEM.width = 1
+ITEM.weight = 1

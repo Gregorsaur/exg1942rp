@@ -1,0 +1,9 @@
+ITEM.name = "Dried Poppy"
+ITEM.model = "models/gdrugs/cocaine/cocaine.mdl"
+ITEM.category = "Heroin"
+ITEM.desc = "A Dry Brick Of Poppy."
+ITEM.noBusiness = true
+ITEM.uniqueID = "drypoppy"
+ITEM.price = 4.25
+ITEM.width = 4
+ITEM.height = 4

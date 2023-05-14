@@ -1,0 +1,9 @@
+ITEM.name = "Barrel Of Moonshine"
+ITEM.model = "models/farmtools_winebarrel_01/farmtools_winebarrel_01.mdl"
+ITEM.category = "Moonshine"
+ITEM.desc = "An acoholic beverage."
+ITEM.noBusiness = true
+ITEM.uniqueID = "moonshinebarrel"
+ITEM.price = 350
+ITEM.width = 5
+ITEM.height = 5

@@ -1,0 +1,9 @@
+ITEM.name = "Tomato"
+ITEM.model = "models/props_junk/cardboard_box004a.mdl"
+ITEM.category = "Healthcure"
+ITEM.desc = "A Tomato."
+ITEM.noBusiness = true
+ITEM.uniqueID = "tomato"
+ITEM.price = 4.25
+ITEM.width = 1
+ITEM.height = 1

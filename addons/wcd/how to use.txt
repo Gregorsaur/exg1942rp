@@ -1,0 +1,26 @@
+# William's Car Dealer
+## website: www.busan1.com/cardealer/
+
+## install instructions:
+```
+	place folder into addons/wcd/
+	configure ingame using !wcd
+```
+
+## how to update:
+```
+	replace addons/wcd/ with the new folder
+```
+
+## how to migrate server:
+```
+	vehicles, settings etc are saved in garrysmod/data/wcd/
+	owned vehicles are saved either in garrysmod/sv.db or in MySQL(if configured)
+```
+
+## settings that require editing in files:
+```
+	server/wcd_storage.lua contains MySQL details (if used)
+	wcd_settings.lua for rank customization restrictions (no table editing ingame)
+	server/wcd_disable_phystool.lua for physgun/toolgun restrictions
+```

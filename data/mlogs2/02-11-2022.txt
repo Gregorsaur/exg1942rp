@@ -1,0 +1,87 @@
+              __                        ___ 
+   ____ ___  / /   ____  ____ ______   |__ \
+  / __  __ \/ /   / __ \/ __  / ___/   __/ /
+ / / / / / / /___/ /_/ / /_/ (__  )   / __/ 
+/_/ /_/ /_/_____/\____/\__, /____/   /____/ 
+                      /____/                
+
+============================================
+           Logs for: 02-11-2022
+============================================
+
+[01:38:24] Lanius ( STEAM_0:0:211494314 ) ( Staff on Duty (NOT RP) ) ( H:100 ) ( A:0 ) ( nut_keys ) ( 142.79.76.149 ) disconnected from the server
+[02:35:23] The_Boss_Eggy ( STEAM_0:0:103712993 ) ( Joining/Connecting ) ( H:0 ) ( A:0 ) ( 207.47.221.91 ) connected to the server
+[02:35:54] Gauleiter Edmund von Trapp ( STEAM_0:0:103712993 ) ( The_Boss_Eggy ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( 207.47.221.91 ) picked up a weapon ( nut_hands )
+[02:35:54] Gauleiter Edmund von Trapp ( STEAM_0:0:103712993 ) ( The_Boss_Eggy ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( nut_hands ) ( 207.47.221.91 ) picked up a #GMOD_ToolGun ( gmod_tool )
+[02:35:54] Gauleiter Edmund von Trapp ( STEAM_0:0:103712993 ) ( The_Boss_Eggy ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( nut_hands ) ( 207.47.221.91 ) picked up a weapon ( weapon_physgun )
+[02:35:54] Gauleiter Edmund von Trapp ( STEAM_0:0:103712993 ) ( The_Boss_Eggy ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( nut_hands ) ( 207.47.221.91 ) picked up a weapon ( nut_keys )
+[02:35:54] Gauleiter Edmund von Trapp ( STEAM_0:0:103712993 ) ( The_Boss_Eggy ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( 207.47.221.91 ) picked up a weapon ( nut_hands )
+[02:35:54] Gauleiter Edmund von Trapp ( STEAM_0:0:103712993 ) ( The_Boss_Eggy ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( nut_hands ) ( 207.47.221.91 ) picked up a #GMOD_ToolGun ( gmod_tool )
+[02:35:54] Gauleiter Edmund von Trapp ( STEAM_0:0:103712993 ) ( The_Boss_Eggy ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( nut_hands ) ( 207.47.221.91 ) picked up a weapon ( weapon_physgun )
+[02:35:54] Gauleiter Edmund von Trapp ( STEAM_0:0:103712993 ) ( The_Boss_Eggy ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( nut_hands ) ( 207.47.221.91 ) picked up a weapon ( nut_keys )
+[02:36:04] Gauleiter Edmund von Trapp ( STEAM_0:0:103712993 ) ( The_Boss_Eggy ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( nut_hands ) ( 207.47.221.91 ) : /medals
+[02:37:30] Gauleiter Edmund von Trapp ( STEAM_0:0:103712993 ) ( The_Boss_Eggy ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( nut_hands ) ( 207.47.221.91 ) disconnected from the server
+[10:48:09] Popcorn ( STEAM_0:1:228059237 ) ( Joining/Connecting ) ( H:0 ) ( A:0 ) ( 217.80.220.104 ) connected to the server
+[10:50:30] Dr. Bartholomew Holzhauser ( STEAM_0:1:228059237 ) ( Popcorn ) ( Citizens of Berlin ) ( H:100 ) ( A:0 ) ( 217.80.220.104 ) picked up a weapon ( nut_hands )
+[10:50:30] Dr. Bartholomew Holzhauser ( STEAM_0:1:228059237 ) ( Popcorn ) ( Citizens of Berlin ) ( H:100 ) ( A:0 ) ( nut_hands ) ( 217.80.220.104 ) picked up a weapon ( nut_keys )
+[10:50:30] Dr. Bartholomew Holzhauser ( STEAM_0:1:228059237 ) ( Popcorn ) ( Citizens of Berlin ) ( H:100 ) ( A:0 ) ( 217.80.220.104 ) picked up a weapon ( nut_hands )
+[10:50:30] Dr. Bartholomew Holzhauser ( STEAM_0:1:228059237 ) ( Popcorn ) ( Citizens of Berlin ) ( H:100 ) ( A:0 ) ( nut_hands ) ( 217.80.220.104 ) picked up a weapon ( nut_keys )
+[10:50:49] Dr. Bartholomew Holzhauser ( STEAM_0:1:228059237 ) ( Popcorn ) ( Citizens of Berlin ) ( H:100 ) ( A:0 ) ( nut_hands ) ( 217.80.220.104 ) : !admin
+[10:50:51] Dr. Bartholomew Holzhauser ( STEAM_0:1:228059237 ) ( Popcorn ) ( Citizens of Berlin ) ( H:100 ) ( A:0 ) ( nut_hands ) ( 217.80.220.104 ) : !unadmin
+[10:50:53] Dr. Bartholomew Holzhauser ( STEAM_0:1:228059237 ) ( Popcorn ) ( Citizens of Berlin ) ( H:100 ) ( A:0 ) ( nut_hands ) ( 217.80.220.104 ) : s
+[10:54:56] Dr. Bartholomew Holzhauser ( STEAM_0:1:228059237 ) ( Popcorn ) ( Citizens of Berlin ) ( H:100 ) ( A:0 ) ( nut_keys ) ( 217.80.220.104 ) : /charsetmodel dr models/players/bishop3_02.mdl
+[10:55:44] Dr. Bartholomew Holzhauser ( STEAM_0:1:228059237 ) ( Popcorn ) ( Citizens of Berlin ) ( H:100 ) ( A:0 ) ( nut_keys ) ( 217.80.220.104 ) : /charsetname ^ Reichsbischof Dr. Bartholomew Holzhauser
+[10:55:47] Reichsbischof Dr. Bartholomew Holzhauser ( STEAM_0:1:228059237 ) ( Popcorn ) ( Citizens of Berlin ) ( H:100 ) ( A:0 ) ( nut_keys ) ( 217.80.220.104 ) : /heil
+[10:55:50] Reichsbischof Dr. Bartholomew Holzhauser ( STEAM_0:1:228059237 ) ( Popcorn ) ( Citizens of Berlin ) ( H:100 ) ( A:0 ) ( nut_keys ) ( 217.80.220.104 ) : /hitlerheil
+[10:56:16] Reichsbischof Dr. Bartholomew Holzhauser ( STEAM_0:1:228059237 ) ( Popcorn ) ( Citizens of Berlin ) ( H:100 ) ( A:0 ) ( nut_keys ) ( 217.80.220.104 ) : /charsetmodel ^ models/humans/group01/priest_08.mdl
+[10:58:41] Reichsbischof Dr. Bartholomew Holzhauser ( STEAM_0:1:228059237 ) ( Popcorn ) ( Citizens of Berlin ) ( H:100 ) ( A:0 ) ( nut_keys ) ( 217.80.220.104 ) : /charsetmodel ^ models/not_brot/pm0v3/deutsche_beamten/post_1940/double_breasted_blue/pg1_double_breasted_blue_05/deutsche_beamten_pay_group_1_05.mdl
+[10:59:41] Reichsbischof Dr. Bartholomew Holzhauser ( STEAM_0:1:228059237 ) ( Popcorn ) ( Citizens of Berlin ) ( H:100 ) ( A:0 ) ( nut_keys ) ( 217.80.220.104 ) : !admin
+[11:04:21] Reichsbischof Dr. Bartholomew Holzhauser ( STEAM_0:1:228059237 ) ( Popcorn ) ( Citizens of Berlin ) ( H:100 ) ( A:0 ) ( nut_keys ) ( 217.80.220.104 ) : /plytransfer ^ nsdap
+[11:05:21] Reichsbischof Dr. Bartholomew Holzhauser ( STEAM_0:1:228059237 ) ( Popcorn ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( nut_keys ) ( 217.80.220.104 ) : /charsetmodel ^ models/princeminusa/suits/male_08_open_waistcoat.mdl
+[11:05:34] Reichsbischof Dr. Bartholomew Holzhauser ( STEAM_0:1:228059237 ) ( Popcorn ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( nut_keys ) ( 217.80.220.104 ) : !unadmin
+[12:18:40] Reichsbischof Dr. Bartholomew Holzhauser ( STEAM_0:1:228059237 ) ( Popcorn ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( nut_keys ) ( 217.80.220.104 ) disconnected from the server
+[20:53:52] The_Boss_Eggy ( STEAM_0:0:103712993 ) ( Joining/Connecting ) ( H:0 ) ( A:0 ) ( 207.47.221.91 ) connected to the server
+[20:55:37] Gauleiter Edmund von Trapp ( STEAM_0:0:103712993 ) ( The_Boss_Eggy ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( 207.47.221.91 ) picked up a weapon ( nut_hands )
+[20:55:37] Gauleiter Edmund von Trapp ( STEAM_0:0:103712993 ) ( The_Boss_Eggy ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( nut_hands ) ( 207.47.221.91 ) picked up a #GMOD_ToolGun ( gmod_tool )
+[20:55:37] Gauleiter Edmund von Trapp ( STEAM_0:0:103712993 ) ( The_Boss_Eggy ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( nut_hands ) ( 207.47.221.91 ) picked up a weapon ( weapon_physgun )
+[20:55:37] Gauleiter Edmund von Trapp ( STEAM_0:0:103712993 ) ( The_Boss_Eggy ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( nut_hands ) ( 207.47.221.91 ) picked up a weapon ( nut_keys )
+[20:55:37] Gauleiter Edmund von Trapp ( STEAM_0:0:103712993 ) ( The_Boss_Eggy ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( 207.47.221.91 ) picked up a weapon ( nut_hands )
+[20:55:37] Gauleiter Edmund von Trapp ( STEAM_0:0:103712993 ) ( The_Boss_Eggy ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( nut_hands ) ( 207.47.221.91 ) picked up a #GMOD_ToolGun ( gmod_tool )
+[20:55:37] Gauleiter Edmund von Trapp ( STEAM_0:0:103712993 ) ( The_Boss_Eggy ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( nut_hands ) ( 207.47.221.91 ) picked up a weapon ( weapon_physgun )
+[20:55:37] Gauleiter Edmund von Trapp ( STEAM_0:0:103712993 ) ( The_Boss_Eggy ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( nut_hands ) ( 207.47.221.91 ) picked up a weapon ( nut_keys )
+[20:57:52] Gauleiter Edmund von Trapp ( STEAM_0:0:103712993 ) ( The_Boss_Eggy ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( weapon_physgun ) ( 207.47.221.91 ) : /medalgive edmund blacksun
+[21:00:14] Gauleiter Edmund von Trapp ( STEAM_0:0:103712993 ) ( The_Boss_Eggy ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( weapon_physgun ) ( 207.47.221.91 ) : /medalgive edmund pour_le
+[21:00:17] Gauleiter Edmund von Trapp ( STEAM_0:0:103712993 ) ( The_Boss_Eggy ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( weapon_physgun ) ( 207.47.221.91 ) : /medals
+[21:01:27] Gauleiter Edmund von Trapp ( STEAM_0:0:103712993 ) ( The_Boss_Eggy ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( nut_keys ) ( 207.47.221.91 ) : /medalgive edmund goldenparty
+[21:01:51] Gauleiter Edmund von Trapp ( STEAM_0:0:103712993 ) ( The_Boss_Eggy ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( nut_keys ) ( 207.47.221.91 ) : /medalgive edmund war_merit_gold_swords
+[21:01:55] Gauleiter Edmund von Trapp ( STEAM_0:0:103712993 ) ( The_Boss_Eggy ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( nut_keys ) ( 207.47.221.91 ) : /medals
+[21:02:29] Gauleiter Edmund von Trapp ( STEAM_0:0:103712993 ) ( The_Boss_Eggy ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( nut_keys ) ( 207.47.221.91 ) : /medalgive edmund blood_order
+[21:02:39] Gauleiter Edmund von Trapp ( STEAM_0:0:103712993 ) ( The_Boss_Eggy ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( nut_keys ) ( 207.47.221.91 ) : /medalgive edmund german_order
+[21:02:44] Gauleiter Edmund von Trapp ( STEAM_0:0:103712993 ) ( The_Boss_Eggy ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( nut_keys ) ( 207.47.221.91 ) : /medals
+[21:34:18] Gauleiter Edmund von Trapp ( STEAM_0:0:103712993 ) ( The_Boss_Eggy ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( nut_keys ) ( 207.47.221.91 ) disconnected from the server
+[22:18:25] Lanius ( STEAM_0:0:211494314 ) ( Joining/Connecting ) ( H:0 ) ( A:0 ) ( 142.79.76.149 ) connected to the server
+[22:18:52] Lanius ( STEAM_0:0:211494314 ) ( Staff on Duty (NOT RP) ) ( H:100 ) ( A:0 ) ( 142.79.76.149 ) picked up a weapon ( nut_hands )
+[22:18:52] Lanius ( STEAM_0:0:211494314 ) ( Staff on Duty (NOT RP) ) ( H:100 ) ( A:0 ) ( nut_hands ) ( 142.79.76.149 ) picked up a weapon ( weapon_physgun )
+[22:18:52] Lanius ( STEAM_0:0:211494314 ) ( Staff on Duty (NOT RP) ) ( H:100 ) ( A:0 ) ( nut_hands ) ( 142.79.76.149 ) picked up a #GMOD_ToolGun ( gmod_tool )
+[22:18:52] Lanius ( STEAM_0:0:211494314 ) ( Staff on Duty (NOT RP) ) ( H:100 ) ( A:0 ) ( nut_hands ) ( 142.79.76.149 ) picked up a weapon ( nut_keys )
+[22:18:52] Lanius ( STEAM_0:0:211494314 ) ( Staff on Duty (NOT RP) ) ( H:100 ) ( A:0 ) ( 142.79.76.149 ) picked up a weapon ( nut_hands )
+[22:18:52] Lanius ( STEAM_0:0:211494314 ) ( Staff on Duty (NOT RP) ) ( H:100 ) ( A:0 ) ( nut_hands ) ( 142.79.76.149 ) picked up a weapon ( weapon_physgun )
+[22:18:52] Lanius ( STEAM_0:0:211494314 ) ( Staff on Duty (NOT RP) ) ( H:100 ) ( A:0 ) ( nut_hands ) ( 142.79.76.149 ) picked up a #GMOD_ToolGun ( gmod_tool )
+[22:18:52] Lanius ( STEAM_0:0:211494314 ) ( Staff on Duty (NOT RP) ) ( H:100 ) ( A:0 ) ( nut_hands ) ( 142.79.76.149 ) picked up a weapon ( nut_keys )
+[22:18:53] The world damaged Lanius ( STEAM_0:0:211494314 ) ( Staff on Duty (NOT RP) ) ( H:100 ) ( A:0 ) ( nut_hands ) ( 142.79.76.149 ) for 13 damage
+[22:21:00] Führer und Reichskanzler Adolf Hitler ( STEAM_0:0:211494314 ) ( Lanius ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( 142.79.76.149 ) picked up a weapon ( nut_hands )
+[22:21:00] Führer und Reichskanzler Adolf Hitler ( STEAM_0:0:211494314 ) ( Lanius ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( nut_hands ) ( 142.79.76.149 ) picked up a #GMOD_ToolGun ( gmod_tool )
+[22:21:00] Führer und Reichskanzler Adolf Hitler ( STEAM_0:0:211494314 ) ( Lanius ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( nut_hands ) ( 142.79.76.149 ) picked up a weapon ( weapon_physgun )
+[22:21:00] Führer und Reichskanzler Adolf Hitler ( STEAM_0:0:211494314 ) ( Lanius ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( nut_hands ) ( 142.79.76.149 ) picked up a weapon ( nut_keys )
+[22:21:00] Führer und Reichskanzler Adolf Hitler ( STEAM_0:0:211494314 ) ( Lanius ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( 142.79.76.149 ) picked up a weapon ( nut_hands )
+[22:21:00] Führer und Reichskanzler Adolf Hitler ( STEAM_0:0:211494314 ) ( Lanius ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( nut_hands ) ( 142.79.76.149 ) picked up a #GMOD_ToolGun ( gmod_tool )
+[22:21:00] Führer und Reichskanzler Adolf Hitler ( STEAM_0:0:211494314 ) ( Lanius ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( nut_hands ) ( 142.79.76.149 ) picked up a weapon ( weapon_physgun )
+[22:21:00] Führer und Reichskanzler Adolf Hitler ( STEAM_0:0:211494314 ) ( Lanius ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( nut_hands ) ( 142.79.76.149 ) picked up a weapon ( nut_keys )
+[22:21:41] Führer und Reichskanzler Adolf Hitler ( STEAM_0:0:211494314 ) ( Lanius ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( nut_hands ) ( 142.79.76.149 ) spawned a Bodygroup Closet ( nut_bodygroupcloset ) ( models/props_wasteland/controlroom_storagecloset001a.mdl )
+[22:21:42] Führer und Reichskanzler Adolf Hitler ( STEAM_0:0:211494314 ) ( Lanius ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( nut_hands ) ( 142.79.76.149 ) spawned a Bodygroup Closet ( nut_bodygroupcloset ) ( models/props_wasteland/controlroom_storagecloset001a.mdl )
+[22:23:31] Führer und Reichskanzler Adolf Hitler ( STEAM_0:0:211494314 ) ( Lanius ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( nut_hands ) ( 142.79.76.149 ) : /heil
+[22:23:32] Führer und Reichskanzler Adolf Hitler ( STEAM_0:0:211494314 ) ( Lanius ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( nut_hands ) ( 142.79.76.149 ) : Heil Hitler!
+[22:23:37] Führer und Reichskanzler Adolf Hitler ( STEAM_0:0:211494314 ) ( Lanius ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( nut_hands ) ( 142.79.76.149 ) : /hitlerheil
+[22:23:37] Führer und Reichskanzler Adolf Hitler ( STEAM_0:0:211494314 ) ( Lanius ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( nut_hands ) ( 142.79.76.149 ) : Heil.
+[22:38:15] Führer und Reichskanzler Adolf Hitler ( STEAM_0:0:211494314 ) ( Lanius ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( nut_keys ) ( 142.79.76.149 ) : /medals
+[22:38:22] Führer und Reichskanzler Adolf Hitler ( STEAM_0:0:211494314 ) ( Lanius ) ( Nationalsozialistische Deutsche Arbeiterpartei ) ( H:100 ) ( A:0 ) ( gmod_tool ) ( 142.79.76.149 ) used rb655_easy_bodygroup

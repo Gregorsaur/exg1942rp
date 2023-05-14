@@ -1,0 +1,9 @@
+ITEM.name = "Cigarette Carton"
+ITEM.model = "models/hourofvictory/hitler_office_cigar.mdl"
+ITEM.category = "Cigarettes"
+ITEM.desc = "40 Premium Cigarettes."
+ITEM.noBusiness = true
+ITEM.uniqueID = "cigcarton"
+ITEM.price = 0.36
+ITEM.width = 1
+ITEM.weight = 1

@@ -1,0 +1,9 @@
+ITEM.name = "Bucket Of Soil"
+ITEM.model = "models/props/CS_militia/paintbucket01.mdl"
+ITEM.category = "Healthcure"
+ITEM.desc = "A Bucket Of Planting Soil."
+ITEM.noBusiness = true
+ITEM.uniqueID = "soil"
+ITEM.price = 4.25
+ITEM.width = 1
+ITEM.height = 1

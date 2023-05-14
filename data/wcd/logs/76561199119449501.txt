@@ -1,0 +1,60 @@
+20:39:03 - 05/11/2022:
+ REFUNDED for vehicle 945796 = $500
+
+20:39:03 - 05/11/2022:
+ REFUNDED for vehicle 740401 = $7,200
+
+20:39:03 - 05/11/2022:
+ REFUNDED for vehicle 726743 = $39,550
+
+20:39:03 - 05/11/2022:
+ REFUNDED for vehicle 454797 = $350
+
+20:39:03 - 05/11/2022:
+ REFUNDED for vehicle 912409 = $56,750
+
+20:39:03 - 05/11/2022:
+ REFUNDED for vehicle 543944 = $5,500
+
+20:39:03 - 05/11/2022:
+ REFUNDED for vehicle 475543 = $250
+
+20:39:03 - 05/11/2022:
+ REFUNDED for vehicle 703268 = $250
+
+20:39:03 - 05/11/2022:
+ REFUNDED for vehicle 180818 = $24,655
+
+20:39:03 - 05/11/2022:
+ REFUNDED for vehicle 149871 = $16,995
+
+05:11:13 - 29/10/2022:
+BOUGHT vehicle '945796' for $500.
+
+03:45:08 - 29/10/2022:
+BOUGHT vehicle '740401' for $7,200.
+
+03:39:23 - 29/10/2022:
+BOUGHT vehicle '475543' for $250.
+
+02:44:40 - 29/10/2022:
+BOUGHT vehicle '703268' for $250.
+
+22:08:42 - 28/10/2022:
+BOUGHT vehicle '454797' for $350.
+
+20:14:06 - 28/10/2022:
+BOUGHT vehicle '543944' for $5,500.
+
+20:13:41 - 28/10/2022:
+BOUGHT vehicle '149871' for $16,995.
+
+20:13:39 - 28/10/2022:
+BOUGHT vehicle '726743' for $39,550.
+
+19:58:41 - 28/10/2022:
+BOUGHT vehicle '180818' for $24,655.
+
+19:58:37 - 28/10/2022:
+BOUGHT vehicle '912409' for $56,750.
+

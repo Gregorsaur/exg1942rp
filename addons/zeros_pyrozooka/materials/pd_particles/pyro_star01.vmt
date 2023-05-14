@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "pd_particles/pyro_star01"
+	"$additive" "1"
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+}

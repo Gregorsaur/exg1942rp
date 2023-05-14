@@ -1,0 +1,12 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"			"zerochain/pyrozooka/pyrozooka_main_diff"
+	
+	"$bumpMap"				"zerochain/pyrozooka/pyrozooka_main_nrm"
+	"$normalmapalphaenvmapmask" "1"
+	
+	"$surfaceprop" "metal"
+	"$model" 1
+
+
+}

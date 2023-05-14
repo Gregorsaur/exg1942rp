@@ -1,0 +1,229 @@
+[00:04:15]	Lanius's money has changed by 0.
+[00:09:04]	Lanius's money has changed by 0.
+[00:13:53]	Lanius's money has changed by 0.
+[00:18:42]	Lanius's money has changed by 0.
+[00:23:31]	Lanius's money has changed by 0.
+[00:28:20]	Lanius's money has changed by 0.
+[00:33:09]	Lanius's money has changed by 0.
+[00:37:58]	Lanius's money has changed by 0.
+[00:42:47]	Lanius's money has changed by 0.
+[00:47:36]	Lanius's money has changed by 0.
+[00:52:25]	Lanius's money has changed by 0.
+[00:57:14]	Lanius's money has changed by 0.
+[01:02:03]	Lanius's money has changed by 0.
+[01:06:52]	Lanius's money has changed by 0.
+[01:11:41]	Lanius's money has changed by 0.
+[01:16:30]	Lanius's money has changed by 0.
+[01:21:19]	Lanius's money has changed by 0.
+[01:26:08]	Lanius's money has changed by 0.
+[01:30:57]	Lanius's money has changed by 0.
+[01:35:46]	Lanius's money has changed by 0.
+[01:38:24]	Lanius[STEAM_0:0:211494314] has disconnected from the server.
+[02:35:23]	The_Boss_Eggy[STEAM_0:0:103712993] has connected to the server.
+[02:35:54]	The_Boss_Eggy loaded the character #7(Gauleiter Edmund von Trapp)
+[02:36:04]	Gauleiter Edmund von Trapp used '/medals'
+[02:37:30]	Gauleiter Edmund von Trapp[STEAM_0:0:103712993] has disconnected from the server.
+[10:48:09]	Popcorn[STEAM_0:1:228059237] has connected to the server.
+[10:50:28]	Popcorn created the character #24(Dr. Bartholomew Holzhauser)
+[10:50:30]	Popcorn loaded the character #24(Dr. Bartholomew Holzhauser)
+[10:50:53]	[IC] Dr. Bartholomew Holzhauser: s
+[10:54:56]	Dr. Bartholomew Holzhauser used '/charsetmodel dr models/players/bishop3_02.mdl'
+[10:55:19]	Dr. Bartholomew Holzhauser's money has changed by 5.
+[10:55:44]	Reichsbischof Dr. Bartholomew Holzhauser used '/charsetname ^ Reichsbischof Dr. Bartholomew Holzhauser'
+[10:55:47]	Reichsbischof Dr. Bartholomew Holzhauser used '/heil'
+[10:55:50]	Reichsbischof Dr. Bartholomew Holzhauser used '/hitlerheil'
+[10:56:16]	Reichsbischof Dr. Bartholomew Holzhauser used '/charsetmodel ^ models/humans/group01/priest_08.mdl'
+[10:58:41]	Reichsbischof Dr. Bartholomew Holzhauser used '/charsetmodel ^ models/not_brot/pm0v3/deutsche_beamten/post_1940/double_breasted_blue/pg1_double_breasted_blue_05/deutsche_beamten_pay_group_1_05.mdl'
+[11:00:08]	Reichsbischof Dr. Bartholomew Holzhauser's money has changed by 5.
+[11:04:21]	Reichsbischof Dr. Bartholomew Holzhauser used '/plytransfer ^ nsdap'
+[11:04:57]	Reichsbischof Dr. Bartholomew Holzhauser's money has changed by 5.
+[11:05:21]	Reichsbischof Dr. Bartholomew Holzhauser used '/charsetmodel ^ models/princeminusa/suits/male_08_open_waistcoat.mdl'
+[11:09:46]	Reichsbischof Dr. Bartholomew Holzhauser's money has changed by 5.
+[11:14:35]	Reichsbischof Dr. Bartholomew Holzhauser's money has changed by 5.
+[11:19:24]	Reichsbischof Dr. Bartholomew Holzhauser's money has changed by 5.
+[11:24:13]	Reichsbischof Dr. Bartholomew Holzhauser's money has changed by 5.
+[11:29:02]	Reichsbischof Dr. Bartholomew Holzhauser's money has changed by 5.
+[11:33:51]	Reichsbischof Dr. Bartholomew Holzhauser's money has changed by 5.
+[11:38:40]	Reichsbischof Dr. Bartholomew Holzhauser's money has changed by 5.
+[11:43:29]	Reichsbischof Dr. Bartholomew Holzhauser's money has changed by 5.
+[11:48:18]	Reichsbischof Dr. Bartholomew Holzhauser's money has changed by 5.
+[11:53:07]	Reichsbischof Dr. Bartholomew Holzhauser's money has changed by 5.
+[11:56:34]	Reichsbischof Dr. Bartholomew Holzhauser used 'table: 0xf1300710'
+[11:57:56]	Reichsbischof Dr. Bartholomew Holzhauser's money has changed by 5.
+[12:02:20]	Reichsbischof Dr. Bartholomew Holzhauser used 'table: 0xf1300710'
+[12:02:45]	Reichsbischof Dr. Bartholomew Holzhauser's money has changed by 5.
+[12:07:34]	Reichsbischof Dr. Bartholomew Holzhauser's money has changed by 5.
+[12:08:46]	Reichsbischof Dr. Bartholomew Holzhauser used 'table: 0xf1300710'
+[12:09:55]	Reichsbischof Dr. Bartholomew Holzhauser used 'table: 0xf1300710'
+[12:12:23]	Reichsbischof Dr. Bartholomew Holzhauser's money has changed by 5.
+[12:17:12]	Reichsbischof Dr. Bartholomew Holzhauser's money has changed by 5.
+[12:18:40]	Reichsbischof Dr. Bartholomew Holzhauser[STEAM_0:1:228059237] has disconnected from the server.
+[20:53:52]	The_Boss_Eggy[STEAM_0:0:103712993] has connected to the server.
+[20:55:37]	The_Boss_Eggy loaded the character #7(Gauleiter Edmund von Trapp)
+[20:57:52]	Gauleiter Edmund von Trapp used '/medalgive edmund blacksun'
+[21:00:14]	Gauleiter Edmund von Trapp used '/medalgive edmund pour_le'
+[21:00:17]	Gauleiter Edmund von Trapp used '/medals'
+[21:00:25]	Gauleiter Edmund von Trapp's money has changed by 75.
+[21:01:27]	Gauleiter Edmund von Trapp used '/medalgive edmund goldenparty'
+[21:01:51]	Gauleiter Edmund von Trapp used '/medalgive edmund war_merit_gold_swords'
+[21:01:55]	Gauleiter Edmund von Trapp used '/medals'
+[21:02:29]	Gauleiter Edmund von Trapp used '/medalgive edmund blood_order'
+[21:02:39]	Gauleiter Edmund von Trapp used '/medalgive edmund german_order'
+[21:02:44]	Gauleiter Edmund von Trapp used '/medals'
+[21:05:14]	Gauleiter Edmund von Trapp's money has changed by 75.
+[21:10:03]	Gauleiter Edmund von Trapp's money has changed by 75.
+[21:14:52]	Gauleiter Edmund von Trapp's money has changed by 75.
+[21:19:41]	Gauleiter Edmund von Trapp's money has changed by 75.
+[21:24:30]	Gauleiter Edmund von Trapp's money has changed by 75.
+[21:29:19]	Gauleiter Edmund von Trapp's money has changed by 75.
+[21:34:08]	Gauleiter Edmund von Trapp's money has changed by 75.
+[21:34:18]	Gauleiter Edmund von Trapp[STEAM_0:0:103712993] has disconnected from the server.
+[22:18:25]	Lanius[STEAM_0:0:211494314] has connected to the server.
+[22:18:52]	Lanius loaded the character #1(Lanius)
+[22:18:53]	Lanius has taken 13 damage from worldspawn, leaving them at 88 health.
+[22:18:54]	Lanius has entered observer.
+[22:18:56]	Lanius has left observer.
+[22:18:56]	Lanius has entered observer.
+[22:18:58]	Lanius has left observer.
+[22:18:58]	Lanius has entered observer.
+[22:20:55]	Lanius has left observer.
+[22:21:00]	Lanius loaded the character #9(Führer und Reichskanzler Adolf Hitler)
+[22:21:01]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:21:08]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:23:31]	Führer und Reichskanzler Adolf Hitler used '/heil'
+[22:23:32]	[IC] Führer und Reichskanzler Adolf Hitler: Heil Hitler!
+[22:23:37]	Führer und Reichskanzler Adolf Hitler used '/hitlerheil'
+[22:23:37]	[IC] Führer und Reichskanzler Adolf Hitler: Heil.
+[22:23:59]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:24:21]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:24:22]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:25:48]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[22:30:37]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[22:35:26]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[22:37:59]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:38:07]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:38:08]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:38:15]	Führer und Reichskanzler Adolf Hitler used '/medals'
+[22:39:20]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:39:23]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:39:24]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:39:25]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:39:26]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:39:26]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:39:27]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:39:27]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:39:28]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:39:28]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:39:31]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:39:33]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:39:34]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:39:35]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:39:35]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:40:03]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:40:05]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:40:06]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:40:06]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:40:09]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:40:15]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[22:42:54]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:42:57]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:42:58]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:42:58]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:42:59]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:43:04]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:43:04]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:43:06]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:43:07]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:43:07]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:43:08]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:43:08]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:43:09]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:43:10]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:43:10]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:43:11]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:43:12]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:43:12]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:43:12]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:43:13]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:43:13]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:43:13]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:43:14]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:43:14]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:43:15]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:43:15]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:43:16]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:43:16]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:43:17]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:43:17]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:43:18]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:43:18]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:43:18]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:43:18]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:43:19]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:43:20]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:43:20]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:43:20]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:43:21]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:43:21]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:43:21]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:43:22]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:43:22]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:43:22]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:43:23]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:43:23]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:43:23]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:43:24]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:43:24]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:43:24]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:43:25]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:43:25]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:43:37]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:43:40]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:43:41]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:43:42]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:43:42]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:43:43]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:43:44]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:43:45]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:43:46]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:43:47]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:43:48]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:43:49]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:43:50]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:43:50]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:43:52]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:43:52]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:43:53]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:45:04]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[22:45:06]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:45:06]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:45:07]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:45:08]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:45:09]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:45:09]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:45:20]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:45:20]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:45:21]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:45:21]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:45:21]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:45:22]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:45:22]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:45:23]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:45:25]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:45:28]	Führer und Reichskanzler Adolf Hitler has entered observer.
+[22:49:53]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[22:52:55]	Führer und Reichskanzler Adolf Hitler has left observer.
+[22:54:42]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[22:59:31]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[23:04:20]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[23:09:09]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[23:13:58]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[23:18:47]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[23:23:36]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[23:28:25]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[23:33:14]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[23:38:03]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[23:42:52]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[23:47:41]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[23:52:30]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.
+[23:57:19]	Führer und Reichskanzler Adolf Hitler's money has changed by 75.

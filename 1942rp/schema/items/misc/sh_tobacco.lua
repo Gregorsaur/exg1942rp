@@ -1,0 +1,9 @@
+ITEM.name = "Tobacco"
+ITEM.model = "models/props_junk/garbage_bag001a.mdl"
+ITEM.category = "Cigarettes"
+ITEM.desc = "A Bag of Tobacco."
+ITEM.noBusiness = true
+ITEM.uniqueID = "tobacco"
+ITEM.price = 0.36
+ITEM.width = 1
+ITEM.weight = 1

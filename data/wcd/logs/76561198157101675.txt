@@ -1,0 +1,30 @@
+20:28:33 - 05/11/2022:
+ REFUNDED for vehicle 475543 = $250
+
+20:28:33 - 05/11/2022:
+ REFUNDED for vehicle 945796 = $500
+
+20:28:33 - 05/11/2022:
+ REFUNDED for vehicle 440344 = $500
+
+20:28:33 - 05/11/2022:
+ REFUNDED for vehicle 518421 = $250
+
+20:28:33 - 05/11/2022:
+ REFUNDED for vehicle 425676 = $1,500
+
+17:49:26 - 28/10/2022:
+BOUGHT vehicle '475543' for $250.
+
+17:49:24 - 28/10/2022:
+BOUGHT vehicle '518421' for $250.
+
+17:49:21 - 28/10/2022:
+BOUGHT vehicle '425676' for $1,500.
+
+17:49:00 - 28/10/2022:
+BOUGHT vehicle '440344' for $500.
+
+17:10:52 - 28/10/2022:
+BOUGHT vehicle '945796' for $500.
+
