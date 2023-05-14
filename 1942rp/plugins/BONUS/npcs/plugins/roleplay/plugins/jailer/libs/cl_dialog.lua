@@ -1,0 +1,16 @@
+net.Receive("jailer_npc", function()
+    talkablenpcs.dialog("Jail Guard", "models/odessa.mdl", "Jailer", "NYPD Police", function(ply)
+        talkablenpcs.dialogframe("Jail Guard", "models/odessa.mdl", "Jailer", "NYPD Police")
+        talkablenpcs.dialogtext("What are you looking to do?")
+
+        talkablenpcs.dialogbutton("Release a Player", 40, function()
+            vgui.Create("release_player_menu")
+            self:Remove()
+        end)
+
+        talkablenpcs.dialogbutton("Arrest a Player", 40, function()
+            vgui.Create("arrest_player_menu")
+            self:Remove()
+        end)
+    end)
+end)

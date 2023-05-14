@@ -1,0 +1,5 @@
+net.Receive("waypoint_start_drug", function()
+    local name = net.ReadString()
+    local location = net.ReadVector()
+    LocalPlayer():SetWeighPoint(name, location)
+end)

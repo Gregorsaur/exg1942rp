@@ -1,0 +1,22 @@
+net.Receive("banker", function()
+    local client = LocalPlayer()
+
+    talkablenpcs.dialog("Paul Allen", "models/breen.mdl", "Bank of America", "Bank Manager", function(ply)
+        talkablenpcs.dialogframe("Paul Allen", "models/breen.mdl", "Bank of America", "Bank Manager")
+        talkablenpcs.dialogtext("What are you looking to do?")
+
+        talkablenpcs.dialogbutton("Look at my Banking Options", 40, function()
+            net.Start("open_bank")
+            net.WriteEntity(client)
+            net.SendToServer()
+            self:Remove()
+        end)
+
+        talkablenpcs.dialogbutton("Collect My Salary", 40, function()
+            net.Start("collect_paycheck")
+            net.WriteEntity(client)
+            net.SendToServer()
+            self:Remove()
+        end)
+    end)
+end)
