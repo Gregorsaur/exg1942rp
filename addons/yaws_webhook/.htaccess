@@ -1,6 +1,0 @@
-Options -Indexes
-
-# This just ensures the Authorization header doesn't get wiped
-RewriteEngine On
-RewriteCond %{HTTP:Authorization} ^(.*)
-RewriteRule .* - [e=HTTP_AUTHORIZATION:%1]

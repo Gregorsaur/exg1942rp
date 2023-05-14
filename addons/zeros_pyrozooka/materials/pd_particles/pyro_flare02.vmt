@@ -1,6 +1,0 @@
-"UnlitGeneric"
-{
-	"$basetexture" "pd_particles/pyro_flare02"
-	"$additive" "1"
-	"$vertexcolor" 1
-}

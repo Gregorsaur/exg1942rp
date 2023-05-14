@@ -1,7 +1,0 @@
-"VertexLitGeneric"
-{
-	"$baseTexture"			"zerochain/pyrozooka/pyrozooka_metal_diff_lod02"
- 
-	"$surfaceprop" "metal"
-	"$model" 1
-}
